@@ -1,53 +1,82 @@
-Rewrite project of UtaMacross mobile game. 
+# UMO 한국어판
 
-**Current version : 1.1.16**
+UMO 한국어판은 서비스가 종료된 모바일 리듬 게임 **우타마크로스 스마트폰 De컬쳐**를 오프라인에서 실행할 수 있도록 재구현한 [UMO](https://github.com/Xele02/UMO)의 한국어 전용 포크입니다.
 
-Fonctionality : 
-* Almost everything of the game.
-* Playing song :
-  * Editor gameplay : Use key S-D-F-H-J-K for the 6 lanes, and D-F-H-J for 4 lanes songs. Slide note are automatically valided on hit. Lane change on 6 lane mode don't work. Key can be changed in the options (menu UMO > Options).
-* A few event can be activated (Apil fools, ...). Can be acceded from UMO Setting popup on the title screen (pad icon)
-* Account picker : Use the top right button on the start screen. You can create new accounts, copy and delete. You can also create and use a cheat account (which was the one used before 1.0.0).
-* Translation : You can switch to other languages (en / fr) in the UMO Setting. This is still a work in progress and only a small part is translated.
-* Event : Enablable in UMO Setting. Date is fixed at the middle of the event for now, so the date don't advance and it will never end as long as active.
+이 프로젝트는 원본 UMO의 언어팩 및 게임 실행 구조를 최대한 유지하면서, 한국어를 기본 언어로 제공하고 Android 설치와 데이터 서버 사용 절차를 간소화하는 것을 목표로 합니다.
 
-# Translation
+> 현재 개발 준비 단계입니다. 아래 목표 중 아직 구현 또는 검증되지 않은 기능이 포함되어 있으므로 배포판이 준비되기 전까지는 원본 UMO의 설치 안내를 이용해 주세요.
 
-The original game is in japanese only. The translation in others languages is currently working on :
-* English : 9%
-* French : 16%. Most of the important parts to understand the game is available.
-* Chinese : 29%
-* Korean : 22%
+## 프로젝트 목표
 
-Language are available in DLC, see below.
+- 게임 내 일본어 문자열 100% 한국어화
+- 영어로 표기된 곡명과 고유 표기는 원문 유지
+- 국내 정식 표기가 있는 작품명과 곡명은 공식 한국어 표기 우선 적용
+- 한국어를 앱의 기본 언어로 설정
+- 한국어 번역과 공식 로그인 보너스 콘텐츠 기본 포함
+- 기존 UMO 사용자의 계정 및 세이브 데이터 호환 유지
+- UMO 데이터 서버의 전체 UI 한국어화
+- 데이터 ZIP 자동 탐색, 압축 해제, PC 패치 적용 및 서버 실행 지원
+- 설치 및 이용 매뉴얼 한국어 제공
+- 향후 Windows 독립 실행판과 키보드·게임패드 지원 검토
 
-# New content
+## 번역 원칙
 
-A DLC system was added to UMO to add content in the game. More information to create them will be added later. Current available DLC : 
+- `歌マクロス`는 **우타마크로스**로 표기합니다.
+- `歌姫モード`는 **우타히메 모드**로 표기합니다.
+- `超歌姫モード`는 **초 우타히메 모드**로 표기합니다.
+- 일본어만 한국어로 번역하며, 영어 곡명 등 기존 영어 표기는 유지합니다.
+- 공식 한국어 제목이 확인되는 곡과 작품은 해당 표기를 우선합니다.
+- 공식 표기가 없는 경우 문맥에 맞는 자연스러운 한국어로 번역합니다.
 
-* Language
-  * English : http://umo.xele.org:8000/game-translation-en_1.zip
-  * French : http://umo.xele.org:8000/game-translation-fr_1.zip
-  * Chinese : http://umo.xele.org:8000/game-translation-zh_Hans_1.zip
-  * Korean : http://umo.xele.org:8000/game-translation-ko_1.zip
-* Login bonuses
-  * Official (08/2017 > 08/2018) : http://umo.xele.org:8000/offcial-login-bonuses_1_Android.zip
- 
-DLC import and settings are in the 4th tab of the UMO popup.
+## 저장소와 포크 정보
 
-# Requirement / Installation
+- 한국어판 저장소: <https://github.com/ccs21/UMO_Kor>
+- 원본 UMO 저장소: <https://github.com/Xele02/UMO>
+- 원본 프로젝트 저작자: Xele02 및 UMO 기여자
+- 포크 기준 버전: UMO 1.1.16
 
-* [Install on PC using Unity Editor](https://umo.xele.org/getting-started/installation/install-pc)
-* [Install on Android](https://umo.xele.org/getting-started/installation/install-android)
+이 저장소는 원본 UMO와 독립적으로 관리되는 비공식 한국어 포크입니다. 원본 프로젝트 개발자 및 우타마크로스의 권리자와 직접적인 관련이 없습니다. 한국어판에서 발생한 문제는 원본 저장소가 아닌 한국어판 저장소에 제보해 주세요.
 
-# Support
+## 기존 세이브 호환 방침
 
-You can join the discrod server for support and more information on release : https://discord.gg/xeT57fyayE .
+한국어판은 기존 UMO Android 앱의 패키지 식별자와 세이브 형식을 유지하는 것을 원칙으로 합니다. 기존 계정 및 세이브 파일을 변경하거나 삭제하지 않으며, 배포 전 기존 설치본 위에 업데이트했을 때의 호환성을 별도로 검증할 예정입니다.
 
-# Used library :
+Android 앱 서명 차이로 인해 직접 업데이트가 불가능한 경우를 대비해 세이브 백업 및 복원 절차도 함께 제공할 계획입니다. 검증이 완료되기 전에는 기존 세이브를 별도로 백업해 주세요.
 
-* [VGMToolbox](https://sourceforge.net/projects/vgmtoolbox/) to load acb/awb and usm files
-* [DereTore](https://github.com/OpenCGSS/DereTore) to play hca files
-* [Flatbuffers](https://google.github.io/flatbuffers/) to read database
-* [LitJson](https://litjson.net/) to read some json
-* [LibVLC](https://code.videolan.org/videolan/vlc) / [LibVLCSharp](https://code.videolan.org/videolan/LibVLCSharp) to play the movies
+## 게임 데이터
+
+이 저장소에는 원본 게임 데이터, 음원, 영상, 이미지 및 기타 저작권 콘텐츠가 포함되지 않습니다. 게임 실행에 필요한 데이터는 사용자가 적법한 방법으로 별도로 준비해야 합니다.
+
+대용량 게임 데이터나 배포 권한이 없는 저작물을 Git 커밋 또는 Pull Request에 포함하지 마세요.
+
+## 개발 환경
+
+- Unity Editor 2018.4.36f1
+- Android Build Support
+- Unity 버전에 맞는 Android SDK, NDK 및 OpenJDK
+
+자세한 빌드·설치 방법은 한국어판 개발이 안정된 뒤 별도 문서로 제공할 예정입니다. 원본 UMO의 현재 안내는 [UMO Knowledge Base](https://umo.xele.org/)에서 확인할 수 있습니다.
+
+## 라이선스
+
+UMO 소스 코드는 원본 프로젝트와 동일하게 [MIT License](LICENSE)에 따라 제공됩니다.
+
+```text
+MIT License
+Copyright (c) 2022 Xele02
+```
+
+MIT 라이선스는 이 저장소의 소스 코드와 문서에 적용됩니다. 우타마크로스 및 마크로스 관련 상표, 캐릭터, 음악, 영상, 이미지와 원본 게임 데이터의 권리는 각 권리자에게 있으며 MIT 라이선스의 적용 대상이 아닙니다.
+
+## 원본 UMO와 달라지는 점
+
+개발 완료 시 다음 차이점을 제공할 예정입니다.
+
+- 한국어 기본 실행
+- 한국어 번역 별도 DLC 설치 절차 제거
+- 공식 로그인 보너스 콘텐츠 기본 설치
+- 한국어 UMO 서버와 자동 데이터 설치
+- 한국어 설치·이용 문서
+- 기존 UMO 세이브 마이그레이션 및 호환성 검증
+
+구현 및 검증이 끝난 항목은 릴리스 노트에서 버전별로 안내합니다.
