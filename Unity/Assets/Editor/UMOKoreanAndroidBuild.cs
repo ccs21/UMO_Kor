@@ -9,8 +9,21 @@ using UnityEngine;
 public static class UMOKoreanAndroidBuild
 {
     private const string DefaultOutput = "Build/Android/UMO_Kor-debug.apk";
+    private const string ParallelTestOutput = "Build/Android/UMO_Kor-parallel-test.apk";
+    private const string ParallelTestPackage = "com.ccs21.UMOKorTest";
+    private const string KoreanProductName = "\uC6B0\uD0C0\uB9C8\uD06C\uB85C\uC2A4";
 
     public static void BuildAndroid()
+    {
+        Build(DefaultOutput, null, KoreanProductName);
+    }
+
+    public static void BuildParallelTest()
+    {
+        Build(ParallelTestOutput, ParallelTestPackage, KoreanProductName);
+    }
+
+    private static void Build(string defaultOutput, string temporaryPackage, string temporaryProductName)
     {
         ConfigureToolchain();
 
@@ -24,7 +37,7 @@ public static class UMOKoreanAndroidBuild
         if (scenes.Length == 0)
             throw new Exception("No enabled scenes were found in EditorBuildSettings.");
 
-        string output = GetCommandLineValue("-umoOutput") ?? DefaultOutput;
+        string output = GetCommandLineValue("-umoOutput") ?? defaultOutput;
         if (!Path.IsPathRooted(output))
             output = Path.GetFullPath(Path.Combine(Application.dataPath, "..", output));
         Directory.CreateDirectory(Path.GetDirectoryName(output));
@@ -40,12 +53,27 @@ public static class UMOKoreanAndroidBuild
             options = BuildOptions.Development,
         };
 
-        BuildReport report = BuildPipeline.BuildPlayer(options);
-        BuildSummary summary = report.summary;
-        Debug.LogFormat("UMO Korean Android build: result={0}, errors={1}, warnings={2}, bytes={3}, output={4}",
-            summary.result, summary.totalErrors, summary.totalWarnings, summary.totalSize, output);
-        if (summary.result != BuildResult.Succeeded)
-            throw new Exception("Android build failed: " + summary.result);
+        string originalPackage = PlayerSettings.GetApplicationIdentifier(BuildTargetGroup.Android);
+        string originalProductName = PlayerSettings.productName;
+        try
+        {
+            if (!string.IsNullOrEmpty(temporaryPackage))
+                PlayerSettings.SetApplicationIdentifier(BuildTargetGroup.Android, temporaryPackage);
+            if (!string.IsNullOrEmpty(temporaryProductName))
+                PlayerSettings.productName = temporaryProductName;
+
+            BuildReport report = BuildPipeline.BuildPlayer(options);
+            BuildSummary summary = report.summary;
+            Debug.LogFormat("UMO Korean Android build: result={0}, errors={1}, warnings={2}, bytes={3}, output={4}",
+                summary.result, summary.totalErrors, summary.totalWarnings, summary.totalSize, output);
+            if (summary.result != BuildResult.Succeeded)
+                throw new Exception("Android build failed: " + summary.result);
+        }
+        finally
+        {
+            PlayerSettings.SetApplicationIdentifier(BuildTargetGroup.Android, originalPackage);
+            PlayerSettings.productName = originalProductName;
+        }
     }
 
     private static void ConfigureToolchain()
