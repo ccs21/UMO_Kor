@@ -1,0 +1,595 @@
+msgid ""
+msgstr ""
+"Language: ko\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "room_name_0001_txt"
+msgstr "SNS 연락방"
+
+msgid "room_name_0002_txt"
+msgstr "다함께 잡담방"
+
+msgid "room_name_0003_txt"
+msgstr "축☆기념일 방"
+
+msgid "room_name_0004_txt"
+msgstr "프레이아의 방"
+
+msgid "room_name_0005_txt"
+msgstr "미쿠모의 방"
+
+msgid "room_name_0006_txt"
+msgstr "카나메의 방"
+
+msgid "room_name_0007_txt"
+msgstr "마키나의 방"
+
+msgid "room_name_0008_txt"
+msgstr "레이나의 방"
+
+msgid "room_name_0009_txt"
+msgstr "란카의 방"
+
+msgid "room_name_0010_txt"
+msgstr "셰릴의 방"
+
+msgid "room_name_0011_txt"
+msgstr "밀레느의 방"
+
+msgid "room_name_0012_txt"
+msgstr "바사라의 방"
+
+msgid "room_name_0013_txt"
+msgstr "민메이의 방"
+
+msgid "room_name_0014_txt"
+msgstr "초시공 비너스 왈큐레"
+
+msgid "room_name_0015_txt"
+msgstr "섬광의 AXIA"
+
+msgid "room_name_0016_txt"
+msgstr "여름이다! 바다다! 수영복De Show!"
+
+msgid "room_name_0017_txt"
+msgstr "파스텔♡SUMMER"
+
+msgid "room_name_0018_txt"
+msgstr "기다렸지! Fire Bomber 등장!"
+
+msgid "room_name_0019_txt"
+msgstr "은하의 요정"
+
+msgid "room_name_0020_txt"
+msgstr "민메이 버스데이"
+
+msgid "room_name_0021_txt"
+msgstr ""
+
+msgid "room_name_0022_txt"
+msgstr "충격 데뷔 스테이지"
+
+msgid "room_name_0023_txt"
+msgstr "다이너마이트7"
+
+msgid "room_name_0024_txt"
+msgstr "결단 오버로드"
+
+msgid "room_name_0025_txt"
+msgstr "이별의 날개"
+
+msgid "room_name_0026_txt"
+msgstr "크로스오버 LIVE(FB편)"
+
+msgid "room_name_0027_txt"
+msgstr "망설임의 크리스마스"
+
+msgid "room_name_0028_txt"
+msgstr ""
+
+msgid "room_name_0029_txt"
+msgstr "초시공 카운트다운 라이브 '17"
+
+msgid "room_name_0030_txt"
+msgstr "<size=20>【새해 복】Happy New Year 라이브'18</size>"
+
+msgid "room_name_0031_txt"
+msgstr "<size=20>목표! 미스 마크로스 ~잠입 대작전~</size>"
+
+msgid "room_name_0032_txt"
+msgstr "다같이 도쿄 스카이트리"
+
+msgid "room_name_0033_txt"
+msgstr ""
+
+msgid "room_name_0034_txt"
+msgstr "<size=18>메모리얼 버스데이 ~Dear 밀레느~</size>"
+
+msgid "room_name_0035_txt"
+msgstr "소녀☆Valentine"
+
+msgid "room_name_0036_txt"
+msgstr "영화관에 가자!"
+
+msgid "room_name_0037_txt"
+msgstr "멈추지 않아! 왈큐레 LIVE"
+
+msgid "room_name_0038_txt"
+msgstr "라이브에 오신 것을 환영합니다!"
+
+msgid "room_name_0039_txt"
+msgstr "무지개색 곰곰"
+
+msgid "room_name_0040_txt"
+msgstr ""
+
+msgid "room_name_0041_txt"
+msgstr "d슈디스타b"
+
+msgid "room_name_0042_txt"
+msgstr "숙명θ노바틱"
+
+msgid "room_name_0043_txt"
+msgstr "파란만장 만우절"
+
+msgid "room_name_0044_txt"
+msgstr "상냥함 SAYONARA"
+
+msgid "room_name_0045_txt"
+msgstr "거짓된 세계의 너에게"
+
+msgid "room_name_0046_txt"
+msgstr "fight on stage ~두 사람의 가희~"
+
+msgid "room_name_0047_txt"
+msgstr ""
+
+msgid "room_name_0048_txt"
+msgstr "광속 클라이 max☆stage"
+
+msgid "room_name_0049_txt"
+msgstr "울상 웨딩"
+
+msgid "room_name_0050_txt"
+msgstr "유혹의 엘릭시아"
+
+msgid "room_name_0051_txt"
+msgstr "목숨을 건 사랑이라면"
+
+msgid "room_name_0052_txt"
+msgstr ""
+
+msgid "room_name_0053_txt"
+msgstr "날아라! 초시공 요새 마크로스"
+
+msgid "room_name_0054_txt"
+msgstr "<size=20>은하에 노래해라! ～시간을 초월한 라이온～</size>"
+
+msgid "room_name_0055_txt"
+msgstr "여름이다! 수영복이다! 왈우라 페스!"
+
+msgid "room_name_0056_txt"
+msgstr ""
+
+msgid "room_name_0057_txt"
+msgstr "미드서머 러브하트!"
+
+msgid "room_name_0058_txt"
+msgstr "발키리 오퍼레이션"
+
+msgid "room_name_0059_txt"
+msgstr "가희 오퍼레이션"
+
+msgid "room_name_0060_txt"
+msgstr "New song Live ~제1탄~"
+
+msgid "room_name_0061_txt"
+msgstr "New song Live ~제2탄~"
+
+msgid "room_name_0062_txt"
+msgstr "New song Live ~제3탄~"
+
+msgid "room_name_0063_txt"
+msgstr "절명 저지먼트"
+
+msgid "room_name_0064_txt"
+msgstr "메모리얼 런너"
+
+msgid "room_name_0065_txt"
+msgstr "질리틱♡Halloween"
+
+msgid "room_name_0066_txt"
+msgstr "저녁노을 오버플로우"
+
+msgid "room_name_0067_txt"
+msgstr "추억 젤리피시"
+
+msgid "room_name_0068_txt"
+msgstr ""
+
+msgid "room_name_0069_txt"
+msgstr ""
+
+msgid "room_name_0070_txt"
+msgstr ""
+
+msgid "room_name_0071_txt"
+msgstr "<size=20>산타클로스로 있을 순 없어!</size>"
+
+msgid "room_name_0072_txt"
+msgstr "초시공 카운트다운 라이브 '18"
+
+msgid "room_name_0073_txt"
+msgstr "<size=20>【새해 복】Happy New Year 라이브'19</size>"
+
+msgid "room_name_0074_txt"
+msgstr "<size=23>아아, 데카르차 ～우주 형제선～</size>"
+
+msgid "room_name_0075_txt"
+msgstr "<size=20>린 민메이 이야기 ～Fire Bomber 편～</size>"
+
+msgid "room_name_0076_txt"
+msgstr "<size=20>폭주하는 노랫소리 ～샤론 애플～</size>"
+
+msgid "room_name_0077_txt"
+msgstr "불확정성♡포메이션 댄스"
+
+msgid "room_name_0078_txt"
+msgstr "<size=20>little queen ~사랑, 기억하고 있습니까?~</size>"
+
+msgid "room_name_0079_txt"
+msgstr "<size=19>열창☆학원 라이브! ～졸업식 편～</size>"
+
+msgid "room_name_0080_txt"
+msgstr "여행을 떠나는 너에게 ～사랑은 흐른다～"
+
+msgid "room_name_0081_txt"
+msgstr "유성이 연주하는 선율"
+
+msgid "room_name_0082_txt"
+msgstr "어서오세요! 왈큐레★Party에"
+
+msgid "room_name_0083_txt"
+msgstr "소원이 반짝여 ～다시 만나자～"
+
+msgid "room_name_0084_txt"
+msgstr "우리들의 뷰티풀 플레이스"
+
+msgid "room_name_0085_txt"
+msgstr ""
+
+msgid "room_name_0086_txt"
+msgstr ""
+
+msgid "room_name_0087_txt"
+msgstr "엔젤 브라이드"
+
+msgid "room_name_0088_txt"
+msgstr "사랑! 할레이션 THE DANCE"
+
+msgid "room_name_0089_txt"
+msgstr "<size=20>저 너머로 전하는 노래 ~인피니티#7~</size>"
+
+msgid "room_name_0090_txt"
+msgstr "넓은 하늘을 나는 소백룡"
+
+msgid "room_name_0091_txt"
+msgstr "순정 섬머 베케이션"
+
+msgid "room_name_0092_txt"
+msgstr "<size=20>여름의 일곱빛깔☆비타민 충전!</size>"
+
+msgid "room_name_0093_txt"
+msgstr "성간 랑데부★彡"
+
+msgid "room_name_0094_txt"
+msgstr ""
+
+msgid "room_name_0095_txt"
+msgstr ""
+
+msgid "room_name_0096_txt"
+msgstr ""
+
+msgid "room_name_0097_txt"
+msgstr "<size=20>왈큐레의 버스데이♡파티</size>"
+
+msgid "room_name_0098_txt"
+msgstr "<size=20>Rock 'n' Roll~! …하지만 Baby!!</size>"
+
+msgid "room_name_0099_txt"
+msgstr "성스러운 밤의 울상SONG"
+
+msgid "room_name_0100_txt"
+msgstr "<size=20>SNOW FRONTIER ~종을 울려라!~</size>"
+
+msgid "room_name_0101_txt"
+msgstr "<size=20>새벽을 밝히는 새로운 빛 ~오벨리스크~</size>"
+
+msgid "room_name_0102_txt"
+msgstr "시간을 초월하는 사랑의 노래"
+
+msgid "room_name_0103_txt"
+msgstr "초코한 룬피카♡Valentine"
+
+msgid "room_name_0104_txt"
+msgstr "LOVE 크로스 파이트!"
+
+msgid "room_name_0105_txt"
+msgstr ""
+
+msgid "room_name_0106_txt"
+msgstr "천사의 웨딩"
+
+msgid "room_name_0107_txt"
+msgstr "학교 축제에서 광속 크라이맥스☆"
+
+msgid "room_name_0108_txt"
+msgstr "미래는 여자를 위해 있어"
+
+msgid "room_name_0109_txt"
+msgstr "소녀☆Pinch Hitter"
+
+msgid "room_name_0110_txt"
+msgstr "<size=20>은하 고래를 찾아서 ～ANGEL VOICE～</size>"
+
+msgid "room_name_0111_txt"
+msgstr ""
+
+msgid "room_name_0112_txt"
+msgstr "무중력 도그 파이터"
+
+msgid "room_name_0113_txt"
+msgstr "룬에 꽃피는 사랑도 있어"
+
+msgid "room_name_0114_txt"
+msgstr ""
+
+msgid "room_name_0115_txt"
+msgstr "절대영도 θ Fantastic!"
+
+msgid "room_name_0116_txt"
+msgstr "<size=18>앙코르 라이브!～Hear The Universe～</size>"
+
+msgid "room_name_0117_txt"
+msgstr ""
+
+msgid "room_name_0118_txt"
+msgstr "영원히 노래하는 목소리"
+
+msgid "room_name_0119_txt"
+msgstr "순백의 에테르"
+
+msgid "room_name_0120_txt"
+msgstr "할로윈 신데렐라"
+
+msgid "room_name_0121_txt"
+msgstr "<size=18>미개척 세계 ～넘어서는 안 될 경계선～</size>"
+
+msgid "room_name_0122_txt"
+msgstr "발키리 카페에 어서 오세요!"
+
+msgid "room_name_0123_txt"
+msgstr ""
+
+msgid "room_name_0124_txt"
+msgstr ""
+
+msgid "room_name_0125_txt"
+msgstr ""
+
+msgid "room_name_0126_txt"
+msgstr "로맨싱 이졸라드"
+
+msgid "room_name_0127_txt"
+msgstr ""
+
+msgid "room_name_0128_txt"
+msgstr ""
+
+msgid "room_name_0129_txt"
+msgstr "별을 돌려라! 학원제 LIVE"
+
+msgid "room_name_0130_txt"
+msgstr "<size=18>Memorial Days ～나의 그녀는 파일럿～</size>"
+
+msgid "room_name_0131_txt"
+msgstr "<size=18>밤에 거는 무지개 ～SWEET FANTASY～</size>"
+
+msgid "room_name_0132_txt"
+msgstr "<size=20>초시공 음악제 ～Songbird～</size>"
+
+msgid "room_name_0133_txt"
+msgstr "리버시블 버니"
+
+msgid "room_name_0134_txt"
+msgstr ""
+
+msgid "room_name_0135_txt"
+msgstr "<size=18>보이지 않는 바람 ～GIRAFFE BLUES～</size>"
+
+msgid "room_name_0136_txt"
+msgstr ""
+
+msgid "room_name_0137_txt"
+msgstr "듀엣 러너"
+
+msgid "room_name_0138_txt"
+msgstr "<size=18>목숨을 건 만남 ～노던 크로스～</size>"
+
+msgid "room_name_0139_txt"
+msgstr "<size=20>일어나라 다섯 여신들이여</size>"
+
+msgid "room_name_0140_txt"
+msgstr ""
+
+msgid "room_name_0141_txt"
+msgstr "다이너믹 다이너믹"
+
+msgid "room_name_0142_txt"
+msgstr "로맨틱☆데이트 @Formo"
+
+msgid "room_name_0143_txt"
+msgstr "<size=18>발키리는 포기하지 않아!!!!!</size>"
+
+msgid "room_name_0144_txt"
+msgstr "<size=18>너에게 전해→ ～Halloween live～</size>"
+
+msgid "room_name_0145_txt"
+msgstr ""
+
+msgid "room_name_0146_txt"
+msgstr "<size=18>낙원 ～WANNA BE AN ANGEL～</size>"
+
+msgid "room_name_0147_txt"
+msgstr "<size=18>현혹 레스큐!!!!! ～체인지!!!!!～</size>"
+
+msgid "room_name_0148_txt"
+msgstr "<size=18>실버 문 홀리 문</size>"
+
+msgid "room_name_0149_txt"
+msgstr ""
+
+msgid "room_name_0150_txt"
+msgstr "타오르는 눈동자의 소백룡"
+
+msgid "room_name_0151_txt"
+msgstr "신비로운 시간의 미궁"
+
+msgid "room_name_0152_txt"
+msgstr "<size=20>만날 수 없을 때의 Valentine</size>"
+
+msgid "room_name_0153_txt"
+msgstr "<size=20>얼어붙는 목소리 ～입술의 동상～</size>"
+
+msgid "room_name_0154_txt"
+msgstr "<size=18>순수해져라! ～쓰라림 현재 진행형～</size>"
+
+msgid "room_name_0155_txt"
+msgstr "두 사람의 사랑의 마법"
+
+msgid "room_name_0156_txt"
+msgstr "<size=18>불어오는 바람 ～NEVER SAY DIE～</size>"
+
+msgid "room_name_0157_txt"
+msgstr "<size=18>초시공 파이널 Live ～Act.1～</size>"
+
+msgid "room_name_0158_txt"
+msgstr "<size=18>초시공 파이널 Live ～Act.2～</size>"
+
+msgid "room_name_0159_txt"
+msgstr "<size=18>초시공 파이널 Live ～Act.3～</size>"
+
+msgid "chara_name_0000_txt"
+msgstr "프레이아"
+
+msgid "chara_name_0001_txt"
+msgstr "미쿠모"
+
+msgid "chara_name_0002_txt"
+msgstr "카나메"
+
+msgid "chara_name_0003_txt"
+msgstr "마키나"
+
+msgid "chara_name_0004_txt"
+msgstr "레이나"
+
+msgid "chara_name_0005_txt"
+msgstr "란카"
+
+msgid "chara_name_0006_txt"
+msgstr "셰릴"
+
+msgid "chara_name_0007_txt"
+msgstr "밀레느"
+
+msgid "chara_name_0008_txt"
+msgstr "바사라"
+
+msgid "chara_name_0009_txt"
+msgstr "민메이"
+
+msgid "chara_name_0010_txt"
+msgstr "하야테"
+
+msgid "chara_name_0011_txt"
+msgstr "미라쥬"
+
+msgid "chara_name_0012_txt"
+msgstr "메서"
+
+msgid "chara_name_0013_txt"
+msgstr "아라드"
+
+msgid "chara_name_0014_txt"
+msgstr "척"
+
+msgid "chara_name_0015_txt"
+msgstr "알토"
+
+msgid "chara_name_0016_txt"
+msgstr "미셸"
+
+msgid "chara_name_0017_txt"
+msgstr "오즈마"
+
+msgid "chara_name_0018_txt"
+msgstr "루카"
+
+msgid "chara_name_0019_txt"
+msgstr "브레라"
+
+msgid "chara_name_0020_txt"
+msgstr "레이"
+
+msgid "chara_name_0021_txt"
+msgstr "비히다"
+
+msgid "chara_name_0022_txt"
+msgstr "히카루"
+
+msgid "chara_name_0023_txt"
+msgstr "포커"
+
+msgid "chara_name_0024_txt"
+msgstr "맥스"
+
+msgid "chara_name_0025_txt"
+msgstr "밀리아"
+
+msgid "chara_name_0026_txt"
+msgstr "키스"
+
+msgid "chara_name_0027_txt"
+msgstr "로이드"
+
+msgid "chara_name_0028_txt"
+msgstr "보그"
+
+msgid "chara_name_0029_txt"
+msgstr "클란"
+
+msgid "chara_name_0030_txt"
+msgstr "나나세"
+
+msgid "chara_name_0031_txt"
+msgstr "감린"
+
+msgid "chara_name_0032_txt"
+msgstr "아키코"
+
+msgid "chara_name_0033_txt"
+msgstr "미사"
+
+msgid "chara_name_0034_txt"
+msgstr "클라우디아"
+
+msgid "chara_name_0035_txt"
+msgstr "이사무"
+
+msgid "chara_name_0036_txt"
+msgstr "갈드"
+
+msgid "chara_name_0037_txt"
+msgstr "전원"

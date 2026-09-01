@@ -1,0 +1,172 @@
+msgid ""
+msgstr ""
+"Language: ko\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "contract_pack/contract_font_01"
+msgstr "이용약관"
+
+msgid "cmn_pop01/cmn_pop01_fnt_01_48"
+msgstr "동의하지 않음"
+
+msgid "cmn_pop01/cmn_pop01_fnt_01_47"
+msgstr "동의함"
+
+msgid "cmn_pop01/cmn_pop01_fnt_01_09"
+msgstr "닫기"
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_01"
+msgstr "은하계에 하나의 거대한 성간 문명이 세워진 먼 미래."
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_02"
+msgstr "수없이 반복된 성간 전쟁으로 인해,"
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_03"
+msgstr "드디어 초 선사시대 인류 프로토 컬쳐가\\n남긴 시스템 「새인간」이 깨어났다."
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_04"
+msgstr "새인간은 우주를 뒤덮고 있는 모든 문명을\\n파괴 대상으로 삼고, 다른 시공에서 공명을 시작한다."
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_07"
+msgstr "기억이 파괴된 사람들은 하나둘씩 사라져갔고,\\n문명은 조용히 멸망을 맞이하고 있었다."
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_09"
+msgstr "노래로 사람의 마음을 움직이는 가희와\\n그것을 지키는 사람들이다."
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_11"
+msgstr "서로 다른 시공에 존재하면서도\\n새인간의 힘을 매개로 한 초시공 네트워크를 형성."
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_13"
+msgstr "은하의 스테이지에 선 가희들,"
+
+msgid "sel_note_adjust/sel_note_adjust_fnt_btn_l_01"
+msgstr "문제 없으니\\n이대로 진행"
+
+msgid "sel_note_adjust/sel_note_adjust_fnt_btn_01"
+msgstr "확인 모드"
+
+msgid "cmn_pop01/cmn_pop01_fnt_01_29"
+msgstr "재조정"
+
+msgid "cmn_pop01/cmn_pop01_fnt_01_49"
+msgstr "확인 모드로"
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_05"
+msgstr "무한히 펼쳐지는 그 힘은 시공을 초월한 곳에 있는\\n생명의 기억 집적지 「기억의 시공」까지 도달."
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_06"
+msgstr "그곳에 새겨진 사람들의 기억을 파괴하기 시작했다."
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_08"
+msgstr "하지만 그 멸망에 맞서는 이들이 있었다."
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_10"
+msgstr "강력한 생체 폴드파로\\n기억상실증에서 벗어난 그녀들은,"
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_12"
+msgstr "노래의 힘으로 사라져가는 세상을\\n되찾겠다고 다짐한다."
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_14"
+msgstr "노래로 사람들의 기억을 되찾기 위한 싸움이 지금, 막을 올린다."
+
+msgid "sel_note_adjust/sel_note_adjust_fnt_btn_l_02"
+msgstr "어긋남이 느껴져\\n조정한다"
+
+msgid "sel_note_adjust/sel_note_adjust_fnt_title"
+msgstr "타이밍 조정"
+
+msgid "sel_note_adjust/sel_note_adjust_fnt_btn_02"
+msgstr "조정 모드"
+
+msgid "sel_note_adjust/sel_note_adjust_fnt_btn_03"
+msgstr "결정"
+
+msgid "cmn_tuto03/cmn_tuto03_window_font_01"
+msgstr "다음"
+
+msgid "cmn_pop01/cmn_pop01_fnt_01_39"
+msgstr "스킵"
+
+msgid "cmn_pop01/cmn_pop01_fnt_01_43"
+msgstr "다시 시작"
+
+msgid "cmn_pop01/cmn_pop01_fnt_01_10"
+msgstr "취소"
+
+msgid "gacha_main2/gacha_fnt_lot"
+msgstr "회 뽑기"
+
+msgid "gacha_pop/gacha_pop_font_01"
+msgstr "보유 가정석"
+
+msgid "gacha_main2/gacha_fnt_02"
+msgstr "출현 상세"
+
+msgid "gacha_pop/gacha_pop_btn_font_01"
+msgstr "특정상거래법에 따른 표기"
+
+msgid "gatsha_drop/gatsha_drop_btn_font_03"
+msgstr "돌아가기"
+
+msgid "pack_sel_chara/sel_chara_pop_fnt_01"
+msgstr "프로필"
+
+msgid "pack_sel_chara/sel_chara_pop_fnt_02"
+msgstr "나이:"
+
+msgid "pack_sel_chara/sel_chara_pop_fnt_03"
+msgstr "생일"
+
+msgid "pack_sel_chara/sel_chara_pop_fnt_04"
+msgstr "출신지:"
+
+msgid "pack_sel_chara/sel_chara_pop_fnt_05"
+msgstr "좋아하는 것:"
+
+msgid "pack_sel_chara/sel_chara_btn_fnt_01"
+msgstr "보이스"
+
+msgid "pack_sel_chara/sel_chara_pop_fnt_06"
+msgstr "가희를 선택해 주세요"
+
+msgid "pack_sel_chara/sel_chara_check_fnt_01"
+msgstr "다시 선택하기"
+
+msgid "pack_sel_chara/sel_chara_check_fnt_02"
+msgstr "이 가희를 선택"
+
+msgid "sel_quest_packtex/sel_que_challenge_fnt"
+msgstr "도전하기"
+
+msgid "cmn_enquete_pack/cmn_enq_fnt_load_02"
+msgstr "다운로드 완료"
+
+msgid "game_res_drop_02_pack/g_r_drop_txt_normal"
+msgstr "일반 드랍"
+
+msgid "game_res_drop_pack/g_r_drop_getuc"
+msgstr "획득 유니온 크레딧"
+
+msgid "sel_story_pack/sel_story_frm_fnt_01"
+msgstr "라이브에서 해방 조건 달성하기"
+
+msgid "game_res_drop_pack/g_r_drop_txt_rare"
+msgstr "레어 드랍"
+
+msgid "sel_story_pack/sel_story_frm_fnt_02"
+msgstr "악곡을 플레이하시겠습니까?"
+
+msgid "sel_story_pack/cmn_pop01_fnt_01_46"
+msgstr "라이브"
+
+msgid "sel_quest_packtex/sel_que_get_fnt2"
+msgstr "선물상자로 보내졌습니다"
+
+msgid "pop_item_pack/ab_uc_fnt_01"
+msgstr "필요"
+
+msgid "sel_quest_packtex/sel_que_get_fnt"
+msgstr "다음과 같은 보상을 받았습니다"
+
+msgid "pop_item_pack/ab_uc_fnt_02"
+msgstr "보유"

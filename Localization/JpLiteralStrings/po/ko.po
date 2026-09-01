@@ -1,0 +1,2242 @@
+msgid ""
+msgstr ""
+"Language: ko\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "StringLiteral_367"
+msgstr ""
+
+msgid "StringLiteral_381"
+msgstr ""
+
+msgid "StringLiteral_1290"
+msgstr ""
+
+msgid "StringLiteral_1374"
+msgstr "년"
+
+msgid "StringLiteral_1376"
+msgstr "월"
+
+msgid "StringLiteral_1378"
+msgstr "일"
+
+msgid "StringLiteral_5812"
+msgstr ""
+
+msgid "StringLiteral_6527"
+msgstr ""
+
+msgid "StringLiteral_8278"
+msgstr "이미 초기화가 완료되었습니다. 재초기화를 하려면 Terminate를 호출해야 합니다."
+
+msgid "StringLiteral_8280"
+msgstr "초기화되지 않았습니다."
+
+msgid "StringLiteral_8676"
+msgstr "기본 ★3 이하의 카드면서 리프 수가 0이 아님"
+
+msgid "StringLiteral_8686"
+msgstr "없음"
+
+msgid "StringLiteral_9360"
+msgstr "로비 메인"
+
+msgid "StringLiteral_9362"
+msgstr "로비 배틀 로그"
+
+msgid "StringLiteral_9364"
+msgstr "로비 공략"
+
+msgid "StringLiteral_9366"
+msgstr "데코챗"
+
+msgid "StringLiteral_9368"
+msgstr "협력 미션"
+
+msgid "StringLiteral_9370"
+msgstr "미지의 타입"
+
+msgid "StringLiteral_9477"
+msgstr "보스 이름"
+
+msgid "StringLiteral_9528"
+msgstr "예상하지 못한 인원이 포함되어 있습니다 id:"
+
+msgid "StringLiteral_9555"
+msgstr ""
+
+msgid "StringLiteral_9630"
+msgstr "로부터 새로운 메시지가 있습니다."
+
+msgid "StringLiteral_9635"
+msgstr "더미"
+
+msgid "StringLiteral_9714"
+msgstr "제"
+
+msgid "StringLiteral_9715"
+msgstr "화"
+
+msgid "StringLiteral_9765"
+msgstr "보상 목록"
+
+msgid "StringLiteral_9767"
+msgstr "초시공 유닛"
+
+msgid "StringLiteral_9768"
+msgstr "에피소드 달성 보상"
+
+msgid "StringLiteral_9769"
+msgstr "반복 에피소드 해제 보상 달성!"
+
+msgid "StringLiteral_9771"
+msgstr "데일리 미션 달성 보상"
+
+msgid "StringLiteral_9773"
+msgstr "SNS 미션 달성 보상"
+
+msgid "StringLiteral_9774"
+msgstr "데뷔 미션 달성 보상"
+
+msgid "StringLiteral_9775"
+msgstr "노멀 미션 달성 보상"
+
+msgid "StringLiteral_9777"
+msgstr "이벤트 미션 달성 보상"
+
+msgid "StringLiteral_9787"
+msgstr "<color=yellow>기간 한정 에너지 아이템 삭제</color>"
+
+msgid "StringLiteral_9788"
+msgstr "<color=pink>로그인 일수="
+
+msgid "StringLiteral_9793"
+msgstr "에너지"
+
+msgid "StringLiteral_9794"
+msgstr "스태미나"
+
+msgid "StringLiteral_9796"
+msgstr "컨티뉴"
+
+msgid "StringLiteral_9797"
+msgstr "VOP 고속 완료"
+
+msgid "StringLiteral_9798"
+msgstr "AP 회복"
+
+msgid "StringLiteral_9799"
+msgstr "컨티뉴:"
+
+msgid "StringLiteral_9806"
+msgstr "플레이어"
+
+msgid "StringLiteral_9807"
+msgstr "잘 부탁드립니다"
+
+msgid "StringLiteral_9829"
+msgstr "데코룸"
+
+msgid "StringLiteral_9874"
+msgstr "미획득"
+
+msgid "StringLiteral_9949"
+msgstr "★{0} 1장 확정"
+
+msgid "StringLiteral_9950"
+msgstr "★{0} 이상 1장 확정"
+
+msgid "StringLiteral_10040"
+msgstr "즐겨찾기 1"
+
+msgid "StringLiteral_10041"
+msgstr "즐겨찾기 2"
+
+msgid "StringLiteral_10042"
+msgstr "즐겨찾기 3"
+
+msgid "StringLiteral_10058"
+msgstr "무효 VcItemSceduleInfo id="
+
+msgid "StringLiteral_10062"
+msgstr "기간내 VcItemSceduleInfo id="
+
+msgid "StringLiteral_10064"
+msgstr "상품 건수 = "
+
+msgid "StringLiteral_10065"
+msgstr "기간외 VcItemSceduleInfo id="
+
+msgid "StringLiteral_10089"
+msgstr "개"
+
+msgid "StringLiteral_10090"
+msgstr "장"
+
+msgid "StringLiteral_10093"
+msgstr "기"
+
+msgid "StringLiteral_10094"
+msgstr "명"
+
+msgid "StringLiteral_10095"
+msgstr "세트"
+
+msgid "StringLiteral_10096"
+msgstr "체"
+
+msgid "StringLiteral_10136"
+msgstr "정의되지 않음"
+
+msgid "StringLiteral_10137"
+msgstr "가정석"
+
+msgid "StringLiteral_10138"
+msgstr "가챠 티켓"
+
+msgid "StringLiteral_10139"
+msgstr "에피소드 플레이트"
+
+msgid "StringLiteral_10140"
+msgstr "의상"
+
+msgid "StringLiteral_10141"
+msgstr "발키리"
+
+msgid "StringLiteral_10142"
+msgstr "해방 아이템"
+
+msgid "StringLiteral_10143"
+msgstr "에피소드 오브"
+
+msgid "StringLiteral_10144"
+msgstr "칭호"
+
+msgid "StringLiteral_10145"
+msgstr "이벤트 아이템"
+
+msgid "StringLiteral_10146"
+msgstr "이벤트 티켓"
+
+msgid "StringLiteral_10147"
+msgstr "가희"
+
+msgid "StringLiteral_10148"
+msgstr "세트 아이템"
+
+msgid "StringLiteral_10149"
+msgstr "SNS 아이템"
+
+msgid "StringLiteral_10150"
+msgstr "에너지 회복 아이템"
+
+msgid "StringLiteral_10151"
+msgstr "MV 티켓"
+
+msgid "StringLiteral_10152"
+msgstr "메달"
+
+msgid "StringLiteral_10153"
+msgstr "추가 VC"
+
+msgid "StringLiteral_10154"
+msgstr "이벤트 가챠 티켓"
+
+msgid "StringLiteral_10155"
+msgstr "선물 아이템"
+
+msgid "StringLiteral_10156"
+msgstr "특수 아이템"
+
+msgid "StringLiteral_10157"
+msgstr "의상 강화 아이템"
+
+msgid "StringLiteral_10158"
+msgstr "레어도 상승 아이템"
+
+msgid "StringLiteral_10159"
+msgstr "기간 한정 아이템"
+
+msgid "StringLiteral_10160"
+msgstr "보충용 아이템"
+
+msgid "StringLiteral_10161"
+msgstr "데코 아이템 배경"
+
+msgid "StringLiteral_10162"
+msgstr "데코 아이템 오브제"
+
+msgid "StringLiteral_10163"
+msgstr "데코 아이템 치비 캐릭터"
+
+msgid "StringLiteral_10164"
+msgstr "스탬프 아이템 대사"
+
+msgid "StringLiteral_10165"
+msgstr "데코 아이템 특수 오브제"
+
+msgid "StringLiteral_10166"
+msgstr "발키리 강화 아이템"
+
+msgid "StringLiteral_10167"
+msgstr "미사용으로 인한 결번"
+
+msgid "StringLiteral_10168"
+msgstr "데코 아이템 포스터"
+
+msgid "StringLiteral_10169"
+msgstr "데코 아이템 포스터(씬 진화 전)"
+
+msgid "StringLiteral_10170"
+msgstr "데코 아이템 포스터(씬 진화 후)"
+
+msgid "StringLiteral_10171"
+msgstr "레이드 아이템"
+
+msgid "StringLiteral_10172"
+msgstr "스탬프 아이템 캐릭터"
+
+msgid "StringLiteral_10173"
+msgstr "데코 세트 아이템"
+
+msgid "StringLiteral_10174"
+msgstr "데코 아이템 발키리 피규어"
+
+msgid "StringLiteral_10175"
+msgstr "데코 아이템 의상 토르소"
+
+msgid "StringLiteral_10176"
+msgstr "유효기간 유무 아이템"
+
+msgid "StringLiteral_10177"
+msgstr "홈 배경"
+
+msgid "StringLiteral_10178"
+msgstr "가챠 천장 아이템"
+
+msgid "StringLiteral_10282"
+msgstr "AP 전체 회복"
+
+msgid "StringLiteral_10284"
+msgstr "미라쥬 「AP가 전부 회복되었습니다!」"
+
+msgid "StringLiteral_10294"
+msgstr "초시공 SNS"
+
+msgid "StringLiteral_10298"
+msgstr "로그인 보너스를 받자!"
+
+msgid "StringLiteral_10299"
+msgstr "가정석 100개를 2일차 로그인 보너스로 증정! 지금 바로 로그인하세요!"
+
+msgid "StringLiteral_10303"
+msgstr "가정석 세일 진행중!"
+
+msgid "StringLiteral_10304"
+msgstr "지금만 판매하는 가정석 세트. 곧 살 수 없게 될 거야!"
+
+msgid "StringLiteral_10309"
+msgstr "에너지 회복"
+
+msgid "StringLiteral_10310"
+msgstr "에너지가 완전히 회복되었습니다!"
+
+msgid "StringLiteral_10314"
+msgstr ""
+
+msgid "StringLiteral_10338"
+msgstr "구매 한도 초과"
+
+msgid "StringLiteral_10339"
+msgstr "보유 수량 부족"
+
+msgid "StringLiteral_10340"
+msgstr "Sakasho 상품이 없음"
+
+msgid "StringLiteral_10345"
+msgstr "이벤트 퀘스트 ID="
+
+msgid "StringLiteral_10346"
+msgstr "LinkError : 자신의 ID를 링크 ID로 지정하고 있음"
+
+msgid "StringLiteral_10416"
+msgstr "<color=pink>최고 점수 갱신 "
+
+msgid "StringLiteral_10431"
+msgstr "데뷔 가챠"
+
+msgid "StringLiteral_10443"
+msgstr "플레이트"
+
+msgid "StringLiteral_10882"
+msgstr "<color=red>EX 라이벌 수 오버플로:"
+
+msgid "StringLiteral_10890"
+msgstr "<color=cyan>더미 매칭 이벤트 악곡="
+
+msgid "StringLiteral_10891"
+msgstr ""
+
+msgid "StringLiteral_10892"
+msgstr "<color=cyan>더미 검색 범위 점수 "
+
+msgid "StringLiteral_10893"
+msgstr "<color=red>!!!대상 악곡/클래스에 매치되는 라이벌이 없음!!!</color>"
+
+msgid "StringLiteral_10912"
+msgstr "<color=cyan>승리</color>"
+
+msgid "StringLiteral_10913"
+msgstr "<color=cyan>패배</color>"
+
+msgid "StringLiteral_10915"
+msgstr "<color=cyan>스코어= "
+
+msgid "StringLiteral_10916"
+msgstr " 보너스 "
+
+msgid "StringLiteral_10918"
+msgstr "<color=cyan>에피소드 수 = "
+
+msgid "StringLiteral_10920"
+msgstr "<color=cyan>연승= "
+
+msgid "StringLiteral_10921"
+msgstr "<color=cyan>포인트 = "
+
+msgid "StringLiteral_10923"
+msgstr "<color=cyan>EX 게이지 포인트 = "
+
+msgid "StringLiteral_10924"
+msgstr "<color=magenta>EX 라이벌 출현중!</color>"
+
+msgid "StringLiteral_10930"
+msgstr "<color=cyan>게임 수 : "
+
+msgid "StringLiteral_10931"
+msgstr "<color=cyan>연승 수   : "
+
+msgid "StringLiteral_10932"
+msgstr "워밍업 중"
+
+msgid "StringLiteral_10933"
+msgstr "<color=cyan>대전 상대 검색</color>"
+
+msgid "StringLiteral_10935"
+msgstr "사람 찾았습니다</color>"
+
+msgid "StringLiteral_11015"
+msgstr "master_gacha_ticket.xlsx에 데카르 가챠 티켓 설정이 없습니다"
+
+msgid "StringLiteral_11062"
+msgstr "라이프"
+
+msgid "StringLiteral_11063"
+msgstr "소울"
+
+msgid "StringLiteral_11064"
+msgstr "보이스"
+
+msgid "StringLiteral_11065"
+msgstr "챰"
+
+msgid "StringLiteral_11066"
+msgstr "C스킬"
+
+msgid "StringLiteral_11067"
+msgstr "A스킬"
+
+msgid "StringLiteral_11068"
+msgstr "L스킬"
+
+msgid "StringLiteral_11069"
+msgstr "서포트"
+
+msgid "StringLiteral_11070"
+msgstr "생체F"
+
+msgid "StringLiteral_11071"
+msgstr "레어 상승"
+
+msgid "StringLiteral_11072"
+msgstr "노트 기대치"
+
+msgid "StringLiteral_11073"
+msgstr "기타 1"
+
+msgid "StringLiteral_11074"
+msgstr "기타 2"
+
+msgid "StringLiteral_11075"
+msgstr "기타 3"
+
+msgid "StringLiteral_11076"
+msgstr "기타 4"
+
+msgid "StringLiteral_11077"
+msgstr "기타 5"
+
+msgid "StringLiteral_11078"
+msgstr "시작"
+
+msgid "StringLiteral_11079"
+msgstr "에피소드"
+
+msgid "StringLiteral_11081"
+msgstr "무한"
+
+msgid "StringLiteral_11082"
+msgstr "스토리"
+
+msgid "StringLiteral_11083"
+msgstr "앞으로"
+
+msgid "StringLiteral_11085"
+msgstr ""
+
+msgid "StringLiteral_11086"
+msgstr "SHOP 구입 시작 label="
+
+msgid "StringLiteral_11088"
+msgstr "SHOP 지정한 라벨의 제품을 찾을 수 없음 label="
+
+msgid "StringLiteral_11089"
+msgstr "SHOP 상품 만료 label="
+
+msgid "StringLiteral_11090"
+msgstr "SHOP 통신 에러 발생 label="
+
+msgid "StringLiteral_11115"
+msgstr "★５ 1장 확정"
+
+msgid "StringLiteral_11117"
+msgstr "데카르 가챠"
+
+msgid "StringLiteral_11118"
+msgstr "★４ 이상 1장 확정"
+
+msgid "StringLiteral_11128"
+msgstr "초심자"
+
+msgid "StringLiteral_11129"
+msgstr "할인"
+
+msgid "StringLiteral_11130"
+msgstr "일반"
+
+msgid "StringLiteral_11136"
+msgstr "3D 표준"
+
+msgid "StringLiteral_11137"
+msgstr "3D 경량"
+
+msgid "StringLiteral_11139"
+msgstr "커스텀"
+
+msgid "StringLiteral_11163"
+msgstr "그 외"
+
+msgid "StringLiteral_11164"
+msgstr "풀콤보"
+
+msgid "StringLiteral_11165"
+msgstr "퍼펙트 풀콤보"
+
+msgid "StringLiteral_11167"
+msgstr "들어가지 않고"
+
+msgid "StringLiteral_11168"
+msgstr "발키리 모드"
+
+msgid "StringLiteral_11170"
+msgstr "가희 모드"
+
+msgid "StringLiteral_11171"
+msgstr "초가희 모드"
+
+msgid "StringLiteral_11173"
+msgstr "사용하지 않음"
+
+msgid "StringLiteral_11174"
+msgstr "사용했다"
+
+msgid "StringLiteral_11428"
+msgstr "지원 공격"
+
+msgid "StringLiteral_11429"
+msgstr "총공격"
+
+msgid "StringLiteral_11430"
+msgstr "마크로스 캐논"
+
+msgid "StringLiteral_11431"
+msgstr "일반 공격"
+
+msgid "StringLiteral_11476"
+msgstr "등록"
+
+msgid "StringLiteral_11477"
+msgstr "해제"
+
+msgid "StringLiteral_11776"
+msgstr "정보"
+
+msgid "StringLiteral_11781"
+msgstr "새 버전 감지 mver= "
+
+msgid "StringLiteral_11855"
+msgstr "Install : Start reception. / 배치 인스톨러　시작 접수  status = {0}"
+
+msgid "StringLiteral_11856"
+msgstr "Install : Accept debut reception / 배치 인스톨러　결제 개시"
+
+msgid "StringLiteral_11857"
+msgstr "Install : Stop / 배치 인스톨러　정지 접수  status = {0}"
+
+msgid "StringLiteral_11858"
+msgstr "Install : Interruption / 배치 인스톨러　허용 중단"
+
+msgid "StringLiteral_11859"
+msgstr "Install : Done/ 배치 인스톨러　정지 완료"
+
+msgid "StringLiteral_11860"
+msgstr "Install : Waiting / 배치 인스톨러　정지 대기 {0}"
+
+msgid "StringLiteral_11861"
+msgstr "Install : non-stop module waiver/ 배치 인스톨러　비정지 모듈 포기"
+
+msgid "StringLiteral_11862"
+msgstr "Install : Number of installed modules that did not complete the shutdown process/ 배치 인스톨러　정지 처리가 완료되지 않은 설치 모듈 수 {0}"
+
+msgid "StringLiteral_11863"
+msgstr "Install : Generate installation modules for abandonment/ 배치 인스톨러　포기한 만큼 설치 모듈 생성 {0}"
+
+msgid "StringLiteral_11865"
+msgstr "Install : Batch Installer Number of modules installed Active:{0} Waiting:{1}/ 배치 인스톨러　설치 모듈 수　가동 중:{0}　대기 중:{1}"
+
+msgid "StringLiteral_11845"
+msgstr "화"
+
+msgid "StringLiteral_11846"
+msgstr "수"
+
+msgid "StringLiteral_11847"
+msgstr "목"
+
+msgid "StringLiteral_11848"
+msgstr "금"
+
+msgid "StringLiteral_11849"
+msgstr "토"
+
+msgid "StringLiteral_11911"
+msgstr "클라이언트 에러"
+
+msgid "StringLiteral_11912"
+msgstr "친구 신청 완료"
+
+msgid "StringLiteral_11913"
+msgstr "친구 한도"
+
+msgid "StringLiteral_11914"
+msgstr "친구 확인"
+
+msgid "StringLiteral_11915"
+msgstr "검색 실패"
+
+msgid "StringLiteral_11916"
+msgstr "연계 실패"
+
+msgid "StringLiteral_11917"
+msgstr "신청 실패"
+
+msgid "StringLiteral_11918"
+msgstr "통신 에러"
+
+msgid "StringLiteral_11920"
+msgstr "\\n\\n에러 코드 : "
+
+msgid "StringLiteral_11921"
+msgstr "데이터 갱신"
+
+msgid "StringLiteral_11922"
+msgstr "날짜 변경"
+
+msgid "StringLiteral_11923"
+msgstr "날짜가 변경되었습니다."
+
+msgid "StringLiteral_11927"
+msgstr "스토리지 에러"
+
+msgid "StringLiteral_11928"
+msgstr "파일 다운로드에 실패했습니다.\\n스토리지에 여유 공간이 충분하지 않은 경우\\n이 메시지가 표시될 수 있습니다.\\n다시 시도하시겠습니까?"
+
+msgid "StringLiteral_11929"
+msgstr "다운로드 에러"
+
+msgid "StringLiteral_11930"
+msgstr "파일 다운로드에 실패했습니다.\\n인터넷 연결 및 전파 상태를 확인하고,\\n다시 한 번 시도해 보세요."
+
+msgid "StringLiteral_11955"
+msgstr "통신 시간이 초과되었습니다. 다시 시도하시겠습니까?\\n취소하면 타이틀 화면으로 돌아갑니다."
+
+msgid "StringLiteral_11956"
+msgstr "통신 시간이 초과되었습니다.\\n타이틀 화면으로 돌아갑니다."
+
+msgid "StringLiteral_11962"
+msgstr "에러"
+
+msgid "StringLiteral_11972"
+msgstr "내부 에러"
+
+msgid "StringLiteral_11973"
+msgstr "에러가 발생했습니다.\\n타이틀 화면으로 돌아갑니다."
+
+msgid "StringLiteral_11992"
+msgstr "배치 인스톨러　설치 모듈 생성 실패"
+
+msgid "StringLiteral_12004"
+msgstr "선물"
+
+msgid "StringLiteral_12005"
+msgstr "터치"
+
+msgid "StringLiteral_12010"
+msgstr "코스튬 이름"
+
+msgid "StringLiteral_12037"
+msgstr ""
+
+msgid "StringLiteral_12038"
+msgstr ""
+
+msgid "StringLiteral_12097"
+msgstr " (우타 마크로스"
+
+msgid "StringLiteral_12139"
+msgstr "오퍼레이션 완료"
+
+msgid "StringLiteral_12141"
+msgstr "소대"
+
+msgid "StringLiteral_12148"
+msgstr ""
+
+msgid "StringLiteral_12149"
+msgstr ""
+
+msgid "StringLiteral_12150"
+msgstr ""
+
+msgid "StringLiteral_12151"
+msgstr ""
+
+msgid "StringLiteral_12152"
+msgstr ""
+
+msgid "StringLiteral_12215"
+msgstr "잠금 해제 조건"
+
+msgid "StringLiteral_12223"
+msgstr "<color=red>노래 삭제="
+
+msgid "StringLiteral_12297"
+msgstr "증가"
+
+msgid "StringLiteral_12298"
+msgstr "획득 "
+
+msgid "StringLiteral_12300"
+msgstr "증가 "
+
+msgid "StringLiteral_12326"
+msgstr "추가 초보자 세트"
+
+msgid "StringLiteral_12327"
+msgstr "실속 세트 A"
+
+msgid "StringLiteral_12328"
+msgstr "실속 세트 B"
+
+msgid "StringLiteral_12329"
+msgstr "가정석 세트 A"
+
+msgid "StringLiteral_12330"
+msgstr "가정석 세트 B"
+
+msgid "StringLiteral_12331"
+msgstr "가정석 세트 C"
+
+msgid "StringLiteral_12332"
+msgstr "가정석 세트 D"
+
+msgid "StringLiteral_12333"
+msgstr "가정석 세트 E"
+
+msgid "StringLiteral_12334"
+msgstr "가정석 세트 F"
+
+msgid "StringLiteral_12335"
+msgstr "가정석 세트 G"
+
+msgid "StringLiteral_12459"
+msgstr "통신 시간이 초과되었습니다."
+
+msgid "StringLiteral_12462"
+msgstr "에러가 발생했습니다.\\n\\n(에러 코드 : {0})"
+
+msgid "StringLiteral_12526"
+msgstr "범용"
+
+msgid "StringLiteral_12528"
+msgstr "전용"
+
+msgid "StringLiteral_12532"
+msgstr "GPGS 로그인 버튼 표시"
+
+msgid "StringLiteral_12533"
+msgstr "GPGS 로그인 버튼을 표시하지 않음"
+
+msgid "StringLiteral_12534"
+msgstr "GPGS 저장 데이터가 존재하지 않음"
+
+msgid "StringLiteral_12540"
+msgstr "로그인 지속"
+
+msgid "StringLiteral_12541"
+msgstr "로그아웃됨"
+
+msgid "StringLiteral_12573"
+msgstr "GPGS 로그인 성공"
+
+msgid "StringLiteral_12574"
+msgstr "GPGS 로그인 실패"
+
+msgid "StringLiteral_12619"
+msgstr ""
+
+msgid "StringLiteral_12640"
+msgstr "<color=cyan>로컬 저장 데이터 재작성</color>"
+
+msgid "StringLiteral_12692"
+msgstr "에너지 완전 회복"
+
+msgid "StringLiteral_12693"
+msgstr "공지"
+
+msgid "StringLiteral_12695"
+msgstr "데코르챠 모드"
+
+msgid "StringLiteral_12696"
+msgstr "기한이 있는 아이템"
+
+msgid "StringLiteral_12839"
+msgstr "프롤로그 시작"
+
+msgid "StringLiteral_12840"
+msgstr "에셋 DL 0%"
+
+msgid "StringLiteral_12841"
+msgstr "에셋 DL 10%"
+
+msgid "StringLiteral_12842"
+msgstr "에셋 DL 20%"
+
+msgid "StringLiteral_12843"
+msgstr "에셋 DL 30%"
+
+msgid "StringLiteral_12844"
+msgstr "에셋 DL 40%"
+
+msgid "StringLiteral_12845"
+msgstr "에셋 DL 50%"
+
+msgid "StringLiteral_12846"
+msgstr "에셋 DL 60%"
+
+msgid "StringLiteral_12847"
+msgstr "에셋 DL 70%"
+
+msgid "StringLiteral_12848"
+msgstr "에셋 DL 80%"
+
+msgid "StringLiteral_12849"
+msgstr "에셋 DL 90%"
+
+msgid "StringLiteral_12850"
+msgstr "에셋 DL 100%"
+
+msgid "StringLiteral_12851"
+msgstr "어드벤처 1"
+
+msgid "StringLiteral_12852"
+msgstr "타이밍 조정"
+
+msgid "StringLiteral_12853"
+msgstr "타이밍 조정 재시도"
+
+msgid "StringLiteral_12854"
+msgstr "라이브 1회차"
+
+msgid "StringLiteral_12855"
+msgstr "라이브 1회차 스킵"
+
+msgid "StringLiteral_12856"
+msgstr "라이브 1회차 종료"
+
+msgid "StringLiteral_12857"
+msgstr "어드벤처 2 시작"
+
+msgid "StringLiteral_12858"
+msgstr "가챠 목록"
+
+msgid "StringLiteral_12859"
+msgstr "가챠 시작"
+
+msgid "StringLiteral_12860"
+msgstr "가챠 배출"
+
+msgid "StringLiteral_12861"
+msgstr "유닛 편성 시작"
+
+msgid "StringLiteral_12862"
+msgstr "유닛 편성 완료"
+
+msgid "StringLiteral_12863"
+msgstr "라이브 2회차"
+
+msgid "StringLiteral_12864"
+msgstr "라이브 2회차 스킵"
+
+msgid "StringLiteral_12865"
+msgstr "라이브 2회차 종료"
+
+msgid "StringLiteral_12866"
+msgstr "어드벤처 3 시작"
+
+msgid "StringLiteral_12867"
+msgstr "초시공 SNS 시작"
+
+msgid "StringLiteral_12868"
+msgstr "초시공 SNS 종료"
+
+msgid "StringLiteral_12869"
+msgstr "이름 입력"
+
+msgid "StringLiteral_12870"
+msgstr "이름 입력 완료"
+
+msgid "StringLiteral_12871"
+msgstr "가희 선택"
+
+msgid "StringLiteral_12872"
+msgstr "가희 등장"
+
+msgid "StringLiteral_12873"
+msgstr "발키리 등장"
+
+msgid "StringLiteral_12874"
+msgstr "메인 에셋 DL 0%"
+
+msgid "StringLiteral_12875"
+msgstr "메인 에셋 DL 10%"
+
+msgid "StringLiteral_12876"
+msgstr "메인 에셋 DL 20%"
+
+msgid "StringLiteral_12877"
+msgstr "메인 에셋 DL 30%"
+
+msgid "StringLiteral_12878"
+msgstr "메인 에셋 DL 40%"
+
+msgid "StringLiteral_12879"
+msgstr "메인 에셋 DL 50%"
+
+msgid "StringLiteral_12880"
+msgstr "메인 에셋 DL 60%"
+
+msgid "StringLiteral_12881"
+msgstr "메인 에셋 DL 70%"
+
+msgid "StringLiteral_12882"
+msgstr "메인 에셋 DL 80%"
+
+msgid "StringLiteral_12883"
+msgstr "메인 에셋 DL 90%"
+
+msgid "StringLiteral_12884"
+msgstr "메인 에셋 DL 100%"
+
+msgid "StringLiteral_12885"
+msgstr "로그인 보너스"
+
+msgid "StringLiteral_12886"
+msgstr "홈 화면 화면 도달"
+
+msgid "StringLiteral_12887"
+msgstr "미션 화면 도달"
+
+msgid "StringLiteral_12888"
+msgstr "일반 드롭"
+
+msgid "StringLiteral_12889"
+msgstr "스토리 드롭"
+
+msgid "StringLiteral_12890"
+msgstr "결제"
+
+msgid "StringLiteral_12891"
+msgstr "가챠"
+
+msgid "StringLiteral_12892"
+msgstr "라이브 달성"
+
+msgid "StringLiteral_12893"
+msgstr "선물상자"
+
+msgid "StringLiteral_11202"
+msgstr "무료 가챠"
+
+msgid "StringLiteral_11203"
+msgstr "초시공 가챠 티켓"
+
+msgid "StringLiteral_11216"
+msgstr "데일리 미션"
+
+msgid "StringLiteral_11217"
+msgstr "SNS 미션"
+
+msgid "StringLiteral_11218"
+msgstr "데뷔 미션"
+
+msgid "StringLiteral_11219"
+msgstr "노멀 미션"
+
+msgid "StringLiteral_11220"
+msgstr "이벤트 미션"
+
+msgid "StringLiteral_11221"
+msgstr "빙고 미션"
+
+msgid "StringLiteral_11223"
+msgstr "신청"
+
+msgid "StringLiteral_11224"
+msgstr "승인"
+
+msgid "StringLiteral_11225"
+msgstr "삭제"
+
+msgid "StringLiteral_11226"
+msgstr "신청 거부"
+
+msgid "StringLiteral_11227"
+msgstr "신청 취소"
+
+msgid "StringLiteral_11245"
+msgstr "가정석"
+
+msgid "StringLiteral_11248"
+msgstr "이미 답변됨"
+
+msgid "StringLiteral_12894"
+msgstr "이벤트 달성 pt"
+
+msgid "StringLiteral_12895"
+msgstr "로그인 보너스"
+
+msgid "StringLiteral_12896"
+msgstr "이벤트 로그인 보너스"
+
+msgid "StringLiteral_12897"
+msgstr "상점"
+
+msgid "StringLiteral_12898"
+msgstr "이벤트 박스 가챠"
+
+msgid "StringLiteral_12899"
+msgstr "추가 통화 자동 변환"
+
+msgid "StringLiteral_12900"
+msgstr "AR 칭호 획득"
+
+msgid "StringLiteral_12901"
+msgstr "친밀도 최초 선물"
+
+msgid "StringLiteral_12902"
+msgstr "친밀도 보상"
+
+msgid "StringLiteral_12903"
+msgstr "미션 이벤트 훈장"
+
+msgid "StringLiteral_12904"
+msgstr "배틀 이벤트의 클래스 칭호"
+
+msgid "StringLiteral_12905"
+msgstr "VF 오퍼레이션"
+
+msgid "StringLiteral_12906"
+msgstr "VF 오퍼레이션 최초 보상"
+
+msgid "StringLiteral_12907"
+msgstr "의상 강화"
+
+msgid "StringLiteral_12908"
+msgstr "월간 패스 로그인 보너스"
+
+msgid "StringLiteral_12909"
+msgstr "월간 패스 지속 특전"
+
+msgid "StringLiteral_12910"
+msgstr "VF 오퍼레이션 가정석"
+
+msgid "StringLiteral_12911"
+msgstr "발키리 스킬 강화"
+
+msgid "StringLiteral_12912"
+msgstr "레이드 보스 격파"
+
+msgid "StringLiteral_12913"
+msgstr "레이드 보스 MVP"
+
+msgid "StringLiteral_12914"
+msgstr "레이드 보스 퍼스트"
+
+msgid "StringLiteral_12915"
+msgstr "데코 상점"
+
+msgid "StringLiteral_12916"
+msgstr "메달 생성기"
+
+msgid "StringLiteral_12917"
+msgstr "트레저 박스"
+
+msgid "StringLiteral_12918"
+msgstr "룸 방문"
+
+msgid "StringLiteral_12919"
+msgstr "레이드 튜토리얼"
+
+msgid "StringLiteral_12920"
+msgstr "AP 회복 덤"
+
+msgid "StringLiteral_12921"
+msgstr "레어업 스타 자동 변환"
+
+msgid "StringLiteral_12922"
+msgstr "라이브 스킬 티켓 받기"
+
+msgid "StringLiteral_12923"
+msgstr "레어업 스타 사용"
+
+msgid "StringLiteral_12924"
+msgstr "시크릿 보드 확장"
+
+msgid "StringLiteral_12925"
+msgstr "노래 등급 도달 보상"
+
+msgid "StringLiteral_12926"
+msgstr "월간 스페셜 패스 로그인 보너스"
+
+msgid "StringLiteral_12927"
+msgstr "기타"
+
+msgid "StringLiteral_12928"
+msgstr "이벤트 스토리"
+
+msgid "StringLiteral_12929"
+msgstr "슬라이드 배너"
+
+msgid "StringLiteral_12930"
+msgstr "이벤트 홈 화면"
+
+msgid "StringLiteral_12931"
+msgstr "이벤트 데일리"
+
+msgid "StringLiteral_12932"
+msgstr "설정 버튼"
+
+msgid "StringLiteral_12933"
+msgstr "이벤트 배너"
+
+msgid "StringLiteral_12934"
+msgstr "이벤트 벌룬"
+
+msgid "StringLiteral_12935"
+msgstr "특설 이벤트 홈"
+
+msgid "StringLiteral_12936"
+msgstr "홈 자동 재생"
+
+msgid "StringLiteral_12937"
+msgstr "능력 보드"
+
+msgid "StringLiteral_12943"
+msgstr "발키리 소대"
+
+msgid "StringLiteral_13053"
+msgstr ""
+
+msgid "StringLiteral_13085"
+msgstr "아이템"
+
+msgid "StringLiteral_13101"
+msgstr "5분 이내"
+
+msgid "StringLiteral_13102"
+msgstr "분 전"
+
+msgid "StringLiteral_13103"
+msgstr "시간 전"
+
+msgid "StringLiteral_13104"
+msgstr "일 전"
+
+msgid "StringLiteral_13105"
+msgstr "365일 이상"
+
+msgid "StringLiteral_13106"
+msgstr "1시간 전"
+
+msgid "StringLiteral_13160"
+msgstr "EX 폭주 에너미 출현"
+
+msgid "StringLiteral_13162"
+msgstr "미라쥬 「EX 폭주 에너미가 출현했습니다!」"
+
+msgid "StringLiteral_13238"
+msgstr "<color=red>화살표 레이아웃이 NULL입니다.</color>"
+
+msgid "StringLiteral_13316"
+msgstr "디폴트 3D 모드 설정 : "
+
+msgid "StringLiteral_13620"
+msgstr " - 지원되지 않는 모양이 전달되었습니다.\\n   {0}"
+
+msgid "StringLiteral_13959"
+msgstr ""
+
+msgid "StringLiteral_13975"
+msgstr "EX 레이트 ="
+
+msgid "StringLiteral_13976"
+msgstr ", EX 스코어 효과 ="
+
+msgid "StringLiteral_13977"
+msgstr ", CL 스킬 ="
+
+msgid "StringLiteral_14007"
+msgstr ""
+
+msgid "StringLiteral_14024"
+msgstr ""
+
+msgid "StringLiteral_14032"
+msgstr "애니메이션 테이블 수 이상의 키 프레임 번호가 지정되었습니다."
+
+msgid "StringLiteral_14355"
+msgstr "오늘은 표시하지 않음"
+
+msgid "StringLiteral_14401"
+msgstr "=+버튼"
+
+msgid "StringLiteral_14411"
+msgstr "이미지를 공유할 어플을 선택해 주세요."
+
+msgid "StringLiteral_14529"
+msgstr "ーーー"
+
+msgid "StringLiteral_14769"
+msgstr "{0} 님"
+
+msgid "StringLiteral_14832"
+msgstr "뚜껑"
+
+msgid "StringLiteral_14844"
+msgstr ""
+
+msgid "StringLiteral_14845"
+msgstr ""
+
+msgid "StringLiteral_15053"
+msgstr "에피소드 \""
+
+msgid "StringLiteral_15054"
+msgstr ""
+
+msgid "StringLiteral_15055"
+msgstr " 전용 의상"
+
+msgid "StringLiteral_15265"
+msgstr "보유:"
+
+msgid "StringLiteral_15475"
+msgstr "홈으로 돌아가기"
+
+msgid "StringLiteral_15476"
+msgstr "방문 리스트"
+
+msgid "StringLiteral_15477"
+msgstr "일괄 회수"
+
+msgid "StringLiteral_15478"
+msgstr "거점 이름 변경"
+
+msgid "StringLiteral_15479"
+msgstr "<color=red>** 데코 포인트 교환소를 찾을 수 없음 **</color>"
+
+msgid "StringLiteral_15480"
+msgstr "교환소"
+
+msgid "StringLiteral_15497"
+msgstr "에너지 충전기"
+
+msgid "StringLiteral_15509"
+msgstr "스탬프 목록"
+
+msgid "StringLiteral_15510"
+msgstr "스탬프 제작"
+
+msgid "StringLiteral_15524"
+msgstr "갱신"
+
+msgid "StringLiteral_15525"
+msgstr "제작"
+
+msgid "StringLiteral_15528"
+msgstr "선택"
+
+msgid "StringLiteral_15538"
+msgstr "저장"
+
+msgid "StringLiteral_15542"
+msgstr "이름 변경"
+
+msgid "StringLiteral_15546"
+msgstr "타인의 데코룸: 방문 목록을 통해"
+
+msgid "StringLiteral_15553"
+msgstr "내 데코룸으로 돌아가기"
+
+msgid "StringLiteral_15554"
+msgstr "방문 데코룸에서 로비로 돌아가기"
+
+msgid "StringLiteral_15651"
+msgstr "수동"
+
+msgid "StringLiteral_15697"
+msgstr ""
+
+msgid "StringLiteral_15750"
+msgstr "다음 보상까지 {0} {1}"
+
+msgid "StringLiteral_15778"
+msgstr "추가 보상"
+
+msgid "StringLiteral_15794"
+msgstr "앞으로 {0} {1}"
+
+msgid "StringLiteral_15830"
+msgstr "한 번에 사용할 수 있는 아이템은"
+
+msgid "StringLiteral_15831"
+msgstr "개까지입니다."
+
+msgid "StringLiteral_16059"
+msgstr "최종 로그인:"
+
+msgid "StringLiteral_16060"
+msgstr "신청:"
+
+msgid "StringLiteral_16095"
+msgstr "타인의 데코룸: 친구 목록을 통해"
+
+msgid "StringLiteral_16155"
+msgstr "의상 목록 클릭 : {0} : {1}"
+
+msgid "StringLiteral_16162"
+msgstr "【해방 조건】\\n\\n플레이어 랭크 8 달성."
+
+msgid "StringLiteral_16170"
+msgstr "선물 목록 클릭 : {0} : {1}"
+
+msgid "StringLiteral_16338"
+msgstr "유저 리스트 실패"
+
+msgid "StringLiteral_16339"
+msgstr "유저 친구 리스트 성공 "
+
+msgid "StringLiteral_16417"
+msgstr "최초 어드벤처"
+
+msgid "StringLiteral_16418"
+msgstr "자신의 데코룸"
+
+msgid "StringLiteral_16419"
+msgstr "【해방 조건】\\n\\n플레이어 랭크 5 달성."
+
+msgid "StringLiteral_16496"
+msgstr "해방하지 않은 캐릭터로는\\n친밀도를 높일 수 없습니다."
+
+msgid "StringLiteral_16775"
+msgstr "배치 수 {0:D2} / {1:D2}"
+
+msgid "StringLiteral_17240"
+msgstr ""
+
+msgid "StringLiteral_17446"
+msgstr "사시스세소"
+
+msgid "StringLiteral_17754"
+msgstr ""
+
+msgid "StringLiteral_17777"
+msgstr "획득한 아이템은 없습니다."
+
+msgid "StringLiteral_17787"
+msgstr ""
+
+msgid "StringLiteral_17788"
+msgstr "(UC 아이템은 {0}UC로 변환되었습니다)"
+
+msgid "StringLiteral_17823"
+msgstr "소비 보너스"
+
+msgid "StringLiteral_17824"
+msgstr "배"
+
+msgid "StringLiteral_17960"
+msgstr "{0}회"
+
+msgid "StringLiteral_18022"
+msgstr "사용 스킬"
+
+msgid "StringLiteral_18023"
+msgstr "{0}초"
+
+msgid "StringLiteral_18024"
+msgstr ""
+
+msgid "StringLiteral_18054"
+msgstr "~{0}초"
+
+msgid "StringLiteral_18067"
+msgstr "에너지가 {0}(으)로 회복되었습니다"
+
+msgid "StringLiteral_18280"
+msgstr "프리즘"
+
+msgid "StringLiteral_18575"
+msgstr "미달성"
+
+msgid "StringLiteral_18787"
+msgstr "획득 유니온 크레딧"
+
+msgid "StringLiteral_18797"
+msgstr "소대 선택"
+
+msgid "StringLiteral_18843"
+msgstr "결과 화면"
+
+msgid "StringLiteral_18923"
+msgstr "오퍼 선택"
+
+msgid "StringLiteral_18944"
+msgstr "형태 선택"
+
+msgid "StringLiteral_18949"
+msgstr "발키리 선택"
+
+msgid "StringLiteral_19017"
+msgstr "생일"
+
+msgid "StringLiteral_19018"
+msgstr ""
+
+msgid "StringLiteral_19422"
+msgstr "랭킹"
+
+msgid "StringLiteral_19427"
+msgstr ""
+
+msgid "StringLiteral_19428"
+msgstr "위:"
+
+msgid "StringLiteral_19432"
+msgstr ""
+
+msgid "StringLiteral_19433"
+msgstr "이벤트 악곡의 레어 드롭"
+
+msgid "StringLiteral_19505"
+msgstr ""
+
+msgid "StringLiteral_19538"
+msgstr "임팩트"
+
+msgid "StringLiteral_19639"
+msgstr "무기한"
+
+msgid "StringLiteral_19612"
+msgstr "유닛 세트"
+
+msgid "StringLiteral_19704"
+msgstr "타인의 데코룸: 프로필을 통해"
+
+msgid "StringLiteral_19851"
+msgstr "{0}명"
+
+msgid "StringLiteral_19875"
+msgstr "이벤트 집계 중입니다."
+
+msgid "StringLiteral_20178"
+msgstr ""
+
+msgid "StringLiteral_20179"
+msgstr "의 최대 칸 수="
+
+msgid "StringLiteral_20180"
+msgstr "그런데도 "
+
+msgid "StringLiteral_20181"
+msgstr "밖에 칸이 없음."
+
+msgid "StringLiteral_20290"
+msgstr ""
+
+msgid "StringLiteral_20367"
+msgstr "ー"
+
+msgid "StringLiteral_20369"
+msgstr ""
+
+msgid "StringLiteral_20382"
+msgstr "(2회 사용 가능)"
+
+msgid "StringLiteral_20383"
+msgstr "<color={0}>(2회 사용 가능)</color>"
+
+msgid "StringLiteral_20406"
+msgstr "필터 버튼이 눌려졌습니다"
+
+msgid "StringLiteral_20448"
+msgstr "모션이 지정되지 않았거나 모션 수를 초과했습니다.[ "
+
+msgid "StringLiteral_20457"
+msgstr "심플 모델에는 가희 ID가 설정되어 있지 않습니다."
+
+msgid "StringLiteral_20458"
+msgstr "심플 모델에는 의상 모델 ID가 설정되어 있지 않습니다."
+
+msgid "StringLiteral_20469"
+msgstr "심플 모델에서 설정할 수 있는 모션 수를 초과하였습니다.[ "
+
+msgid "StringLiteral_20470"
+msgstr "심플 모델에서 설정할 수 있는 루프 모션 수를 초과했습니다.[ "
+
+msgid "StringLiteral_20803"
+msgstr ""
+
+msgid "StringLiteral_20810"
+msgstr ""
+
+msgid "StringLiteral_20864"
+msgstr "자동 편성"
+
+msgid "StringLiteral_20882"
+msgstr ""
+
+msgid "StringLiteral_21607"
+msgstr ""
+
+msgid "UMO_login_38788_name"
+msgstr "의상 해방 응원 로그인 보너스③"
+
+msgid "UMO_login_38788_desc"
+msgstr "의상 해방 응원 로그인 보너스③"
+
+msgid "UMO_login_38788_prize1_msg"
+msgstr "특별 로그인 보너스 선물입니다."
+
+msgid "UMO_login_10665_name"
+msgstr "컴백 로그인 보너스 28일간 비로그인"
+
+msgid "UMO_login_10665_desc"
+msgstr "컴백 로그인 보너스 28일간 비로그인\\n"
+
+msgid "UMO_login_10666_name"
+msgstr "컴백 로그인 보너스 28일간 비로그인　가정석"
+
+msgid "UMO_login_10666_desc"
+msgstr "컴백 로그인 보너스 28일간 비로그인　가정석"
+
+msgid "UMO_login_7740_name"
+msgstr "로그인 보너스"
+
+msgid "UMO_login_7740_desc"
+msgstr "매일 1회 로그인 시 한 번씩 선물을 받을 수 있어!"
+
+msgid "UMO_login_7740_prize1_msg"
+msgstr "로그인 보너스 선물입니다.\\t"
+
+msgid "UMO_login_7740_prize2_msg"
+msgstr "로그인 보너스 선물입니다."
+
+msgid "UMO_login_6541_name"
+msgstr "스타트 대시 로그인 보너스"
+
+msgid "UMO_login_6541_desc"
+msgstr "게임 시작 후 7일째까지 받을 수 있는 로그인 보너스입니다."
+
+msgid "UMO_login_6541_prize1_msg"
+msgstr "스타트 대시 로그인 보너스입니다."
+
+msgid "UMO_achievements_normal_quest"
+msgstr "노멀 미션 달성 보상입니다."
+
+msgid "UMO_achievements_daily_quest"
+msgstr ""
+
+msgid "UMO_achievements_episode"
+msgstr "에피소드 해방 보상입니다."
+
+msgid "UMO_achievements_debut_quest"
+msgstr "데일리 미션 달성 보상입니다."
+
+msgid "UMO_achievements_new_offer"
+msgstr "발키리 오퍼레이션 최초 달성 보상입니다."
+
+msgid "UMO_achievements_costume"
+msgstr "의상 강화 캬와와 랭크업 보상입니다."
+
+msgid "UMO_achievements_freemusic"
+msgstr ""
+
+msgid "UMO_currency_1001_desc"
+msgstr "게임 내에서 구입할 수 있는 가상 통화"
+
+msgid "UMO_currency_2002_name"
+msgstr "★5 확정 가챠 티켓 A"
+
+msgid "UMO_currency_2002_desc"
+msgstr "★5 확정 가챠를 뽑기 위한 티켓"
+
+msgid "UMO_currency_2003_name"
+msgstr "★5 확정 가챠 티켓 B"
+
+msgid "UMO_currency_2003_desc"
+msgstr "★5 확정 가챠를 뽑기 위한 티켓"
+
+msgid "UMO_currency_2004_name"
+msgstr "★5 확정 가챠 티켓 C"
+
+msgid "UMO_currency_2004_desc"
+msgstr "★5 확정 가챠를 뽑기 위한 티켓"
+
+msgid "UMO_currency_2008_name"
+msgstr "★5 확정 로그인 보너스 가챠 티켓　5월"
+
+msgid "UMO_currency_2008_desc"
+msgstr "로그인 보너스 용 ★5 확정 가챠를 뽑기 위한 티켓"
+
+msgid "UMO_currency_2009_name"
+msgstr "★5 확정 로그인 보너스 가챠 티켓　6월"
+
+msgid "UMO_currency_2009_desc"
+msgstr "로그인 보너스 용 ★5 확정 가챠를 뽑기 위한 티켓"
+
+msgid "UMO_currency_2010_name"
+msgstr "★5 확정 로그인 보너스 가챠 티켓　7월"
+
+msgid "UMO_currency_2010_desc"
+msgstr "로그인 보너스 용 ★5 확정 가챠를 뽑기 위한 티켓"
+
+msgid "UMO_currency_2101_name"
+msgstr "데카르 가챠 티켓"
+
+msgid "UMO_currency_2101_desc"
+msgstr "데카르 가챠를 뽑기 위한 티켓"
+
+msgid "UMO_currency_2201_name"
+msgstr "이벤트 가챠 티켓 (수집 A)"
+
+msgid "UMO_currency_2201_desc"
+msgstr "수집 이벤트 보상용, 데카르 가챠를 뽑기 위한 티켓"
+
+msgid "UMO_currency_2202_name"
+msgstr "이벤트 가챠 티켓 (수집 B)"
+
+msgid "UMO_currency_2202_desc"
+msgstr "수집 이벤트 보상용, 데카르 가챠를 뽑기 위한 티켓"
+
+msgid "UMO_currency_2203_name"
+msgstr "이벤트 가챠 티켓 (수집 C)"
+
+msgid "UMO_currency_2203_desc"
+msgstr "수집 이벤트 보상용, 데카르 가챠를 뽑기 위한 티켓"
+
+msgid "UMO_currency_2204_name"
+msgstr "이벤트 가챠 티켓 (미션 A)"
+
+msgid "UMO_currency_2204_desc"
+msgstr "미션 이벤트 보상용, 데카르 가챠를 뽑기 위한 티켓"
+
+msgid "UMO_currency_2205_name"
+msgstr "이벤트 가챠 티켓 (미션 B)"
+
+msgid "UMO_currency_2205_desc"
+msgstr "미션 이벤트 보상용, 데카르 가챠를 뽑기 위한 티켓"
+
+msgid "UMO_currency_2206_name"
+msgstr "이벤트 가챠 티켓 (미션 C)"
+
+msgid "UMO_currency_2206_desc"
+msgstr "미션 이벤트 보상용, 데카르 가챠를 뽑기 위한 티켓"
+
+msgid "UMO_currency_2207_name"
+msgstr "이벤트 가챠 티켓 (가희-배틀 A)"
+
+msgid "UMO_currency_2207_desc"
+msgstr "배틀 이벤트 보상용, 데카르 가챠를 뽑기 위한 티켓"
+
+msgid "UMO_currency_2208_name"
+msgstr "이벤트 가챠 티켓 (가희-배틀 B)"
+
+msgid "UMO_currency_2208_desc"
+msgstr "배틀 이벤트 보상용, 데카르 가챠를 뽑기 위한 티켓"
+
+msgid "UMO_currency_2209_name"
+msgstr "이벤트 가챠 티켓 (가희-배틀 C)"
+
+msgid "UMO_currency_2209_desc"
+msgstr "배틀 이벤트 보상용, 데카르 가챠를 뽑기 위한 티켓"
+
+msgid "UMO_currency_3001_name"
+msgstr "스프링 스피어"
+
+msgid "UMO_currency_3001_desc"
+msgstr "가정석 구입 덤 (3/1～5/31)"
+
+msgid "UMO_currency_3002_name"
+msgstr "섬머 스피어"
+
+msgid "UMO_currency_3002_desc"
+msgstr "가정석 구입 덤 (6/1～8/31)"
+
+msgid "UMO_currency_3003_name"
+msgstr "오텀 스피어"
+
+msgid "UMO_currency_3003_desc"
+msgstr "가정석 구입 덤 (9/1～11/30)"
+
+msgid "UMO_currency_3004_name"
+msgstr "윈터 스피어"
+
+msgid "UMO_currency_3004_desc"
+msgstr "가정석 구입 덤 (12/1～2/28)"
+
+msgid "UMO_currency_3005_name"
+msgstr "의상 해방 플레이트 교환권"
+
+msgid "UMO_currency_3005_desc"
+msgstr "의상 해방 플레이트 교환권"
+
+msgid "UMO_currency_4001_name"
+msgstr "냥쿠지☆선택권"
+
+msgid "UMO_currency_4001_desc"
+msgstr "냥쿠지☆선택용"
+
+msgid "UMO_currency_4002_name"
+msgstr "냥쿠지☆선택권 B"
+
+msgid "UMO_currency_4002_desc"
+msgstr "냥쿠지☆선택용"
+
+msgid "UMO_currency_4003_name"
+msgstr "냥쿠지☆선택권 C"
+
+msgid "UMO_currency_4003_desc"
+msgstr "냥쿠지☆선택용"
+
+msgid "UMO_currency_4004_name"
+msgstr "냥쿠지☆선택권 D"
+
+msgid "UMO_currency_4004_desc"
+msgstr "냥쿠지☆선택용"
+
+msgid "UMO_currency_5001_name"
+msgstr "세뱃돈"
+
+msgid "UMO_currency_5001_desc"
+msgstr "세뱃돈용 통화"
+
+msgid "UMO_currency_5002_name"
+msgstr "섬머 티켓"
+
+msgid "UMO_currency_5002_desc"
+msgstr "섬머 티켓"
+
+msgid "UMO_product_178088_name"
+msgstr "★5 확정 데뷔 가챠 22 10연속"
+
+msgid "UMO_product_178088_desc_name"
+msgstr "데뷔 가챠"
+
+msgid "UMO_product_429267_name"
+msgstr "★5 확정 서비스 가챠 8"
+
+msgid "UMO_product_429267_desc_name"
+msgstr "★5 확정 서비스 가챠"
+
+msgid "UMO_product_429267_desc_desc"
+msgstr "★5 확정 서비스 가챠 사용 시\\n★5 플레이트 획득 가능\\n※2022/3/31 라인업 갱신"
+
+msgid "UMO_product_429712_name"
+msgstr "서비스 가챠 317"
+
+msgid "UMO_product_429712_desc_name"
+msgstr "서비스 가챠"
+
+msgid "UMO_product_429712_desc_desc"
+msgstr "\\n아침・낮・저녁\\n1일에 3회 가정석 소모없이 뽑을 수 있는 가챠\\n\\n「이런 서비스 1일에 3회밖에 안 한다니까?」\\n　　　　　　　　　　　　　－셰릴 놈－"
+
+msgid "UMO_product_429927_name"
+msgstr "초시공 가챠 45"
+
+msgid "UMO_product_429927_desc_name"
+msgstr "초시공 가챠"
+
+msgid "UMO_product_429927_desc_desc"
+msgstr "초시공 가챠 티켓을 소비하여\\n★1～★6의 플레이트를 획득 가능.\\n※2022/5/1 라인업 갱신"
+
+msgid "UMO_product_429928_name"
+msgstr "픽업 가챠 159"
+
+msgid "UMO_product_429928_desc_free_msg"
+msgstr "1회 무료!"
+
+msgid "UMO_product_429928_desc_name"
+msgstr "★5 이상 확정 가챠"
+
+msgid "UMO_product_429929_name"
+msgstr "픽업 가챠 159 10연속"
+
+msgid "UMO_product_429929_desc_free_msg"
+msgstr "1회 무료!"
+
+msgid "UMO_product_429929_desc_kakutei"
+msgstr "★5 이상 10장 확정"
+
+msgid "UMO_product_429929_desc_name"
+msgstr "★5 이상 확정 가챠"
+
+msgid "UMO_product_429930_name"
+msgstr "픽업 가챠 159 10연속 최초"
+
+msgid "UMO_product_429930_desc_free_msg"
+msgstr "1회 무료!"
+
+msgid "UMO_product_429930_desc_kakutei"
+msgstr "★5 이상 10장 확정"
+
+msgid "UMO_product_429930_desc_name"
+msgstr "★5 이상 확정 가챠"
+
+msgid "UMO_product_430020_name"
+msgstr "혜택 가챠 31096 10연속"
+
+msgid "UMO_product_430020_desc_free_msg"
+msgstr "10연속 무료"
+
+msgid "UMO_product_430020_desc_free_multi_msg"
+msgstr "1일 1회\\n무료!"
+
+msgid "UMO_product_430020_desc_name"
+msgstr "무료 10연속 가챠"
+
+msgid "UMO_product_67554_name"
+msgstr "이어하기"
+
+msgid "UMO_product_67554_desc"
+msgstr "게임 중 이어하기가 가능합니다."
+
+msgid "UMO_product_67572_name"
+msgstr "스태미너 회복"
+
+msgid "UMO_product_153192_name"
+msgstr "VOP 고속 완료"
+
+msgid "UMO_product_153192_desc"
+msgstr "VOP 고속 완료 실행에 사용합니다."
+
+msgid "UMO_product_167079_name"
+msgstr "AP 회복"
+
+msgid "UMO_product_222423_name"
+msgstr "AP 회복 2"
+
+msgid "UMO_product_222423_desc"
+msgstr "AP 회복(소)"
+
+msgid "UMO_product_222424_name"
+msgstr "AP 회복 3"
+
+msgid "UMO_product_222424_desc"
+msgstr "AP 회복(대)"
+
+msgid "UMO_product_428662_name"
+msgstr "2022년 봄 5월 : 봄 스피어 : 행운의 황석x1 (구입 제한 있음&5월)"
+
+msgid "UMO_product_428665_name"
+msgstr "2022년 봄 5월 : 봄스피어 : 행운의 휘석x1 (구입 제한 있음&5월)"
+
+msgid "UMO_product_428666_name"
+msgstr "2022년 봄 2월 : 봄 스피어 : 별의 결정(소)×5"
+
+msgid "UMO_product_428667_name"
+msgstr "2022년 봄 2월 : 봄 스피어 : 별의 결정(중)×5"
+
+msgid "UMO_product_428668_name"
+msgstr "2022년 봄 2월 : 봄 스피어 : 별의 결정(대)×5"
+
+msgid "UMO_product_428669_name"
+msgstr "2022년 봄 2월 : 봄 스피어 : 사랑의 결정(소)×5"
+
+msgid "UMO_product_428670_name"
+msgstr "2022년 봄 2월 : 봄 스피어 : 사랑의 결정(중)×5"
+
+msgid "UMO_product_428671_name"
+msgstr "2022년 봄 2월 : 봄 스피어 : 사랑의 결정(대)×5"
+
+msgid "UMO_product_428672_name"
+msgstr "2022년 봄 2월 : 봄 스피어 : 생명의 결정(소)×5"
+
+msgid "UMO_product_428673_name"
+msgstr "2022년 봄 2월 : 봄 스피어 : 생명의 결정(중)×5"
+
+msgid "UMO_product_428674_name"
+msgstr "2022년 봄 2월 : 봄 스피어 : 생명의 결정(대)×5"
+
+msgid "UMO_product_428675_name"
+msgstr "2022년 봄 2월 : 봄 스피어 : 멜로디 스톤(소)×20"
+
+msgid "UMO_product_428676_name"
+msgstr "2022년 봄 2월 : 봄 스피어 : 멜로디 스톤(중)×20"
+
+msgid "UMO_product_428677_name"
+msgstr "2022년봄 2월 : 봄 스피어 : 멜로디 스톤(대)×20"
+
+msgid "UMO_product_428678_name"
+msgstr "2022년 봄 2월 : 봄 스피어 : 소울 스톤(소)×20"
+
+msgid "UMO_product_428679_name"
+msgstr "2022년 봄 2월 : 봄 스피어 : 소울 스톤(중)×20"
+
+msgid "UMO_product_428680_name"
+msgstr "2022년 봄 2월 : 봄 스피어 : 소울 스톤(대)×20"
+
+msgid "UMO_product_428681_name"
+msgstr "2022년 봄 2월 : 봄 스피어 : 보이스 스톤(소)×20"
+
+msgid "UMO_product_428682_name"
+msgstr "2022년 봄 2월 : 봄 스피어 : 보이스 스톤(중)×20"
+
+msgid "UMO_product_428683_name"
+msgstr "2022년 봄 2월 : 봄 스피어 : 보이스 스톤(대)×20"
+
+msgid "UMO_product_428684_name"
+msgstr "2022년 봄 2월 : 봄 스피어 : 챰 스톤(소)×20"
+
+msgid "UMO_product_428685_name"
+msgstr "2022년 봄 2월 : 봄 스피어 : 챰 스톤(중)×20"
+
+msgid "UMO_product_428686_name"
+msgstr "2022년 봄 2월 : 봄 스피어 : 챰 스톤(대)×20"
+
+msgid "UMO_product_428687_name"
+msgstr "2022년 봄 2월 : 봄 스피어 : UC×2000"
+
+msgid "UMO_product_428690_name"
+msgstr "2022년 봄 5월 : 봄 스피어 : ★5 확정 가챠 티켓x1 (구입 제한 있음&5월)"
+
+msgid "UMO_product_428693_name"
+msgstr "2022년 봄 5월 : 봄 스피어 : 초시공 가챠 티켓x1 (구입 제한 있음&5월)"
+
+msgid "UMO_product_428696_name"
+msgstr "2022년 봄 5월 : 봄 스피어 : 시크릿 스톤x1 (구입 제한 있음&5월)"
+
+msgid "UMO_product_428699_name"
+msgstr "2022년 봄 5월 : 봄 스피어 : 에피소드 오브(대)x1 (구입 제한 있음&5월)"
+
+msgid "UMO_start_present_1"
+msgstr "우타 마크로스 특별 선물입니다."
+
+msgid "UMO_start_present_2"
+msgstr "우타 마크로스 플레이 시작 기념 선물입니다."
+
+msgid "UMO_Next"
+msgstr ""
+
+msgid "UMO_Total"
+msgstr ""
+
+msgid "UMO_Fold"
+msgstr "폴드파"
+
+msgid "UMO_Luck"
+msgstr ""
+
+msgid "UMO_Status"
+msgstr "스테이터스"
+
+msgid "UMO_SubStatus"
+msgstr "지원 플레이트 효과"
+
+msgid "UMO_CenterSkill"
+msgstr "센터 스킬"
+
+msgid "UMO_ActiveSkill"
+msgstr "엑티브 스킬"
+
+msgid "UMO_LeafLabel"
+msgstr "럭키 리프 효과"
+
+msgid "UMO_Excellent"
+msgstr ""
+
+msgid "UMO_CenterLiveSkillNote"
+msgstr "센터 L스킬 노트 확률"
+
+msgid "UMO_Notes"
+msgstr "노트 기대치"
+
+msgid "UMO_Heal"
+msgstr "회복"
+
+msgid "UMO_Score"
+msgstr "스코어"
+
+msgid "UMO_Atk"
+msgstr "공격"
+
+msgid "UMO_SupportImp"
+msgstr "지원 플레이트 미해방"
+
+msgid "UMO_SupportImp2"
+msgstr "해방 조건: 의상 강화로 지원 플레이트 해방 획득하기."
+
+msgid "UMO_NumLeft"
+msgstr "남은 횟수"
+
+msgid "UMO_PlayAttr"
+msgstr "플레이할 악곡 속성"
+
+msgid "UMO_PlayAttr2"
+msgstr "우선할 속성"
+
+msgid "UMO_All"
+msgstr ""
+
+msgid "UMO_Attr1"
+msgstr "별"
+
+msgid "UMO_Attr2"
+msgstr "사랑"
+
+msgid "UMO_Attr3"
+msgstr "생명"
+
+msgid "UMO_PlayStyle"
+msgstr "우선할 조건"
+
+msgid "UMO_PlayStyleScore"
+msgstr "스코어 우선"
+
+msgid "UMO_PlayStyleLife"
+msgstr "라이프 우선"
+
+msgid "UMO_PlayStyleCombo"
+msgstr "콤보 우선"
+
+msgid "UMO_PlayStatus"
+msgstr "우선할 스테이터스"
+
+msgid "UMO_DivaLevel"
+msgstr "가희Lv"
+
+msgid "UMO_IntimacyLevel"
+msgstr "친밀도Lv"
+
+msgid "UMO_CostumeCount"
+msgstr "의상 보유 수"
+
+msgid "UMO_DivaStatus"
+msgstr "가희 스테이터스"
+
+msgid "UMO_CostumeStatus"
+msgstr "의상 강화 스테이터스"
+
+msgid "UMO_SoulTotal"
+msgstr "소울 어필"
+
+msgid "UMO_VoiceTotal"
+msgstr "보이스 어필"
+
+msgid "UMO_CharmTotal"
+msgstr "챰 어필"
+
+msgid "UMO_DivaRanking"
+msgstr "가희 랭킹"
+
+msgid "UMO_DivaRankingBtn"
+msgstr "가희 랭킹 확인"
+
+msgid "UMO_Age"
+msgstr "나이"
+
+msgid "UMO_Birthplace"
+msgstr "출신지"
+
+msgid "UMO_Favorite"
+msgstr "좋아하는 것"
+
+msgid "UMO_DivaDesc"
+msgstr "가희 소개"
+
+msgid "UMO_Back"
+msgstr "돌아가기"
+
+msgid "UMO_Costume"
+msgstr "의상 변경"
+
+msgid "UMO_Gift"
+msgstr "선물"
+
+msgid "UMO_Profil"
+msgstr "프로필"
+
+msgid "UMO_DivaCompatibility"
+msgstr "가희 상성"
+
+msgid "UMO_SkillFilterActive"
+msgstr "설정중"
+
+msgid "UMO_SkillFilterDisableAll"
+msgstr "선택 해제"
+
+msgid "UMO_SkillFilterLongNote"
+msgstr "롱・숏"
+
+msgid "UMO_SkillFilterRank"
+msgstr "스킬 랭크"
+
+msgid "UMO_SkillFilterBRank"
+msgstr "B급"
+
+msgid "UMO_SkillFilterARank"
+msgstr "A급"
+
+msgid "UMO_SkillFilterSRank"
+msgstr "S급"
+
+msgid "UMO_SkillFilterSSRank"
+msgstr "SS급"
+
+msgid "UMO_SortDisplayOrder"
+msgstr "표시순"
+
+msgid "UMO_FilterFavorite"
+msgstr "즐겨찾기"
+
+msgid "UMO_Attribute"
+msgstr "속성"
+
+msgid "UMO_Combo"
+msgstr "콤보"
+
+msgid "UMO_AchievedReward"
+msgstr "달성 보상"
+
+msgid "UMO_UnlockStatus"
+msgstr "악곡 해방 상황"
+
+msgid "UMO_SongTime"
+msgstr "악곡 시간"
+
+msgid "UMO_UnitNumber"
+msgstr "유닛 라이브"
+
+msgid "UMO_Display"
+msgstr "표시함"
+
+msgid "UMO_NoDisplay"
+msgstr "표시하지 않음"
+
+msgid "UMO_ModelDisplay"
+msgstr "모델의 표시설정"
+
+msgid "UMO_BgIllust"
+msgstr "일러스트"
+
+msgid "UMO_BgPlate"
+msgstr "플레이트"
+
+msgid "UMO_BgDisplay"
+msgstr "배경 표시설정"
+
+msgid "UMO_BgLight"
+msgstr "밝게"
+
+msgid "UMO_BgDark"
+msgstr "어둡게"
+
+msgid "UMO_BgBrightness"
+msgstr "배경의 명도"
+
+msgid "UMO_Filter"
+msgstr "필터"
+
+msgid "UMO_Preview"
+msgstr "프리뷰"
+
+msgid "UMO_Ok"
+msgstr ""
+
+msgid "UMO_Cancel"
+msgstr "취소"
+
+msgid "UMO_Detail"
+msgstr "상세"
+
+msgid "UMO_DisplaySwitch"
+msgstr "표시 전환"
+
+msgid "UMO_Prism"
+msgstr "초시공 프리즘"
+
+msgid "UMO_Group"
+msgstr "유닛 편성"
+
+msgid "UMO_PrismOn"
+msgstr "초시공 프리즘 ON"
+
+msgid "UMO_ValkOn"
+msgstr "발키리 모드 ON"
+
+msgid "UMO_NotesOn"
+msgstr "노트 표시 ON"
+
+msgid "UMO_DivaSpOn"
+msgstr "초가희 모드 ON"
+
+msgid "UMO_OriginSetting"
+msgstr "스탠다드 편집"
+
+msgid "UMO_EpisodeBonus"
+msgstr "에피소드 보너스"
+
+msgid "UMO_EventRunning"
+msgstr "EVENT 개최중"

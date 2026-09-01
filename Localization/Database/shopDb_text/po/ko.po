@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Language: ko\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "shop_0000_name"
+msgstr "염소자리 메달 교환소"
+
+msgid "shop_0001_name"
+msgstr "물병자리 메달 교환소"
+
+msgid "shop_0002_name"
+msgstr "물고기자리 메달 교환소"
+
+msgid "shop_0003_name"
+msgstr "양자리 메달 교환소"
+
+msgid "shop_0004_name"
+msgstr "황소자리 메달 교환소"
+
+msgid "shop_0005_name"
+msgstr "쌍둥이자리 메달 교환소"
+
+msgid "shop_0006_name"
+msgstr "게자리 메달 교환소"
+
+msgid "shop_0007_name"
+msgstr "사자자리 메달 교환소"
+
+msgid "shop_0008_name"
+msgstr "처녀자리 메달 교환소"
+
+msgid "shop_0009_name"
+msgstr "천칭자리 메달 교환소"
+
+msgid "shop_0010_name"
+msgstr "전갈자리 메달 교환소"
+
+msgid "shop_0011_name"
+msgstr "궁수자리 메달 교환소"
+
+msgid "shop_0012_name"
+msgstr "스프링 스피어 교환소"
+
+msgid "shop_0013_name"
+msgstr "섬머 스피어 교환소"
+
+msgid "shop_0014_name"
+msgstr "오텀 스피어 교환소"
+
+msgid "shop_0015_name"
+msgstr "윈터 스피어 교환소"
+
+msgid "shop_0016_name"
+msgstr "아이템 교환소"
+
+msgid "shop_0017_name"
+msgstr "UC 교환소"
+
+msgid "shop_0018_name"
+msgstr "초시공 세뱃돈 교환소"
+
+msgid "shop_0019_name"
+msgstr "데코 포인트 교환소"
+
+msgid "shop_0020_name"
+msgstr "초은하 메달 교환소"
+
+msgid "shop_0021_name"
+msgstr "F 라이브 기념 교환소"
+
+msgid "shop_0022_name"
+msgstr "메모리얼 티켓 교환소"
+
+msgid "shop_0023_name"
+msgstr "의상 해방 플레이트 교환소"
+
+msgid "shop_0024_name"
+msgstr "★1~4 에피소드 플레이트 교환소"
+
+msgid "shop_0025_name"
+msgstr "★5~6 에피소드 플레이트 교환소"
+
+msgid "shop_0026_name"
+msgstr "의상 해방 플레이트 교환소"

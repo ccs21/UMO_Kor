@@ -1,0 +1,6142 @@
+msgid ""
+msgstr ""
+"Language: ko\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "popup_title_00"
+msgstr "공지"
+
+msgid "popup_title_01"
+msgstr "유닛 이름 편집"
+
+msgid "popup_title_02"
+msgstr "변경 확인"
+
+msgid "popup_title_03"
+msgstr "변경 확인"
+
+msgid "popup_title_04"
+msgstr "발키리 상세"
+
+msgid "popup_title_05"
+msgstr "의상 상세"
+
+msgid "unit_popup_title_00"
+msgstr "유닛 세트 저장 및 불러오기"
+
+msgid "unit_popup_title_01"
+msgstr "저장 확인"
+
+msgid "unit_popup_title_02"
+msgstr "덮어쓰기 확인"
+
+msgid "unit_popup_title_03"
+msgstr "불러오기 확인"
+
+msgid "unit_setpopup_text_00"
+msgstr "유닛 세트 {0}"
+
+msgid "unit_setpopup_text_01"
+msgstr "불러오기 전"
+
+msgid "unit_setpopup_text_02"
+msgstr "불러오기 후"
+
+msgid "unit_setpopup_text_03"
+msgstr "저장 전"
+
+msgid "unit_setpopup_text_04"
+msgstr "저장 후"
+
+msgid "unit_setpopup_text_05"
+msgstr "이 유닛을 저장해도 될까요?"
+
+msgid "unit_setpopup_text_06"
+msgstr "이 유닛을 덮어써도 될까요?"
+
+msgid "unit_setpopup_text_07"
+msgstr "이 유닛을 불러오기 해도 될까요?"
+
+msgid "popup_text_00"
+msgstr "유닛 이름을 입력해 주세요.\\n({0}글자까지)"
+
+msgid "popup_text_02"
+msgstr "센터에 있는 가희를 해제할 수 없습니다."
+
+msgid "popup_text_03"
+msgstr "센터에 있는 가희를 해제할 수 없습니다."
+
+msgid "popup_text_08"
+msgstr "가희 스테이터스"
+
+msgid "popup_text_09"
+msgstr "소비 아이템 확인"
+
+msgid "popup_text_10"
+msgstr "보유 아이템 목록"
+
+msgid "popup_text_11"
+msgstr "능력 해방 확인"
+
+msgid "popup_text_12"
+msgstr "에피소드 플레이트 전체 해제"
+
+msgid "popup_text_14"
+msgstr "에피소드 플레이트 자동 편성"
+
+msgid "popup_text_15"
+msgstr "확인"
+
+msgid "popup_text_16"
+msgstr "스킬 설명"
+
+msgid "popup_text_17"
+msgstr "지원 플레이트 확인"
+
+msgid "popup_sort_text_00"
+msgstr "선택 중인 가희와 상성이 일치하는 플레이트만 표시하기"
+
+msgid "popup_sort_title"
+msgstr "표시 순서 변경"
+
+msgid "popup_sort_title_unit"
+msgstr "표시 정보 변경"
+
+msgid "popup_comparison_00"
+msgstr "노트 기대치"
+
+msgid "popup_music_select_00"
+msgstr "악곡 정보"
+
+msgid "popup_music_select_01"
+msgstr "악곡 클리어 보상(임시)"
+
+msgid "popup_music_select_02"
+msgstr "달성 보상"
+
+msgid "popup_music_select_03"
+msgstr "최초 클리어 상세(임시)"
+
+msgid "popup_music_select_04"
+msgstr "악곡 클리어 상세(임시)"
+
+msgid "popup_music_select_05"
+msgstr "미션 클리어 상세(임시)"
+
+msgid "popup_music_select_06"
+msgstr "숙련도"
+
+msgid "popup_music_select_07"
+msgstr "적 정보"
+
+msgid "popup_stamina_title_00"
+msgstr "확인 화면"
+
+msgid "popup_stamina_text_00"
+msgstr "에너지가 부족합니다."
+
+msgid "popup_ap_title_00"
+msgstr "확인 화면"
+
+msgid "popup_ap_text_00"
+msgstr "AP가 부족합니다."
+
+msgid "item_popup_text_00"
+msgstr "보유:{0,4}"
+
+msgid "item_detail_popup_title_00"
+msgstr "아이템 상세"
+
+msgid "pbox_title_00"
+msgstr "수령 확인"
+
+msgid "pbox_title_01"
+msgstr "수령 실패"
+
+msgid "pbox_title_02"
+msgstr "선물 수령"
+
+msgid "pbox_title_03"
+msgstr "일괄 수령 확인"
+
+msgid "pbox_title_04"
+msgstr "보유 한도"
+
+msgid "pbox_text_01"
+msgstr "<color=#C8087E>{0}</color>\\n을(를) 수령합니다.\\n\\n괜찮으시겠습니까?"
+
+msgid "pbox_text_02"
+msgstr "수령하려는 아이템이\\n보유 한도를 초과했습니다."
+
+msgid "pbox_text_03"
+msgstr "<color=#C8087E>{0}</color>\\n\\n을(를) 수령했습니다."
+
+msgid "pbox_text_04"
+msgstr "{0}\\n\\n을(를) 수령하여 LUCK을 추가하였습니다.\\n{1} 의 LUCK이 {2} 상승하였습니다."
+
+msgid "pbox_text_05"
+msgstr "{0}\\n\\n{1} 의 LUCK은 한도에 도달했기 때문에,\\n{2} (으)로 변환되었습니다."
+
+msgid "pbox_text_06"
+msgstr "선물을 일괄 수령합니다.\\n\\n괜찮으시겠습니까?"
+
+msgid "pbox_text_07"
+msgstr "수령하려는 아이템 중\\n보유 한도를 초과하는 물품이 있었습니다."
+
+msgid "pbox_text_08"
+msgstr "선물 {0}건을 수령하였습니다."
+
+msgid "pbox_text_09"
+msgstr "수령 가능한 선물이 없습니다."
+
+msgid "pbox_text_10"
+msgstr ""
+
+msgid "pbox_text_11"
+msgstr ""
+
+msgid "pbox_text_12"
+msgstr "앞으로 {0}일"
+
+msgid "pbox_text_13"
+msgstr "앞으로 {0}시간"
+
+msgid "pbox_text_14"
+msgstr "앞으로 {0}분"
+
+msgid "pbox_win_warn01"
+msgstr "<color=#c8087e>최신 {0}건이 표시됩니다. </color>"
+
+msgid "pbox_win_warn02"
+msgstr "<color=#c8087e>최신 {0}건이 표시됩니다. </color>"
+
+msgid "pbox_win_none01"
+msgstr "선물이 없습니다."
+
+msgid "pbox_win_none02"
+msgstr "수령 이력이 없습니다."
+
+msgid "set_notification_text_00"
+msgstr "푸시 설정"
+
+msgid "set_notification_text_01"
+msgstr "사용 중인 기기의 알림 설정이 꺼져 있는 경우, 모든 알림이 표시되지 않습니다."
+
+msgid "set_notification_text_02"
+msgstr "이벤트, 캠페인 등 공지사항을\\n푸시 알림으로 알려드립니다."
+
+msgid "set_notification_text_03"
+msgstr "푸시 알람을 보내는 시간대를 설정합니다."
+
+msgid "set_notification_text_04"
+msgstr "「공지」에는 적용되지 않습니다."
+
+msgid "set_notification_text_05"
+msgstr "에너지가 완전히 회복되면\\n푸시 알림을 보내드립니다."
+
+msgid "set_notification_text_06"
+msgstr "초시공 SNS에서 대화가 발신될 때\\n푸시 알림을 보내드립니다."
+
+msgid "set_notification_text_07"
+msgstr "발키리 오퍼레이션이 완료되면\\n푸시 알림을 보내드립니다."
+
+msgid "set_notification_text_08"
+msgstr "AP가 완전히 회복되면\\n푸시 알림을 보내드립니다."
+
+msgid "set_notification_text_09"
+msgstr "EX 폭주 에너미 출현 시\\n푸시 알림을 보내드립니다."
+
+msgid "set_notification_text_10"
+msgstr "「공지」에는 적용되지 않습니다."
+
+msgid "set_notification_text_11"
+msgstr "데코룸에서 회수할 수 있는 물건이\\n가득 차면 푸시 알림을 보내드립니다."
+
+msgid "set_battle_event_text_01"
+msgstr "배틀 클래스 재선택"
+
+msgid "set_battle_event_text_02"
+msgstr "※클래스를 다시 선택하면 EX 게이지가 초기화됩니다."
+
+msgid "set_battle_event_text_03"
+msgstr "배틀 진행 상황 표시"
+
+msgid "set_battle_event_text_04"
+msgstr "※OFF로 설정하면 라이브 진행 중의 진행 상황 아이콘이 표시되지 않습니다."
+
+msgid "config_text_00"
+msgstr "음량 설정"
+
+msgid "config_text_01"
+msgstr ""
+
+msgid "config_text_02"
+msgstr "효과음"
+
+msgid "config_text_03"
+msgstr "보이스"
+
+msgid "config_text_04"
+msgstr "화면 표시 설정"
+
+msgid "config_text_05"
+msgstr "기기의 방향에 따라 화면이 자동으로 회전하도록 할지,\\n좌우 중 한 방향으로 고정하여 표시할지 선택합니다\\n「자동」으로 설정되어 있더라도 기기 기능으로 화면 방향을\\n잠근 상태라면 회전하지 않습니다"
+
+msgid "config_text_05_iphone"
+msgstr "<size=22>기기의 방향에 따라 화면이 자동으로 회전하도록 할지,\\n좌우 중 한 방향으로 고정하여 표시할지 선택합니다.\\n「자동」으로 설정되어 있더라도 기기 기능으로 화면 방향을\\n잠근 상태라면 회전하지 않습니다.</size>"
+
+msgid "config_text_05_android"
+msgstr "<size=22>기기의 방향에 따라 화면이 자동으로 회전하도록 할지,\\n좌우 중 한 방향으로 고정하여 표시할지 선택합니다.</size>"
+
+msgid "config_text_06"
+msgstr "자동"
+
+msgid "config_text_07"
+msgstr "오른쪽을 위로"
+
+msgid "config_text_08"
+msgstr "왼쪽을 위로"
+
+msgid "config_text_09"
+msgstr "표시 설정"
+
+msgid "config_text_10"
+msgstr "동영상 설정을 낮게 설정하거나 숨기면 게임 실행이 가벼워질 수 있습니다."
+
+msgid "config_text_11"
+msgstr "커스텀 설정"
+
+msgid "config_text_12"
+msgstr "스킬 발동 시 컷인 표시 설정입니다."
+
+msgid "config_text_13"
+msgstr "노트가 날아오는 궤적 표시 설정입니다."
+
+msgid "config_text_14"
+msgstr "동작 설정"
+
+msgid "config_text_15"
+msgstr "각 항목을 설정한 조건으로 라이브가 진행됩니다."
+
+msgid "config_text_16"
+msgstr "동작의 경량화를 위해 2D 표시로 라이브가 진행됩니다."
+
+msgid "config_text_17"
+msgstr "동작의 경량화를 위해 일부 라이브 연출을 생략합니다."
+
+msgid "config_text_18"
+msgstr "모든 라이브 연출을 표시합니다."
+
+msgid "config_text_19"
+msgstr "타이밍 설정"
+
+msgid "config_text_20"
+msgstr "노트 아이콘의 표시 타이밍을 조정할 수 있습니다."
+
+msgid "config_text_21"
+msgstr "라이브 설정"
+
+msgid "config_text_22"
+msgstr "확인"
+
+msgid "config_text_23"
+msgstr "볼륨 설정을 기본값으로 되돌립니다.\\n확인하시겠습니까?"
+
+msgid "config_text_24"
+msgstr "라이브 중 3D로 표시되는 가희에 대해 설정합니다.\\n낮게 설정하면 묘사 퀄리티를 최소화하여\\n부하를 줄일 수 있습니다."
+
+msgid "config_text_25"
+msgstr "라이브 중 3D로 표시되는 배경, 발키리 등을 설정합니다.\\n낮게 설정하면 묘사 퀄리티를 최소한으로 낮추어\\n부하를 줄입니다."
+
+msgid "config_text_26"
+msgstr "라이브 중 2D로 표시되는 연출을 설정합니다.\\n낮게 설정하면 연출을 최소화하여 부하를 줄일 수 있습니다."
+
+msgid "config_text_27"
+msgstr "묘사 설정"
+
+msgid "config_text_28"
+msgstr "메뉴 설정"
+
+msgid "config_text_29"
+msgstr "기타 설정"
+
+msgid "config_text_30"
+msgstr "배경 설정"
+
+msgid "config_text_31"
+msgstr "<size=22>홈 화면의 배경을 설정할 수 있습니다.</size>"
+
+msgid "config_text_32"
+msgstr "기본 배경이 표시됩니다."
+
+msgid "config_text_33"
+msgstr "메인 플레이트의 레어도 상승 전 레어도가\\n★4 이상인 경우, 배경으로 표시합니다."
+
+msgid "config_text_34"
+msgstr "유효인 경우에는 일시 정지 상태가 되고, 무효인 경우에는 반응하지 않게 됩니다."
+
+msgid "config_text_35"
+msgstr "라이브 중 뒤로 가기 키 설정을 합니다."
+
+msgid "config_text_36"
+msgstr "뒤로 가기 키 설정"
+
+msgid "config_text_37_rhythm"
+msgstr "현재 난이도"
+
+msgid "config_text_37_option"
+msgstr "선택한 난이도"
+
+msgid "config_text_38"
+msgstr "노트 스피드는 난이도별로 설정됩니다."
+
+msgid "config_text_39"
+msgstr "라이브 중의 노트 스피드를 조절할 수 있습니다."
+
+msgid "config_text_40"
+msgstr "노트 스피드 설정"
+
+msgid "config_text_41"
+msgstr "비디오 설정"
+
+msgid "config_text_42"
+msgstr "가희 모드 중에 재생되는 동영상에 대한 설정을 할 수 있습니다."
+
+msgid "config_text_43"
+msgstr "동영상 화질을 낮게 설정하면 게임 실행이 가벼워질 수 있습니다."
+
+msgid "config_text_44"
+msgstr "화질을 변경할 경우 동영상을 다시 다운로드합니다."
+
+msgid "config_text_45"
+msgstr "설정을 변경할 경우\\n현재 다운로드된 동영상이 삭제되며\\n음악 재생 시 새로운 동영상이 다시 다운로드됩니다.\\n\\n설정을 변경하시겠습니까?"
+
+msgid "config_text_46"
+msgstr "삭제가 완료되었습니다."
+
+msgid "config_text_47"
+msgstr "가희 설정"
+
+msgid "config_text_48"
+msgstr "<size=22>홈 화면의 가희에 대한 설정을 할 수 있습니다.</size>"
+
+msgid "config_text_49"
+msgstr "유닛의 센터 가희와 의상이 표시됩니다."
+
+msgid "config_text_50"
+msgstr "분장실에서 선택한 가희가 표시됩니다."
+
+msgid "config_text_51"
+msgstr "타이밍 설정을 기본값으로 되돌립니다.\\n확인하시겠습니까?"
+
+msgid "config_text_52"
+msgstr "밝기 설정"
+
+msgid "config_text_53"
+msgstr "3D 라이브와 2D 라이브 각각의 화면 밝기를 조절할 수 있습니다."
+
+msgid "config_text_54"
+msgstr "어둡게"
+
+msgid "config_text_55"
+msgstr "밝게"
+
+msgid "config_text_56"
+msgstr "밝기 설정을 기본값으로 되돌립니다.\\n확인하시겠습니까?"
+
+msgid "config_text_57"
+msgstr "발키리 모드 설정"
+
+msgid "config_text_58"
+msgstr "발키리 모드 중 연출을 설정할 수 있습니다."
+
+msgid "config_text_59"
+msgstr "발키리와 적과의 배틀이 표시됩니다."
+
+msgid "config_text_60"
+msgstr "발키리 모드에서도 가희가 표시됩니다."
+
+msgid "config_text_61"
+msgstr "확인"
+
+msgid "config_text_62"
+msgstr "노트 스피드를 초기 설정으로 되돌립니다.\\n괜찮으시겠습니까?\\n<color=#C8087E>※모든 난이도의 설정값이 변경됩니다. </color>"
+
+msgid "config_text_63"
+msgstr "모든 난이도에서 동일한 설정으로 반영하기"
+
+msgid "config_text_64"
+msgstr "체크하지 않으면 노트 스피드는 난이도별로 설정됩니다."
+
+msgid "config_text_65"
+msgstr "다음부터 표시하지 않음"
+
+msgid "config_text_66"
+msgstr "노트 스피드는 게임 설정에서 언제든지 변경할 수 있습니다."
+
+msgid "config_text_67"
+msgstr "노트 스피드 설정이 완료되었습니다.\\n게임 설정에서 언제든지 변경할 수 있습니다."
+
+msgid "config_text_68"
+msgstr "노트 디자인 설정"
+
+msgid "config_text_69"
+msgstr "3색을 선택하면 플릭 노트가 각 방향마다 다른 색이 됩니다."
+
+msgid "config_text_70"
+msgstr "라이브 중 EXCELLENT 표시 설정입니다."
+
+msgid "config_text_71"
+msgstr "OFF인 경우, 라이브 중 EXCELLENT가 발생해도 PERFECT가 표시됩니다."
+
+msgid "config_text_72"
+msgstr "가희 모드 설정"
+
+msgid "config_text_73"
+msgstr "가희 모드 중 연출을 설정할 수 있습니다."
+
+msgid "config_text_74"
+msgstr "설정은 3D 라이브에만 반영됩니다."
+
+msgid "config_text_75"
+msgstr "가희 모드 중, 가희의 배경에 동영상이 표시됩니다."
+
+msgid "config_text_76"
+msgstr "가희 모드 중, 가희만 표시됩니다."
+
+msgid "config_text_77"
+msgstr "가희 모드 중, 동영상만 표시됩니다."
+
+msgid "config_text_78"
+msgstr "노트 터치음은 최소로 설정해도 무음이 되지 않습니다."
+
+msgid "config_text_79"
+msgstr "라이브 표시 설정"
+
+msgid "config_text_80"
+msgstr "라이브 시스템 설정"
+
+msgid "config_text_81"
+msgstr "<size=24>시뮬레이션 라이브 설정</size>"
+
+msgid "config_text_82"
+msgstr "<size=24>화면 프레임 설정</size>"
+
+msgid "config_text_83"
+msgstr "화면의 프레임 디자인을 설정할 수 있습니다."
+
+msgid "config_text_84"
+msgstr "디자인 프레임 1을 표시합니다."
+
+msgid "config_text_85"
+msgstr "디자인 프레임 2를 표시합니다."
+
+msgid "config_text_86"
+msgstr "검은색 프레임을 표시합니다."
+
+msgid "config_text_87"
+msgstr "OFF인 경우, 6레인 게임의 슬라이드 중 가이드 효과를 표시하지 않습니다."
+
+msgid "config_text_88"
+msgstr "<size=24>화면 비율</size>"
+
+msgid "config_text_89"
+msgstr "화면 표시를 설정할 수 있습니다."
+
+msgid "config_text_90"
+msgstr "가로로 넓은 화면으로 표시합니다."
+
+msgid "config_text_91"
+msgstr "와이드에 비해 세로가 넓고 가로가 좁은 화면으로 표시합니다."
+
+msgid "config_text_92"
+msgstr "설정은 다음 앱 실행 시부터 적용됩니다."
+
+msgid "config_text_93"
+msgstr "프리미엄 플레이트"
+
+msgid "config_text_94"
+msgstr "<size=22>프리미엄화한 플레이트 표시를 설정할 수 있습니다.</size>"
+
+msgid "config_text_95"
+msgstr "플레이트를 프리미엄화한 상태로 표시합니다."
+
+msgid "config_text_96"
+msgstr "플레이트를 프리미엄화 전 상태로 표시합니다."
+
+msgid "growth_list_text_01"
+msgstr "다음 획득 보상"
+
+msgid "growth_list_text_02"
+msgstr ""
+
+msgid "growth_list_text_03"
+msgstr "{0}의 {1} 레벨 {2}"
+
+msgid "growth_popup_title_01"
+msgstr "잠금 해제 조건"
+
+msgid "growth_popup_title_text01"
+msgstr "메인 보드 확장"
+
+msgid "growth_popup_title_text02"
+msgstr "시크릿 보드 추가"
+
+msgid "growth_popup_title_text03"
+msgstr "시크릿 보드 확장"
+
+msgid "growth_popup_title_text04"
+msgstr "해제 수 선택"
+
+msgid "growth_popup_title_text05"
+msgstr "해방 한도 확인"
+
+msgid "growth_popup_title_text06"
+msgstr "해방 한도 확인"
+
+msgid "growth_popup_text01"
+msgstr "보유:{0,4}"
+
+msgid "growth_popup_text02"
+msgstr "다음 아이템과 UC를 소비합니다."
+
+msgid "growth_popup_text03"
+msgstr "필요 UC:<color={1}>{0,4}</color>"
+
+msgid "growth_popup_text04"
+msgstr "보유 UC:<color={1}>{0,8}</color>"
+
+msgid "growth_popup_text05"
+msgstr "아이템이 부족합니다."
+
+msgid "growth_popup_text06"
+msgstr "{0}개의 능력을 해제합니다. 진행하시겠습니까?"
+
+msgid "growth_popup_text07"
+msgstr "보유:<color={1}>{0,4}</color>"
+
+msgid "growth_popup_text08"
+msgstr "UC가 부족합니다."
+
+msgid "growth_popup_text09"
+msgstr "아이템과 UC가 부족합니다."
+
+msgid "growth_popup_text10"
+msgstr "레어도가 상승했습니다.\\n능력 보드가 확장되었습니다."
+
+msgid "growth_popup_text11"
+msgstr "시크릿 보드가 추가되었습니다."
+
+msgid "growth_popup_text12"
+msgstr "시크릿 보드가 확장되었습니다."
+
+msgid "growth_popup_text13"
+msgstr "현재 해방할 수 있는 특별 에피소드 해제 칸은 {0}회분입니다.\\n몇 회 분량을 해방할 것인지 선택해 주세요."
+
+msgid "growth_popup_text14"
+msgstr "이 칸에서 한 번에 해제할 수 있는 에피소드 해방치는 {0}까지입니다."
+
+msgid "growth_popup_text15"
+msgstr "이 이상 해방하면 한 번에 방출할 수 있는 에피소드 값을 초과하게 됩니다."
+
+msgid "growth_popup_text16"
+msgstr "아이템이 부족하여 더 이상 해방할 수 없습니다."
+
+msgid "growth_popup_text17"
+msgstr "UC가 부족하여 더 이상 해방할 수 없습니다."
+
+msgid "growth_popup_text18"
+msgstr "아이템과 UC가 부족하여 더 이상 해방할 수 없습니다."
+
+msgid "growth_popup_text19"
+msgstr "{0}개의 능력을 해방합니다. 괜찮으시겠습니까?\\n<color={1}>※이 에피소드의 전체 해제 보상은 이미 획득했습니다. </color>"
+
+msgid "growth_addreward_text"
+msgstr "추가 보상"
+
+msgid "story_unlock_01"
+msgstr "<size=25>【해방 조건】</size>"
+
+msgid "story_unlock_02"
+msgstr "<size=20>다음 조건 충족 시 해방.</size>"
+
+msgid "story_unlock_03"
+msgstr "<size=20>다음 조건 중 하나 충족 시 해방.</size>"
+
+msgid "story_unlock_04"
+msgstr "・플레이어 랭크 {0} 달성"
+
+msgid "story_unlock_05"
+msgstr "・라이브에서 다음 악곡을 {0} 이상으로 클리어\\n　{1}"
+
+msgid "story_unlock_06"
+msgstr "・라이브에서 다음 악곡 {0}을(를)\\n스코어 랭크 {1} 이상으로 클리어\\n「{2}」"
+
+msgid "story_unlock_07"
+msgstr "・이전 영역을 먼저 클리어"
+
+msgid "story_unlock_08"
+msgstr "잠금 중"
+
+msgid "story_unlock_09"
+msgstr "먼저 한 개 앞의 영역을 해방해 주세요."
+
+msgid "story_unlock_10"
+msgstr "<size=20>다음 조건을 충족하면 참가할 수 있습니다.</size>"
+
+msgid "story_unlock_11"
+msgstr "<size=20>다음 중 한 가지를 충족하면 참가할 수 있습니다.</size>"
+
+msgid "music_not_exist_text_00"
+msgstr "이 카테고리에는 현재 플레이할 수 있는 악곡이 없습니다.\\n<color=#C8087E>※기억의 시공에서 노래의 기억을 해방하면 악곡이 추가됩니다. </color>"
+
+msgid "music_not_exist_line6_text_00"
+msgstr "이 카테고리에는 현재 플레이할 수 있는 6레인용 악곡이 없습니다.\\n<color=#C8087E>※6레인용 악곡이 해방되면 추가됩니다. </color>"
+
+msgid "reward_all_clear_text_00"
+msgstr "전체 달성 보상"
+
+msgid "unit_auto_popup_text_00"
+msgstr "센터 스킬을 변경하지 않고 자동 편성하기"
+
+msgid "unit_auto_popup_text_01"
+msgstr "가희와 상성이 일치하는 에피소드 플레이트를 우선시한다"
+
+msgid "unit_clearplate_confirm_text"
+msgstr "유닛 내와 유닛 외의 모든 가희가 장착 중인\\n에피소드 플레이트를 모두 해제합니다.\\n괜찮으십니까?"
+
+msgid "unit_save_text"
+msgstr "유닛을 보관했습니다."
+
+msgid "unit_load_text"
+msgstr "유닛을 불러왔습니다."
+
+msgid "header_desc_home000"
+msgstr "플레이할 항목을 선택해 주세요"
+
+msgid "header_desc_home001"
+msgstr "친구 목록입니다"
+
+msgid "header_desc_home002"
+msgstr "선물 목록입니다"
+
+msgid "header_desc_home003"
+msgstr "친구에 대하여 확인할 수 있습니다"
+
+msgid "header_desc_home004"
+msgstr "친구 신청 중 목록입니다"
+
+msgid "header_desc_home005"
+msgstr "친구 신청을 승낙해 주세요"
+
+msgid "header_desc_home006"
+msgstr "ID로 다른 플레이어를 검색할 수 있습니다"
+
+msgid "header_desc_home007"
+msgstr "의상을 선택해 주세요"
+
+msgid "header_desc_home008"
+msgstr "랭킹을 확인할 수 있습니다"
+
+msgid "header_desc_home009"
+msgstr "프로필을 확인할 수 있습니다"
+
+msgid "header_desc_home010"
+msgstr "이벤트 미션 목록입니다"
+
+msgid "header_desc_vop000"
+msgstr "오퍼레이션을 선택해 주세요"
+
+msgid "header_desc_vop001"
+msgstr "소대를 선택해 주세요"
+
+msgid "header_desc_vop002"
+msgstr "발키리를 선택해 주세요"
+
+msgid "header_desc_vop003"
+msgstr "형태를 선택해 주세요"
+
+msgid "header_desc_home030"
+msgstr "강화할 의상을 선택해 주세요"
+
+msgid "header_desc_home031"
+msgstr "아이템을 선택해 주세요"
+
+msgid "header_desc_home032"
+msgstr "스탬프를 만들 수 있습니다"
+
+msgid "header_desc_home033"
+msgstr "대원의 정보를 확인할 수 있습니다"
+
+msgid "header_desc_home034"
+msgstr "협력 미션 목록입니다"
+
+msgid "header_desc_home035"
+msgstr "랭킹을 확인할 수 있습니다"
+
+msgid "header_desc_home110"
+msgstr "랭킹을 확인할 수 있습니다"
+
+msgid "header_desc_home130"
+msgstr "이벤트 미션 목록입니다"
+
+msgid "header_desc_home201"
+msgstr "어시스트를 선택해 주세요"
+
+msgid "header_desc_home202"
+msgstr "유닛을 편성해 주세요"
+
+msgid "header_desc_home203"
+msgstr "가희를 선택해 주세요"
+
+msgid "header_desc_home204"
+msgstr "악곡별 성장을 확인할 수 있습니다"
+
+msgid "header_desc_home205"
+msgstr "플레이트를 선택해 주세요"
+
+msgid "header_desc_home206"
+msgstr "플레이트의 능력을 해방할 수 있습니다"
+
+msgid "header_desc_home207"
+msgstr "저장한 유닛을 확인할 수 있습니다"
+
+msgid "header_desc_home208"
+msgstr "발키리를 선택해 주세요"
+
+msgid "header_desc_home209"
+msgstr "의상을 선택해 주세요"
+
+msgid "header_desc_home210"
+msgstr "랭킹을 확인할 수 있습니다"
+
+msgid "header_desc_home211"
+msgstr "프로필을 확인할 수 있습니다"
+
+msgid "header_desc_home230"
+msgstr "강화할 의상을 선택해 주세요"
+
+msgid "header_desc_home231"
+msgstr "아이템을 선택해 주세요　　　　　"
+
+msgid "header_desc_home240"
+msgstr "랭킹을 확인할 수 있습니다"
+
+msgid "header_desc_home301"
+msgstr "데코룸을 선택해 주세요"
+
+msgid "header_desc_home302"
+msgstr "방문지 목록입니다"
+
+msgid "header_desc_home303"
+msgstr "아이템을 선택해 주세요"
+
+msgid "header_desc_setting000"
+msgstr "라이브를 준비하자"
+
+msgid "header_desc_setting001"
+msgstr "유닛을 편성해 주세요"
+
+msgid "header_desc_setting002"
+msgstr "가희를 선택해 주세요"
+
+msgid "header_desc_setting003"
+msgstr "플레이트를 선택해 주세요"
+
+msgid "header_desc_setting004"
+msgstr "저장한 유닛을 확인할 수 있습니다"
+
+msgid "header_desc_setting005"
+msgstr "의상을 선택해 주세요"
+
+msgid "header_desc_setting006"
+msgstr "발키리를 선택해 주세요"
+
+msgid "header_desc_setting007"
+msgstr "가희를 선택해 주세요"
+
+msgid "header_desc_setting008"
+msgstr "플레이트 목록입니다"
+
+msgid "header_desc_setting009"
+msgstr "악곡별 성장을 확인할 수 있습니다"
+
+msgid "header_desc_setting010"
+msgstr "플레이트의 능력을 해방할 수 있습니다"
+
+msgid "header_desc_setting011"
+msgstr "에피소드를 선택해 주세요"
+
+msgid "header_desc_setting012"
+msgstr "해방 상황을 확인할 수 있습니다"
+
+msgid "header_desc_setting013"
+msgstr "아이템을 선택해 주세요"
+
+msgid "header_desc_setting030"
+msgstr "강화할 의상을 선택해 주세요"
+
+msgid "header_desc_setting031"
+msgstr "아이템을 선택해 주세요　　　　　"
+
+msgid "header_desc_setting032"
+msgstr "발키리를 선택해 주세요"
+
+msgid "header_desc_story000"
+msgstr "영역을 선택해 주세요"
+
+msgid "header_desc_story001"
+msgstr "어시스트를 선택해 주세요"
+
+msgid "header_desc_story002"
+msgstr "유닛을 편성해 주세요"
+
+msgid "header_desc_story003"
+msgstr "가희를 선택해 주세요"
+
+msgid "header_desc_story004"
+msgstr "악곡별 성장을 확인할 수 있습니다"
+
+msgid "header_desc_story005"
+msgstr "플레이트를 선택해 주세요"
+
+msgid "header_desc_story006"
+msgstr "플레이트의 능력을 해방할 수 있습니다"
+
+msgid "header_desc_story007"
+msgstr "저장한 유닛을 확인할 수 있습니다"
+
+msgid "header_desc_story008"
+msgstr "발키리를 선택해 주세요"
+
+msgid "header_desc_story009"
+msgstr "의상을 선택해 주세요"
+
+msgid "header_desc_story030"
+msgstr "강화할 의상을 선택해 주세요"
+
+msgid "header_desc_story031"
+msgstr "아이템을 선택해 주세요　　　　　"
+
+msgid "header_desc_free000"
+msgstr "악곡을 선택해 주세요"
+
+msgid "header_desc_free001"
+msgstr "어시스트를 선택해 주세요"
+
+msgid "header_desc_free002"
+msgstr "유닛을 편성해 주세요"
+
+msgid "header_desc_free003"
+msgstr "가희를 선택해 주세요"
+
+msgid "header_desc_free004"
+msgstr "악곡별 성장을 확인할 수 있습니다"
+
+msgid "header_desc_free005"
+msgstr "플레이트를 선택해 주세요"
+
+msgid "header_desc_free006"
+msgstr "플레이트의 능력을 해방할 수 있습니다"
+
+msgid "header_desc_free007"
+msgstr "저장한 유닛을 확인할 수 있습니다"
+
+msgid "header_desc_free008"
+msgstr "발키리를 선택해 주세요"
+
+msgid "header_desc_free009"
+msgstr "의상을 선택해 주세요"
+
+msgid "header_desc_free010"
+msgstr "랭킹을 확인할 수 있습니다"
+
+msgid "header_desc_free011"
+msgstr "프로필을 확인할 수 있습니다"
+
+msgid "header_desc_free020"
+msgstr "라이브 설정을 확인해 주세요"
+
+msgid "header_desc_free110"
+msgstr "랭킹을 확인할 수 있습니다"
+
+msgid "header_desc_free120"
+msgstr "이벤트 스토리를 확인할 수 있습니다"
+
+msgid "header_desc_free130"
+msgstr "이벤트 미션 목록입니다"
+
+msgid "header_desc_free030"
+msgstr "강화할 의상을 선택해 주세요"
+
+msgid "header_desc_free031"
+msgstr "아이템을 선택해 주세요　　　　　"
+
+msgid "header_desc_free201"
+msgstr "어시스트를 선택해 주세요"
+
+msgid "header_desc_free202"
+msgstr "유닛을 편성해 주세요"
+
+msgid "header_desc_free203"
+msgstr "가희를 선택해 주세요"
+
+msgid "header_desc_free204"
+msgstr "악곡별 성장을 확인할 수 있습니다"
+
+msgid "header_desc_free205"
+msgstr "플레이트를 선택해 주세요"
+
+msgid "header_desc_free206"
+msgstr "플레이트의 능력을 해방할 수 있습니다"
+
+msgid "header_desc_free207"
+msgstr "저장한 유닛을 확인할 수 있습니다"
+
+msgid "header_desc_free208"
+msgstr "발키리를 선택해 주세요"
+
+msgid "header_desc_free209"
+msgstr "의상을 선택해 주세요"
+
+msgid "header_desc_free210"
+msgstr "랭킹을 확인할 수 있습니다"
+
+msgid "header_desc_free211"
+msgstr "프로필을 확인할 수 있습니다"
+
+msgid "header_desc_free230"
+msgstr "강화할 의상을 선택해 주세요"
+
+msgid "header_desc_free231"
+msgstr "아이템을 선택해 주세요　　　　　"
+
+msgid "header_desc_free240"
+msgstr "랭킹을 확인할 수 있습니다"
+
+msgid "header_desc_free303"
+msgstr "아이템을 선택해 주세요"
+
+msgid "header_desc_gacha000"
+msgstr "가챠를 선택해 주세요"
+
+msgid "header_desc_gacha001"
+msgstr "가챠에 대하여 확인할 수 있습니다"
+
+msgid "header_desc_quest000"
+msgstr "미션 목록입니다"
+
+msgid "header_desc_quest001"
+msgstr "이벤트 미션 목록입니다"
+
+msgid "header_desc_quest002"
+msgstr "보상을 선택해 주세요"
+
+msgid "header_desc_quest003"
+msgstr "빙고 미션에 도전할 수 있습니다"
+
+msgid "header_desc_option000"
+msgstr "항목을 선택해 주세요"
+
+msgid "header_desc_option001"
+msgstr "프로필을 확인할 수 있습니다"
+
+msgid "header_desc_option002"
+msgstr "칭호를 선택해 주세요"
+
+msgid "header_desc_option003"
+msgstr "랭킹을 확인할 수 있습니다"
+
+msgid "header_desc_option004"
+msgstr "프로필을 확인할 수 있습니다"
+
+msgid "header_desc_option005"
+msgstr "항목을 선택해 주세요"
+
+msgid "header_desc_option006"
+msgstr "교환소를 선택해 주세요"
+
+msgid "header_desc_option007"
+msgstr "아이템을 선택해 주세요"
+
+msgid "header_desc_option008"
+msgstr "이벤트 스토리를 확인할 수 있습니다"
+
+msgid "header_desc_option009"
+msgstr "차단한 유저 목록입니다"
+
+msgid "header_desc_evquest001"
+msgstr "어시스트를 선택해 주세요"
+
+msgid "header_desc_evquest002"
+msgstr "유닛을 편성해 주세요"
+
+msgid "header_desc_evquest003"
+msgstr "가희를 선택해 주세요"
+
+msgid "header_desc_evquest004"
+msgstr "악곡별 성장을 확인할 수 있습니다"
+
+msgid "header_desc_evquest005"
+msgstr "플레이트를 선택해 주세요"
+
+msgid "header_desc_evquest006"
+msgstr "플레이트의 능력을 해방할 수 있습니다"
+
+msgid "header_desc_evquest007"
+msgstr "저장한 유닛을 확인할 수 있습니다"
+
+msgid "header_desc_evquest008"
+msgstr "발키리를 선택해 주세요"
+
+msgid "header_desc_evquest009"
+msgstr "의상을 선택해 주세요"
+
+msgid "header_desc_evquest010"
+msgstr "랭킹을 확인할 수 있습니다"
+
+msgid "header_desc_evquest011"
+msgstr "프로필을 확인할 수 있습니다"
+
+msgid "header_desc_evquest110"
+msgstr "랭킹을 확인할 수 있습니다"
+
+msgid "header_desc_evquest120"
+msgstr "이벤트 스토리를 확인할 수 있습니다"
+
+msgid "header_desc_evquest130"
+msgstr "이벤트 미션 목록입니다"
+
+msgid "header_desc_evquest030"
+msgstr "강화할 의상을 선택해 주세요"
+
+msgid "header_desc_evquest031"
+msgstr "아이템을 선택해 주세요　　　　　"
+
+msgid "header_desc_result211"
+msgstr "프로필을 확인할 수 있습니다"
+
+msgid "header_desc_result240"
+msgstr "랭킹을 확인할 수 있습니다"
+
+msgid "header_desc_musicrate000"
+msgstr "노래 레이트를 확인할 수 있습니다"
+
+msgid "header_desc_musicrate001"
+msgstr "프로필을 확인할 수 있습니다"
+
+msgid "popup_unlock_desc_000"
+msgstr "라이브에 악곡이 추가되었습니다!"
+
+msgid "popup_unlock_desc_001"
+msgstr "기억의 시공에서 노래의 기억을 해방할 수 있습니다."
+
+msgid "popup_unlock_desc_002"
+msgstr "가희 스테이터스"
+
+msgid "popup_loginbonus_001"
+msgstr "누적 로그인 보너스"
+
+msgid "popup_loginbonus_002"
+msgstr "아이템은 선물상자로 보내집니다."
+
+msgid "popup_loginbonus_comeback_pack_001"
+msgstr "어서오세요 팩"
+
+msgid "popup_review_000"
+msgstr "프레이아의 리뷰 요청"
+
+msgid "popup_review_001"
+msgstr "우타 마크로스 스마트폰 De카르챠를\\r\\n즐겨줘서 고마워!\\r\\n플레이해보니 어땠어?"
+
+msgid "popup_review_002"
+msgstr "별을 탭하여 평가해 주세요"
+
+msgid "popup_review_003"
+msgstr "혹시 괜찮다면 감상을\\r\\n들려주면 좋을 것 같은데...\\r\\n\\r\\n살짝 말해줄 수 있겠어?"
+
+msgid "popup_review_004"
+msgstr "혹시 괜찮다면 의견을\\r\\n들려줄 수 있을까?\\r\\n\\r\\n우타 마크로스 스마트폰 De카르챠를\\r\\n더 재밌게 만들어 갈 수 있도록 할게!"
+
+msgid "popup_reward_detail_001"
+msgstr "{0}회 이상 클리어"
+
+msgid "popup_reward_detail_002"
+msgstr "스코어 {0} 이상"
+
+msgid "popup_reward_detail_003"
+msgstr "{0} 콤보 이상"
+
+msgid "popup_reward_detail_004"
+msgstr ""
+
+msgid "popup_reward_detail_005"
+msgstr ""
+
+msgid "popup_reward_detail_title"
+msgstr "획득 보상"
+
+msgid "pupup_app_exit_title"
+msgstr "앱 종료 확인"
+
+msgid "popup_app_exit"
+msgstr "앱을 종료해도 괜찮습니까?"
+
+msgid "popup_quest_reward_title"
+msgstr "미션 달성"
+
+msgid "quest_event_none_list"
+msgstr "현재 도전할 수 있는 미션은 없습니다."
+
+msgid "quest_reward_none_list"
+msgstr "보상을 받을 수 있는 미션은 없습니다."
+
+msgid "quest_timer_d"
+msgstr "앞으로 {0}일"
+
+msgid "quest_timer_h"
+msgstr "앞으로 {0}시간"
+
+msgid "quest_timer_m"
+msgstr "앞으로 {0}분"
+
+msgid "quest_tiemr_e001"
+msgstr "개최 기간:{0} ~\\n{1}까지"
+
+msgid "quest_tiemr_e002"
+msgstr "수령 기간{0} ~\\n{1}까지"
+
+msgid "quest_tiemr_e003"
+msgstr "{0:D4}년 {1}월{2}일 {3:D2}:{4:D2}"
+
+msgid "popup_quest_detail_001"
+msgstr "유니온 크레딧×{0}"
+
+msgid "popup_quest_detail_002"
+msgstr ""
+
+msgid "popup_title_episode_01"
+msgstr "에피소드 해방 보상"
+
+msgid "popup_title_episode_02"
+msgstr "에피소드 아이템"
+
+msgid "popup_title_episode_03"
+msgstr "에피소드 해방"
+
+msgid "popup_title_episode_04"
+msgstr "에피소드 보상"
+
+msgid "episode_item_select_01"
+msgstr "아이템을 보유하고 있지 않습니다."
+
+msgid "popup_title_sns_01"
+msgstr "초시공 SNS룸"
+
+msgid "sns_text_01"
+msgstr "새로운 메시지가 있습니다."
+
+msgid "sns_item_description"
+msgstr "초시공 SNS 룸 「{0}」에서\\n「토크：{1}」을 볼 수 있습니다."
+
+msgid "popup_friend_request_title"
+msgstr "친구 신청"
+
+msgid "popup_friend_request_msg"
+msgstr "{0} 님에게 친구 신청을 보냅니다.\\n\\n괜찮으신가요?"
+
+msgid "popup_friend_release_title"
+msgstr "친구 해제 확인"
+
+msgid "popup_friend_release_msg"
+msgstr "{0} 님과의\\n친구를 해제합니다.\\n\\n괜찮으신가요?"
+
+msgid "popup_friend_cancel_title"
+msgstr "친구 신청 취소 확인"
+
+msgid "popup_friend_cancel_msg"
+msgstr "{0} 님에게 보낸\\n친구 신청을 취소합니다.\\n\\n괜찮으신가요?"
+
+msgid "popup_friend_accept_title"
+msgstr "친구 승인 확인"
+
+msgid "popup_friend_accept_msg"
+msgstr "{0} 님의\\n친구 신청을 승인합니다.\\n\\n괜찮으신가요?"
+
+msgid "popup_friend_reject_title"
+msgstr "친구 거절 확인"
+
+msgid "popup_friend_reject_msg"
+msgstr "{0} 님의\\n친구 신청을 거절합니다.\\n\\n괜찮으신가요?"
+
+msgid "popup_friend_requested_title"
+msgstr "친구 신청 완료"
+
+msgid "popup_friend_requested_msg"
+msgstr "{0} 님에게\\n친구 신청을 보냈습니다."
+
+msgid "popup_friend_released_title"
+msgstr "친구 해제 완료"
+
+msgid "popup_friend_released_msg"
+msgstr "{0} 님과의\\n친구를 해제했습니다."
+
+msgid "popup_friend_cancelled_title"
+msgstr "친구 신청 취소 완료"
+
+msgid "popup_friend_cancelled_msg"
+msgstr "{0} 님에게 보낸\\n친구 신청을 취소했습니다."
+
+msgid "popup_friend_accepted_title"
+msgstr "친구 승인 완료"
+
+msgid "popup_friend_accepted_msg"
+msgstr "{0} 님과\\n친구가 되었습니다."
+
+msgid "popup_friend_rejected_title"
+msgstr "친구 거절 완료"
+
+msgid "popup_friend_rejected_msg"
+msgstr "{0} 님의\\n친구 신청을 거절했습니다."
+
+msgid "friend_accept_not_found"
+msgstr "친구 승인 대기 중인 플레이어가 없습니다."
+
+msgid "friend_list_not_found"
+msgstr "친구가 없습니다."
+
+msgid "friend_request_not_found"
+msgstr "당신이 친구 신청을 한 플레이어가 없습니다."
+
+msgid "friend_search_ready"
+msgstr "ID 검색을 한 플레이어가 표시됩니다."
+
+msgid "friend_search_not_found"
+msgstr "플레이어를 찾을 수 없습니다."
+
+msgid "friend_caution_request"
+msgstr "신청 후 14일이 지나면 자동으로 목록에서 삭제됩니다."
+
+msgid "popup_friend_search_title"
+msgstr "ID 검색"
+
+msgid "popup_friend_search_placeholder"
+msgstr "플레이어 ID를 입력해 주세요."
+
+msgid "popup_friend_search_myself_title"
+msgstr "검색 실패"
+
+msgid "popup_friend_search_myself_msg"
+msgstr "당신의 플레이어 ID입니다."
+
+msgid "popup_friend_search_not_found_title"
+msgstr "검색 실패"
+
+msgid "popup_friend_search_not_found_msg"
+msgstr "플레이어 ID가 잘못되었습니다."
+
+msgid "ranking_message"
+msgstr "전 난이도 공통 랭킹입니다."
+
+msgid "ranking_no_entry"
+msgstr "랭킹에 참여하지 않았습니다."
+
+msgid "ranking_ev_period"
+msgstr "개최 기간:{0} ~\\n{1}까지"
+
+msgid "ranking_ev_period_date"
+msgstr "{0:D4}년 {1}월{2}일 {3:D2}:{4:D2}"
+
+msgid "ranking_ev_no_entry"
+msgstr "랭킹에 참여하지 않았습니다."
+
+msgid "ranking_ev_range_not_found"
+msgstr "그 순위에는 유저가 없습니다."
+
+msgid "popup_rank_range_title"
+msgstr "표시 순위"
+
+msgid "popup_rank_range_myself"
+msgstr "자신의 순위"
+
+msgid "popup_rank_range_place"
+msgstr "{0}위～"
+
+msgid "music_week_play_count_limit"
+msgstr "플레이 가능 횟수 제한에\\n도달하여 오늘은 더 이상\\n플레이할 수 없습니다."
+
+msgid "music_event_end_week"
+msgstr "오늘의 요일 이벤트는\\n종료되었습니다."
+
+msgid "music_event_end_score_rank"
+msgstr "집계 중"
+
+msgid "music_event_end_attain"
+msgstr "집계 중"
+
+msgid "music_event_end_attain_banner"
+msgstr "집계 중"
+
+msgid "music_event_end_attain_popup"
+msgstr "집계 중"
+
+msgid "music_event_period"
+msgstr "개최 기간:{0}~{1}까지"
+
+msgid "music_event_period_date"
+msgstr "{0:D4}년 {1}월{2}일 {3:D2}:{4:D2}"
+
+msgid "music_event_remain_prefix"
+msgstr "앞으로 "
+
+msgid "music_event_remain_day"
+msgstr "{0}일"
+
+msgid "music_event_remain_hour"
+msgstr "{0}시간"
+
+msgid "music_event_remain_minute"
+msgstr "{0}분"
+
+msgid "music_event_remain_second"
+msgstr "{0}초"
+
+msgid "music_event_collect_ticket_label"
+msgstr "보유 티켓"
+
+msgid "music_event_collect_current_point_label"
+msgstr "누적 포인트"
+
+msgid "music_event_collect_next_point_label"
+msgstr "다음 보상까지"
+
+msgid "music_event_collect_point_unit"
+msgstr ""
+
+msgid "music_event_collect_rank_label"
+msgstr "현재 순위"
+
+msgid "music_event_collect_rank_counting_label"
+msgstr "최종 순위"
+
+msgid "music_event_collect_rank_unit"
+msgstr "위"
+
+msgid "music_event_collect_rank_counting"
+msgstr "집계 중"
+
+msgid "music_event_collect_reward_label"
+msgstr "다음 보상"
+
+msgid "music_event_battle_current_point_label"
+msgstr "누적 포인트"
+
+msgid "music_event_battle_next_point_label"
+msgstr "다음 보상까지"
+
+msgid "music_event_battle_point_unit"
+msgstr ""
+
+msgid "music_event_battle_rank_hiscore_label"
+msgstr "EX 배틀 순위"
+
+msgid "music_event_battle_rank_hiscore_counting_label"
+msgstr "최종 EX 배틀 순위"
+
+msgid "music_event_battle_rank_total_label"
+msgstr "누적 포인트 순위"
+
+msgid "music_event_battle_rank_total_counting_label"
+msgstr "최종 누적 포인트 순위"
+
+msgid "music_event_battle_rank_unit"
+msgstr "위"
+
+msgid "music_event_battle_bp_counting_label"
+msgstr "EX 배틀 하이스코어"
+
+msgid "music_event_battle_rank_counting"
+msgstr "집계 중"
+
+msgid "music_event_battle_reward_label"
+msgstr "다음 보상"
+
+msgid "music_event_battle_class"
+msgstr "클래스{0}"
+
+msgid "music_event_battle_ｔarｇeｔ_score"
+msgstr "목표 스코어"
+
+msgid "music_event_battle_class_lvup"
+msgstr "새로운 배틀 클래스에서 승리하면 이벤트 포인트를\\n더 많이 획득할 수 있게 됩니다.\\n새로운 배틀 클래스에 도전하시겠습니까?"
+
+msgid "music_event_battle_class_get_emblem_01"
+msgstr "배틀 클래스{0} 칭호를 획득했습니다."
+
+msgid "music_event_battle_class_get_emblem_02"
+msgstr "배틀 클래스{0}까지의 칭호를 획득했습니다."
+
+msgid "music_event_battle_class_next_01"
+msgstr "배틀 클래스{0}의 EX 배틀에서 승리 또는"
+
+msgid "music_event_battle_class_next_02"
+msgstr "악곡 EX 배틀 스코어 {0} 이상 획득"
+
+msgid "music_event_battle_class_caution"
+msgstr "도전할 배틀 클래스를 선택해 주세요.\\n클래스가 높을수록 이벤트 포인트를 더 많이 획득할 수 있습니다."
+
+msgid "music_event_battle_class_reselect_01"
+msgstr "배틀 클래스 재선택 확인"
+
+msgid "music_event_battle_class_reselect_02"
+msgstr "배틀 클래스를 다시 선택합니다.\\n괜찮으신가요?\\n"
+
+msgid "music_event_battle_class_reselect_03"
+msgstr "<color=#8e0529>※EX 게이지가 초기화됩니다.\\n※상대가 다시 매칭됩니다.</color>"
+
+msgid "ex_battle_non_record"
+msgstr "EX 배틀 스코어 기록이 없습니다."
+
+msgid "event_battle_reward_check_hi_score"
+msgstr "EX 배틀 하이스코어"
+
+msgid "event_battle_reward_check_ranking"
+msgstr "EX 배틀 스코어 랭킹"
+
+msgid "event_battle_reward_check_ranking_unit"
+msgstr "위"
+
+msgid "music_event_battle_ex_schedule_caution_01"
+msgstr "EX 배틀의 악곡은 날짜 변경 시점에 변경됩니다."
+
+msgid "music_event_battle_ex_schedule_caution_02"
+msgstr "한 번 출현한 EX 배틀 악곡은 날짜가 변경되어도 바뀌지 않습니다."
+
+msgid "music_event_end"
+msgstr "이벤트 개최 기간이 종료되었습니다."
+
+msgid "music_event_counting"
+msgstr "이벤트 집계 중입니다."
+
+msgid "music_to_live_ticket_msg"
+msgstr "라이브에서 <color=#c8087e>티켓</color>을 <color=#c8087e>GET</color>하자!"
+
+msgid "music_select_slive_own_item"
+msgstr "보유 토큰"
+
+msgid "music_select_slive_cost_item"
+msgstr "소비 토큰"
+
+msgid "game_play_event_end_attain"
+msgstr "이 이벤트는 종료되었습니다.\\n홈으로 돌아갑니다."
+
+msgid "gacha_list_period"
+msgstr "{0}/{1} {2}:{3:D2}까지"
+
+msgid "gacha_list_daycount"
+msgstr "{0}일째"
+
+msgid "gacha_main_timezone"
+msgstr "아침{0}-{1}　낮{2}-{3}　밤{4}-{5}"
+
+msgid "gacha_main_timezone_time"
+msgstr ""
+
+msgid "gacha_main_event_period"
+msgstr "{0}/{1} {2}:{3:D2}까지"
+
+msgid "gacha_main_promo_msg_01"
+msgstr "※해당 플레이트를 2장 모으면 레어리티 업을 할 수 있습니다."
+
+msgid "gacha_main_promo_msg_02"
+msgstr "※해당 플레이트는 레어리티 업 후의 플레이트입니다."
+
+msgid "gacha_main_ep_reward_sub"
+msgstr "에피소드 보상 예시"
+
+msgid "gacha_main_ep_caution01"
+msgstr "※에피소드 보상은 에피소드 포인트로\\n　에피소드를 해제하면 획득할 수 있습니다."
+
+msgid "gacha_main_ep_caution02"
+msgstr "획득 가능한 에피소드 포인트의 한도는,\\n　플레이트에 따라 다릅니다."
+
+msgid "gacha_main_ep_diva_costume"
+msgstr "{0}의상\\n{1}"
+
+msgid "gacha_main_pickup_caution"
+msgstr "※픽업 대상 플레이트의 출현 확률이 증가한 만큼, 픽업 대상이 아닌 플레이트의 출현 확률이 낮아집니다."
+
+msgid "gacha_main_ticket_sale_period"
+msgstr "※티켓 포함 가창석 판매 기간은 {0}/{1} {2}:{3:D2}까지입니다."
+
+msgid "gacha_main_mpass_desc"
+msgstr "{0}을 소비하여\\n에피소드 플레이트를 획득할 수 있습니다."
+
+msgid "gacha_main_mpass_caution"
+msgstr "※티켓을 여러 장 보유한 경우,\\n　사용 기한이 가장 빠른 티켓이 표시됩니다."
+
+msgid "gacha_main_mpass_period"
+msgstr "사용 기한: {0}/{1}/{2} {3}:{4:D2}까지"
+
+msgid "popup_record_plate_001"
+msgstr "중복된 에피소드 플레이트가 자동 합성되었습니다."
+
+msgid "popup_record_plate_002"
+msgstr "중복된 에피소드 플레이트가 자동 합성되어\\n<color=#c8087e>시크릿 보드가 추가</color>되었습니다."
+
+msgid "popup_record_plate_003"
+msgstr "중복된 에피소드 플레이트가 자동 합성되어\\n<color=#c8087e>시크릿 보드가 확장</color>되었습니다."
+
+msgid "popup_record_plate_004"
+msgstr "중복된 에피소드 플레이트가 자동 합성되어 <color=#c8087e>레어리티가 상승</color>했습니다."
+
+msgid "popup_record_plate_005"
+msgstr "중복된 에피소드 플레이트가 자동 합성되어 <color=#c8087e>시크릿 보드가 추가</color>되었습니다."
+
+msgid "popup_record_plate_006"
+msgstr "중복된 에피소드 플레이트가 자동 합성되어 <color=#c8087e>시크릿 보드가 확장</color>되었습니다."
+
+msgid "popup_record_plate_007"
+msgstr "획득한 에피소드 플레이트가 <color=#c8087e>해제 아이템으로 변환</color>되었습니다."
+
+msgid "popup_record_plate_008"
+msgstr "합성 결과"
+
+msgid "popup_record_plate_009"
+msgstr "새로운 에피소드 플레이트를 획득했습니다."
+
+msgid "popup_record_plate_010"
+msgstr "신규 에피소드 플레이트"
+
+msgid "popup_gacha_rate_title"
+msgstr "출현 에피소드 플레이트 목록"
+
+msgid "popup_gacha_rate_limited_header"
+msgstr "확정 슬롯 가챠 출현 확률"
+
+msgid "popup_gacha_rate_limited_list"
+msgstr "확정 슬롯 가챠 출현 목록"
+
+msgid "popup_gacha_rate_limited5_header"
+msgstr "확정 슬롯 가챠 출현 확률"
+
+msgid "popup_gacha_rate_limited5_list"
+msgstr "확정 슬롯 가챠 출현 목록"
+
+msgid "popup_gacha_rate_basic_header"
+msgstr "가챠 출현 확률"
+
+msgid "popup_gacha_rate_basic_list"
+msgstr "가챠 출현 목록"
+
+msgid "popup_gacha_rate_pickup"
+msgstr "픽업 대상!"
+
+msgid "popup_gacha_rate_stepup"
+msgstr "스텝{0}의 출현 확률"
+
+msgid "popup_gacha_rate_warning"
+msgstr "※확률 표시는 소수점 4번째 자리 이하를 버리고 소수점 3자리까지 표시합니다.\\n　따라서 모두 합산해도 100％가 되지 않을 수 있습니다.\\n\\n※위의 에피소드 플레이트는 중복으로 출현할 수 있습니다.\\n\\n※같은 레어리티 내에서도 제공 비율이 다를 수 있습니다.\\n\\n※「가챠 출현 확률」에 표시된 각 레어리티별\\n   출현 확률은 「초기 출현 확률」입니다.\\n\\n※★5가 일정 횟수 이상 출현하지 않은 경우,\\n　★5의 출현 확률이 「초기 출현 확률」보다 조금 상승하며, 상승한 만큼\\n　★3★4 전체 출현 확률이 「초기 출현 확률」보다 낮아집니다.\\n\\n※한 번 「초기 출현 확률」에서 변동된 출현 확률은\\n　가챠 개최 기간 종료 또는 대상 가챠에서 ★5가 출현하면\\n　초기화됩니다.\\n\\n※「초기 출현 확률」에서의 확률 변동은 데뷔 가챠에서는 발생하지 않습니다."
+
+msgid "popup_gacha2_rate_warning"
+msgstr "※확률 표시는 소수점 4번째 자리 이하를 버리고 소수점 3자리까지 표시합니다.\\n　따라서 모두 합산해도 100％가 되지 않을 수 있습니다.\\n\\n※위의 에피소드 플레이트는 중복으로 출현할 수 있습니다.\\n\\n※같은 레어리티 내에서도 제공 비율이 다를 수 있습니다.\\n\\n※「가챠 출현 확률」에 표시된 각 레어리티별\\n   출현 확률은 「초기 출현 확률」입니다.\\n\\n※★5가 일정 횟수 이상 출현하지 않은 경우,\\n　★5의 출현 확률이 「초기 출현 확률」보다 조금 상승하며, 상승한 만큼\\n　★3★4 전체 출현 확률이 「초기 출현 확률」보다 낮아집니다.\\n\\n※한 번 「초기 출현 확률」에서 변동된 출현 확률은\\n　가챠 개최 기간 종료 또는 대상 가챠에서 ★5가 출현하면\\n　초기화됩니다."
+
+msgid "popup_gacha_once_rate_warning"
+msgstr "※확률 표시는 소수점 4번째 자리 이하를 버리고 소수점 3자리까지 표시합니다.\\n　따라서 모두 합산해도 100％가 되지 않을 수 있습니다.\\n\\n※위의 에피소드 플레이트는 중복으로 출현할 수 있습니다.\\n\\n※같은 레어리티 내에서도 제공 비율이 다를 수 있습니다."
+
+msgid "popup_gacha_rare5_rate_warning"
+msgstr "※확률 표시는 소수점 4번째 자리 이하를 버리고 소수점 3자리까지 표시합니다.\\n　따라서 모두 합산해도 100％가 되지 않을 수 있습니다.\\n\\n※같은 레어리티 내에서도 제공 비율이 다를 수 있습니다."
+
+msgid "popup_gacha_debut_rate_warning"
+msgstr "※확률 표시는 소수점 4번째 자리 이하를 버리고 소수점 3자리까지 표시합니다.\\n　따라서 모두 합산해도 100％가 되지 않을 수 있습니다.\\n\\n※위의 에피소드 플레이트는 중복으로 출현할 수 있습니다.\\n\\n※같은 레어리티 내에서도 제공 비율이 다를 수 있습니다.\\n\\n※「가챠 출현 확률」에 표시된 각 레어리티별\\n   출현 확률은 「초기 출현 확률」입니다.\\n\\n※★5가 일정 횟수 이상 출현하지 않은 경우,\\n　★5의 출현 확률이 「초기 출현 확률」보다 조금 상승하며, 상승한 만큼\\n　★3★4 전체 출현 확률이 「초기 출현 확률」보다 낮아집니다.\\n\\n※한 번 「초기 출현 확률」에서 변동된 출현 확률은\\n　가챠 개최 기간 종료 또는 대상 가챠에서 ★5가 출현하면\\n　초기화됩니다.\\n\\n※「초기 출현 확률」에서의 확률 변동은 데뷔 가챠에서는 발생하지 않습니다."
+
+msgid "popup_gacha_stepup_rate_warning"
+msgstr "※확률 표시는 소수점 4번째 자리 이하를 버리고 소수점 3자리까지 표시합니다.\\n　따라서 모두 합산해도 100％가 되지 않을 수 있습니다.\\n\\n※위의 에피소드 플레이트는 중복으로 출현할 수 있습니다.\\n\\n※같은 레어리티 내에서도 제공 비율이 다를 수 있습니다.\\n\\n※「가챠 출현 확률」에 표시된 각 레어리티별\\n   출현 확률은 「초기 출현 확률」입니다.\\n\\n※★5가 일정 횟수 이상 출현하지 않은 경우,\\n　★5의 출현 확률이 「초기 출현 확률」보다 조금 상승하며, 상승한 만큼\\n　★3★4 전체 출현 확률이 「초기 출현 확률」보다 낮아집니다.\\n\\n※한 번 「초기 출현 확률」에서 변동된 출현 확률은\\n　가챠 개최 기간 종료 또는 대상 가챠에서 ★5가 출현하면\\n　초기화됩니다."
+
+msgid "popup_gacha_pass_rate_warning"
+msgstr "※확률 표시는 소수점 4번째 자리 이하를 버리고 소수점 3자리까지 표시합니다.\\n　따라서 모두 합산해도 100％가 되지 않을 수 있습니다.\\n\\n※위의 에피소드 플레이트는 중복으로 출현할 수 있습니다."
+
+msgid "popup_gacha_rate_ep_caution01"
+msgstr "에피소드 보상은 에피소드 포인트로 에피소드를 해제하면 획득할 수 있습니다."
+
+msgid "popup_gacha_rate_ep_caution02"
+msgstr "획득 가능한 에피소드 포인트의 한도는, 플레이트에 따라 다릅니다."
+
+msgid "popup_gacha_rate_ep_episode_sub"
+msgstr "에피소드:"
+
+msgid "popup_gacha_rate_ep_reward_sub"
+msgstr "에피소드 보상 예시:"
+
+msgid "popup_gacha_rate_ep_diva_costume"
+msgstr ""
+
+msgid "popup_home_scene_bg_title"
+msgstr "배경 변경"
+
+msgid "popup_home_scene_bg_msg"
+msgstr "메인 플레이트의 레어리티 업 전 레어리티가\\n★4 이상인 경우, 배경을 플레이트 일러스트로 변경할 수 있습니다.\\n\\n변경은 「배경」에서 할 수 있습니다."
+
+msgid "popup_home_scene_limited_bg_msg_00"
+msgstr "홈 화면을 기간 한정 배경으로 변경할 수 있습니다.\\n배경을 변경하시겠습니까?"
+
+msgid "popup_home_scene_limited_bg_msg_01"
+msgstr "<color=#c8087e>※배경을 다시 변경하고 싶은 경우,\\n홈 화면의 배경 변경에서 설정할 수 있습니다.</color>"
+
+msgid "popup_home_scene_limited_bg_msg_02"
+msgstr "<color=#c8087e>다시 플레이트를 표시하고 싶은 경우 배경에서 설정할 수 있습니다.</color>"
+
+msgid "popup_home_ngword_rename_title"
+msgstr "금지어 알림"
+
+msgid "popup_home_ngword_rename_msg"
+msgstr "플레이어 이름 또는 소개글에\\n금지어가 포함되어 있어 변경되었습니다."
+
+msgid "home_pickup_checkbox"
+msgstr "오늘은 표시하지 않음"
+
+msgid "home_event_end_attain"
+msgstr "집계 중"
+
+msgid "home_event_epilogue"
+msgstr "이벤트 에필로그 공개 중!"
+
+msgid "home_banner_event_end_attain"
+msgstr "집계 중"
+
+msgid "popup_scene_autocombine_title"
+msgstr "자동 합성 확인"
+
+msgid "popup_scene_autocombine_msg"
+msgstr "이 에피소드 플레이트는 자동 합성에 사용되었습니다."
+
+msgid "popup_scene_convertitem_title"
+msgstr "아이템 변환 확인"
+
+msgid "popup_scene_convertitem_msg"
+msgstr "이 에피소드 플레이트는 아이템으로 변환되었습니다."
+
+msgid "popup_gacha_lot_paid_msg"
+msgstr "가창석 {0}개를 사용하여\\n가챠를 {1}회 진행하시겠습니까?"
+
+msgid "popup_gacha_lot_paid_few_msg"
+msgstr "가창석이 부족합니다."
+
+msgid "popup_gacha_lot_paid_count"
+msgstr "{0}개"
+
+msgid "popup_gacha_lot_free_msg"
+msgstr "무료로 가챠를 {0}번 뽑으시겠습니까?"
+
+msgid "popup_gacha_lot_ticket_msg"
+msgstr "{0}을 {1}장 사용하여\\n가챠를 {2}번 뽑으시겠습니까?"
+
+msgid "popup_gacha_lot_ticket_few_msg"
+msgstr "{0}이 부족합니다."
+
+msgid "popup_gacha_lot_ticket_few_caution_01"
+msgstr "{0}은 가정석 덤으로 획득할 수 있습니다."
+
+msgid "popup_gacha_lot_ticket_few_caution_02"
+msgstr "{0} 포함 가정석은 판매가 종료되었습니다."
+
+msgid "popup_gacha_lot_ticket_few_caution_03"
+msgstr "※{0}은 월간 이용권 구매 시 제공되는\\n초시공 로그인 보너스를 통해 얻을 수 있습니다."
+
+msgid "popup_gacha_lot_ticket_count"
+msgstr "{0}장"
+
+msgid "popup_gacha_reject_title"
+msgstr "가챠 조작 중단"
+
+msgid "popup_gacha_reject_free_timeout_msg"
+msgstr "현재 이 가챠를 진행할 수 없습니다.\\n원래 화면으로 돌아갑니다."
+
+msgid "popup_gacha_reject_ticket_timeout_msg"
+msgstr "현재 이 가챠를 진행할 수 없습니다.\\n타이틀 화면으로 돌아갑니다."
+
+msgid "popup_myid_copy_title"
+msgstr "복사 완료"
+
+msgid "popup_myid_copy_msg"
+msgstr "플레이어 ID를 복사했습니다."
+
+msgid "popup_title_degree_01"
+msgstr "칭호 상세"
+
+msgid "degree_current_window_title"
+msgstr "설정 중인 칭호"
+
+msgid "degree_select_window_title"
+msgstr "선택 중인 칭호"
+
+msgid "popup_title_profil_01"
+msgstr "플레이어 이름 변경"
+
+msgid "popup_title_profil_02"
+msgstr "플레이어 이름을 입력해 주세요.\\n(전각/반각 10자까지)"
+
+msgid "popup_title_profil_03"
+msgstr "<color=#C8087E>※플레이어 이름을 변경하면,\\n이후 30일 동안은 플레이어 이름을 변경할 수 없습니다.</color>\\n・일부 사용할 수 없는 기호와 문자가 있습니다.\\n・변경 내용이 반영되기까지 시간이 걸릴 수 있습니다."
+
+msgid "popup_title_profil_04"
+msgstr "플레이어 이름 변경 확인"
+
+msgid "popup_title_profil_05"
+msgstr "\\n\\n변경 후 플레이어 이름을 이대로 사용하시겠습니까?\\n\\n<color=#C8087E>※플레이어 이름을 변경하면,\\n이후 30일 동안은 플레이어 이름을 변경할 수 없습니다.</color>\\n"
+
+msgid "popup_title_profil_06"
+msgstr "플레이어 이름 변경"
+
+msgid "popup_title_profil_07"
+msgstr "플레이어 이름을 변경했습니다."
+
+msgid "popup_title_profil_08"
+msgstr "이전 플레이어 이름 변경 후 30일 이내에는\\n새롭게 변경할 수 없습니다."
+
+msgid "popup_title_profil_09"
+msgstr "소개글 변경"
+
+msgid "popup_title_profil_10"
+msgstr "소개글을 입력해주세요.\\n(최대 25자 이내)"
+
+msgid "popup_title_profil_11"
+msgstr "・일부 사용할 수 없는 기호와 문자가 있습니다.\\n・변경 내용이 반영되기까지 시간이 걸릴 수 있습니다.\\n・개인 정보나 공공질서에 어긋나는 내용은 입력하지 마세요."
+
+msgid "popup_title_profil_12"
+msgstr "소개글 변경"
+
+msgid "popup_title_profil_13"
+msgstr "소개글을 변경했습니다."
+
+msgid "popup_title_profil_14"
+msgstr "플레이어 ID"
+
+msgid "popup_title_profil_15"
+msgstr "플레이어 ID를 복사했습니다."
+
+msgid "popup_title_playernameentry"
+msgstr "플레이어 이름 입력"
+
+msgid "popup_text_playernameentry_desc"
+msgstr "플레이어 이름을 입력하세요.\\n( {0}자까지)"
+
+msgid "popup_text_playernameentry_notes"
+msgstr "<color={0}>※플레이어 이름은 나중에 변경할 수 있습니다.</color>"
+
+msgid "popup_text_playernameconfirm"
+msgstr "{0}\\n로 하시겠습니까?\\n<color={1}>※플레이어 이름은 나중에 변경할 수 있습니다.</color>"
+
+msgid "popup_text_notchangedplayername"
+msgstr "플레이어 이름이 변경되지 않았습니다."
+
+msgid "popup_text_notchangedcomment"
+msgstr "소개글이 변경되지 않았습니다."
+
+msgid "popup_title_stamina_01"
+msgstr "에너지 회복"
+
+msgid "popup_text_stamina_01"
+msgstr "가정석 {0}개를 소모하여\\n에너지를 {1} 회복합니다.\\n\\n<color=#C8087E>가정석 {2}→{3}</color>"
+
+msgid "popup_text_stamina_02"
+msgstr "가정석 {0}개를 소모하여\\n에너지를 {1} 회복합니다.\\n\\n<color=#C8087E>가정석이 부족합니다.</color>"
+
+msgid "popup_text_stamina_03"
+msgstr "에너지가 {0}(으)로 회복되었습니다."
+
+msgid "popup_text_stamina_04"
+msgstr "더 이상 에너지를 회복할 수 없습니다."
+
+msgid "popup_text_stamina_05"
+msgstr "{0}을 {1}개 소비하여\\n에너지를 {2} 회복합니다.\\n\\n<color=#C8087E>{0}  {3}→{4}</color>"
+
+msgid "popup_title_week_recovery_01"
+msgstr "요일 악곡 플레이 횟수 회복"
+
+msgid "popup_title_week_recovery_02"
+msgstr "{0} 사용 확인"
+
+msgid "popup_text_week_recovery_01"
+msgstr "{0}을 {1}개 소비하여\\n요일 악곡 플레이 횟수를 {2}회까지 회복합니다.\\n\\n<color=#C8087E>{0}  {3}→{4}</color>"
+
+msgid "popup_text_week_recovery_02"
+msgstr "플레이 횟수를 회복하는 {0}을\\n보유하고 있지 않습니다."
+
+msgid "popup_text_week_recovery_03"
+msgstr "요일 악곡 플레이 횟수가\\n남은 {0}회까지 회복되었습니다."
+
+msgid "popup_text_week_recovery_04"
+msgstr "곧 날짜가 변경됩니다.\\n{0}을 사용하시겠습니까?\\n\\n<color=#8E0529>※날짜가 변경되면 회복된 횟수만큼은\\n다음 날 요일 악곡에 추가되지 않습니다.</color>"
+
+msgid "diva_musiclevel_nocleartext"
+msgstr "클리어한 악곡이 없습니다."
+
+msgid "popup_event_quest_change_diff_title"
+msgstr "난이도 선택"
+
+msgid "popup_event_quest_change_diff_text"
+msgstr "난이도 {0}의 미션을 플레이할 수 있습니다."
+
+msgid "popup_event_quest_reset"
+msgstr "{1} UC를 소비하고\\n미션을 다시 선택할 수 있습니다.\\n재설정하시겠습니까?\\n\\n<color={0}> 보유 UC {2}→{3}</color>"
+
+msgid "popup_event_quest_reset_failed"
+msgstr "{1} UC를 소비하고\\n미션을 다시 선택할 수 있습니다.\\n\\n<color={0}>UC가 부족합니다.\\n보유 UC {2}</color>"
+
+msgid "popup_event_quest_last_spurt_title"
+msgstr "럭키 카드 대량 발생"
+
+msgid "popup_event_quest_last_spurt_text"
+msgstr "보너스 미션의 출현 확률이\\n2배로 증가했습니다!"
+
+msgid "popup_event_quest_select_lucky"
+msgstr "<color={0}> 럭키 미션 카드를 선택했습니다! </color>\\n미션 달성 시 획득할 수 있는 포인트가 2배로 증가합니다."
+
+msgid "event_quest_progress"
+msgstr "미션 달성까지 앞으로 {0}{1}"
+
+msgid "event_quest_touch_screen"
+msgstr "START 버튼을 눌러 미션 시작"
+
+msgid "event_quest_touch_screen2"
+msgstr "화면을 탭하여 셔플 시작"
+
+msgid "event_quest_touch_screen3"
+msgstr "카드 1장 선택"
+
+msgid "event_quest_touch_screen4"
+msgstr "화면을 탭하여 진행"
+
+msgid "event_quest_limit_time_d"
+msgstr "앞으로 {0}일"
+
+msgid "event_quest_limit_time_h"
+msgstr "앞으로 {0}시간"
+
+msgid "event_quest_limit_time_m"
+msgstr "앞으로 {0}분"
+
+msgid "event_quest_progress_count"
+msgstr "앞으로 {0}{1}"
+
+msgid "popup_event_quest_unreceived_reward_title"
+msgstr "수령하지 않은 보상이 있습니다"
+
+msgid "popup_event_quest_unreceived_reward_text"
+msgstr "미션 특별 페이지에서\\n보상을 받을 수 있습니다.\\n<color={0}>※이벤트 종료 후 1시간 이내에\\n받지 않으면 보상이 사라집니다.</color>"
+
+msgid "popup_event_collect_ticket_few_title"
+msgstr "티켓 소비"
+
+msgid "popup_event_collect_ticket_few_msg"
+msgstr "티켓 {0}장을 소비하여 악곡을 플레이합니다.\\n\\n<color=#C8087E>티켓이 부족합니다.\\n보유 티켓 수 {1}장</color>\\n\\n라이브에서 티켓을 모으시겠습니까?"
+
+msgid "popup_event_login_item00_title_msg"
+msgstr "<color=#C8087E>초시공 LIVE 티켓　{0}장</color>"
+
+msgid "popup_event_login_item00_label00_msg"
+msgstr "이벤트 악곡을 플레이하기 위해 필요한 아이템."
+
+msgid "popup_event_login_item00_label01_msg"
+msgstr "<color=#8e0529>현재 개최 중인 이벤트 종료 시 사라집니다.</color>"
+
+msgid "popup_event_login_item01_title_msg"
+msgstr "<color=#C8087E>【당일 한정】에너지 에테르　{0}개</color>"
+
+msgid "popup_event_login_item01_label00_msg"
+msgstr "사용하면 에너지가 모두 회복됩니다."
+
+msgid "popup_event_login_item01_label01_msg"
+msgstr "<color=#8e0529>획득한 당일 24시에 사라집니다.</color>"
+
+msgid "popup_event_login_prologue_title"
+msgstr "이벤트 프롤로그 보상"
+
+msgid "popup_event_login_epilogue_title"
+msgstr "이벤트 에필로그 보상"
+
+msgid "popup_event_score_my_rank_title"
+msgstr "랭킹 순위"
+
+msgid "popup_event_score_my_rank_msg"
+msgstr "<size=28>현재 랭킹 순위</size>\\n<size=40><color=#C8087E>{0}</color>위</size>"
+
+msgid "popup_unlock_diva_title"
+msgstr "가희의 기억 해제"
+
+msgid "popup_unlock_basara_title"
+msgstr "넥키 바사라의 기억 해제"
+
+msgid "popup_unlock_diva_desc_001"
+msgstr "기억의 시공에서 가희의 기억을 해제할 수 있습니다."
+
+msgid "popup_unlock_basara_desc_001"
+msgstr "기억의 시공에서 넥키 바사라의 기억을 해제할 수 있습니다."
+
+msgid "popup_story_diva_title_001"
+msgstr "가희의 기억 발견"
+
+msgid "popup_story_diva_title_002"
+msgstr "가희의 기억 해제 조건"
+
+msgid "result_playlog_hint_001"
+msgstr "폴드파가 높은 에피소드 플레이트를 편성하여 발키리 모드 돌입을 노려보자!"
+
+msgid "result_playlog_hint_002"
+msgstr "서포트 값이 높은 에피소드 플레이트를 편성하여 가희 모드&초가희 모드 진입을 목표로 하자!"
+
+msgid "result_playlog_hint_003"
+msgstr "MISS와 BAD가 많은 것 같아요. 리듬에 맞춰 노트를 잘 탭할 수 있도록 연습해 봅시다!"
+
+msgid "result_playlog_hint_004"
+msgstr "아직 능력을 해방할 수 있는 플레이트가 더 있는 것 같아. 플레이트의 능력을 해방하여 스테이터스를 강화하자."
+
+msgid "result_playlog_hint_005"
+msgstr "유닛의 토탈 값이 아직 낮은 것 같아요. 토탈 값이 높은 플레이트를 편성해 봅시다."
+
+msgid "result_playlog_hint_006"
+msgstr "GREAT 이상이면 콤보가 이어집니다. 판정 완화나 콤보 유지 스킬이 도움이 됩니다."
+
+msgid "result_playlog_hint_007"
+msgstr "액티브 스킬을 사용하자!"
+
+msgid "result_playlog_hint_008"
+msgstr "가희와 플레이트의 상성을 맞춰보자. 라이브 스킬이 발동하여 콤보 지속과 하이스코어를 기대할 수 있어."
+
+msgid "result_playlog_hint_009"
+msgstr "발키리 모드까지 생체 폴드파 게이지를 모으자. GREAT 이상의 판정을 받으면 쌓을 수 있어."
+
+msgid "result_playlog_hint_010"
+msgstr "발키리 모드에서 4콤보 이상을 유지하면 적에게 대미지를 입힐 수 있어."
+
+msgid "result_playlog_hint_011"
+msgstr "서포트 값이 높은 에피소드 플레이트를 모아 초가희 모드 진입을 목표로 하자!"
+
+msgid "result_playlog_hint_012"
+msgstr "스코어를 올리기 위해 액티브 스킬을 다시 확인해 봅시다."
+
+msgid "result_playlog_graph_detail"
+msgstr "상세 내용을 확인하고\\n싶은 그래프 부분을\\n탭하세요."
+
+msgid "popup_valkyrie_select_title"
+msgstr "변경 확인"
+
+msgid "popup_event_reward_result_pt_title"
+msgstr "누적 포인트 보상 획득"
+
+msgid "popup_event_reward_result_rank_title"
+msgstr "랭킹 보상 획득"
+
+msgid "popup_event_reward_ranking_type001"
+msgstr "누적 랭킹"
+
+msgid "popup_event_reward_ranking_type002"
+msgstr "EX 배틀 스코어 랭킹"
+
+msgid "popup_event_reward_ranking_type003"
+msgstr "가희 스코어 랭킹"
+
+msgid "event_reward_result_present_box"
+msgstr "<color=#C8087E>가정석은 선물상자로 보내드립니다.</color>"
+
+msgid "event_reward_result_present_box2"
+msgstr "<color=#C8087E>보상은 선물상자로 보내드립니다.</color>"
+
+msgid "event_reward_result_total"
+msgstr "획득 보상 합계"
+
+msgid "event_reward_result_get_pt"
+msgstr "총 획득 포인트"
+
+msgid "event_reward_result_win"
+msgstr ""
+
+msgid "event_reward_result_lose"
+msgstr ""
+
+msgid "event_reward_result_wincountbonus_unit"
+msgstr "{0}연승"
+
+msgid "event_reward_result_episodebonus_unit"
+msgstr "{0} 에피소드"
+
+msgid "event_reward_result_last_rank"
+msgstr "최종 순위"
+
+msgid "event_reward_result_dash_bonus"
+msgstr "소비 보너스 {0}배"
+
+msgid "popup_event_reward_check_pt_title"
+msgstr "누적 포인트 보상"
+
+msgid "popup_event_reward_check_rank_title"
+msgstr "랭킹 보상"
+
+msgid "popup_event_reward_check_plate_info_title"
+msgstr "플레이트 정보"
+
+msgid "popup_event_reward_check_pt"
+msgstr "【누적 포인트】"
+
+msgid "popup_event_reward_currentpoint_unit"
+msgstr ""
+
+msgid "popup_event_reward_needpoint_unit"
+msgstr ""
+
+msgid "popup_event_reward_currentrank_unit"
+msgstr "위"
+
+msgid "popup_event_reward_needrank_unit"
+msgstr "{0}위"
+
+msgid "popup_event_reward_needrankrange_unit"
+msgstr "{0}～{1}위"
+
+msgid "popup_event_reward_sns_itemtitle"
+msgstr "토크：{0}"
+
+msgid "popup_event_reward_emblemtitle"
+msgstr "칭호：{0}"
+
+msgid "popup_event_reward_platetitle"
+msgstr ""
+
+msgid "event_reward_check_have_pt"
+msgstr "현재 포인트"
+
+msgid "event_reward_check_rank"
+msgstr "현재 순위"
+
+msgid "rhythm_adjust_set"
+msgstr "설정값"
+
+msgid "rhythm_adjust_desc"
+msgstr "고음이 울리는 타이밍에 맞춰 리듬 버튼을\\n탭해 주세요.\\n타이밍이 자동으로 설정됩니다.\\n확인 모드에서 리듬을 시험할 수 있습니다."
+
+msgid "rhythm_adjust_balloon_text"
+msgstr "고음에 맞춰 탭"
+
+msgid "rhythm_adjust_confirmmode_title"
+msgstr "조정 확인"
+
+msgid "rhythm_adjust_confirmmode_text"
+msgstr "설정값을 {0}으로 조정했습니다.\\n확인 모드로 이동하시겠습니까?"
+
+msgid "popup_rhythm_adjust_result_title"
+msgstr "조정 결과"
+
+msgid "popup_rhythm_adjust_result_text"
+msgstr "설정값 {0}\\n타이밍 조정을 완료합니다.\\n이대로 진행하시겠습니까?"
+
+msgid "popup_rhythm_adjust_start_title"
+msgstr "조정 모드"
+
+msgid "popup_rhythm_adjust_start_text"
+msgstr "노트 타이밍 조정을 시작합니다."
+
+msgid "popup_rhythm_adjust_tutorial_title"
+msgstr "노트 타이밍"
+
+msgid "popup_result_playlog_detail_title"
+msgstr "플레이로그 상세"
+
+msgid "popup_denom_check_birthday_title"
+msgstr "연령 확인"
+
+msgid "popup_denom_check_birthday_text"
+msgstr "생년월은 {0}년 {1}월이 맞습니까?"
+
+msgid "popup_denom_title"
+msgstr "가정석 구입"
+
+msgid "denom_item_rest"
+msgstr "남은 {0}세트"
+
+msgid "popup_denom_regist_birthday_title"
+msgstr "연령 등록"
+
+msgid "popup_denom_regist_birthday_text1"
+msgstr "생년월을 등록해 주세요."
+
+msgid "popup_denom_regist_birthday_text2"
+msgstr "미성년자도 안심하고 안전한 환경에서 서비스를 이용할 수 있도록\\n한 달에 구매할 수 있는 금액에 제한을 두고 있습니다. \\n\\n<color=#C8087E>※한 번 등록한 연령은 변경할 수 없습니다. </color>\\n※연령은 생일이 있는 달의 다음 달이 되면 자동으로 갱신됩니다."
+
+msgid "popup_option_various_info"
+msgstr "각종 정보"
+
+msgid "popup_option_ranking_title"
+msgstr "이전 이벤트 랭킹"
+
+msgid "popup_option_ranking_notfound_title"
+msgstr "이전 이벤트 랭킹"
+
+msgid "popup_option_ranking_notfound_msg"
+msgstr "이벤트 랭킹 정보 획득에 실패했습니다.\\n\\n이전에 개최된 이벤트 이외의\\n정보는 획득할 수 없습니다."
+
+msgid "profil_text_01"
+msgstr "미설정"
+
+msgid "profil_text_02"
+msgstr "미설정"
+
+msgid "profil_text_03"
+msgstr "없음"
+
+msgid "profil_text_04"
+msgstr ""
+
+msgid "profil_text_05"
+msgstr "변경 가능일 {0}월 {1}일"
+
+msgid "popup_music_info_01"
+msgstr "악곡을 플레이하시겠습니까?"
+
+msgid "popup_buy_music_msg_android"
+msgstr "이후 외부 사이트로 연결됩니다."
+
+msgid "popup_buy_music_msg_ios"
+msgstr "이후 외부 사이트로 연결됩니다."
+
+msgid "popup_home_diva_01"
+msgstr "가희 설정이 선택한 가희로 변경됩니다.\\n\\n유닛의 센터 가희를 홈에 표시하려면\\n메뉴에서 설정을 변경할 수 있습니다."
+
+msgid "balloon_story_new_chara"
+msgstr "가희의 기억을 해제하자"
+
+msgid "balloon_story_new_basara"
+msgstr "넥키 바사라의 기억을 해제하자"
+
+msgid "balloon_story_new_stage"
+msgstr "노래의 기억을 해제하자"
+
+msgid "balloon_story_new_sns"
+msgstr "초시공 SNS가 업데이트되었습니다"
+
+msgid "balloon_event_prologue_loginbonus"
+msgstr "이벤트 프롤로그를 보고\\n{0}을 받자"
+
+msgid "balloon_event_epilogue_loginbonus"
+msgstr "이벤트 에필로그를 보고\\n{0}을 받자"
+
+msgid "costume_select_text_01"
+msgstr "획득 조건"
+
+msgid "costume_select_text_02"
+msgstr "에피소드\\n「{0}」\\n완전 해제"
+
+msgid "costume_select_text_03"
+msgstr "에피소드 미해제"
+
+msgid "costume_select_text_04"
+msgstr "「{0}」\\n에피소드를 구성하는 플레이트를 보유하고 있지 않습니다\\n에피소드 플레이트를 모아 에피소드를 해제합시다"
+
+msgid "popup_unlock_diff_02"
+msgstr "<size=22>난이도 HARD를 선택할 수 있게 되었습니다!</size>"
+
+msgid "popup_unlock_diff_03"
+msgstr "<size=22>난이도 VERY HARD를 선택할 수 있게 되었습니다!</size>"
+
+msgid "popup_unlock_diff_04"
+msgstr "<size=22>난이도 EXTREME을 선택할 수 있게 되었습니다!</size>"
+
+msgid "popup_add_episode_01"
+msgstr "보상은 에피소드를 완전 해제하면 획득할 수 있습니다."
+
+msgid "popup_add_episode_02"
+msgstr "발키리는 에피소드를 완전 해제하면 획득할 수 있습니다."
+
+msgid "popup_add_episode_03"
+msgstr "의상은 에피소드를 모두 해방하면 획득할 수 있습니다."
+
+msgid "popup_add_episode_04"
+msgstr "배경은 에피소드를 완전 해제하면 획득할 수 있습니다."
+
+msgid "popup_release_ep_diva_costume"
+msgstr "{0}의상"
+
+msgid "popup_release_episode_01"
+msgstr "에피소드 목록에서 의상을 해방하자!"
+
+msgid "popup_release_episode_02"
+msgstr "에피소드 목록에서 발키리를 해제하자!"
+
+msgid "popup_release_episode_03"
+msgstr "에피소드 목록에서 배경을 해제하자!"
+
+msgid "popup_event_end_title"
+msgstr "이벤트 종료"
+
+msgid "popup_event_end_text_1"
+msgstr "이벤트가 종료되었습니다.\\n타이틀 화면으로 돌아갑니다."
+
+msgid "popup_event_end_text_2"
+msgstr "이벤트가 종료되었습니다.\\n홈 화면으로 돌아갑니다."
+
+msgid "popup_event_end_text_3"
+msgstr "이벤트가 종료되었습니다."
+
+msgid "popup_beginner_mission_001"
+msgstr "축하해!\\n이것으로 초보자 미션을 모두 클리어했어.\\n\\n그 밖에도 미션은 많이 있으니까,\\n이 기세로 계속 클리어해 나가자."
+
+msgid "popup_gotitle_001"
+msgstr "타이틀로 돌아갑니다.\\n괜찮으시겠습니까?"
+
+msgid "skill_format_001"
+msgstr ""
+
+msgid "skill_format_002"
+msgstr ""
+
+msgid "skill_format_003"
+msgstr ""
+
+msgid "skill_format_004"
+msgstr ""
+
+msgid "tuto_gacha_title"
+msgstr "데카르 가챠"
+
+msgid "tuto_gacha_desc"
+msgstr "가창석을 소비하여\\n에피소드 플레이트를 획득할 수 있습니다."
+
+msgid "tuto_divaselect_popup_001"
+msgstr ""
+
+msgid "tuto_divaselect_popup_002"
+msgstr "이 가희로 게임을 시작하시겠습니까?"
+
+msgid "tuto_divaselect_popup_003"
+msgstr "<color=#C8087E>게임을 진행하면 다른 가희도 선택할 수 있게 됩니다. </color>"
+
+msgid "popup_help_select_title"
+msgstr "도움말"
+
+msgid "story_diva_tilte_01"
+msgstr "「목숨 걸고 날면 날 수 있어!」"
+
+msgid "story_diva_tilte_02"
+msgstr "「너는 어떤 마음으로 노래하는 거야?」"
+
+msgid "story_diva_tilte_03"
+msgstr "「목숨 걸고 즐겨버리자!」"
+
+msgid "story_diva_tilte_04"
+msgstr "「어떻게든 함께 노래하고 싶어서!」"
+
+msgid "story_diva_tilte_05"
+msgstr "「그러니까 즐기는 거야. 지금을, 있는 힘껏」"
+
+msgid "story_diva_tilte_06"
+msgstr "「전해야 해, 내 마음을!」"
+
+msgid "story_diva_tilte_07"
+msgstr "「나는, 내 노래로 은하를 울리고 싶어」"
+
+msgid "story_diva_tilte_08"
+msgstr "「나도 사운드 포스의 보컬이라고!」"
+
+msgid "story_diva_tilte_09"
+msgstr "「너에게도 내 노래를 들려주겠어!」"
+
+msgid "story_diva_tilte_10"
+msgstr "「마음을 담아, 노래하겠습니다」"
+
+msgid "story_diva_desc_01"
+msgstr "전술 음악 유닛 「왈큐레」를 동경해\\n고향을 떠나온 소녀.\\n\\n천진난만한 성격으로 노래를 매우 좋아하지만,\\n춤에는 서툴다.\\n감정이 고조되면 머리의 「룬」이 빛난다.\\n\\n독특한 사투리로 말하며,\\n「고리고리」가 말버릇이다."
+
+msgid "story_diva_desc_02"
+msgstr "전술 음악 유닛 「왈큐레」의 에이스 보컬.\\n\\n출신과 경력 등 모든 것이 수수께끼에 싸인\\n신비로운 존재.\\n\\n노래에 대한 강한 신념을 가지고 있으며,\\n어떤 위기에 처해도 결코 노래하는 것을 포기하지 않는다."
+
+msgid "story_diva_desc_03"
+msgstr "전술 음악 유닛 「왈큐레」의 리더.\\n\\n스케줄 관리부터\\n팀 운영까지 해내는 믿음직한 인물.\\n\\n왈큐레에 가입하기 전에는\\n솔로 아이돌 활동을 하고 있었다."
+
+msgid "story_diva_desc_04"
+msgstr "전술 음악 유닛 「왈큐레」의 멤버.\\n\\n대대로 메카닉 집안에서 태어나,\\n본인 역시 뛰어난 실력을 가진 메카닉이다.\\n\\n동료나 메카에 별명을 붙이는 버릇이 있다.\\n레이나와는 자매처럼 사이가 좋다."
+
+msgid "story_diva_desc_05"
+msgstr "전술 음악 유닛 「왈큐레」의 멤버.\\n\\n독설가이며 감정을 잘 드러내지 않는다.\\n\\n뛰어난 해커이기도 하며,\\n전자 기술자로도 활약하고 있다.\\n마키나와는 한 지붕 아래 살 정도로 가까운 사이이다."
+
+msgid "story_diva_desc_06"
+msgstr "우연한 계기로 데뷔하여\\n순식간에 인기 아이돌이 된 「초시공 신데렐라」.\\n\\n마음씨가 상냥하고 성실한 성격.\\n\\n어릴 때부터 노래하는 것을 좋아했으며,\\n셰릴에게 동경심을 품고 있다."
+
+msgid "story_diva_desc_07"
+msgstr "「이 은하에 살면서 셰릴의 노래를 듣지 않는 날은 없다」\\n라고 불리는 톱 싱어.\\n\\n통칭 「은하의 요정」.\\n\\n프로인 자신에 대한 자부심을 가지고 있으며,\\n일류로 계속 남기 위한 노력을 아끼지 않는다."
+
+msgid "story_diva_desc_08"
+msgstr "록 밴드 「Fire Bomber」의 보컬／베이스 담당.\\n\\n7자매 중 막내.\\n겁내지 않는 곧은 성격으로,\\n아이 취급받는 것을 싫어한다.\\n\\n보컬리스트로서도 파일럿으로서도\\n바사라에게 뒤지지 않는 실력을 가지고 있다."
+
+msgid "story_diva_desc_09"
+msgstr "록 밴드 「Fire Bomber」의 보컬／기타 담당.\\n\\n무엇보다 노래하는 것을 좋아하며,\\n다툼을 좋아하지 않는다.\\n말버릇은 「내 노래를 들어!」.\\n\\n무슨 일이든 노래가 있으면\\n서로 이해할 수 있다고 생각한다."
+
+msgid "story_diva_desc_10"
+msgstr "후세에도 전해질 전설의 아이돌.\\n\\n밝고 거리낌 없는 성격이지만,\\n조금 제멋대로인 면도 있다.\\n\\n그녀의 매력과 노래는\\n인류와 전쟁 중이던 젠트라디마저 매료시켜,\\n그들이 문화를 되찾는 계기가 되었다."
+
+msgid "sns_notify_fmt"
+msgstr "{0}에서 새로운 메시지가 있습니다."
+
+msgid "unlock_costume_not_have_diva"
+msgstr "이 의상을 사용할 수 있는 가희가 없습니다.\\n기억의 시공에서 가희의 기억을 해방합시다."
+
+msgid "unlock_costume_not_have_basara"
+msgstr "바사라가 없어 이 의상을 사용할 수 없습니다.\\n기억의 시공으로 바사라의 기억을 해방합시다."
+
+msgid "scenelist_not_listed_up"
+msgstr "해당하는 에피소드 플레이트가 없습니다."
+
+msgid "popup_adv_skip_title"
+msgstr "스킵 확인"
+
+msgid "popup_adv_skip_text"
+msgstr "{0}을 스킵합니다.\\n괜찮으시겠습니까?"
+
+msgid "popup_adv_skip_target001"
+msgstr "대화"
+
+msgid "popup_adv_skip_target002"
+msgstr "오프닝"
+
+msgid "popup_cbt_purchase"
+msgstr "클로즈드 베타 테스트에서는\\n가창석을 구매할 수 없습니다."
+
+msgid "questionary_notification_000"
+msgstr "해당 항목을 하나 선택해 주세요."
+
+msgid "questionary_notification_001"
+msgstr "해당 항목을 {0}개까지 선택해 주세요."
+
+msgid "questionary_notification_002"
+msgstr "선택지에 따라 게임 내용이 변경되지는 않습니다."
+
+msgid "popup_sns_desc_001"
+msgstr "{0}\\n을 달성했습니다.\\n\\n미션에서 보상을 받을 수 있습니다."
+
+msgid "popup_story_termination"
+msgstr "기억의 시공에서 현재 발견된\\n모든 기억을 해제했습니다."
+
+msgid "popup_unlock_desc_title"
+msgstr "노래의 기억 해제"
+
+msgid "popup_episodebonus_platelist_title"
+msgstr ""
+
+msgid "popup_episodebonus_nothingplate"
+msgstr "해당 에피소드를 구성하는 플레이트를 보유하고 있지 않습니다."
+
+msgid "push_notify_lb_title"
+msgstr "로그인 보너스를 받자!"
+
+msgid "push_notify_lb_msg_01"
+msgstr "가창석 100개를 2일 차 로그인 보너스로 선물! 지금 바로 로그인하자!"
+
+msgid "push_notify_debut_vc_title"
+msgstr "가창석 세일 진행 중!"
+
+msgid "push_notify_debut_vc_msg_01"
+msgstr "지금만 얻을 수 있는 알뜰한 가창석 세트, 곧 판매 종료입니다!"
+
+msgid "popup_limit_over_add"
+msgstr "럭키 리프의 새로운 능력을 해방할 수 있습니다."
+
+msgid "popup_limit_over_release_01"
+msgstr "럭키 리프 효과가 추가되었습니다!"
+
+msgid "popup_limit_over_release_02"
+msgstr "럭키 리프의 효과가 추가되었습니다!\\n또한, 럭키 리프의 새로운 능력을 해방할 수 있습니다."
+
+msgid "limit_over_excellent_rate_01"
+msgstr "PERFECT가 <color=#C8087E>EXCELLENT</color>로 변화할 확률 +<color=#C8087E>{0}</color>%"
+
+msgid "limit_over_excellent_rate_02"
+msgstr "PERFECT가 <color=#C8087E>EXCELLENT</color>로 변화할 확률 +<color=#C8087E>{0}</color>%\\n플레이트와 악곡의 <color=#C8087E>속성이 같으면</color> 추가로 +<color=#C8087E>{ma}</color>%"
+
+msgid "limit_over_excellent_rate_03"
+msgstr "PERFECT가 <color=#C8087E>EXCELLENT</color>로 변화할 확률 +<color=#C8087E>{0}</color>%\\n플레이트와 악곡의 <color=#C8087E>속성이 같으면</color> 추가로 +<color=#C8087E>{ma}</color>%\\n플레이트와 악곡의 <color=#C8087E>시리즈가 같으면</color> 추가로 +<color=#C8087E>{sa}</color>%"
+
+msgid "limit_over_excellent_rate_04"
+msgstr "플레이트와 악곡의 <color=#C8087E>속성이 같으면</color> 추가로 +<color=#C8087E>{0}</color>%"
+
+msgid "limit_over_excellent_rate_05"
+msgstr "플레이트와 악곡의 <color=#C8087E>시리즈가 같으면</color> 추가로 +<color=#C8087E>{0}</color>%"
+
+msgid "limit_over_excellent_effect_01"
+msgstr "<color=#C8087E>EXCELLENT</color> 발생 시 스코어 +<color=#C8087E>{0}</color>%"
+
+msgid "limit_over_excellent_effect_02"
+msgstr "<color=#C8087E>EXCELLENT</color> 발생 시 스코어 +<color=#C8087E>{0}</color>%\\n플레이트와 악곡의 <color=#C8087E>속성이 같으면</color> 추가로 +<color=#C8087E>{1}</color>%"
+
+msgid "limit_over_excellent_effect_03"
+msgstr "플레이트와 악곡의 <color=#C8087E>속성이 같으면</color> 추가로 +<color=#C8087E>{0}</color>%"
+
+msgid "limit_over_center_live_skill_01"
+msgstr "<color=#C8087E>센터 라이브 스킬 노트</color>가 출현할 확률 +<color=#C8087E>{0}</color>%"
+
+msgid "limit_over_center_live_skill_02"
+msgstr "<color=#C8087E>센터 라이브 스킬 노트</color>가 출현할 확률 +<color=#C8087E>{0}</color>%\\n플레이트와 악곡의 <color=#C8087E>속성이 같으면</color> 추가로 +<color=#C8087E>{ma}</color>%"
+
+msgid "limit_over_center_live_skill_03"
+msgstr "<color=#C8087E>센터 라이브 스킬 노트</color>가 출현할 확률 +<color=#C8087E>{0}</color>%\\n플레이트와 악곡의 <color=#C8087E>속성이 같으면</color> 추가로 +<color=#C8087E>{ma}</color>%\\n플레이트와 악곡의 <color=#C8087E>시리즈가 같으면</color> 추가로 +<color=#C8087E>{sa}</color>%"
+
+msgid "limit_over_center_live_skill_04"
+msgstr "플레이트와 악곡의 <color=#C8087E>속성이 같으면</color> 추가로 +<color=#C8087E>{0}</color>%"
+
+msgid "limit_over_center_live_skill_05"
+msgstr "플레이트와 악곡의 <color=#C8087E>시리즈가 같으면</color> 추가로 +<color=#C8087E>{0}</color>%"
+
+msgid "limit_over_unlock_01"
+msgstr "【해제 조건】LUCK{0} 이상"
+
+msgid "limit_over_unlock_02"
+msgstr "【해제 조건】LUCK{0} 이상　<size=18><color=#8e0529>LUCK이 부족합니다.</color></size>"
+
+msgid "limit_over_unlock_03"
+msgstr "이 럭키 리프의 효과는 모두 해방된 상태입니다."
+
+msgid "limit_over_unlock_04"
+msgstr "※메인 플레이트와 가희 상성이 맞지 않는 경우에도 발동합니다."
+
+msgid "limit_over_popup_title"
+msgstr "럭키 리프 효과"
+
+msgid "limit_over_popup_caution"
+msgstr "※★{0} 플레이트를 최대까지 해제하면 프리미엄화됩니다."
+
+msgid "popup_limit_over_list_title"
+msgstr "럭키 리프 목록"
+
+msgid "popup_limit_over_list_count"
+msgstr "{0}장"
+
+msgid "popup_limit_over_list_none_desc"
+msgstr "표시할 수 있는 플레이트가 없습니다."
+
+msgid "popup_dash_ticket_title"
+msgstr "티켓 소비 장수 선택"
+
+msgid "popup_dash_energy_title"
+msgstr "에너지 소비량 선택"
+
+msgid "popup_dash_button"
+msgstr "{0}배"
+
+msgid "popup_dash_cost_energy"
+msgstr "에너지 소비량 {0}"
+
+msgid "popup_dash_own_energy"
+msgstr "현재 에너지 {0}"
+
+msgid "popup_dash_cost_ticket"
+msgstr "소비 티켓 수 {0}"
+
+msgid "popup_dash_own_ticket"
+msgstr "보유 티켓 수 {0}"
+
+msgid "popup_dash_caution"
+msgstr "선택한 배율에 따라 획득할 수 있는 이벤트 포인트도 늘어납니다."
+
+msgid "popup_dash_caution_skip"
+msgstr "스킵 기능은 1배 소비만 사용할 수 있습니다."
+
+msgid "popup_dash_cost_over_energy"
+msgstr "<color=#8e0529>필요한 소비량까지 에너지를 회복할 수 없기 때문에 선택할 수 없습니다.</color>"
+
+msgid "popup_dash_cost_over_ticket"
+msgstr "<color=#8e0529>티켓이 부족하여 선택할 수 없습니다.</color>"
+
+msgid "popup_rcmd_app_update_title"
+msgstr "앱 업데이트"
+
+msgid "popup_rcmd_app_update_an"
+msgstr "새로운 앱 버전이 있습니다.\\nGoogle Play 스토어에서\\n업데이트를 진행해주세요.\\n업데이트에 실패할 경우, 단말기를 재부팅해 주시기 바랍니다."
+
+msgid "popup_rcmd_app_update_ios"
+msgstr "새로운 앱 버전이 있습니다.\\nApp Store에서\\n업데이트를 진행해주세요.\\n업데이트에 실패할 경우, 단말기를 재부팅해 주시기 바랍니다."
+
+msgid "game_popup_mvpause_title"
+msgstr "일시정지 중"
+
+msgid "game_popup_mvpause_text"
+msgstr "악곡 이름\\n{0}\\n\\n난이도\\n{1}"
+
+msgid "game_mvmode_endtitle_text"
+msgstr "종료 확인"
+
+msgid "game_mvmode_end_text"
+msgstr "시뮬레이션 라이브를 종료합니다.\\n괜찮으시겠습니까?"
+
+msgid "mvmode_setting_popuptitle_000"
+msgstr "가희 선택"
+
+msgid "mvmode_setting_popuptitle_001"
+msgstr "의상 선택"
+
+msgid "mvmode_setting_popuptitle_002"
+msgstr "발키리 선택"
+
+msgid "mvmode_setting_menu_000"
+msgstr "<size=22>발키리 모드에 돌입</size>"
+
+msgid "mvmode_setting_menu_001"
+msgstr "<size=22>초가희 모드에 돌입</size>"
+
+msgid "mvmode_setting_menu_002"
+msgstr "<color=#8e0529>OFF인 경우, 노트 표시만 OFF가 됩니다.</color>"
+
+msgid "mvmode_setting_popup_text_000_000"
+msgstr "홈의 가희"
+
+msgid "mvmode_setting_popup_text_000_001"
+msgstr ""
+
+msgid "mvmode_setting_popup_text_001_000"
+msgstr "가희에게 SET 중인 의상"
+
+msgid "mvmode_setting_popup_text_001_001"
+msgstr ""
+
+msgid "mvmode_setting_popup_text_001_002"
+msgstr "바사라에게 SET 중인 의상"
+
+msgid "mvmode_setting_popup_text_002_000"
+msgstr "유닛에 SET 중인 발키리"
+
+msgid "mvmode_setting_popup_text_002_001"
+msgstr ""
+
+msgid "mvmode_check_popup_title"
+msgstr "아이템 소비"
+
+msgid "mvmode_check_popup_text"
+msgstr "S-LIVE 토큰을 {0}개 소비하여\\n시뮬레이션 라이브를 플레이합니다.\\n\\n<color=#8e0529>아이템이 부족합니다.</color>"
+
+msgid "prism_caution"
+msgstr "라이브의 가희나 발키리 외형만 변경할 수 있습니다."
+
+msgid "item_popup_shop_text_00"
+msgstr "아이템 교환"
+
+msgid "item_popup_shop_text_01"
+msgstr "보유:"
+
+msgid "item_popup_shop_text_02"
+msgstr "필요:"
+
+msgid "item_popup_shop_text_03"
+msgstr "{0}과 {1}을 교환합니다."
+
+msgid "item_popup_shop_text_04"
+msgstr "남은 {0}회"
+
+msgid "item_popup_shop_text_05"
+msgstr "아이템 수령"
+
+msgid "item_popup_shop_text_06"
+msgstr "{0}은\\n{1}/{2}/{3} {4:}:{5:00}에 사라집니다."
+
+msgid "item_popup_shop_text_07"
+msgstr "{0}은\\n{1}/{2}/{3} {4:}:{5:00}에 사라집니다.\\n\\n{0}은 가창석의\\n보너스로만 획득할 수 있습니다."
+
+msgid "item_popup_shop_text_08"
+msgstr "{0}에는 사용 기한이 있습니다. 지금 교환하시겠습니까?"
+
+msgid "item_popup_shop_text_09"
+msgstr "위 내용에는 앞으로 교환할 아이템의 사용 기한이 표시되어 있습니다."
+
+msgid "item_episode_plate"
+msgstr "에피소드 플레이트"
+
+msgid "item_shop_medal_period"
+msgstr "메달은 {0}/{1} {2}:{3:D2}에 사라집니다."
+
+msgid "item_shop_sphere_period"
+msgstr "스피어는 {0}/{1} {2}:{3:D2}에 사라집니다."
+
+msgid "item_shop_caution"
+msgstr "필요한 품목이 부족하여 교환이 불가능합니다."
+
+msgid "item_shop_caution_max"
+msgstr "아이템 보유 한도에 도달하여 교환할 수 없습니다."
+
+msgid "item_shop_closed"
+msgstr "현재 이용이 불가능합니다."
+
+msgid "item_shop_period"
+msgstr "교환 기간　{0}/{1} {2}:{3:D2}까지"
+
+msgid "item_shop_get_period"
+msgstr "획득 기간　{0}/{1} {2}:{3:D2}까지"
+
+msgid "item_shop_reset_period"
+msgstr "{0}/{1} {2}:{3:D2}까지"
+
+msgid "item_shop_limit_period"
+msgstr "{0}/{1} {2}:{3:D2}까지"
+
+msgid "event_mission_message_000"
+msgstr ""
+
+msgid "event_mission_message_001"
+msgstr "도전할 미션을 선택하자"
+
+msgid "music_select_event_bonus"
+msgstr "보너스 악곡 {0}% 상승"
+
+msgid "event_mission_changemusic_title"
+msgstr "악곡 선택"
+
+msgid "event_mission_changemusic_title2"
+msgstr "보너스 악곡에 대하여"
+
+msgid "event_mission_changemusic_desc_001"
+msgstr "악곡의 플레이 가능 기간이 종료되어\\n다시 악곡을 선택했습니다."
+
+msgid "event_mission_changemusic_desc_002"
+msgstr "요일 이벤트 악곡이\\n플레이 가능 횟수 제한에 도달하여\\n악곡을 다시 선택했습니다."
+
+msgid "event_mission_changemusic_desc_003"
+msgstr "보너스 악곡의 대상이 변경되었습니다."
+
+msgid "event_mission_changemusic_caution"
+msgstr "보너스 악곡 중에서 무작위로 선정됩니다."
+
+msgid "event_mission_changemusic_caution2"
+msgstr "지난번에 플레이한 악곡은 더 이상 보너스 곡이 아닙니다."
+
+msgid "event_mission_changemusic_format"
+msgstr ""
+
+msgid "event_mission_setting_title"
+msgstr "미션 설정"
+
+msgid "event_mission_setting_desc_001"
+msgstr "악곡 선택 설정"
+
+msgid "event_mission_setting_desc_002"
+msgstr "미션 결정 후 자동으로 선택되는 악곡에 대해 설정합니다."
+
+msgid "event_mission_setting_desc_003"
+msgstr "악곡은 임의로 다시 선택할 수 있습니다."
+
+msgid "event_mission_setting_desc_004"
+msgstr "보너스 악곡 중 랜덤으로 선택"
+
+msgid "event_mission_setting_desc_005"
+msgstr "마지막으로 플레이한 악곡 선택하기"
+
+msgid "event_mission_comborank"
+msgstr "\\n({0}콤보)"
+
+msgid "simulation_result_anim_name_01"
+msgstr "마크로스Δ(델타) (총 26화)"
+
+msgid "simulation_result_anim_name_02"
+msgstr "마크로스F (총 25화)"
+
+msgid "simulation_result_anim_name_03"
+msgstr "마크로스7 (총 52화)"
+
+msgid "simulation_result_anim_name_04"
+msgstr "초시공요새 마크로스 (총 36화)"
+
+msgid "popup_music_rate_title"
+msgstr "노래 레이트 상세"
+
+msgid "popup_music_grade_title"
+msgstr "노래 등급 목록"
+
+msgid "popup_music_rate_total"
+msgstr "합계"
+
+msgid "popup_music_rate_up"
+msgstr ""
+
+msgid "popup_music_rate_not_found"
+msgstr "노래 레이트 기록이 없습니다."
+
+msgid "popup_music_rate_ranking_not_found"
+msgstr "노래 레이트 랭킹 기록이 없습니다."
+
+msgid "popup_music_rate_next_01"
+msgstr "앞으로"
+
+msgid "popup_music_rate_next_02"
+msgstr "에서"
+
+msgid "popup_music_rate_must"
+msgstr "필요 노래 레이트"
+
+msgid "popup_music_rate_get_reward_desc_01"
+msgstr "노래 등급이 상승하여 보상으로 아이템을 획득했습니다."
+
+msgid "popup_music_rate_get_reward_desc_02"
+msgstr "보상은 모두 선물함으로 보내집니다."
+
+msgid "popup_music_rate_desc"
+msgstr "노래 등급은 하이스코어 상위 10곡의 노래 레이트의 총합으로 결정됩니다."
+
+msgid "popup_music_rate_rank_unit"
+msgstr "{0}위"
+
+msgid "event_gacha_box_period"
+msgstr "개최 기간 {0}/{1}/{2} {3}:{4:D2} ～ {5}/{6}/{7} {8}:{9:D2}"
+
+msgid "event_gacha_box_medama_plate_name"
+msgstr "주요 플레이트"
+
+msgid "event_gacha_box_list_count"
+msgstr "보상 목록{0}"
+
+msgid "popup_event_gacha_box_text_01"
+msgstr "냥냥 제비☆　남은 아이템"
+
+msgid "popup_event_gacha_box_text_02"
+msgstr "남음"
+
+msgid "popup_event_gacha_box_text_03"
+msgstr "냥냥 제비☆를 모두 뽑았으므로 내용물을 교체합니다."
+
+msgid "popup_event_gacha_box_text_04"
+msgstr "냥냥 제비☆가 종료되었습니다.\\n타이틀 화면으로 돌아갑니다."
+
+msgid "popup_event_gacha_box_text_05"
+msgstr "{0}/{1}/{2} {3}:{4:D2}에 상세 내용이 공개됩니다."
+
+msgid "popup_event_gacha_box_text_06"
+msgstr "1회 교환에 필요한 훈장 수: <color=#C8087E>{0}</color>개"
+
+msgid "popup_event_gacha_box_text_07"
+msgstr "훈장 <color=#C8087E>{0}</color>개를 사용하여\\n에르네스트 함장의 보상과\\n<color=#C8087E>{1}</color>회 교환하시겠습니까?"
+
+msgid "popup_event_gacha_box_text_08"
+msgstr "보상 목록{0}　남은 아이템"
+
+msgid "popup_event_gacha_box_text_09"
+msgstr "다음 목록으로 변경하시겠습니까?\\n변경하면 이전 목록으로 되돌릴 수 없습니다."
+
+msgid "popup_event_gacha_box_text_10"
+msgstr "1회 교환에 필요한 훈장 수가\\n다음과 같이 변경됩니다.\\n<color=#C8087E>{0}</color>→<color=#C8087E>{1}</color>"
+
+msgid "popup_event_gacha_box_text_11"
+msgstr "보상 목록을 변경했습니다."
+
+msgid "popup_event_gacha_box_text_12"
+msgstr "주요 아이템을 획득했으므로\\n보상 목록을\\n변경할 수 있게 되었습니다."
+
+msgid "popup_event_gacha_box_text_13"
+msgstr "에르네스트 함장의 보상을 모두 교환했으므로\\n다음 목록으로 변경합니다."
+
+msgid "popup_ar_marker_emblem_title"
+msgstr "칭호 획득"
+
+msgid "popup_ar_marker_emblem_text_01"
+msgstr "다음 보상을 수령하였습니다."
+
+msgid "pupup_music_select_periodover_text_001"
+msgstr "선택한 악곡의 플레이 가능 기간이 종료되었습니다."
+
+msgid "pupup_music_select_periodover_text_002"
+msgstr "선택한 악곡의 플레이 가능 기간이 종료되었습니다.\\n이벤트 홈 화면으로 돌아갑니다."
+
+msgid "pupup_music_select_periodover_text_003"
+msgstr "선택한 악곡의 플레이 가능 기간이 종료되었습니다.\\n라이브 화면으로 돌아갑니다."
+
+msgid "pupup_music_select_periodover_text_004"
+msgstr "선택한 악곡의 플레이 가능 기간이 종료되었습니다.\\n홈 화면으로 돌아갑니다."
+
+msgid "diva_intimacy_lvup_text_001"
+msgstr "{0}의 보이스가\\n추가되었습니다."
+
+msgid "diva_intimacy_lvup_text_002"
+msgstr "{0}의 리액션이\\n추가되었습니다."
+
+msgid "diva_intimacy_lvup_text_003"
+msgstr "{0}의 친밀도 보너스\\n+{1}%가 해제되었습니다."
+
+msgid "diva_intimacy_lvup_text_004"
+msgstr "{0}의 칭호를\\n획득했습니다."
+
+msgid "diva_intimacy_time_count"
+msgstr "앞으로 {0}:{1:D2}"
+
+msgid "diva_intimacy_time_count_2"
+msgstr "앞으로 {0}:{1:D2}:{2:D2}"
+
+msgid "diva_intimacy_max"
+msgstr "친밀도 레벨이 최대입니다."
+
+msgid "diva_intimacy_tips"
+msgstr "가희를 길게 터치하여\\n친밀도를 올리자!"
+
+msgid "diva_intimacy_basara_tips"
+msgstr "바사라를 길게 터치하여\\n친밀도를 올리자!"
+
+msgid "event_story_text_001"
+msgstr "프롤로그"
+
+msgid "event_story_text_002"
+msgstr "에필로그"
+
+msgid "event_story_text_003"
+msgstr "이벤트를 진행하여 해제"
+
+msgid "event_story_text_004"
+msgstr "{0}/{1}/{2}　{3}:{4:D2}에 해제"
+
+msgid "event_story_text_005"
+msgstr ""
+
+msgid "event_story_text_006"
+msgstr "{0}을 {1}{2} 사용하여 해제"
+
+msgid "event_story_text_007"
+msgstr "오프닝{0}"
+
+msgid "event_story_text_008"
+msgstr "SNS 해제"
+
+msgid "event_story_text_009"
+msgstr "{0}을 {1}{4} 소비하여\\nSNS를 해제합니다.\\n\\n<color=#C8087E>{0}　{2}→{3}</color>"
+
+msgid "event_story_text_010"
+msgstr "SNS를 해제했습니다."
+
+msgid "event_story_text_011"
+msgstr "이전 토크를 보지 않았으므로\\n토크를 볼 수 없습니다."
+
+msgid "event_story_text_012"
+msgstr "이전 토크를 보지 않았으므로\\n토크를 해제할 수 없습니다."
+
+msgid "event_story_text_013"
+msgstr "{0}을 {1}{2} 소비하여\\nSNS를 해제합니다.\\n\\n<color=#8e0529>아이템이 부족합니다.</color>"
+
+msgid "event_story_text_014"
+msgstr "아이템 소비"
+
+msgid "event_story_list_period"
+msgstr "개최 기간\\n{0}/{1}/{2}～{3}/{4}/{5}"
+
+msgid "present_item_rank_postfix"
+msgstr "<color=#C8087E>※선물은 랭크 {0}에 해방됩니다.</color>"
+
+msgid "present_intimacy_limit_01"
+msgstr "친밀도 레벨이 최대이므로\\n선물을 보낼 수 없습니다."
+
+msgid "present_intimacy_limit_02"
+msgstr "오늘은 더 이상\\n선물을 보낼 수 없습니다."
+
+msgid "present_intimacy_limit_03"
+msgstr "선물을 보유하고 있지 않으므로\\n선물을 보낼 수 없습니다."
+
+msgid "campaign_live_3rd_coution_01"
+msgstr "「응모하기」 버튼을 누르면 하루에 1번 추첨권을 획득할 수 있습니다. (응모는 매일 0시에 변경됩니다)"
+
+msgid "campaign_live_3rd_coution_02"
+msgstr "추후 추첨 기간에 로그인하면 추첨 스탬프 수에 따른 결과를 확인할 수 있습니다."
+
+msgid "campaign_live_3rd_coution_03"
+msgstr "캠페인 등록에서 필요한 사항을 등록한 분에게만 1등 추첨 권리가 부여됩니다."
+
+msgid "campaign_live_3rd_coution_04"
+msgstr "1등 「라이브 초대 티켓」 당첨자에게만 등록 이메일 주소로 안내를 보내드립니다."
+
+msgid "campaign_live_3rd_coution_05"
+msgstr "등록 사이트에서 등록한 분에게만 1등 추첨 권리가 부여됩니다."
+
+msgid "campaign_live_3rd_coution_06"
+msgstr "등록 사이트에서 보관한 개인정보는 주식회사 디엔에이가 취득하며 「라이브 초대 티켓」\\n취득을 위한 연락 및 문의 대응에 사용합니다."
+
+msgid "campaign_live_3rd_coution_07"
+msgstr "이 화면에는 「라이브 초대 티켓」 및 「가창석×1000」이 표시되지 않습니다."
+
+msgid "campaign_live_3rd_content_01"
+msgstr "<color=#C8087E>등록 사이트 버튼</color>을 터치하여\\n1등 「라이브 초대 티켓」 또는 「가창석×1000개」 추첨에 참가!"
+
+msgid "campaign_live_3rd_content_02"
+msgstr "【라이브 초대 티켓으로 응모한 분】\\n응모 시 등록한 이메일 주소로 초대 티켓 수령을 위한\\n「신청 사이트 URL」 안내가 기재된 이메일을 10월 11일~10월 13일에 발송합니다."
+
+msgid "campaign_live_3rd_msg_chara_01"
+msgstr "\\n【가창석×1,000개로 응모한 분】\\n가창석은 2021년 10월 7일(목) 15:00 이후\\n선물함으로 별도 지급해 드립니다.\\n"
+
+msgid "campaign_live_3rd_msg_chara_02"
+msgstr "\\n【가창석×1,000개로 응모한 분】\\n가창석은 2021년 10월 7일(목) 15:00 이후\\n선물함으로 별도 지급해 드립니다.\\n"
+
+msgid "campaign_live_3rd_msg_chara_03"
+msgstr "\\n【가창석×1,000개로 응모한 분】\\n가창석은 2021년 10월 7일(목) 15:00 이후\\n선물함으로 별도 지급해 드립니다.\\n"
+
+msgid "campaign_live_3rd_msg_chara_04"
+msgstr "\\n【가창석×1,000개로 응모한 분】\\n가창석은 2021년 10월 7일(목) 15:00 이후\\n선물함으로 별도 지급해 드립니다.\\n"
+
+msgid "campaign_live_3rd_msg_chara_05"
+msgstr "\\n【가창석×1,000개로 응모한 분】\\n가창석은 2021년 10월 7일(목) 15:00 이후\\n선물함으로 별도 지급해 드립니다.\\n"
+
+msgid "campaign_live_3rd_msg_chara_06"
+msgstr "\\n【가창석×1,000개로 응모한 분】\\n가창석은 2021년 10월 7일(목) 15:00 이후\\n선물함으로 별도 지급해 드립니다.\\n"
+
+msgid "campaign_live_3rd_msg_chara_07"
+msgstr "\\n【가창석×1,000개로 응모한 분】\\n가창석은 2021년 10월 7일(목) 15:00 이후\\n선물함으로 별도 지급해 드립니다.\\n"
+
+msgid "campaign_live_3rd_msg_chara_08"
+msgstr "\\n【가창석×1,000개로 응모한 분】\\n가창석은 2021년 10월 7일(목) 15:00 이후\\n선물함으로 별도 지급해 드립니다.\\n"
+
+msgid "campaign_live_3rd_msg_chara_09"
+msgstr "\\n【가창석×1,000개로 응모한 분】\\n가창석은 2021년 10월 7일(목) 15:00 이후\\n선물함으로 별도 지급해 드립니다.\\n"
+
+msgid "campaign_live_3rd_msg_chara_10"
+msgstr "\\n【가창석×1,000개로 응모한 분】\\n가창석은 2021년 10월 7일(목) 15:00 이후\\n선물함으로 별도 지급해 드립니다.\\n"
+
+msgid "campaign_live_3rd_period"
+msgstr ""
+
+msgid "campaign_live_3rd_period2"
+msgstr "응모 기간 {0}/{1}/{2} {3}:{4:D2} ～ {5}/{6}/{7} {8}:{9:D2}"
+
+msgid "campaign_live_3rd_roulette_title"
+msgstr "<size=18>마크로스F 갤럭시 라이브 2021［리벤지］추첨장</size>"
+
+msgid "popup_campaign_title"
+msgstr "캠페인 등록"
+
+msgid "popup_campaign_result_title"
+msgstr "추첨 결과"
+
+msgid "home_pickup_checkbox_next"
+msgstr "다음부터 표시하지 않음"
+
+msgid "event_result_episode"
+msgstr "{0} 에피소드"
+
+msgid "event_result_bonus"
+msgstr "소비 보너스 {0}배"
+
+msgid "event_hi_score"
+msgstr "이벤트 하이스코어"
+
+msgid "event_music_ranking"
+msgstr "이벤트 악곡 랭킹"
+
+msgid "event_music_ranking_unit"
+msgstr "위"
+
+msgid "ar_common_count_text"
+msgstr ""
+
+msgid "ar_top_button_text_collection"
+msgstr "가희 컬렉션"
+
+msgid "ar_top_button_text_help"
+msgstr "사용 방법"
+
+msgid "ar_top_button_text_event"
+msgstr "AR 이벤트 정보"
+
+msgid "ar_top_button_text_back"
+msgstr "타이틀로 돌아가기"
+
+msgid "ar_photo_button_text_sns"
+msgstr "SNS에 게시"
+
+msgid "ar_help_title_text"
+msgstr "사용 방법"
+
+msgid "ar_help_title2_text"
+msgstr "AR 이벤트 정보"
+
+msgid "ar_collection_title_text"
+msgstr "가희 컬렉션"
+
+msgid "ar_collection_pattern_format"
+msgstr "{0}・{1}"
+
+msgid "ar_collection_pattern_text_0"
+msgstr "미니어처"
+
+msgid "ar_collection_pattern_text_1"
+msgstr "실물 크기"
+
+msgid "ar_collection_pattern_text_2"
+msgstr "팸플릿"
+
+msgid "ar_popup_expired_message"
+msgstr "이 AR 마커는 유효 기간이 만료되어\\n사용할 수 없습니다."
+
+msgid "ar_popup_download_error_0_message"
+msgstr "파일 다운로드에 실패했습니다.\\n저장 공간이 충분하지 않은 경우\\n이 메시지가 표시될 수\\n있습니다."
+
+msgid "ar_popup_download_error_1_message"
+msgstr "파일 다운로드에 실패했습니다.\\n인터넷 연결이나 전파 상태를\\n확인한 후 다시 시도해 주세요."
+
+msgid "ar_popup_download_error_button"
+msgstr "재시도"
+
+msgid "ar_popup_saved_photo"
+msgstr "사진을 저장했습니다."
+
+msgid "ar_popup_err_camera_permission"
+msgstr "노래 마크로스에 카메라 사용 권한이 허용되지 않아\\nAR 모드를 플레이할\\n수 없습니다."
+
+msgid "ar_popup_err_device_not_supported"
+msgstr "사용 중인 기기는 노래 마크로스의\\nAR 모드를 지원하지 않습니다."
+
+msgid "ar_popup_err_vuforia_init_error"
+msgstr "오류가 발생했습니다.\\nAR 시스템을 실행할 수 없습니다."
+
+msgid "ar_popup_err_no_permission_storage"
+msgstr "저장 공간 접근이 허용되지 않아\\n사진을 저장하지 못했습니다."
+
+msgid "ar_popup_err_not_abailable_storage"
+msgstr "저장 공간이 부족하여\\n사진을 저장하지 못했습니다."
+
+msgid "ar_popup_err_no_space_for_dataset"
+msgstr "저장 공간이 부족하여\\nAR 시스템을 실행하지\\n못했습니다."
+
+msgid "ar_popup_err_no_system_error"
+msgstr "문제가 발생했습니다.\\nAR 모드를 종료합니다."
+
+msgid "ar_sel_popup_camera_message"
+msgstr "노래 마크로스에 카메라 사용 권한이 허용되지 않아\\nAR 모드를 플레이할\\n수 없습니다.\\n\\n아래 권한을 허용해 주세요.\\n\\n"
+
+msgid "ar_sel_popup_camera_text"
+msgstr " <b>카메라</b>\\n노래 마크로스에서 AR 사진을 촬영하기 위해\\n카메라에 접근합니다.\\n"
+
+msgid "ar_sel_popup_camera_button_l"
+msgstr "타이틀로 돌아가기"
+
+msgid "ar_sel_popup_camera_button_r"
+msgstr "설정 화면으로 이동"
+
+msgid "ar_sel_popup_storage_message_android"
+msgstr "노래 마크로스에 저장 공간 접근 권한이\\n허용되지 않아 사진을 저장할\\n수 없습니다.\\n\\n아래 권한을 허용해 주세요.\\n\\n"
+
+msgid "ar_sel_popup_storage_message_ios"
+msgstr "노래 마크로스에 사진 쓰기 권한이\\n허용되지 않아 사진을 저장할\\n수 없습니다.\\n\\n아래 권한을 허용해 주세요.\\n\\n"
+
+msgid "ar_sel_popup_storage_text_android"
+msgstr " <b>저장 공간</b>\\nAR 사진을 저장하기 위해 기기의\\n저장 공간이나 SD 카드에 접근합니다.\\n"
+
+msgid "ar_sel_popup_storage_text_ios"
+msgstr " <b>사진</b>\\nAR 사진을 저장하기 위해 사진\\n라이브러리에 기록합니다.\\n"
+
+msgid "ar_sel_popup_storage_button_l"
+msgstr "AR 모드로 돌아가기"
+
+msgid "ar_sel_popup_storage_button_r"
+msgstr "설정 화면으로 이동"
+
+msgid "cmn_profil_emblem_none"
+msgstr "보유한 칭호가 없습니다."
+
+msgid "pop_eve_story_title"
+msgstr "이벤트 스토리"
+
+msgid "ar_net_error_01"
+msgstr "통신 오류가 발생했습니다.\\r\\n인터넷 연결이나 전파 상태를\\n확인한 후 다시 시도해 주세요."
+
+msgid "ar_net_error_02"
+msgstr "통신 시간이 초과되었습니다.\\r\\n인터넷 연결이나 전파 상태를\\n확인한 후 다시 시도해 주세요."
+
+msgid "ar_net_error_03"
+msgstr "오류가 발생했습니다.\\n\\n오류 코드: {0}"
+
+msgid "ar_net_error_retry"
+msgstr "재시도"
+
+msgid "ar_net_error_title"
+msgstr "타이틀로 돌아가기"
+
+msgid "badge_label_quest_achieved"
+msgstr "{0} 달성!"
+
+msgid "badge_label_gacha_oneday"
+msgstr "1회 무료"
+
+msgid "badge_label_gacha_firsttime"
+msgstr "최초 1회 무료"
+
+msgid "badge_label_gacha_thistime"
+msgstr "이번에는 무료"
+
+msgid "unit_multi_dance_popup_00"
+msgstr "가희가 편성되어 있지 않아\\n악곡을 플레이할 수 없습니다."
+
+msgid "unit_multi_dance_popup_01"
+msgstr "초시공 프리즘에\\n가희가 편성되어 있지 않아\\n악곡을 플레이할 수 없습니다."
+
+msgid "unit_multi_dance_popup_02"
+msgstr "가희가 편성되어 있지 않아\\n악곡을 플레이할 수 없습니다."
+
+msgid "unit_multi_dance_popup_03"
+msgstr "이 유닛 라이브를 플레이하려면\\n{0}명 이상의 가희가 필요합니다.\\n\\n<color=#C8087E>※기억의 시공을 진행하면 새로운 가희가\\n유닛에 참가할 수 있게 됩니다. </color>"
+
+msgid "unit_multi_dance_lock_text"
+msgstr "유닛 라이브는\\nRANK{0}에서\\n해제됩니다."
+
+msgid "unit_warning_window_title"
+msgstr "유닛 라이브에 대하여"
+
+msgid "unit_warning_window_check"
+msgstr "더 이상 표시하지 않음"
+
+msgid "unit_warning_window_text_001"
+msgstr "유닛 라이브가 선택되어 있습니다.\\n유닛 라이브는 사용 중인 기기에 따라 쾌적하게 플레이하지\\n못할 수 있습니다.\\n\\n쾌적한 플레이를 중시하는 경우 솔로 라이브로 플레이하는 것을 권장합니다.\\n\\n<color=#C8087E>※솔로 라이브와 유닛 라이브는 외형 외의 차이가 없습니다.\\n※동작 설정의 「3D 라이트」를 선택하면 개선될 수 있습니다.</color>"
+
+msgid "unit_warning_window_text_002"
+msgstr "유닛 라이브가 선택되어 있습니다.\\n유닛 라이브는 사용 중인 기기에 따라 쾌적하게 플레이하지\\n못할 수 있습니다.\\n\\n<color=#C8087E>※동작 설정의 「3D 라이트」를 선택하면 개선될 수 있습니다.</color>"
+
+msgid "episode_appeal_text_001"
+msgstr "새 에피소드"
+
+msgid "episode_appeal_text_002"
+msgstr "에피소드 완전 해방 보상"
+
+msgid "episode_appeal_text_003"
+msgstr "{0} 전용 : 새로운 의상 등장!"
+
+msgid "add_unit_multi_dance_popup_01"
+msgstr "유닛 라이브({0}명)가 추가되었습니다."
+
+msgid "popup_error_purchase_multi_title"
+msgstr "구매 실패"
+
+msgid "popup_error_purchase_multi_text_00"
+msgstr "구매 처리 중 오류가 발생했습니다.\\n타이틀 화면으로 돌아갑니다.\\n<color=#C8087E>※구매한 상품이 선물함으로 전송되었을\\n가능성이 있으니 확인해 주세요.</color>"
+
+msgid "ar_sel_popup_shutdown_message"
+msgstr "앱을 종료해도 되겠습니까?"
+
+msgid "ar_sel_popup_shutdown_button_l"
+msgstr "취소"
+
+msgid "ar_sel_popup_shutdown_button_r"
+msgstr ""
+
+msgid "android_backbutton_disable"
+msgstr "뒤로 가기 키는 작동하지 않습니다."
+
+msgid "event_sp_daily_adv_num_title"
+msgstr "제{0}화　배포 중"
+
+msgid "event_sp_daily_adv_all_title"
+msgstr "전편　배포 중"
+
+msgid "event_sp_end_attain"
+msgstr "집계 중"
+
+msgid "event_sp_epilogue"
+msgstr "이벤트 에필로그 배포 중"
+
+msgid "event_sp_reward"
+msgstr "수령 기간 중!"
+
+msgid "event_sp_open_at"
+msgstr "{0}/{1}/{2} {3}:{4:D2} 개최"
+
+msgid "event_sp_close_at"
+msgstr "{0}/{1}/{2} {3}:{4:D2}까지"
+
+msgid "episode_reward_text001"
+msgstr "필요 EP: {0}"
+
+msgid "episode_reward_text002"
+msgstr "에피소드 완전 해제 후\\n{0}{1}마다 획득"
+
+msgid "episode_reward_text003"
+msgstr ""
+
+msgid "popup_unlock_6line_music_text"
+msgstr "6레인 게임이 추가되었습니다."
+
+msgid "offer_formation_name_chenge_popup_title"
+msgstr "소대 이름 변경"
+
+msgid "offer_formation_name_chenge_popup_text_01"
+msgstr "소대 이름을 입력해 주세요.\\n(15자 이내)"
+
+msgid "offer_formation_name_chenge_popup_text_02"
+msgstr "・일부 사용할 수 없는 기호, 문자가 있습니다.\\n・변경 반영에 시간이 걸릴 수 있습니다."
+
+msgid "offer_formation_name_chenge_popup_text_03"
+msgstr "소대명 변경이 완료되었습니다."
+
+msgid "offer_formation_name_notchangedcomment_popup"
+msgstr "소대명이 변경되지 않았습니다."
+
+msgid "offer_chenge_popup_title"
+msgstr "변경 확인"
+
+msgid "offer_plantoon_chenge_popup_text_01"
+msgstr "소속 소대를 변경하시겠습니까?"
+
+msgid "offer_no_leader_popup_text"
+msgstr "리더기가 편성되지 않아\\n소대를 결정할 수 없습니다."
+
+msgid "offer_Dissolution_popup_text"
+msgstr "소대를 해산하시겠습니까?"
+
+msgid "offer__cant_orders_popup_text"
+msgstr "현재 이 오퍼레이션은\\n주문할 수 없습니다."
+
+msgid "offer_squadron_popup_title"
+msgstr "출격 소대"
+
+msgid "offer_fast_completion_popup_title_01"
+msgstr "고속 완료"
+
+msgid "offer_fast_completion_popup_text_01_01"
+msgstr "고속 프로그램 {0}개를 소비하여\\n오퍼레이션을 빠르게 완료합니다."
+
+msgid "offer_fast_completion_popup_text_01_02"
+msgstr "<color=#C8087E>고속 프로그램 {0}→{1}</color>"
+
+msgid "offer_fast_completion_popup_text_02_01"
+msgstr "가창석 {0}개를 소비하여\\n오퍼레이션을 빠르게 완료합니다."
+
+msgid "offer_fast_completion_popup_text_02_02"
+msgstr "<color=#C8087E>가창석　 {0}→{1}</color>"
+
+msgid "offer_fast_completion_popup_text_02_03"
+msgstr "<color=#C8087E>가창석이 부족합니다.</color>"
+
+msgid "offer_fast_done_limit_over_pop_text"
+msgstr "오늘은 더 이상\\n빠른 완료를 할 수 없습니다."
+
+msgid "offer_not_fast_done_pop_text"
+msgstr "현재 이 오퍼레이션을\\n빠르게 완료할 수 없습니다."
+
+msgid "offer_platoon_release_condition_title_text"
+msgstr "소대 해제 조건"
+
+msgid "offer_platoon_release_condition_text_01"
+msgstr "데뷔 오퍼레이션 모두 달성하기"
+
+msgid "offer_platoon_release_condition_text_02"
+msgstr "데뷔 오퍼레이션 모두 달성하기\\n\\n발키리 {0}대 이상 보유하기"
+
+msgid "costume_upgrade_diva_select_title_text"
+msgstr "가희 선택"
+
+msgid "costume_upgrade_comp_title_text"
+msgstr "의상 해방"
+
+msgid "costume_upgrade_detail_item_title_text"
+msgstr "보상 상세"
+
+msgid "costume_upgrade_item_select_makina_serif"
+msgstr "이 의상을 강화할 거야~\\n강화 아이템을 선택해줘!"
+
+msgid "costume_upgrade_item_select_makina_serif2"
+msgstr "크로스 스톤은\\nVOP에서 획득할 수 있어!"
+
+msgid "costume_upgrade_item_use_title_text"
+msgstr "소비 아이템 확인"
+
+msgid "costume_upgrade_achievement_title_text"
+msgstr "캐와와 랭크 업 보상"
+
+msgid "costume_upgrade_rankup_title_text"
+msgstr "캐와와 랭크 제한 해제"
+
+msgid "costume_upgrade_cmn_rankup_attention_text"
+msgstr "랭크 업마다　가창석　{0}개　를 획득할 수 있습니다."
+
+msgid "costume_upgrade_next_release_point_text"
+msgstr "다음 보상까지 {0} {1}"
+
+msgid "costume_upgrade_use_item_limit_text"
+msgstr "한 번에 사용할 수 있는 아이템은 {0}개까지입니다."
+
+msgid "costume_upgrade_diva_select_warning_text"
+msgstr "해방되지 않은 가희가 선택되어 있습니다.\\n강화 가능한 의상이 없습니다."
+
+msgid "costume_upgrade_item_detail_costume_skillup"
+msgstr "의상에 새로운 효과를 부여한다.\\n획득 효과 『{0}』"
+
+msgid "costume_upgrade_item_detail_costume_skillget"
+msgstr "의상의 효과를 1단계 강화한다.\\n강화 후 스탯 『{0}』"
+
+msgid "costume_upgrade_item_detail_costume_color"
+msgstr "{0}\\n{1}의 팔레트 체인지 의상을 해방한다."
+
+msgid "costume_upgrade_item_detail_diva_status_up"
+msgstr "{0}의 스테이터스를 강화합니다.\\n강화 후 스테이터스 『{1}{2}』"
+
+msgid "costume_upgrade_item_detail_diva_status_up_title"
+msgstr "스테이터스 상승"
+
+msgid "costume_upgrade_item_detail_sub_plate"
+msgstr "『{0}』을 해제합니다.\\n이미 해제된 경우 해당 칸을 3% 강화합니다."
+
+msgid "costume_upgrade_rank_up_unlock_condition_text"
+msgstr "해방 조건"
+
+msgid "costume_upgrade_lock_text"
+msgstr "【해방 조건】\\n・발키리 오퍼레이션 총 {0}회 달성하기.\\n\\n<color=#C8087E>※발키리 오퍼레이션은\\n게임을 진행하면 해방됩니다.</color>"
+
+msgid "subplate_rate_text"
+msgstr ""
+
+msgid "subplate_lock_text"
+msgstr "【해방 조건】\\n・의상 강화로 지원 플레이트 해방을 획득한다.\\n\\n<color=#C8087E>※의상 강화는 게임을 진행하면 해방됩니다. </color>"
+
+msgid "offer_infomation_text_01"
+msgstr "오퍼레이션을\\n갱신했습니다!"
+
+msgid "offer_infomation_text_02"
+msgstr "【{0}】에서\\n의뢰가 있습니다!"
+
+msgid "offer_infomation_text_03"
+msgstr "가희 오퍼레이션이\\n강화되었습니다!"
+
+msgid "offer_infomation_text_04"
+msgstr "오퍼레이션이\\n완료되었습니다!"
+
+msgid "offer_non_offer_text"
+msgstr "선택 가능한 가희 오퍼레이션을 찾을 수 없습니다.\\n\\n<color=#C8087E>※악곡 플레이 시 가희 오퍼레이션이 등장합니다.</color>"
+
+msgid "offer_occur_diva_offer_text_01"
+msgstr "{0}으로부터 특별한 의뢰가 도착했습니다"
+
+msgid "offer_occur_diva_offer_text_02"
+msgstr "{0}의 의뢰 내용이 강화되었습니다!"
+
+msgid "offer_cancel_pop_title"
+msgstr "수주 해제 확인"
+
+msgid "offer_cancel_pop_text"
+msgstr "수주를 해제하면 보상을 획득할 수 없습니다.\\n\\n괜찮으시겠습니까?"
+
+msgid "offer_daily_offer_levelup_text"
+msgstr "데일리 오퍼레이션 난이도 해제"
+
+msgid "offer_diva_offer_levelup_text"
+msgstr "<size=23>{0}의 가희 오퍼레이션 난이도 해제</size>"
+
+msgid "offer_result_first_achievement_title"
+msgstr "최초 달성 보상"
+
+msgid "sacred_stones_count_text"
+msgstr "<color=#C8087E>가창석 {0}개</color>"
+
+msgid "offer_item_scene_detail_text"
+msgstr "★1~★3 플레이트 중 하나가 등장합니다."
+
+msgid "offer_spitem_detail_title"
+msgstr "주요 아이템"
+
+msgid "offer_spitem_detail_text"
+msgstr "레어 드랍으로 출현할 가능성이 있는 아이템.\\n<color=#C8087E>※임무 대성공의 경우 1개 출현합니다. </color>"
+
+msgid "offer_all_platoon_sortie_pop_text"
+msgstr "모든 소대가 출격 중이므로\\n오퍼레이션을 수주할 수 없습니다."
+
+msgid "offer_select_operation_ended_pop_text"
+msgstr "현재 이 오퍼레이션은\\n주문할 수 없습니다."
+
+msgid "offer_fast_done_limit_count_text"
+msgstr "오늘 {0}회 남음"
+
+msgid "offer_operation_badge_text"
+msgstr "{0}건 완료!"
+
+msgid "offer_notification_return_vfp_title"
+msgstr "오퍼레이션 완료"
+
+msgid "offer_notification_return_vfp_1"
+msgstr "레이나 \"소대Ⅰ 작전 완료. 확인 부탁해\""
+
+msgid "offer_notification_return_vfp_2"
+msgstr "레이나 \"소대Ⅱ가 돌아왔다... 좋은 느낌\""
+
+msgid "offer_notification_return_vfp_3"
+msgstr "레이나 \"소대Ⅲ가 돌아온다. 모두 무사\""
+
+msgid "offer_notification_return_vfp_4"
+msgstr "레이나 \"소대 IV, 귀환. 결과를 확인할 것\""
+
+msgid "offer_notification_return_vfp_5"
+msgstr "레이나 \"소대Ⅴ가 돌아온다. 반갑게 맞이하자\""
+
+msgid "offer_cannot_cancel_text"
+msgstr "오퍼레이션이 완료되었습니다.\\n주문을 해제할 수 없습니다."
+
+msgid "item_use_caution_1"
+msgstr "사용기한이 지나면 이 아이템은 사라집니다."
+
+msgid "item_use_caution_2"
+msgstr "아이템을 여러 개 보유하고 있는 경우, 사용기한이 가장 빠른 아이템이 표시됩니다."
+
+msgid "item_use_period"
+msgstr "사용기한: {0}/{1}/{2} {3}:{4:D2}까지"
+
+msgid "item_use_period_title"
+msgstr "{0} 사용 기한"
+
+msgid "item_use_period_text_1"
+msgstr "사용 기한"
+
+msgid "item_use_period_text_2"
+msgstr "{0} 수"
+
+msgid "item_use_period_date"
+msgstr ""
+
+msgid "rarityup_item_use_title"
+msgstr "레어도 상승 확인"
+
+msgid "rarityup_item_use_desc_1"
+msgstr "다음 아이템을 소비하여 플레이트 레어도를 상승시킵니다."
+
+msgid "rarityup_item_use_desc_2"
+msgstr "레어도 상승에 필요한 아이템이 부족합니다."
+
+msgid "rarityup_item_get_desc_1"
+msgstr "※{0}은 월간 패스를 구매하면 보너스로 제공되는\\n초시공 로그인 보너스를 정해진 횟수만큼 받으면 획득할 수 있습니다."
+
+msgid "rarityup_item_use_confirm_title"
+msgstr "레어도 상승 최종 확인"
+
+msgid "rarityup_item_use_confirm_desc"
+msgstr "이 플레이트의 레어도를 정말로 상승시키겠습니까?"
+
+msgid "rarityup_item_use_warning"
+msgstr "{0}은\\n레어리티 업 전 ★5 플레이트에도 사용할 수 있습니다.\\n\\n레어리티 업 전 ★4 플레이트에\\n사용하시겠습니까?"
+
+msgid "secret_board_item_use_title"
+msgstr "시크릿 보드 해방 확인"
+
+msgid "secret_board_item_use_desc_1"
+msgstr "다음 아이템을 소비하여 시크릿 보드를 해방합니다."
+
+msgid "secret_board_item_use_desc_2"
+msgstr "시크릿 보드 해방에 필요한 아이템이 부족합니다."
+
+msgid "secret_board_item_use_confirm_title"
+msgstr "시크릿 보드 해방 최종 확인"
+
+msgid "secret_board_item_use_confirm_desc"
+msgstr "이 플레이트의 시크릿 보드를 정말 해제하시겠습니까?"
+
+msgid "secret_board_item_use_warning"
+msgstr "{0}은\\n레어리티 업 후 ★6인 플레이트에도 사용할 수 있습니다.\\n\\n이 플레이트는 레어리티 업 후 ★5인 플레이트입니다.\\n정말 사용하시겠습니까?"
+
+msgid "popup_sel_cos_terms_title"
+msgstr "획득 조건"
+
+msgid "popup_sel_cos_terms_text_base"
+msgstr "에피소드\\r\\n「{0}」\\n를 완전 해제"
+
+msgid "popup_sel_cos_terms_text_color01"
+msgstr "「{0}」\\n의 캐와와 랭크를 {1}까지 강화"
+
+msgid "popup_sel_cos_terms_text_color02"
+msgstr "「의상 강화」를 해방하고"
+
+msgid "popup_sel_cos_terms_text_color03"
+msgstr "에피소드\\n「{0}」\\n를 완전 해제하여\\n\\n「{1}」\\n를 획득"
+
+msgid "popup_sel_cos_terms_costume_change"
+msgstr "【해제 조건】\\n・발키리 오퍼레이션을 총 {0}회 클리어한다.\\n<color=#C8087E>※발키리 오퍼레이션은 게임 진행에 따라 해제됩니다.</color>"
+
+msgid "home_footer_badge_text_offer"
+msgstr "VOP 완료!"
+
+msgid "home_diva_button_monthly_pass"
+msgstr "까지 앞으로 {0}회"
+
+msgid "popup_add_operation_text"
+msgstr "오퍼레이션이 추가되었습니다."
+
+msgid "pop_pass_title"
+msgstr "우타마크 패스 구입"
+
+msgid "pop_pass_text01"
+msgstr "■동의 사항\\n・노래 마크 패스의 유효 기간은 구매 후 1개월입니다."
+
+msgid "pop_pass_text02"
+msgstr "\\n■혜택 내용\\n・유효 기간 동안 획득하는 플레이어 랭크 경험치, 가희 숙련도 포인트가 1.2배가 됩니다.\\n・유효 기간 동안 발키리 오퍼레이션(VOP)에 특별한 데일리 오퍼레이션이 추가됩니다. \\n\\n■보너스 혜택\\n노래 마크 패스를 구매하면 보너스로 아래 혜택이 제공됩니다.\\n・초시공 가챠 티켓 등 호화 보상을 받을 수 있는 초시공 로그인 보너스가 추가됩니다.\\n　초시공 로그인 보너스는 노래 마크 패스 유효 기간 동안 하루 1회 받을 수 있습니다.\\n・초시공 로그인 보너스를 90회 받을 때마다 레어 업 스타를 획득할 수 있습니다.\\n　레어 업 스타는 에피소드 플레이트의 레어리티를 업할 수 있는 아이템입니다.\\n　레어리티 업 전 ★4, ★5 플레이트에 사용할 수 있습니다.\\n\\n■첫 구매 혜택\\n초시공 로그인 보너스를 처음 25회 받았을 때 레어 업 스타를 선물합니다.\\n　※첫 구매 혜택을 받은 후 다시 노래 마크 패스를 구매해도 첫 구매 혜택은 제공되지 않습니다.\\n　※다른 기기에서 여러 번 구매해도 첫 구매 혜택 지급은 1회뿐입니다."
+
+msgid "pop_pass_text_android"
+msgstr "・노래 마크 패스의 유효 기간은 이용 중인 OS의 규정에 따라\\n　자동으로 갱신됩니다. 이에 따라 혜택 제공 기간도 자동으로 갱신됩니다.\\n・고객님이 본 게임 이용 기기의 데이터를 이전한 경우,\\n　기존 기기에서의 노래 마크 패스 및 혜택 제공 유효 기간은 이전되지만,\\n　다른 OS 간 데이터 이전이나 기존 기기와 다른 Google ID를 사용하는 경우,\\n　기존 기기에서의 노래 마크 패스 및 혜택 제공 유효 기간 자동 갱신은 새 기기에 반영되지 않습니다.\\n　새 기기에서 노래 마크 패스를 이용하는 경우에는 기존 기기의 노래 마크 패스 및 혜택 제공 기간을 확인한 후,\\n　해당 기간 종료 후 새 기기에서 노래 마크 패스를 구매해 주세요.\\n・기존 기기와 새 기기에서 노래 마크 패스를 중복 구매하더라도,\\n　노래 마크 패스 효과 발동 및 혜택 제공은 중복 적용되지 않습니다.\\n・유효 기간 중 해지한 경우에도 유효 기간 동안 노래 마크 패스 효과 및 혜택 제공은 계속됩니다.\\n・레어 업 스타의 유효 기간은 지급 후 90일입니다.\\n・초시공 가챠 티켓의 유효 기간은 지급 후 30일입니다.\\n・노래 마크 패스를 갱신하지 않는 경우에는 OS 규정에 따라 해지해야 합니다.　\\n　Android에서 해지\\n　　Google Play 스토어→정기 결제에서 정기 결제 해지를 진행해 주세요."
+
+msgid "pop_pass_text_ios"
+msgstr "・노래 마크 패스 요금은 이용 중인 iTunes 계정으로 청구됩니다.\\n・노래 마크 패스 유효 기간 종료 24시간 전까지 자동 갱신을 해제하지 않으면,\\n　노래 마크 패스 유효 기간은 자동으로 갱신됩니다.\\n・자동 갱신 요금 결제는 노래 마크 패스 유효 기간 종료 24시간 이내에 진행됩니다.\\n・다음 자동 갱신 요금은 유효 기간 종료 24시간 이상 전에 이용 중인 Apple ID로\\n　표시됩니다.\\n・노래 마크 패스는 아래 순서로 다음 자동 갱신 시기 확인 및 자동 갱신 해제를\\n　할 수 있습니다.\\n　[설정 앱]→[iTunes Store와 App Store]→[Apple ID 보기]→[구독]\\n・고객님이 본 게임 이용 기기의 데이터를 이전한 경우,\\n　기존 기기에서의 노래 마크 패스 및 혜택 제공 유효 기간은 이전되지만,\\n　다른 OS 간 데이터 이전이나 기존 기기와 다른 Apple ID를 사용하는 경우,\\n　기존 기기에서의 노래 마크 패스 및 혜택 제공 유효 기간 자동 갱신은 새 기기에 반영되지 않습니다.\\n　새 기기에서 노래 마크 패스를 이용하는 경우에는 기존 기기의 노래 마크 패스 및 혜택 제공 기간을 확인한 후,\\n　해당 기간 종료 후 새 기기에서 노래 마크 패스를 구매해 주세요.\\n・기존 기기와 새 기기에서 노래 마크 패스를 중복 구매하더라도,\\n　노래 마크 패스 효과 발동 및 혜택 제공은 중복 적용되지 않습니다.\\n・유효 기간 중 해지한 경우에도 유효 기간 동안 노래 마크 패스 효과 및 혜택 제공은 계속됩니다.\\n・레어 업 스타의 유효 기간은 지급 후 90일입니다.\\n・초시공 가챠 티켓의 유효 기간은 지급 후 30일입니다."
+
+msgid "pop_pass_popup_title"
+msgstr "구매 확인"
+
+msgid "pop_pass_popup_text01"
+msgstr "노래 마크 패스를 이용하려면,\\n동의 사항을 승인해야 합니다."
+
+msgid "pop_pass_popup_text02"
+msgstr "<size=22><color=#8e0529>※데이터 이전 후 구매하는 경우,\\n기존 기기에서 해지를 완료한 후 구매해 주세요.</color></size>"
+
+msgid "pop_pass_popup_check"
+msgstr "<color=#C8087E>동의 사항 승인</color>"
+
+msgid "pop_pass_loginbonus_rarityup_get"
+msgstr "앞으로 {0}회 수령으로\\nGET!"
+
+msgid "pop_pass_loginbonus_desc"
+msgstr "※GOAL까지 도달하면 START부터 시작합니다.\\n※보유 한도를 초과하는 아이템은 사라집니다."
+
+msgid "pop_pass_loginbonus_title"
+msgstr "초시공 로그인 보너스"
+
+msgid "pop_pass_loginbonus_about_title"
+msgstr "동의 사항"
+
+msgid "pop_pass_loginbonus_hoten_title"
+msgstr "노래 마크 패스 로그인 보충"
+
+msgid "pop_pass_loginbonus_hoten_desc"
+msgstr "월간 패스 로그인 보충으로\\n{0}일분의 초시공 로그인 보너스\\n아이템을 받았습니다.\\n\\n<color=#C8087E>※레어 업 스타를 받을 때까지의\\n초시공 로그인 보너스 수령 횟수에 추가됩니다.</color>"
+
+msgid "pop_pass_goto_home"
+msgstr "초시공 로그인 보너스를 받기 위해\\n홈 화면으로 돌아갑니다."
+
+msgid "pop_pass_store_error"
+msgstr "스토어 오류로 인해\\n월간 패스 구매 정보를 정상적으로 가져오지 못했습니다.\\n\\n월간 패스를 구매한 경우,\\n혜택을 일시적으로 받을 수 없는 상태입니다.\\n나중에 다시 시도해 주세요."
+
+msgid "popup_update_operation_text"
+msgstr "오퍼레이션이 추가되었습니다.\\n목록을 갱신합니다."
+
+msgid "popup_dateline_error_title"
+msgstr "날짜 변경"
+
+msgid "popup_dateline_error_text"
+msgstr "날짜 변경 처리에 실패했습니다.\\n타이틀 화면으로 돌아갑니다."
+
+msgid "pop_pass_goto_home_2"
+msgstr "월간 패스는 이미 구매했습니다.\\n홈 화면으로 돌아갑니다."
+
+msgid "home_popup_event_period"
+msgstr "개최 기간: {0}년{1}월{2}일({3}) {4}:{5:D2} ～ {6}년{7}월{8}일({9}) {10}:{11:D2}"
+
+msgid "home_pickup_event_period"
+msgstr "개최 기간: {0}월{1}일 {2}:{3:D2} ～ {4}월{5}일 {6}:{7:D2}"
+
+msgid "popup_download_size_title"
+msgstr "데이터 다운로드"
+
+msgid "popup_download_size_text"
+msgstr "새로운 다운로드 데이터가 발견되었습니다.\\n게임 데이터를 다운로드합니다.\\n<color=#C8087E>※취소하면 타이틀로 돌아갑니다.</color>\\n\\n다운로드 크기: {0}"
+
+msgid "popup_download_size_error"
+msgstr "다운로드 크기를 가져오지 못했습니다.\\n인터넷 연결이나 전파 상태를 확인한 후\\n다시 시도해 주세요."
+
+msgid "popup_bunchdownload_data_check"
+msgstr "데이터 확인 중입니다.\\n잠시만 기다려 주세요."
+
+msgid "popup_bunchdownload_size_text"
+msgstr "새로운 다운로드 데이터가 발견되었습니다.\\n게임 데이터를 다운로드합니다.\\n<color=#C8087E>※Wi-Fi 환경에서 다운로드하는 것을 권장합니다.</color>\\n\\n다운로드 크기: {0}"
+
+msgid "popup_bunchdownload_size_zero"
+msgstr "새로운 다운로드 데이터는 발견되지 않았습니다."
+
+msgid "popup_bunchdownload_cancel_title"
+msgstr "다운로드 중단"
+
+msgid "popup_bunchdownload_cancel"
+msgstr "데이터 다운로드를 중단합니다.\\n\\n<color=#C8087E>※다음에 다운로드할 경우\\n중단된 데이터부터 다운로드가 재개됩니다.</color>"
+
+msgid "popup_bunchdownload_complete_title"
+msgstr "다운로드 완료"
+
+msgid "popup_bunchdownload_complete"
+msgstr "데이터 다운로드가 완료되었습니다."
+
+msgid "lucky_leaf_sort_message"
+msgstr "<size={1}>해방 가능 럭키 리프:{0}</size>"
+
+msgid "popup_recover_done_title"
+msgstr "플레이 데이터 반영"
+
+msgid "popup_recover_done_text"
+msgstr "이전 게임 플레이 결과는\\n게임 내에 반영되어 있습니다."
+
+msgid "pop_tutorial_gacha_details"
+msgstr "★4　오늘부터 당신도 발키리　　　　　100%"
+
+msgid "bingo_next_charange"
+msgstr "{0}/{1}/{2} 0:00부터\\n다음 빙고 미션에\\n도전할 수 있습니다."
+
+msgid "bingo_count_text"
+msgstr "{0}번째"
+
+msgid "bingo_reward_count_text"
+msgstr "{0} 빙고 보상"
+
+msgid "bingo_ribbon_bingo_count_text"
+msgstr "현재 {0} 빙고!"
+
+msgid "bingo_ribbon_costume_text"
+msgstr "{0}번째 빙고에서 해제 플레이트 GET!"
+
+msgid "bingo_ribbon_item_text"
+msgstr "모든 빙고 보상을 GET!"
+
+msgid "bingo_next_reward_text"
+msgstr "다음 빙고 보상"
+
+msgid "bingo_reward_select_desc1"
+msgstr "빙고 미션 1회당 보상을 1개 선택할 수 있습니다."
+
+msgid "bingo_reward_select_desc2"
+msgstr "빙고 미션은 최대 {0}회까지 진행됩니다."
+
+msgid "bingo_reward_select_desc3"
+msgstr "빙고 미션 시작 후에는 보상을 다시 선택할 수 없습니다."
+
+msgid "bingo_reward_select_title"
+msgstr "에피소드 완전 해방 보상"
+
+msgid "bingo_reward_select_caution_desc"
+msgstr "※현재 보유한 플레이트로 에피소드를 완전 해제할 수 있습니다."
+
+msgid "bingo_reward_select_caution_desc1"
+msgstr "※이 에피소드는 이미 완전 해제되었습니다."
+
+msgid "bingo_reward_select_conf_text"
+msgstr "이 보상으로 괜찮습니까?"
+
+msgid "bingo_reward_select_conf_title"
+msgstr "보상 선택"
+
+msgid "bingo_mission_reward_pop_title"
+msgstr "미션 보상"
+
+msgid "bingo_reward_pop_title"
+msgstr "빙고 보상"
+
+msgid "bingo_mission_reward_get_pop_title"
+msgstr "보상 획득"
+
+msgid "bingo_mission_change__bingo_text"
+msgstr "{0}번째 빙고 미션의 보상을\\n모두 획득했습니다."
+
+msgid "bingo_mission_end_pop_text"
+msgstr "모든 빙고 미션의 보상을 획득했습니다.\\n미션 화면으로 돌아갑니다."
+
+msgid "pop_score_detail_title"
+msgstr "스코어 예측 게이지 상세"
+
+msgid "pop_score_detail_caution_01"
+msgstr "멸망의 노래의 영향도 예측에 포함되어 있습니다."
+
+msgid "pop_score_detail_caution_02"
+msgstr "플레이트의 능력과 스킬에 따른 예측일 뿐, 실제 플레이 결과가 아닙니다."
+
+msgid "pop_score_detail_item_name_01"
+msgstr "기본값"
+
+msgid "pop_score_detail_item_name_02"
+msgstr "의상"
+
+msgid "pop_score_detail_item_name_03"
+msgstr "속성 보너스"
+
+msgid "pop_score_detail_item_name_04"
+msgstr "C스킬"
+
+msgid "pop_score_detail_item_name_05"
+msgstr "지원 플레이트"
+
+msgid "pop_score_detail_item_name_06"
+msgstr "L스킬"
+
+msgid "pop_score_detail_item_name_07"
+msgstr "A스킬"
+
+msgid "pop_score_detail_item_name_08"
+msgstr "콤보"
+
+msgid "pop_score_detail_item_name_09"
+msgstr "스코어 노트"
+
+msgid "pop_score_detail_item_name_10"
+msgstr "럭키 리프"
+
+msgid "pop_score_detail_item_name_11"
+msgstr "발키리"
+
+msgid "pop_score_detail_item_desc_01"
+msgstr "가희와 플레이트의 스테이터스만으로 획득할 수 있는 스코어 예측"
+
+msgid "pop_score_detail_item_desc_02"
+msgstr "착용한 의상의 스테이터스에 따라 상승하는 예측"
+
+msgid "pop_score_detail_item_desc_03"
+msgstr "악곡과 플레이트의 속성 일치에 따른 보너스에 의해 상승하는 예측"
+
+msgid "pop_score_detail_item_desc_04"
+msgstr "센터 스킬에 의해 상승하는 스코어 예측"
+
+msgid "pop_score_detail_item_desc_05"
+msgstr "지원 플레이트에 의해 상승하는 스코어 예측"
+
+msgid "pop_score_detail_item_desc_06"
+msgstr "라이브 스킬에 의해 상승하는 스코어의 예측의 합계"
+
+msgid "pop_score_detail_item_desc_07"
+msgstr "액티브 스킬에 의해 상승하는 스코어의 예측"
+
+msgid "pop_score_detail_item_desc_08"
+msgstr "곡의 90%까지 계속되는 콤보 보너스의 예측"
+
+msgid "pop_score_detail_item_desc_09"
+msgstr "출현하는 스코어 노트를 전부 탭한 경우의 예측"
+
+msgid "pop_score_detail_item_desc_10"
+msgstr "해방 상태의 럭키 리프에 의해 상승하는 스코어의 예측"
+
+msgid "pop_score_detail_item_desc_11"
+msgstr "선택한 발키리에 의해 상승하는 스코어의 예측"
+
+msgid "bingo_reward_select_scene_detail_text"
+msgstr "【{0}】의\\nEP를 크게 올릴 수 있는 플레이트."
+
+msgid "bingo_normal_bingo_start_text"
+msgstr "{0}번째 빙고 미션을 시작합니다."
+
+msgid "bingo_mission_conditions_text"
+msgstr "【획득 조건】"
+
+msgid "offer_not_received_item_title"
+msgstr "기간 만료 아이템"
+
+msgid "offer_not_received_item_text"
+msgstr "아래 아이템은 기간 만료로 인해 획득하지 못했습니다."
+
+msgid "pop_valyrietuneup_title"
+msgstr "소비 아이템 확인"
+
+msgid "pop_valkyrietuneup_desc"
+msgstr "발키리의 확장 성능을 해제합니다. 괜찮으시겠습니까?"
+
+msgid "pop_valyrietuneupcheck_title"
+msgstr "확장 성능 해제"
+
+msgid "pop_deco_save_title"
+msgstr "변경 내용이 저장되지 않았습니다"
+
+msgid "pop_deco_save_desc"
+msgstr "변경한 내용을 저장하지 않았습니다."
+
+msgid "pop_deco_bast_title"
+msgstr "배치 저장"
+
+msgid "pop_deco_bast_desc"
+msgstr "편집 내용을 저장했습니다."
+
+msgid "deco_no_have_text"
+msgstr "데코 아이템을\\n보유하고 있지 않습니다."
+
+msgid "deco_bast_storage_title"
+msgstr "데코룸 목록"
+
+msgid "pop_deco_storage_delete_title"
+msgstr "삭제 확인"
+
+msgid "pop_deco_storage_delete_desc"
+msgstr "{0}\\n에 저장된 데코 룸을 삭제하시겠습니까?"
+
+msgid "pop_deco_storage_delete_comp_title"
+msgstr "삭제 완료"
+
+msgid "pop_deco_storage_delete_comp_desc"
+msgstr "{0}\\n의 데코 룸을 삭제했습니다."
+
+msgid "pop_deco_storage_overwrite_title"
+msgstr "덮어쓰기 확인"
+
+msgid "pop_deco_storage_overwrite_desc"
+msgstr "{0}\\n에 현재 데코 룸을 덮어 저장하시겠습니까?"
+
+msgid "pop_deco_storage_overwrite_comp_title"
+msgstr "저장 완료"
+
+msgid "pop_deco_storage_overwrite_comp_desc"
+msgstr "{0}\\n에 현재 데코 룸을 덮어 저장했습니다."
+
+msgid "pop_deco_storage_select_comp_title"
+msgstr "데코 룸 변경 완료"
+
+msgid "pop_deco_storage_select_comp_desc"
+msgstr "현재 데코 룸을\\n{0}\\n으로 변경했습니다."
+
+msgid "deco_storage_select_text"
+msgstr "선택 중인 데코 룸으로 변경하시겠습니까?"
+
+msgid "deco_screenshot_success"
+msgstr "사진을 저장했습니다."
+
+msgid "deco_sel_popup_storage_message_ios"
+msgstr "노래 마크로스에 사진 쓰기 권한이\\n허용되지 않아 사진을 저장할 수 없습니다.\\n\\n아래 권한을 허용해 주세요.\\n\\n"
+
+msgid "deco_sel_popup_storage_message_android"
+msgstr "노래 마크로스에 저장 공간 접근 권한이\\n허용되지 않아 사진을 저장할 수 없습니다.\\n\\n아래 권한을 허용해 주세요.\\n\\n"
+
+msgid "deco_screenshot_storage_text_ios"
+msgstr "사진\\n사진을 저장하기 위해\\n사진 라이브러리에 기록합니다.\\n"
+
+msgid "deco_screenshot_storage_text_android"
+msgstr "저장 공간\\n사진을 저장하기 위해\\n기기의 저장 공간이나 SD 카드에 접근합니다.\\n"
+
+msgid "deco_popup_err_no_permission_storage"
+msgstr "저장 공간 접근이 허용되지 않아\\n사진을 저장할 수 없었습니다."
+
+msgid "deco_popup_err_not_abailable_storage"
+msgstr "저장 공간의 여유 용량이 부족하여\\n사진을 저장할 수 없었습니다."
+
+msgid "pop_deco_name_change_title"
+msgstr "데코 룸 이름 변경"
+
+msgid "pop_deco_name_change_text"
+msgstr "데코 룸 이름을 변경했습니다."
+
+msgid "pop_deco_name_change_desc"
+msgstr "데코 룸 이름을 입력해 주세요.\\n（전각 반각 10문자까지）"
+
+msgid "pop_deco_name_change_notes"
+msgstr "・일부 사용할 수 없는 기호, 문자가 있습니다.\\n・변경 반영에 시간이 걸릴 수 있습니다."
+
+msgid "pop_deco_name_change_cancel"
+msgstr "데코룸 이름이 변경되지 않았습니다."
+
+msgid "pop_deco_item_title"
+msgstr "데코 아이템 보유 수"
+
+msgid "pop_deco_item_count"
+msgstr "{0}개"
+
+msgid "pop_deco_item_content"
+msgstr "「의상 토르소」와 「발키리 피규어」와\\n「데코 마스코트」를 제외한\\n「인테리어」와 「프레이즈」가 카운트됩니다.\\n「포스터」는 대상에서 제외됩니다."
+
+msgid "pop_deco_sp_item_001"
+msgstr "데코 아이템 {0}개를 더 획득하면 레벨 업"
+
+msgid "pop_deco_sp_item_002"
+msgstr "레벨 업 가능!"
+
+msgid "pop_deco_sp_item_003"
+msgstr "레벨은 최대입니다."
+
+msgid "pop_deco_sp_item_004"
+msgstr "아이템 회수 후 레벨 업합니다."
+
+msgid "pop_deco_sp_item_levelup"
+msgstr "{0}\\n의 레벨이 올랐습니다."
+
+msgid "pop_deco_sp_all_receive_title"
+msgstr "일괄 대응"
+
+msgid "pop_deco_sp_all_receive_content"
+msgstr "현재 데코 룸에서\\n받을 수 있는 아이템이 없습니다."
+
+msgid "pop_deco_sp_item_point_format"
+msgstr ""
+
+msgid "pop_deco_sp_item_time_format"
+msgstr "{0}<size=18>시간</size>{1:D2}<size=18>분</size>"
+
+msgid "pop_deco_sp_item_cannon_suffix"
+msgstr ""
+
+msgid "pop_deco_sp_item_cannon_title"
+msgstr "마크로스 캐논 게이지"
+
+msgid "pop_deco_sp_item_itemlist_title"
+msgstr "회수 아이템"
+
+msgid "pop_deco_sp_item_cannon_text001"
+msgstr "에너지를 충전했습니다."
+
+msgid "pop_deco_sp_item_cannon_text002"
+msgstr "게이지가 MAX라\\n에너지를 충전할 수 없습니다."
+
+msgid "pop_deco_sp_item_cannon_text003"
+msgstr "※마크로스 캐논을 사용하면 충전할 수 있습니다."
+
+msgid "pop_deco_sp_item_remove_title"
+msgstr "엑스트라 아이템 보관"
+
+msgid "pop_deco_sp_item_remove_message_001"
+msgstr "아래 엑스트라 아이템이\\n변경할 데코 룸에 포함되어 있지 않습니다."
+
+msgid "pop_deco_sp_item_remove_message_002"
+msgstr "아래 엑스트라 아이템을 보관합니다."
+
+msgid "pop_deco_sp_item_remove_message_003"
+msgstr "※엑스트라 아이템을 보관하면,\\n남은 시간이나 수령 가능한 상태가 초기화됩니다."
+
+msgid "pop_deco_gift_success_title"
+msgstr "선물 완료"
+
+msgid "pop_deco_gift_failed_title"
+msgstr "선물 가능 한도"
+
+msgid "pop_deco_gift_multi_message"
+msgstr "{0}명에게 선물을 전달했습니다."
+
+msgid "pop_deco_gift_single_message"
+msgstr "선물을 전달했습니다."
+
+msgid "pop_deco_gift_failed_message"
+msgstr "오늘은 더 이상 선물을 보낼 수 없습니다."
+
+msgid "pop_deco_gift_item_message"
+msgstr "{0}\\n{1}{2} 획득"
+
+msgid "pop_deco_option_title"
+msgstr "데코루차 모드 설정"
+
+msgid "pop_deco_option_desc_display"
+msgstr "데코루차 모드의 표시물에 대해 설정할 수 있습니다."
+
+msgid "raid_bossselect_none_text01"
+msgstr "폭주 에너미는 발견되지 않았습니다."
+
+msgid "raid_bossselect_none_text02"
+msgstr "폭주 에너미는 「{0}」에서 찾을 수 있습니다."
+
+msgid "raid_bossselect_rescue_time"
+msgstr "앞으로 {0:D2}:{1:D2}"
+
+msgid "raid_first_attack_free_ap_01"
+msgstr "지원 실행 가능!"
+
+msgid "raid_first_attack_free_ap_02"
+msgstr "이 적에게는 지원을 실행할 수 있습니다.\\n스킵을 소비하지 않고 라이브를 스킵할 수 있습니다."
+
+msgid "raid_assist_attack_skip_01"
+msgstr "1회만 티켓 없이\\n스킵할 기회!"
+
+msgid "pop_raid_helprequest_confirmed_title"
+msgstr "구원 확인"
+
+msgid "pop_raid_helprequest_confirmed_text"
+msgstr "아직 참전하지 않았습니다.\\n참전하지 않으면 보상을 획득할 수 없습니다."
+
+msgid "pop_raid_helprequest_failed_text01"
+msgstr "아직 로비 내에 다른 참가자가 없기 때문에,\\n구원 요청을 보낼 수 없습니다.\\n\\n<color=#C6077CFF>※구원 요청을 보낸 것으로 처리되지 않습니다.</color>"
+
+msgid "pop_raid_helprequest_failed_text02"
+msgstr "구원 요청을 보냈지만,\\n받을 수 있는 플레이어가 없었습니다.\\n\\n<color=#C6077CFF>※구원 요청 가능 횟수는 줄어들지 않았습니다.</color>"
+
+msgid "pop_raid_bosspop_title"
+msgstr "폭주 에너미 탐색"
+
+msgid "pop_raid_bosspop_text01"
+msgstr "{0}을 사용하여\\n폭주 에너미를 탐색합니다.\\n\\n<color=#C6077CFF>{0}　{1}→{2}</color>"
+
+msgid "pop_raid_bosspop_not_text01"
+msgstr "{0}를 보유하고 있지 않습니다.\\n{0}는 악곡을 클리어하면\\n획득할 수도 있습니다.\\n\\n<color=#C6077CFF>{0}　{1}</color>"
+
+msgid "pop_raid_helprequest_title"
+msgstr "구원 확인"
+
+msgid "pop_raid_helprequest_loby"
+msgstr "마크로스 로비에 구원 요청 보내기"
+
+msgid "pop_raid_helprequest_friend"
+msgstr "친구 우선"
+
+msgid "pop_raid_helprequest_all"
+msgstr "전체에 구원 요청 보내기"
+
+msgid "pop_raid_boss_sort_title"
+msgstr "표시 순서 변경"
+
+msgid "pop_raid_cannon_plate_title"
+msgstr "장전 플레이트 확인　<size=22>※마크로스 캐논 게이지 1 소비</size>"
+
+msgid "pop_raid_cannon_plate_bonus_format"
+msgstr "{0} 보너스: <color=#C8087E>{1}％</color>"
+
+msgid "pop_raid_cannon_plate_text01"
+msgstr "주포 위력: {0}"
+
+msgid "pop_raid_cannon_plate_text02"
+msgstr "아래 플레이트를 【<color=#C8087E>{0}장</color>】 장전하여 마크로스 캐논을 발사합니다.\\n※플레이트는 같은 폭주 에너미에게 1회만 장전할 수 있습니다."
+
+msgid "pop_raid_cannon_plate_text03"
+msgstr "플레이트를 모두 사용했으므로, 플레이트를 장전하지 않고 마크로스 캐논을 발사합니다.\\n※플레이트는 같은 폭주 에너미에게 1회만 장전할 수 있습니다."
+
+msgid "pop_raid_cannon_plate_text04"
+msgstr "사용할 수 있는 플레이트가 없습니다."
+
+msgid "pop_raid_init_sort_text"
+msgstr "현재 필터 조건으로\\n표시 가능한 폭주 에너미가 없습니다.\\n\\n필터 설정을 초기화합니다."
+
+msgid "pop_raid_warning_sort_text"
+msgstr "선택한 조건에 일치하는\\n폭주 에너미가 없습니다.\\n\\n조건을 다시 설정해 주세요."
+
+msgid "raid_announce_text"
+msgstr "{0}에게 지원을 받아 마크로스 캐논 게이지가 {1}% 상승했습니다."
+
+msgid "raid_announce_text02"
+msgstr "{0} 등에게 {2}회의 지원을 받아 마크로스 캐논 게이지가 {1}% 상승했습니다."
+
+msgid "raid_announce_text03"
+msgstr "부대 동료에게 {2}회의 지원을 받아 마크로스 캐논 게이지가 {1}% 상승했습니다."
+
+msgid "raid_top_gauge_text"
+msgstr "동료의 협력으로\\n마크로스 캐논 게이지가 {0}% 상승!"
+
+msgid "raid_top_gauge_max_text"
+msgstr "최대까지 충전되어 있어\\n더 이상 상승하지 않습니다."
+
+msgid "raid_act_support_desc_text"
+msgstr "티켓 없이 라이브 스킵!"
+
+msgid "raid_act_fullpower_desc_text"
+msgstr "에너미에게 초 임팩트!"
+
+msgid "raid_damage_result_text"
+msgstr "임팩트"
+
+msgid "raid_damage_result_gauge_max_text"
+msgstr "최대까지 충전되어 있어 더 이상 상승하지 않습니다."
+
+msgid "pop_raid_ap_heal_title"
+msgstr "AP 회복 확인"
+
+msgid "pop_raid_ap_heal_text"
+msgstr "아이템을 사용하여 AP를 회복합니다."
+
+msgid "pop_raid_ap_heal_item01_text01"
+msgstr "가정석x{0}개"
+
+msgid "pop_raid_ap_heal_item01_text02"
+msgstr "사용하면 AP를 {0} 회복합니다."
+
+msgid "pop_raid_ap_heal_item01_text03"
+msgstr "보유: {0}개"
+
+msgid "pop_raid_ap_heal_item02_text01"
+msgstr ""
+
+msgid "pop_raid_ap_heal_item02_text02"
+msgstr "사용하면 AP를 {0} 회복합니다."
+
+msgid "pop_raid_ap_heal_item02_text03"
+msgstr "보유: {0}개"
+
+msgid "pop_raid_ap_heal_item03_text01"
+msgstr ""
+
+msgid "pop_raid_ap_heal_item03_text02"
+msgstr "사용하면 AP를 1 회복합니다."
+
+msgid "pop_raid_ap_heal_item03_text03"
+msgstr "보유: {0}개"
+
+msgid "pop_raid_heal_item_cannon_text001"
+msgstr "마크로스 캐논 게이지 충전"
+
+msgid "pop_raid_heal_item_cannon_text002"
+msgstr "{0}을 {1}개 소비하여\\n마크로스 캐논 게이지를 {2}% 충전합니다.\\n최대 200%까지 충전할 수 있습니다.\\n\\n<color=#C6077CFF>{0}　{3}→{4}</color>"
+
+msgid "pop_raid_heal_item_cannon_text003"
+msgstr "마크로스 캐논 게이지를 회복하는\\n{0}을 보유하고 있지 않습니다."
+
+msgid "pop_raid_heal_item_cannon_text004"
+msgstr "더 이상 마크로스 캐논 게이지를\\n충전할 수 없습니다."
+
+msgid "pop_raid_heal_item_cannon_text005"
+msgstr "마크로스 캐논 게이지 충전이 완료되었습니다."
+
+msgid "raid_mvp_notes_text"
+msgstr "전 난이도 공통 랭킹입니다."
+
+msgid "raid_mvp_desc_text"
+msgstr "누적 임팩트 수에는 적에게 가한 임팩트 수가 그대로 합산됩니다"
+
+msgid "raid_mvp_cell_text01"
+msgstr "1위 포인트"
+
+msgid "raid_mvp_cell_text02"
+msgstr "2위 포인트"
+
+msgid "raid_mvp_info_text01"
+msgstr "이 폭주 에너미의 MVP 대상자가 없습니다."
+
+msgid "raid_mvp_info_text02"
+msgstr "이 폭주 에너미에 대한 다른 참가자가 없습니다."
+
+msgid "raid_mvp_info_text03"
+msgstr "당신은 이 폭주 에너미에 참전하지 않았습니다."
+
+msgid "pop_raid_defeated_title"
+msgstr "무력화된 폭주 에너미"
+
+msgid "pop_raid_defeated_text"
+msgstr "선택한 폭주 에너미가 무력화되었습니다.\\n목록을 갱신합니다."
+
+msgid "pop_raid_escaped01_title"
+msgstr "무력화 실패한 폭주 에너미"
+
+msgid "pop_raid_escaped01_text"
+msgstr "선택한 폭주 에너미의 무력화에 실패했습니다.\\n목록을 갱신합니다."
+
+msgid "pop_raid_escaped02_title"
+msgstr "무력화 실패한 폭주 에너미"
+
+msgid "pop_raid_escaped02_text"
+msgstr "선택한 폭주 에너미의 무력화에 실패했습니다.\\n포인트는 추가되지 않습니다."
+
+msgid "pop_raid_enemy_escape_title"
+msgstr "폭주 에너미 무력화 실패"
+
+msgid "pop_raid_enemy_escape_enemyselect_text"
+msgstr "제한 시간을 초과하여 폭주 에너미를 놓쳤습니다.\\n목록을 갱신합니다."
+
+msgid "pop_raid_enemy_escape_result_text"
+msgstr "제한 시간을 초과하여 폭주 에너미를 놓쳤습니다."
+
+msgid "pop_raid_radar_failed_title"
+msgstr "폭주 에너미 탐색"
+
+msgid "pop_raid_rader_failed_text"
+msgstr "대응 가능한 최대 수의 폭주 에너미가 발견되었습니다!\\n먼저 발견된 폭주 에너미를 쓰러뜨려\\n수를 줄여 주세요.\\n\\n<color=#C6077CFF>폴드 레이더는 소비되지 않았습니다.</color>"
+
+msgid "pop_raid_time_warning_title"
+msgstr "남은 시간 경고"
+
+msgid "pop_raid_time_warning_text"
+msgstr "제한 시간이 5분 미만입니다.\\n폭주 에너미 무력화에 실패하면\\n포인트가 추가되지 않습니다.\\n\\n라이브를 시작하시겠습니까?"
+
+msgid "pop_raid_assist_attack_skip_title"
+msgstr "지원에 대해"
+
+msgid "pop_raid_assist_attack_skip_desc_01"
+msgstr "라이브 스킵 시의 점수를 기준으로\\n에너미에게 임팩트를 줄 수 있습니다.\\n한 에너미당 1회만 실행할 수 있습니다.\\n\\n<color=#C6077CFF>※라이브 스킵 티켓은 소비하지 않습니다.</color>"
+
+msgid "pop_raid_assist_attack_skip_desc_02"
+msgstr "초은하 총력 LIVE에서 지원 실행 시에는\\n라이브 스킵 티켓을 사용할 수 없습니다.\\n\\n지원을 실행하면 라이브 스킵 티켓을 사용하지 않아도\\n반드시 라이브가 스킵됩니다."
+
+msgid "pop_valyrietuneup_needitemdesc"
+msgstr "{0}과 {1}을 소비합니다."
+
+msgid "customstamp_createt_itle"
+msgstr "스탬프 목록"
+
+msgid "customstamp_longtap_desc"
+msgstr "※스탬프를 길게 눌러 삭제합니다."
+
+msgid "customstamp_sort_title"
+msgstr "스탬프 정렬"
+
+msgid "pop_customstamp_createlimit_title"
+msgstr "스탬프 제작 한도"
+
+msgid "pop_customstamp_createlimit_desc"
+msgstr "신규로 생성할 수 있는 스탬프의 상한에 도달했습니다.\\n\\n저장되어 있는 스탬프를 삭제하면\\n새로 만들 수 있습니다."
+
+msgid "pop_customstamp_sort_save_title"
+msgstr "저장 확인"
+
+msgid "pop_customstamp_sort_save_desc"
+msgstr "현재 스탬프 배치로 저장하시겠습니까?"
+
+msgid "pop_customstamp_edit_save_title"
+msgstr "스탬프 {0}을 저장했습니다."
+
+msgid "pop_customstamp_delete_title"
+msgstr "스탬프 {0}을 삭제하시겠습니까?"
+
+msgid "pop_customstamp_deletecheck_title"
+msgstr "스탬프 {0}을 삭제했습니다."
+
+msgid "valkyrie_tuneup_skill_not"
+msgstr "미해방"
+
+msgid "pop_deco_get_title"
+msgstr "{0} 획득"
+
+msgid "pop_deco_get_desc"
+msgstr "데코룸에서 배치할 수 있는 {0}을(를) 수령하였습니다."
+
+msgid "pop_deco_get_limit"
+msgstr "※{0}은 {1}장까지 획득할 수 있습니다."
+
+msgid "pop_deco_release_desc"
+msgstr "데코 룸에 배치할 수 있는\\n아래 아이템이 추가되었습니다."
+
+msgid "deco_name_poster"
+msgstr "포스터"
+
+msgid "deco_name_torso"
+msgstr "의상 토르소"
+
+msgid "deco_name_figure"
+msgstr "발키리 피규어"
+
+msgid "missionevent_bonus_popup_title"
+msgstr "보너스 대상 곡"
+
+msgid "missionevent_bonus_popup_desc"
+msgstr "이벤트 곡과 함께 아래 곡에도 보너스 발생!"
+
+msgid "missionevent_bonus_date_format"
+msgstr ""
+
+msgid "missionevent_bonus_limit_format"
+msgstr ""
+
+msgid "missionevent_bonus_target_format"
+msgstr "{0}의 악곡"
+
+msgid "missionevent_bonus_music_attribute001"
+msgstr "별 속성"
+
+msgid "missionevent_bonus_music_attribute002"
+msgstr "사랑 속성"
+
+msgid "missionevent_bonus_music_attribute003"
+msgstr "생명 속성"
+
+msgid "missionevent_bonus_music_attribute004"
+msgstr "전 속성"
+
+msgid "missionevent_bonus_series_attribute001"
+msgstr "마크로스Δ 시리즈"
+
+msgid "missionevent_bonus_series_attribute002"
+msgstr "마크로스F 시리즈"
+
+msgid "missionevent_bonus_series_attribute003"
+msgstr "마크로스7 시리즈"
+
+msgid "missionevent_bonus_series_attribute004"
+msgstr "초시공요새 마크로스 시리즈"
+
+msgid "missionevent_bonus_series_attribute005"
+msgstr "마크로스 플러스 시리즈"
+
+msgid "missionevent_bonus_all"
+msgstr "전부"
+
+msgid "lobby_corps_belongs_conf_text"
+msgstr "이 부대에 소속하시겠습니까?\\n개최 기간 동안은 부대를 변경할 수 없습니다."
+
+msgid "lobby_corps_belongs_note_text"
+msgstr "<color=#C8087E>※개최 기간이 종료되면 부대는 해산됩니다.</color>"
+
+msgid "lobby_room_name_format"
+msgstr "부대명 : {0}"
+
+msgid "lobby_room_num_format"
+msgstr "제{0}소대"
+
+msgid "valkyrie_name_text_format_001"
+msgstr ""
+
+msgid "storage_select_text"
+msgstr "선택 중인 데코 룸으로 변경하시겠습니까?"
+
+msgid "home_lobby_button_before"
+msgstr "초은하 총력 LIVE 개최까지　앞으로 {0}일"
+
+msgid "home_lobby_button_enter"
+msgstr "초은하 총력 LIVE 개최 중! 앞으로 {0}일"
+
+msgid "home_lobby_button_after"
+msgstr "로비 해제 종료까지 앞으로 {0}일"
+
+msgid "home_lobby_button_before_today"
+msgstr "초은하 총력 LIVE 오늘 개최"
+
+msgid "home_lobby_button_enter_today"
+msgstr "초은하 총력 LIVE 개최 중! 오늘까지"
+
+msgid "home_lobby_button_after_today"
+msgstr "로비 해제 오늘까지"
+
+msgid "home_lobby_button_popup_raid_end"
+msgstr "초은하 총력 LIVE가 종료되었습니다.\\n부대에 소속되어 있지 않아\\n마크로스 로비로 이동할 수 없습니다."
+
+msgid "customstamp_have_serif_not"
+msgstr "프레이즈를\\n보유하고 있지 않습니다."
+
+msgid "customstamp_sort_desc"
+msgstr "※스탬프끼리 터치하여 위치를 변경합니다."
+
+msgid "result_drop_foldradar_text"
+msgstr "{0}을 발견했습니다!\\n{0}은 초은하 총력 LIVE에서 사용할 수 있는 아이템입니다."
+
+msgid "pop_lobby_group_capacityover_desc"
+msgstr "선택한 부대가 정원 초과로\\n소속될 수 없었습니다."
+
+msgid "pop_lobby_group_not_searchplayer"
+msgstr "선택 가능한 친구, 팬 등록 플레이어가 없습니다."
+
+msgid "pop_lobby_member_fanregister_title"
+msgstr "팬 등록"
+
+msgid "pop_lobby_member_fanregister_desc"
+msgstr "{0}님을 팬 등록합니다."
+
+msgid "pop_lobby_member_fan_capacityover_title"
+msgstr "팬 한도"
+
+msgid "pop_lobby_member_capacityover_desc"
+msgstr "팬의 수가 한도에 다다랐습니다."
+
+msgid "pop_lobby_member_fan_unregister_title"
+msgstr "팬 해제"
+
+msgid "pop_lobby_member_fan_unregister_desc"
+msgstr "{0}님을 팬 해제합니다."
+
+msgid "pop_deco_bg_eff_span"
+msgstr "yyyy년 M월 d일 H:mm"
+
+msgid "pop_deco_bg_eff_initial_setting_title"
+msgstr "화면 이펙트 변경"
+
+msgid "pop_deco_bg_eff_initial_setting_desc"
+msgstr "기간 한정 이펙트를 사용할 수 있습니다.\\n이펙트 이름: {0}\\n\\n【사용 가능 기간】\\n{1} ～ {2}\\n\\n이펙트를 표시하시겠습니까?\\n<color=#C8087E>※배경 설정은 데코루차 모드 설정에서도 할 수 있습니다.</color>"
+
+msgid "popup_event_reward_check_mvp_title"
+msgstr "MVP 보상"
+
+msgid "popup_event_reward_check_attack1st_title"
+msgstr "1st 어택 보상"
+
+msgid "popup_event_reward_check_disempowerment_title"
+msgstr "참전 보상"
+
+msgid "popup_event_reward_check_lotcount_title"
+msgstr "참전 보상 내역"
+
+msgid "popup_event_reward_raid_info_mvp"
+msgstr "MVP 보상은 초은하 메달을 획득할 수 있습니다.\\n획득할 수 있는 개수는 노래 등급과 에너미 랭크에 따라 달라집니다."
+
+msgid "popup_event_reward_raid_info_attack1st"
+msgstr "1st 어택 보상은 초은하 메달을 획득할 수 있습니다.\\n획득할 수 있는 개수는 노래 등급과 에너미 랭크에 따라 달라집니다."
+
+msgid "popup_event_reward_raid_info_disempowerment"
+msgstr "획득할 수 있는 개수는 노래 등급과 에너미 랭크에 따라 달라집니다.\\n참가 보상 내용은 참가 보상 내역 탭에서 확인할 수 있습니다."
+
+msgid "popup_event_reward_raid_info_lotcount"
+msgstr "획득할 수 있는 개수는 노래 등급과 에너미 랭크에 따라 달라집니다."
+
+msgid "pop_raid_helprequest_completion_title"
+msgstr "구원 확인"
+
+msgid "pop_raid_helprequest_completion_text"
+msgstr "아래 플레이어에게 구원 요청을 보냈습니다."
+
+msgid "pop_fan_register_failure_title"
+msgstr "팬 등록 실패"
+
+msgid "pop_fan_register_failure_desc"
+msgstr "팬 등록에 실패했습니다."
+
+msgid "pop_fan_unregister_failure_title"
+msgstr "팬 해제 실패"
+
+msgid "pop_fan_unregister_failure_desc"
+msgstr "팬 해제에 실패했습니다."
+
+msgid "popup_raid_ap_recovery_title"
+msgstr "AP 회복"
+
+msgid "popup_raid_ap_recovery_use_stone_check_msg"
+msgstr "가정석을 {0}개 소모하여 AP를 {1} 회복하시겠습니까?"
+
+msgid "popup_raid_ap_recovery_use_stone_check_msg02"
+msgstr "가정석을 {0}개 소모하여 AP를 {1} 회복하시겠습니까?"
+
+msgid "popup_raid_ap_recovery_use_item_check_msg"
+msgstr "{0}을 {1}개 소비하여\\nAP를 {2} 회복합니다.\\n\\n<color=#C8087E>{0}  {3}→{4}</color>"
+
+msgid "popup_raid_ap_recovery_failed_msg"
+msgstr "한도를 초과하여 AP를 회복할 수 없습니다.\\n\\n※가정석, 아이템은 소모되지 않습니다."
+
+msgid "popup_raid_formation_bonus_costume"
+msgstr "보너스 의상"
+
+msgid "popup_raid_formation_bonus_valkyrie"
+msgstr "보너스 발키리"
+
+msgid "popup_raid_formation_bonus_costume_title"
+msgstr "보너스 대상 의상"
+
+msgid "popup_raid_formation_bonus_costume_desc"
+msgstr "※보너스 값이 가장 높은 의상만 적용됩니다."
+
+msgid "popup_raid_formation_bonus_valkyrie_title"
+msgstr "보너스 대상 발키리"
+
+msgid "stamp_have_not_text"
+msgstr "저장한 스탬프가 없습니다."
+
+msgid "bulletin_board_limit_input_text"
+msgstr "최대 40자까지 입력할 수 있습니다"
+
+msgid "pop_deco_set_max_title"
+msgstr "배치 한도"
+
+msgid "pop_deco_item_set_max_desc"
+msgstr "데코 아이템의 배치 개수 한도에 도달했습니다.\\n\\n데코 아이템을 선택하고 '수납'하여\\n아이템을 보관할 수 있습니다."
+
+msgid "pop_deco_chara_set_max_desc"
+msgstr "캐릭터 배치 수 제한에 도달했습니다.\\n\\n캐릭터를 선택하고 '수납'하여\\n아이템을 보관할 수 있습니다."
+
+msgid "shop_no_product_desc"
+msgstr "교환 가능한 아이템이 없습니다."
+
+msgid "popup_deco_all_remove_title"
+msgstr "수납 확인"
+
+msgid "popup_deco_all_remove_desc"
+msgstr "데코 룸 위의 아이템과 캐릭터를\\n모두 수납하시겠습니까?"
+
+msgid "deco_storage_unused_storage_name"
+msgstr "미사용"
+
+msgid "pop_deco_storage_write_comp_desc"
+msgstr "{0}\\n에 현재 데코 룸을 저장했습니다."
+
+msgid "lobby_viewing_system_text"
+msgstr "다른 부대에서 로비를 관람 중입니다."
+
+msgid "popup_profile_visit_title"
+msgstr "방문 확인"
+
+msgid "popup_profile_visit_msg"
+msgstr "{0} 님의\\n데코룸으로 이동합니다."
+
+msgid "popup_profile_lobby_title"
+msgstr "열람 확인"
+
+msgid "popup_profile_lobby_msg"
+msgstr "{0}님의\\n마크로스 로비로 이동합니다."
+
+msgid "deco_visit_gift"
+msgstr "선물 가능 개수"
+
+msgid "deco_visit_no_friend"
+msgstr "친구가 없습니다."
+
+msgid "deco_visit_no_fun"
+msgstr "아직 팬 등록을 하지 않았습니다."
+
+msgid "chat_post_conf_popup_text"
+msgstr "배틀 로그 정보를 채팅에 수동으로 게시합니다."
+
+msgid "chat_post_conf_popup_title"
+msgstr "채팅 게시 확인"
+
+msgid "raid_event_end_text"
+msgstr "이벤트 집계 중입니다."
+
+msgid "lobby_raid_befor_text"
+msgstr "개최까지 {0}일"
+
+msgid "lobby_raid_befor_today_text"
+msgstr "오늘 개최!"
+
+msgid "pop_compatible_music_title"
+msgstr "라이브 스킬 발동 대상 악곡"
+
+msgid "pop_compatible_music_desc"
+msgstr "아래 곡을 플레이할 때만 라이브 스킬이 발동합니다.\\n\\n\\n{0}\\n\\n"
+
+msgid "pop_compatible_series_title"
+msgstr "센터 스킬 발동 대상 시리즈"
+
+msgid "pop_compatible_series_desc"
+msgstr "아래 시리즈 곡을 플레이할 때만\\n센터 스킬이 발동합니다."
+
+msgid "pop_block_ask_title"
+msgstr "차단 확인"
+
+msgid "pop_block_ask_desc"
+msgstr "{0}님을 차단하시겠습니까?\\n차단된 상대에게는 아래 제한이 적용됩니다.\\n\\n・로비, 채팅에서의 발언이 표시되지 않습니다.\\n・당신의 데코 룸에서 발언할 수 없게 됩니다."
+
+msgid "pop_block_done_title"
+msgstr "차단 완료"
+
+msgid "pop_block_done_desc"
+msgstr "{0}님을 차단했습니다.\\n\\n차단 목록 관리는\\n메뉴의 차단 목록에서 할 수 있습니다."
+
+msgid "pop_block_limit_title"
+msgstr "차단 한도"
+
+msgid "pop_block_limit_desc"
+msgstr "차단할 수 있는 인원이\\n한도({0}명)에 도달했습니다."
+
+msgid "pop_block_remove_ask_title"
+msgstr "차단 해제 확인"
+
+msgid "pop_block_remove_ask_text"
+msgstr "{0}님의\\n차단을 해제합니다.\\n\\n괜찮으시겠습니까?"
+
+msgid "pop_block_remove_done_title"
+msgstr "차단 해제 완료"
+
+msgid "pop_block_remove_deon_text"
+msgstr "{0}님의\\n차단을 해제했습니다."
+
+msgid "pop_blocked_title"
+msgstr "차단"
+
+msgid "pop_blocked_text"
+msgstr "차단된 상태이므로\\n이 행동을 할 수 없습니다."
+
+msgid "pop_not_belong_lobby_transition_title"
+msgstr "부대 소속"
+
+msgid "pop_not_belong_lobby_transition_desc"
+msgstr "초은하 총력 LIVE에 참가하려면\\n부대에 소속되어야 합니다.\\n<color=#C8087E>※개최 기간이 종료되면 부대는 해산됩니다.</color>"
+
+msgid "deco_chat_footer_attention_text"
+msgstr "스탬프나 댓글이 없는\\n상태로 60일이 지나면\\n기록이 자동으로 삭제됩니다."
+
+msgid "blocklist_title"
+msgstr "차단한 유저 목록입니다"
+
+msgid "blocklist_empty_text"
+msgstr "차단 중인 유저가 없습니다."
+
+msgid "deco_set_buy_warn_text"
+msgstr "<color=#C8087E>이 아이템을 포함한 상품이 데코 세트에도 있습니다.</color>"
+
+msgid "lobby_raidboss_enable_count"
+msgstr "{0}체 출현 중!"
+
+msgid "pop_raid_attack_network_error"
+msgstr "통신 오류가 발생했습니다.\\n\\n인터넷 연결이나 전파 상태를\\n확인한 후 다시 시도해 주세요.\\n<color=#C8087E>※취소하면\\n데이터를 저장하지 않고 타이틀로 돌아갑니다.</color>"
+
+msgid "pop_exchange_need_item"
+msgstr "{0}으로 교환합니다."
+
+msgid "popup_deco_all_back_title"
+msgstr "편집 종료"
+
+msgid "popup_deco_all_back_desc"
+msgstr "편집 내용을 저장하지 않고\\n마이 데코 룸의 메인 화면으로 돌아갑니다.\\n괜찮으시겠습니까?"
+
+msgid "popup_in_my_blocklist_text"
+msgstr "차단 중인 플레이어이므로\\n이 행동을 할 수 없습니다."
+
+msgid "shop_product_deco_set_contain_text"
+msgstr "세트 판매 있음"
+
+msgid "popup_deco_set_item_detaile_title"
+msgstr "아이템 세트"
+
+msgid "deco_set_item_list_text"
+msgstr ""
+
+msgid "popup_deco_set_item_detaile_list"
+msgstr "이 데코 세트는 아래 아이템의 세트 상품입니다."
+
+msgid "popup_deco_set_item_detaile_caution"
+msgstr "최대 보유 수를 초과하여 보유할 수 없습니다."
+
+msgid "deco_change_storage_attention_text"
+msgstr "선택 중인 데코 룸으로 변경하시겠습니까?"
+
+msgid "pop_raid_result_error_text"
+msgstr "통신 오류가 발생하여\\n결과를 반영할 수 없습니다."
+
+msgid "popup_raid_ap_recovery_success_title"
+msgstr "AP 회복"
+
+msgid "popup_raid_ap_recovery_success_text"
+msgstr "AP가 {0}으로 회복되었습니다."
+
+msgid "popup_raid_ap_recovery_max_text"
+msgstr "더 이상 AP를 회복할 수 없습니다."
+
+msgid "popup_raid_ap_recovery_success_bonus_title"
+msgstr "AP 회복"
+
+msgid "popup_raid_ap_recovery_success_bonus_text"
+msgstr "가희석으로 AP를 회복한 보너스로\\n{0}을 {1}개 획득했습니다."
+
+msgid "popup_deco_save_confirm_title"
+msgstr "저장 확인"
+
+msgid "popup_deco_save_confirm_desc"
+msgstr "편집 중인 데코 룸이 저장되지 않았습니다.\\n데코 룸을 저장하시겠습니까?"
+
+msgid "popup_tutorial_guidetohome_title"
+msgstr "튜토리얼"
+
+msgid "popup_tutorial_guidetohome_text"
+msgstr "규정 랭크에 도달했으므로 홈 화면으로 이동합니다."
+
+msgid "popup_deco_save_title"
+msgstr "저장하고 종료"
+
+msgid "popup_deco_save_desc"
+msgstr "편집 내용을 저장하고\\n마이 데코 룸의 메인 화면으로 돌아갑니다.\\n괜찮으시겠습니까?"
+
+msgid "pop_deco_shop_sort_title"
+msgstr "필터 설정"
+
+msgid "popup_raid_login_reward_title"
+msgstr "이벤트 참여 보상"
+
+msgid "raid_new_announce_text"
+msgstr "새로운 구원 요청이 {0}건 도착했습니다!"
+
+msgid "unit_select_skip_count"
+msgstr "남은 {0}장/일"
+
+msgid "unit_select_skip_limit"
+msgstr "오늘 분량 종료"
+
+msgid "unit_skip_condition_title"
+msgstr "해방 조건"
+
+msgid "unit_skip_condition_text"
+msgstr "라이브 스킵 티켓은 스코어 랭크 SS로 클리어한\\n곡의 난이도에서만 사용할 수 있습니다."
+
+msgid "unit_skip_ticket_count_title"
+msgstr "하루 사용 가능 수량에 대해"
+
+msgid "unit_skip_ticket_count_text"
+msgstr "라이브 스킵 티켓은 하루에 사용할 수 있는 수량이 정해져 있습니다.\\n\\n사용 가능 수량이 0이 되면, 라이브 스킵 티켓을\\n보유하고 있어도 오늘은 사용할 수 없습니다.\\n\\n사용 가능 수량은 매일 0:00이 되면 최대까지 회복됩니다."
+
+msgid "unit_skip_ticket_lack_title"
+msgstr "라이브 스킵 티켓"
+
+msgid "unit_skip_ticket_lack_text"
+msgstr "라이브 스킵 티켓을 보유하고 있지 않아\\n스킵 기능을 이용할 수 없습니다."
+
+msgid "use_ticket_popup_title"
+msgstr "라이브 스킵"
+
+msgid "use_ticket_popup_havecount"
+msgstr "보유:"
+
+msgid "use_ticket_consume_format"
+msgstr ""
+
+msgid "use_ticket_consume_item_001"
+msgstr "에너지"
+
+msgid "use_ticket_consume_item_002"
+msgstr ""
+
+msgid "use_item_description_01"
+msgstr "<color=#C8087E>1회 사용 최대 수량은 {0}장입니다.</color>\\n라이브 스킵 티켓을 소비하여 라이브를 스킵할 수 있습니다.\\n노트는 모두 PERFECT, 콤보 수는 0으로 처리되어 보상, 가희 숙련도 포인트 등을 획득할 수 있습니다.\\n사용하는 티켓 수에 따라 획득량이 달라집니다."
+
+msgid "use_item_description_02"
+msgstr "라이브 스킵 티켓을 소비하여 라이브를 스킵할 수 있습니다.\\n이번에 사용할 수 있는 라이브 스킵 티켓은 1장뿐입니다.\\n노트는 모두 PERFECT, 콤보 수는 0으로 처리되어 보상, 가희 숙련도 포인트 등을 획득할 수 있습니다."
+
+msgid "use_item_description_03"
+msgstr "라이브 스킵 티켓 1장을 소모하여 라이브를 건너뜁니다.\\n\\n라이브 스킵 티켓 {0}→{1}\\n\\n・모든 노트는 PERFECT로 판정됩니다.\\n・스킵을 한 경우 '풀콤보'로 판정되지 않습니다.\\n・스코어, 발키리 모드의 결과는 유닛 편성에 따라 달라집니다."
+
+msgid "use_item_description_04"
+msgstr "<color=#C8087E>1회 사용 최대 수량은 {0}장입니다.</color>\\n라이브 스킵 티켓을 소비하여 라이브를 스킵할 수 있습니다.\\n요일 곡의 남은 횟수보다 많은 티켓은 사용할 수 없습니다.\\n노트는 모두 PERFECT, 콤보 수는 0으로 처리되어 보상, 가희 숙련도 포인트 등을 획득할 수 있습니다.\\n사용하는 티켓 수에 따라 획득량이 달라집니다."
+
+msgid "boost_skip_ticket_title"
+msgstr "라이브 스킵 티켓"
+
+msgid "boost_skip_ticket_text"
+msgstr "부스트 기능을 사용 중인 경우\\n스킵 기능을 이용할 수 없습니다."
+
+msgid "boost_skip_battle_ex_title"
+msgstr "라이브 스킵 티켓"
+
+msgid "boost_skip_battle_ex_text"
+msgstr "EX 라이벌을 선택한 경우\\n스킵 기능을 이용할 수 없습니다."
+
+msgid "result_skip_caution"
+msgstr "※하이스코어, 노래 레이트는 스킵 기능 사용 시 갱신되지 않습니다."
+
+msgid "result_assist_caution"
+msgstr "※하이스코어, 노래 레이트는 지원 실행 시 갱신되지 않습니다."
+
+msgid "popup_mission_stepup_desc"
+msgstr "스텝 {0}을 클리어하여 다음 스텝 {1}이 해제되었습니다."
+
+msgid "popup_mission_stepup_allclear"
+msgstr "스텝업 미션을 끝까지 클리어했습니다!"
+
+msgid "popup_rareup_item_warning_text"
+msgstr "레어 업 스타의 조각이 150개를 초과하면\\n자동으로 레어 업 스타로 교환됩니다."
+
+msgid "popup_rareup_item_convert_desc_01"
+msgstr "레어업 스타 조각이 보유 한도를 초과하여\\n레어업 스타로 교환됩니다."
+
+msgid "popup_rareup_item_convert_desc_02"
+msgstr "레어 업 스타는 아이템 교환소에서도 교환할 수 있습니다.\\n<color=#8E0529>※레어 업 스타의 사용 기한은 90일입니다.</color>"
+
+msgid "popup_get_liveskip_ticket_title"
+msgstr "{0} 획득"
+
+msgid "popup_get_liveskip_ticket_desc"
+msgstr "※매일 {0}장씩 배포됩니다.\\n※보유 한도를 초과한 분량은 소멸됩니다."
+
+msgid "popup_get_liveskip_ticket_count"
+msgstr "현재 보유 수"
+
+msgid "popup_get_liveskip_ticket_checkbox"
+msgstr "다음부터 표시하지 않음"
+
+msgid "popup_get_liveskip_ticket_confirm_title"
+msgstr "확인"
+
+msgid "popup_get_liveskip_ticket_confirm_desc"
+msgstr "매일 {0} 지급 시 본 안내가\\n표시되지 않도록 합니다.\\n\\n괜찮으시겠습니까?\\n\\n<color=#C8087E>※지급 자체는 매일 진행됩니다.</color>"
+
+msgid "popup_kira_scene_release_desc_1"
+msgstr "럭키 리프를 최대로 해방한 플레이트가\\n{0}이 되었습니다."
+
+msgid "popup_kira_scene_release_desc_2"
+msgstr "프리미엄화한 플레이트는\\n데코 룸의 포스터도 프리미엄화할 수 있습니다."
+
+msgid "popup_episodebonus_note_01"
+msgstr "※보너스가 적용되는 것은 하나의 에피소드당 플레이트 1장뿐이며, 유닛에 편성해야 적용됩니다.\\n※같은 에피소드의 플레이트를 여러 장 편성한 경우 보너스 값이 높은 플레이트만 적용됩니다.\\n※보너스 값은 에피소드와 레어리티에 따라 다릅니다."
+
+msgid "popup_episodebonus_note_02"
+msgstr "※하나의 에피소드에서 보너스가 적용되는 플레이트는 1장뿐입니다."
+
+msgid "popup_episodebonus_evo_bonus"
+msgstr "레어 업 후에는 {0}%"
+
+msgid "not_possessed"
+msgstr "미보유"
+
+msgid "popup_gachatransition_title"
+msgstr "가챠 확인"
+
+msgid "popup_gachatransition"
+msgstr "개최 중인 가챠 화면으로 이동하시겠습니까?"
+
+msgid "popup_not_gachatransition"
+msgstr "해당하는 가챠가 없습니다."
+
+msgid "pop_raid_enemy_requested_title"
+msgstr "구원 확인"
+
+msgid "pop_raid_enemy_requested_text"
+msgstr "구원 요청을 보낼 수 없었습니다.\\n잠시 후 다시 시도해 주세요."
+
+msgid "utaraterank_over_ranking"
+msgstr ""
+
+msgid "utaraterank_over_login"
+msgstr ""
+
+msgid "utaraterank_none"
+msgstr "미등록"
+
+msgid "popup_episodebonus_max"
+msgstr "최대 {0}%"
+
+msgid "unorganized"
+msgstr "미편성"
+
+msgid "skill_attr_regulation"
+msgstr "속성 제한 있음"
+
+msgid "episode_assist"
+msgstr "ASSIST(적용중)"
+
+msgid "episode_available"
+msgstr "적용중"
+
+msgid "pop_raid_help_defeated_text"
+msgstr "선택한 폭주 에너미는 무력화되었습니다.\\n목록을 업데이트합니다."
+
+msgid "pop_raid_help_result_defeated_text"
+msgstr "선택한 폭주 에너미는 무력화되었습니다."
+
+msgid "pop_raid_help_player_count_limit_over_text"
+msgstr "최대 인원수까지 구조 요청을 보내고 있습니다.\\n더 이상 구조 요청을 보낼 수 없습니다."
+
+msgid "pop_limited_item_warning_text_1"
+msgstr "{0}의 유효 기간이 <color=#C8087E>남은 {1}일</color>이 되었습니다."
+
+msgid "pop_limited_item_warning_title"
+msgstr "유효기간이 있는 아이템"
+
+msgid "notification_rareup_star_limit_title"
+msgstr "【기간 만료 알림】"
+
+msgid "notification_rareup_star_limit_text"
+msgstr "{0}이 곧 사라집니다! 로그인하여 사용하세요!"
+
+msgid "set_notification_text_12"
+msgstr "기한이 만료된 아이템의 유효기간이\\n다가오면 푸시 알림을 보내드립니다."
+
+msgid "pop_limited_item_warning_text_2"
+msgstr "{0}의 유효 기간이 <color=#C8087E>오늘 종료</color>됩니다."
+
+msgid "pop_deco_option_caution_plateanimation_01"
+msgstr "애니메이션되는 포스터에만 적용됩니다."
+
+msgid "gacha_rarity_desc_01"
+msgstr "※표시 중인 이미지는 레어리티 업 전의 이미지입니다."
+
+msgid "gacha_rarity_desc_02"
+msgstr "※표시 중인 이미지는 레어리티 업 후의 이미지입니다."
+
+msgid "gacha_period"
+msgstr "개최 기간: {0}/{1} {2}:{3:D2}까지"
+
+msgid "gacha_cost_01"
+msgstr "소비"
+
+msgid "gacha_cost_02"
+msgstr "을(를) 사용하여 뽑기"
+
+msgid "gacha_cost_03"
+msgstr "아침　{0}회 무료"
+
+msgid "gacha_cost_04"
+msgstr "낮　{0}회 무료"
+
+msgid "gacha_cost_05"
+msgstr "밤　{0}회 무료"
+
+msgid "config_text_98"
+msgstr "의상 효과"
+
+msgid "config_text_99"
+msgstr "의상 주변에 발생하는 효과를 설정할 수 있습니다."
+
+msgid "config_text_100"
+msgstr "가희가 전용 효과가 있는 의상을 착용한 경우에만 적용됩니다."
+
+msgid "config_text_101"
+msgstr "플레이트 애니메이션 설정"
+
+msgid "config_text_102"
+msgstr "애니메이션이 재생되는 플레이트에만 적용됩니다."
+
+msgid "config_text_103"
+msgstr "가챠 화면은 플레이트 애니메이션 설정 대상에서 제외됩니다."
+
+msgid "liveskillregulation_except"
+msgstr "대상 시리즈\\n이외"
+
+msgid "liveskillregulation_popup_title"
+msgstr "라이브 스킬 발동 대상 악곡"
+
+msgid "centerskillregulation_popup_title"
+msgstr "센터 스킬 발동 대상 곡"
+
+msgid "gacha_telop_01"
+msgstr "1회 한정!"
+
+msgid "gacha_telop_02"
+msgstr "앞으로 {0}회!"
+
+msgid "gacha_telop_03"
+msgstr "첫 1회만 무료!"
+
+msgid "gacha_telop_04"
+msgstr "{0}회 뽑으면\\n다음은 무료!"
+
+msgid "gacha_telop_05"
+msgstr "이번에는 무료!"
+
+msgid "gacha_telop_06"
+msgstr "하루 1회만 무료!"
+
+msgid "gacha_cost_06"
+msgstr "무료로 뽑기"
+
+msgid "gacha_desc_01"
+msgstr "※위 항목 이외의 에피소드 플레이트도 등장할 수 있습니다."
+
+msgid "gacha_desc_02"
+msgstr "※매일 자정 0시에 초기화됩니다."
+
+msgid "gacha_desc_03"
+msgstr "※티켓을 여러 장 보유한 경우, 사용 기한이 가장 빠른 티켓이 표시됩니다."
+
+msgid "gacha_desc_04"
+msgstr "아침・낮・밤 하루 3회, 가희석 없이도 뽑을 수 있는 가챠입니다."
+
+msgid "gacha_set_sale_desc_01"
+msgstr "판매 중"
+
+msgid "gacha_set_sale_desc_02"
+msgstr "구매 완료"
+
+msgid "gacha_set_sale_desc_03"
+msgstr "판매 기간 외"
+
+msgid "gacha_ticket_name"
+msgstr "보유 티켓"
+
+msgid "assistselect_attribute_other"
+msgstr "프리 슬롯"
+
+msgid "assistselect_attribute_yellow"
+msgstr "별 속성"
+
+msgid "assistselect_attribute_red"
+msgstr "사랑 속성"
+
+msgid "assistselect_attribute_blue"
+msgstr "생명 속성"
+
+msgid "assistselect_caution_01"
+msgstr "※현재 표시 중인 편성 세트가 어시스트로 호출됩니다."
+
+msgid "assistselect_namechange_popup_title"
+msgstr "어시스트 세트명 변경"
+
+msgid "assistselect_namechange_popup_ok"
+msgstr "어시스트 세트명을 변경했습니다."
+
+msgid "assistselect_namechange_popup_details_01"
+msgstr "어시스트 세트명을 입력해 주세요\\n(전각 반각 15자까지)"
+
+msgid "assistselect_name_title_change_ng"
+msgstr "등록 오류"
+
+msgid "assistselect_name_notchangeword"
+msgstr "어시스트 세트명이 변경되지 않았습니다."
+
+msgid "assistselect_name_ngword"
+msgstr "사용할 수 없는 단어가 포함되어 있습니다.\\n내용을 변경해 주세요."
+
+msgid "event_story_text_015"
+msgstr "스토리 칸을 해방하면 볼 수 있습니다."
+
+msgid "event_story_text_016"
+msgstr "스토리 해제"
+
+msgid "event_story_text_017"
+msgstr "이전 스토리를 보지 않았기 때문에\\n해제할 수 없습니다."
+
+msgid "event_story_text_018"
+msgstr "{0}\\n의 스토리 칸 해방으로 확인할 수 있습니다."
+
+msgid "event_story_text_019"
+msgstr "※스토리 확인 버튼에서 확인할 수 있습니다.\\n※메뉴→이벤트 스토리→플레이트 탭에서 확인할 수 있습니다."
+
+msgid "event_story_text_020"
+msgstr "※메뉴→이벤트 스토리→플레이트 탭에서 확인할 수 있습니다."
+
+msgid "assist_friend_select_caution_01"
+msgstr "어시스트 플레이트를 편성하지 않은 경우 메인 플레이트가 표시됩니다."
+
+msgid "header_desc_home401"
+msgstr "플레이트를 선택해 주세요"
+
+msgid "header_desc_home402"
+msgstr "칭호를 선택해 주세요"
+
+msgid "header_desc_setting040"
+msgstr "플레이트를 선택해 주세요"
+
+msgid "header_desc_setting041"
+msgstr "칭호를 선택해 주세요"
+
+msgid "header_desc_setting042"
+msgstr "프로필을 확인할 수 있습니다"
+
+msgid "header_desc_story040"
+msgstr "플레이트를 선택해 주세요"
+
+msgid "header_desc_story041"
+msgstr "칭호를 선택해 주세요"
+
+msgid "header_desc_story042"
+msgstr "프로필을 확인할 수 있습니다"
+
+msgid "header_desc_free400"
+msgstr "플레이트를 선택해 주세요"
+
+msgid "header_desc_free401"
+msgstr "칭호를 선택해 주세요"
+
+msgid "header_desc_option010"
+msgstr "플레이트를 선택해 주세요"
+
+msgid "header_desc_option011"
+msgstr "칭호를 선택해 주세요"
+
+msgid "gacha_desc_05"
+msgstr "「이런 서비스는 하루 3번밖에 안 한다니까!」\\n　　　　　　　　　　　　　－셰릴 놈－"
+
+msgid "popup_gacha_rbreak_rate_warning"
+msgstr "※확률 표시는 소수점 4자리 이하를 버리고 소수점 3자리까지 표시합니다.\\n　따라서 모두 합산해도 100％가 되지 않을 수 있습니다.\\n\\n※위 에피소드 플레이트는 중복으로 등장할 수 있습니다.\\n\\n※같은 레어리티 내에서도 제공 확률이 다를 수 있습니다.\\n\\n※「가챠 출현율」에 표시된 각 레어리티별\\n   출현 확률은 「초기 출현 확률」입니다.\\n\\n※★6이 일정 횟수 이상 등장하지 않은 경우,\\n　★6의 출현 확률이 「초기 출현 확률」보다 조금 상승하며, 상승한 만큼\\n　★3★4★5 전체 출현 확률은 「초기 출현 확률」보다 낮아집니다.\\n\\n※한 번 「초기 출현 확률」에서 변동된 출현 확률은\\n　가챠 개최 기간 종료 또는 대상 가챠에서 ★6이 출현하면\\n　초기화됩니다."
+
+msgid "header_desc_evquest400"
+msgstr "플레이트를 선택해 주세요."
+
+msgid "header_desc_evquest401"
+msgstr "칭호를 선택해 주세요"
+
+msgid "popup_sort_title_guest_select"
+msgstr "표시 조건 변경"
+
+msgid "quest_receive_all_desc"
+msgstr "※최대 {0}건까지 일괄로 받을 수 있습니다."
+
+msgid "popup_quest_receive_limit_title"
+msgstr "보유 한도"
+
+msgid "popup_quest_receive_limit_desc"
+msgstr "수령하려고 하는 아이템 중 보유 한도를 초과하는 아이템이 있습니다.\\n이 미션의 보상을 수령하시겠습니까?"
+
+msgid "popup_quest_receive_get"
+msgstr "수령: {0}"
+
+msgid "popup_quest_receive_lose"
+msgstr "소멸: {0}"
+
+msgid "popup_quest_receive_limit_caution"
+msgstr "※보유 한도를 초과하여 받은 아이템은 자동으로 소멸합니다."
+
+msgid "popup_quest_receive_limit_failure_01"
+msgstr "※보유 한도를 초과하여 일부 보상을 받을 수 없었습니다."
+
+msgid "popup_quest_receive_limit_failure_02"
+msgstr "받으려던 보상이\\n모두 보유 한도를 초과하여\\n아이템을 받을 수 없습니다."
+
+msgid "popup_gacha_rbreak2_rate_warning"
+msgstr "※확률 표시는 소수점 4자리 이하를 버리고 소수점 3자리까지 표시합니다.\\n　따라서 모두 합산해도 100％가 되지 않을 수 있습니다.\\n\\n※위 에피소드 플레이트는 중복으로 등장할 수 있습니다.\\n\\n※같은 레어리티 내에서도 제공 확률이 다를 수 있습니다.\\n\\n※「가챠 출현율」에 표시된 각 레어리티별\\n   출현 확률은 「초기 출현 확률」입니다.\\n\\n※★5★6이 일정 횟수 이상 등장하지 않은 경우,\\n　★5★6의 출현 확률이 「초기 출현 확률」보다 조금 상승하며, 상승한 만큼\\n　★3★4 전체 출현 확률은 「초기 출현 확률」보다 낮아집니다.\\n\\n※한 번 「초기 출현 확률」에서 변동된 출현 확률은\\n　가챠 개최 기간 종료 또는 대상 가챠에서 ★5★6이 출현하면\\n　초기화됩니다."
+
+msgid "growth_popup_text20"
+msgstr "다음 아이템과 UC를 소모하여 능력 칸을 모두 해방합니다."
+
+msgid "growth_popup_text21"
+msgstr "다음 아이템과 UC를 소비하여 에피소드 칸을 모두 해방합니다."
+
+msgid "growth_popup_text22"
+msgstr "※시크릿 보드는 포함되지 않습니다."
+
+msgid "growth_popup_text23"
+msgstr "다음 아이템과 UC를 소모하여 필요한 능력 칸을 모두 해방합니다."
+
+msgid "popup_sort_filter_reset"
+msgstr "리셋"
+
+msgid "popup_sort_filter_all"
+msgstr ""
+
+msgid "popup_sort_title_h1"
+msgstr "정렬 설정"
+
+msgid "popup_sort_item_total"
+msgstr ""
+
+msgid "popup_sort_item_soul"
+msgstr "소울"
+
+msgid "popup_sort_item_voice"
+msgstr "보이스"
+
+msgid "popup_sort_item_charm"
+msgstr "챰"
+
+msgid "popup_sort_item_get"
+msgstr "획득순"
+
+msgid "popup_sort_item_rarity"
+msgstr "레어도"
+
+msgid "popup_sort_item_level"
+msgstr "레벨"
+
+msgid "popup_sort_item_life"
+msgstr "라이프"
+
+msgid "popup_sort_item_luck"
+msgstr ""
+
+msgid "popup_sort_item_support"
+msgstr "서포트"
+
+msgid "popup_sort_item_fold"
+msgstr "폴드파"
+
+msgid "popup_sort_item_recovery_notes"
+msgstr "회복 노트"
+
+msgid "popup_sort_item_item_notes"
+msgstr "아이템 노트"
+
+msgid "popup_sort_item_scoreup_notes"
+msgstr "고득점 노트"
+
+msgid "popup_sort_item_support_notes"
+msgstr "서포트 노트"
+
+msgid "popup_sort_item_fold_notes"
+msgstr "폴드파 노트"
+
+msgid "popup_sort_item_last_playdate"
+msgstr "최종 로그인"
+
+msgid "popup_sort_item_player_runk"
+msgstr "랭크"
+
+msgid "popup_sort_item_request"
+msgstr "신청 날짜"
+
+msgid "popup_sort_item_skill"
+msgstr "스킬"
+
+msgid "popup_sort_item_active_skill"
+msgstr "A스킬"
+
+msgid "popup_sort_item_live_skill"
+msgstr "L스킬"
+
+msgid "popup_sort_item_episode"
+msgstr "에피소드"
+
+msgid "popup_sort_item_secret_board"
+msgstr "시크릿 보드 수"
+
+msgid "popup_sort_item_highscorerating"
+msgstr "임시"
+
+msgid "popup_sort_item_fannum"
+msgstr "팬 수"
+
+msgid "popup_sort_item_episodeno"
+msgstr "에피소드 NO"
+
+msgid "popup_sort_item_diva_and_valkyrie"
+msgstr "가희/발키리"
+
+msgid "popup_sort_item_episode_point"
+msgstr "에피소드 포인트"
+
+msgid "popup_sort_item_lucky_leaf"
+msgstr "럭키 리프"
+
+msgid "popup_sort_item_main_cannnon_power"
+msgstr "주포 위력"
+
+msgid "popup_sort_item_fan"
+msgstr "팬"
+
+msgid "popup_sort_item_furniture"
+msgstr "임시"
+
+msgid "popup_sort_item_ornament"
+msgstr "임시"
+
+msgid "popup_sort_item_rug"
+msgstr "임시"
+
+msgid "popup_sort_item_rack"
+msgstr "임시"
+
+msgid "popup_sort_item_other"
+msgstr "임시"
+
+msgid "popup_sort_item_filter"
+msgstr "필터"
+
+msgid "popup_filter_title_h1"
+msgstr "필터 설정"
+
+msgid "popup_filter_mainep_title_h2"
+msgstr "해방 상황"
+
+msgid "popup_filter_series_title_h2"
+msgstr "시리즈"
+
+msgid "popup_filter_diva_val_title_h2"
+msgstr "가희/발키리"
+
+msgid "popup_filter_mainep_item_lock"
+msgstr "미해방"
+
+msgid "popup_filter_mainep_item_unlock"
+msgstr "해방 완료"
+
+msgid "popup_filter_mainep_item_enable_unlock"
+msgstr "플레이트 해방 가능"
+
+msgid "popup_option_data_title"
+msgstr "데이터 관리"
+
+msgid "popup_option_cacheclear_title"
+msgstr "데이터 복구"
+
+msgid "popup_option_cacheclear_desc1"
+msgstr "게임 데이터를 삭제하고 데이터 복구를 수행합니다."
+
+msgid "popup_option_cacheclear_desc2"
+msgstr "게임이 잘 실행되지 않는 경우 등에 시도해 보세요.\\n<color=#C8087E>※플레이 데이터는 삭제되지 않습니다.</color>"
+
+msgid "popup_option_bunchinstall_title"
+msgstr "일괄 다운로드"
+
+msgid "popup_option_bunchinstall_desc1"
+msgstr "게임 플레이에 필요한 데이터를 일괄적으로 다운로드합니다."
+
+msgid "popup_option_bunchinstall_desc2"
+msgstr "통신을 줄이고 편안하게 플레이할 수 있습니다.\\n<color=#C8087E>※다운로드가 완료될 때까지 다른 작업을 할 수 없습니다.\\n※Wi-Fi 환경에서의 다운로드를 권장합니다.</color>"
+
+msgid "episode_sort_filter_empty"
+msgstr "해당 에피소드가 없습니다."
+
+msgid "popup_homebg_title"
+msgstr "배경 선택"
+
+msgid "popup_homebg_scene_select"
+msgstr "선택한 플레이트를 배경으로 설정하시겠습니까?"
+
+msgid "popup_homebg_default_scene"
+msgstr "배경을 기본값으로 설정하시겠습니까?"
+
+msgid "popup_homebg_default_scene_name"
+msgstr "기본 배경"
+
+msgid "header_desc_home040"
+msgstr "배경을 선택해 주세요"
+
+msgid "popup_quest_receive_vc_caution"
+msgstr "※가정석은 선물상자로 보내드립니다."
+
+msgid "homebgselect_title"
+msgstr "홈"
+
+msgid "select_costume_desc01"
+msgstr "※여기서 변경한 의상은 유닛 편성에 반영되지 않습니다."
+
+msgid "popup_filter_rarity_title_h2"
+msgstr "레어도"
+
+msgid "popup_filter_rarity_01"
+msgstr ""
+
+msgid "popup_filter_rarity_02"
+msgstr ""
+
+msgid "popup_filter_rarity_03"
+msgstr ""
+
+msgid "popup_filter_rarity_04"
+msgstr ""
+
+msgid "popup_filter_rarity_05"
+msgstr ""
+
+msgid "popup_filter_rarity_06"
+msgstr ""
+
+msgid "popup_filter_rarity_07"
+msgstr ""
+
+msgid "deco_name_decomascot"
+msgstr "데코 마스코트"
+
+msgid "popup_bunchinstall_error_storage_title"
+msgstr "스토리지 오류"
+
+msgid "popup_bunchinstall_error_storage_desc"
+msgstr "파일 다운로드에 실패했습니다.\\n스토리지에 충분한 여유 공간을 확보한 후\\n다시 시도해 주세요.\\n\\n<color=#C8087E>※취소하면 타이틀 화면으로 돌아갑니다.</color>"
+
+msgid "popup_bunchinstall_error_other_title"
+msgstr "다운로드 오류"
+
+msgid "popup_bunchinstall_error_other_desc"
+msgstr "파일 다운로드에 실패했습니다.\\n인터넷 연결이나 전파 상태를 확인한 후\\n다시 시도해 주세요.\\n\\n<color=#C8087E>※취소하면 타이틀 화면으로 돌아갑니다.</color>"
+
+msgid "popup_costumeselect_home"
+msgstr "대기실에 반영"
+
+msgid "pop_pass_loginbonus_caution"
+msgstr "스페셜 패스 보너스로 {0}을 {1}{2} 지급합니다.\\n<color=#8E0529>※보유 한도를 초과한 분량은 소멸합니다.</color>"
+
+msgid "popup_gacha_lot_select"
+msgstr "가희석 또는 가챠 티켓을 사용하여 가챠를 진행합니다."
+
+msgid "pop_pass_select_title"
+msgstr "월간 패스 플랜 확인"
+
+msgid "pop_pass_select_desc"
+msgstr "월간 패스의 각종 플랜은 확인 버튼을 눌러 확인할 수 있습니다."
+
+msgid "pop_pass_popup_text03"
+msgstr "스페셜 패스를 이용하려면\\n동의 사항을 승인해야 합니다."
+
+msgid "pop_pass_popup_text04"
+msgstr "<size=22><color=#8e0529>※인계 후 다른 월간 패스로 변경하는 경우,\\n기존 기기에서 해지를 완료한 후 구매해 주세요.</color></size>"
+
+msgid "pop_pass_popup_text05"
+msgstr "가희 마크로스 패스를 이용하려면\\n현재 가입 중인 스페셜 패스를\\n해지해 주세요.\\n<color=#C8087E>※스페셜 패스 유효 기간 종료 후\\n가희 마크로스 패스에 가입할 수 있습니다.</color>"
+
+msgid "pop_pass_popup_text06"
+msgstr "가희 마크로스 패스를 이용하려면\\n스페셜 패스의 유효 기간이 종료될 때까지 기다려 주세요.\\n<color=#C8087E>※스페셜 패스 유효 기간 종료 후\\n가희 마크로스 패스에 가입할 수 있습니다.</color>"
+
+msgid "pop_pass_sp_title"
+msgstr "스페셜 패스 구매"
+
+msgid "pop_pass_sp_text01"
+msgstr "■동의 사항\\n・스페셜 패스의 유효 기간은 구매 후 1개월입니다."
+
+msgid "pop_pass_sp_text02"
+msgstr "\\n■혜택 내용\\n・유효 기간 동안 획득하는 플레이어 랭크 경험치, 가희 숙련도 포인트가 1.5배가 됩니다.\\n・유효 기간 동안 발키리 오퍼레이션(VOP)에 특별한 데일리 오퍼레이션이\\n　2개 추가됩니다. \\n\\n■보너스 혜택\\n스페셜 패스를 구매하면 보너스로 아래 혜택이 제공됩니다.\\n・유효 기간 동안 계약 직후와 갱신 시 데칼 가챠 티켓을 10장 획득할 수 있습니다.\\n　데칼 가챠 티켓은 단발 유료 가챠를 진행할 수 있는 가챠 티켓입니다.\\n　데칼 가챠 티켓은 선물 상자에 지급됩니다.\\n　선물 상자 내 보관 기간은 180일입니다.\\n　보관 기간이 지나면 데칼 가챠 티켓은 자동 수령됩니다.\\n　데칼 가챠 티켓의 사용 기한은 선물 상자에서 수령한 후 180일입니다.\\n・유효 기간 동안 매일 기한부 라이브 스킵 티켓 9장을 받을 수 있습니다.\\n　기한부 라이브 스킵 티켓은 사용 기한이 있는 라이브 스킵 티켓입니다.\\n　기한부 라이브 스킵 티켓은 일반 라이브 스킵 티켓보다 우선 사용됩니다.\\n　사용 기한은 180일이며, 기한이 지나면 기한부 라이브 스킵 티켓은 소멸합니다.\\n・유효 기간 동안 라이브 스킵 티켓 보유 수량 한도가 60장이 됩니다.\\n　보유 수량 한도는 기한부 라이브 스킵 티켓과 일반 라이브 스킵 티켓이 공유합니다.\\n・유효 기간 동안 라이브 스킵 티켓 사용 수량 한도가 36장이 됩니다.\\n・유효 기간 동안 초시공 로그인 보너스로 받을 수 있는 성장 소재 세트가 2배가 됩니다.\\n・초시공 가챠 티켓 등 호화 보상을 받을 수 있는 초시공 로그인 보너스가 추가됩니다.\\n　초시공 로그인 보너스는 스페셜 패스 유효 기간 동안 하루 1회 받을 수 있습니다.\\n・초시공 로그인 보너스를 90회 받을 때마다 레어 업 스타를 획득합니다.\\n　레어 업 스타는 에피소드 플레이트의 레어리티를 올릴 수 있는 아이템입니다.\\n　레어리티 업 전 ★4, ★5 플레이트에 사용할 수 있습니다.\\n\\n■첫 구매 혜택\\n초시공 로그인 보너스를 처음 25회 받으면 레어 업 스타를 선물합니다.\\n　※첫 구매 혜택을 받은 후 다시 스페셜 패스를 구매해도 첫 구매 혜택은 제공되지 않습니다.\\n　※다른 기기에서 여러 번 구매해도 첫 구매 혜택 지급은 1회뿐입니다."
+
+msgid "pop_pass_sp_text_android"
+msgstr "・스페셜 패스의 유효 기간은 사용 중인 OS의 규정에 따라\\n　자동으로 갱신됩니다. 이에 따라 혜택 지급 기간도 자동으로 갱신됩니다.\\n・고객이 본 게임 이용 기기의 데이터를 인계한 경우,\\n　기존 기기의 스페셜 패스 및 혜택 지급 유효 기간은 이어지지만,\\n　서로 다른 OS 간 데이터 인계 또는 기존 기기와 다른 Google ID를 사용하는 경우,\\n　기존 기기의 스페셜 패스 및 혜택 지급 유효 기간 자동 갱신은 새 기기에 반영되지 않습니다.\\n　새 기기에서 스페셜 패스를 이용하려면,\\n　기존 기기의 스페셜 패스 및 혜택 지급 기간을 확인한 후,\\n　해당 기간 종료 후 새 기기에서 스페셜 패스를 구매해 주세요.\\n・기존 기기와 새 기기에서 스페셜 패스를 중복 구매해도,\\n　스페셜 패스 효과 발동 및 혜택 지급은 중복 적용되지 않습니다.\\n・유효 기간 중 해지한 경우에도 유효 기간 동안 스페셜 패스 효과 및 혜택 지급은 계속됩니다.\\n・레어 업 스타의 유효 기간은 지급 후 90일입니다.\\n・초시공 가챠 티켓의 유효 기간은 지급 후 30일입니다.\\n・스페셜 패스 갱신을 하지 않는 경우 OS 규정에 따라 해지해야 합니다.　\\n　Android 해지\\n　　Google Play 스토어→정기 결제에서 정기 결제 해지를 진행해 주세요.\\n・스페셜 패스에서 가희 마크로스 패스로 변경하는 경우에도 OS 규정에 따라 해지해야 합니다.\\n・스페셜 패스를 해지한 경우에도 유효 기간 종료 후 가희 마크로스 패스에 가입할 수 있습니다.\\n・가희 마크로스 패스에서 스페셜 패스로 변경한 경우 초시공 로그인 보너스와 레어 업 스타의\\n　경과 일수를 이어받습니다.\\n・가희 마크로스 패스에서 스페셜 패스로 변경했을 때 초시공 로그인 보너스 내용에\\n　차이가 있는 경우 변경 시점에 초시공 로그인 보너스 차이가 지급됩니다."
+
+msgid "pop_pass_sp_text_ios"
+msgstr "・스페셜 패스 요금은 사용 중인 iTunes 계정으로 청구됩니다.\\n・스페셜 패스 유효 기간 종료 24시간 전까지 자동 갱신을 해제하지 않으면\\n　스페셜 패스 유효 기간은 자동으로 갱신됩니다.\\n・자동 갱신 요금 결제는 스페셜 패스 유효 기간 종료 24시간 이내에 갱신됩니다.\\n・다음 자동 갱신 요금은 유효 기간 종료 24시간 이전에 사용 중인 Apple ID에\\n　표시됩니다.\\n・스페셜 패스는 아래 절차를 통해 다음 자동 갱신 시점 확인 및 자동 갱신 해제를\\n　할 수 있습니다.\\n　[설정 앱]→[iTunes Store와 App Store]→[Apple ID 보기]→[구독]\\n・스페셜 패스에서 가희 마크로스 패스로 변경하는 경우에도 위와 같은 절차로 해제해 주세요.\\n・스페셜 패스를 해지한 경우에도 유효 기간 종료 후 가희 마크로스 패스에 가입할 수 있습니다.\\n・고객이 본 게임 이용 기기의 데이터를 인계한 경우,\\n　기존 기기의 스페셜 패스 및 혜택 지급 유효 기간은 이어지지만,\\n　서로 다른 OS 간 데이터 인계 또는 기존 기기와 다른 Apple ID를 사용하는 경우,\\n　기존 기기의 스페셜 패스 및 혜택 지급 유효 기간 자동 갱신은 새 기기에 반영되지 않습니다.\\n　새 기기에서 스페셜 패스를 이용하려면,\\n　기존 기기의 스페셜 패스 및 혜택 지급 기간을 확인한 후,\\n　해당 기간 종료 후 새 기기에서 스페셜 패스를 구매해 주세요.\\n・기존 기기와 새 기기에서 스페셜 패스를 중복 구매해도,\\n　스페셜 패스 효과 발동 및 혜택 지급은 중복 적용되지 않습니다.\\n・유효 기간 중 해지한 경우에도 유효 기간 동안 스페셜 패스 효과 및 혜택 지급은 계속됩니다.\\n・레어 업 스타의 유효 기간은 지급 후 90일입니다.\\n・초시공 가챠 티켓의 유효 기간은 지급 후 30일입니다.\\n・가희 마크로스 패스에서 스페셜 패스로 변경한 경우 초시공 로그인 보너스와 레어 업 스타의\\n　경과 일수를 이어받습니다.\\n・가희 마크로스 패스로부터 스페셜 패스로 변경했을 때 초시공 로그인 보너스 내용에\\n　차이가 있는 경우 변경 시점에 초시공 로그인 보너스 차이가 지급됩니다."
+
+msgid "pop_pass_update_popup_title"
+msgstr "변경 확인"
+
+msgid "pop_godiva_bonus_open_target_status"
+msgstr "획득 응원"
+
+msgid "pop_godiva_bonus_open_bonus_2"
+msgstr "<color=#C8087E>{0:#.#}</color><color=#062E49>배</color>"
+
+msgid "pop_godiva_bonus_open_explain"
+msgstr "스페셜 라이브에서는 더 많은 응원을 획득할 수 있습니다."
+
+msgid "pop_godiva_bonus_close_title"
+msgstr "스페셜 라이브"
+
+msgid "pop_godiva_bonus_close_text"
+msgstr "스페셜 라이브는 종료되었습니다."
+
+msgid "pop_godiva_bonus_close_next_hidden"
+msgstr "다음부터 표시하지 않음"
+
+msgid "pop_godiva_music_reselect_title"
+msgstr "악곡 선택"
+
+msgid "pop_godiva_music_reselect_text"
+msgstr "곡 플레이 가능 기간이 종료되어\\n곡을 다시 선택했습니다.\\n\\n<color=#C8087E>※곡 목록에서 무작위로 선택됩니다.</color>"
+
+msgid "pop_godiva_music_reselect_text_count_limit"
+msgstr "요일 이벤트 곡의\\n플레이 가능 횟수가 한도에 도달하여\\n곡을 다시 선택했습니다. \\n\\n<color=#C8087E>※곡 목록에서 무작위로 선택됩니다.</color>"
+
+msgid "pop_godiva_bonusitem_title"
+msgstr "라이브 볼티지 상승"
+
+msgid "pop_godiv_bonusitem_ask_use_text"
+msgstr "펜라이트 1개를 사용하여\\n라이브 볼티지를 {0}% 상승시킵니다.\\n<color=#C8087E>※오늘 남은 횟수는 {5}회입니다.</color>\\n\\n<color=#C8087E>라이브 볼티지　{1}→{2}\\n펜라이트　{3}→{4}</color>"
+
+msgid "pop_godiv_bonusitem_use_text"
+msgstr "라이브 볼티지가 {0}% 상승했습니다."
+
+msgid "pop_godiva_bonusitem_none_text"
+msgstr "펜라이트를 보유하고 있지 않아\\n라이브 볼티지를 상승시킬 수 없습니다."
+
+msgid "pop_godiva_bonusitem_limit_title"
+msgstr "사용 제한"
+
+msgid "pop_godiva_bonusitem_limit_daily_cnt"
+msgstr "하루 사용 가능한 최대 수량을 초과하여\\n이 아이템은 사용할 수 없습니다."
+
+msgid "pop_godiva_bonusitem_limit_on_fever"
+msgstr "피버 타임 진행 중이므로\\n이 아이템은 사용할 수 없습니다."
+
+msgid "pop_godiva_bonusitem_limit_on_bonus"
+msgstr "스페셜 라이브 진행 중이므로\\n이 아이템은 사용할 수 없습니다."
+
+msgid "godiva_event_info_highscore"
+msgstr "하이스코어"
+
+msgid "godiva_even_tinfo_rank"
+msgstr "순위"
+
+msgid "godiva_even_tinfo_total_point"
+msgstr "누적 포인트"
+
+msgid "godiva_even_tinfo_next_point"
+msgstr "다음 보상까지"
+
+msgid "godiva_even_tinfo_nest_reward"
+msgstr "다음 보상"
+
+msgid "godiva_even_tinfo_rank_unit"
+msgstr "위"
+
+msgid "godiva_even_tinfo_point_unit"
+msgstr ""
+
+msgid "godiva_even_tinfo_final_rank"
+msgstr "최종 순위"
+
+msgid "godiva_even_tinfo_rank_collecting"
+msgstr "집계 중"
+
+msgid "godiva_diva_select_not_have"
+msgstr "미참가"
+
+msgid "godiva_diva_select_explain"
+msgstr "가희를 선택해 주세요"
+
+msgid "godiva_music_info_bonus_remain_count"
+msgstr "앞으로 {0}회"
+
+msgid "godiva_music_info_bonus_lots_rate"
+msgstr ""
+
+msgid "godiva_music_info_exp_bonus"
+msgstr "획득 응원 {0:#.#}배!"
+
+msgid "godiva_music_select_exp_bonus"
+msgstr "획득 응원 {0:#.#}배"
+
+msgid "godiva_result_bonus"
+msgstr "라이브 보너스 {0}배"
+
+msgid "popup_filter_godiva_music_exp_title_h2"
+msgstr "옐"
+
+msgid "popup_filter_godiva_music_exp_item_soul"
+msgstr "소울"
+
+msgid "popup_filter_godiva_music_exp_item_voice"
+msgstr "보이스"
+
+msgid "popup_filter_godiva_music_exp_item_charm"
+msgstr "챰"
+
+msgid "popup_godiva_status_title"
+msgstr "스테이터스 보정값"
+
+msgid "popup_godiva_status_name_soul"
+msgstr "소울 어필"
+
+msgid "popup_godiva_status_name_voice"
+msgstr "보이스 어필"
+
+msgid "popup_godiva_status_name_charm"
+msgstr "챰 어필"
+
+msgid "popup_godiva_status_level"
+msgstr ""
+
+msgid "popup_godiva_status_status"
+msgstr ""
+
+msgid "popup_godiva_status_up_status"
+msgstr ""
+
+msgid "popup_diva_select_title"
+msgstr "가희 선택"
+
+msgid "popup_comeback_mission_count"
+msgstr "달성 {0}/{1}개"
+
+msgid "event_godiva_reward_check_hi_score"
+msgstr "이벤트 하이스코어"
+
+msgid "event_godiva_reward_check_ranking"
+msgstr "가희 스코어 랭킹"
+
+msgid "event_godiva_reward_check_ranking_unit"
+msgstr "위"
+
+msgid "diva_name_01"
+msgstr "프레이아 비온"
+
+msgid "diva_name_02"
+msgstr "미쿠모 기느메르"
+
+msgid "diva_name_03"
+msgstr "카나메 버캐니어"
+
+msgid "diva_name_04"
+msgstr "마키나 나카지마"
+
+msgid "diva_name_05"
+msgstr "레이나 프라울러"
+
+msgid "diva_name_06"
+msgstr "란카 리"
+
+msgid "diva_name_07"
+msgstr "셰릴 놈"
+
+msgid "diva_name_08"
+msgstr "밀레느 지너스"
+
+msgid "diva_name_09"
+msgstr "넥키 바사라"
+
+msgid "diva_name_10"
+msgstr "린 민메이"
+
+msgid "home_diva_view_status_place_text"
+msgstr "위"
+
+msgid "home_diva_view_status_divalevel_text"
+msgstr "가희 Lv"
+
+msgid "home_diva_view_status_intimacyl_text"
+msgstr "친밀도 Lv"
+
+msgid "home_diva_view_status_havecostume_text"
+msgstr "의상 보유 수"
+
+msgid "home_diva_view_status_divaranking_text"
+msgstr "가희 랭킹"
+
+msgid "home_diva_view_status_havecostume_now_text"
+msgstr ""
+
+msgid "home_diva_view_status_totalstatus_text"
+msgstr ""
+
+msgid "home_diva_view_status_intimacyl_exp_text"
+msgstr ""
+
+msgid "home_diva_view_status_ranking_error_text"
+msgstr ""
+
+msgid "home_diva_view_status_intimacyl_max_text"
+msgstr ""
+
+msgid "home_diva_statuswindow_divastatus"
+msgstr "가희 스테이터스"
+
+msgid "home_diva_statuswindow_eventglow"
+msgstr "이벤트 스테이터스"
+
+msgid "home_diva_statuswindow_costumebonus"
+msgstr "캬와와 랭크"
+
+msgid "home_diva_statuswindow_totlastatus"
+msgstr ""
+
+msgid "home_diva_statuswindow_title"
+msgstr "TOTAL 상세"
+
+msgid "banner_godiva_fevertime"
+msgstr "FEVER 발생중!"
+
+msgid "event_godiva_remain_time_prefix"
+msgstr "FEVER 종료까지 앞으로"
+
+msgid "sel_music_godiva_exp_type_soul"
+msgstr "소울"
+
+msgid "sel_music_godiva_exp_type_voice"
+msgstr "보이스"
+
+msgid "sel_music_godiva_exp_type_charm"
+msgstr "챰"
+
+msgid "sel_music_godiva_exp_type_all"
+msgstr "전체"
+
+msgid "popup_event_login_item02_title_msg"
+msgstr "<color=#C8087E>펜라이트　{0}개</color>"
+
+msgid "popup_event_login_item02_label00_msg"
+msgstr "라이브 볼티지를 일정 시간 상승시킬 수 있는 아이템."
+
+msgid "popup_event_login_item02_label01_msg"
+msgstr "<color=#8e0529>현재 개최 중인 이벤트 종료 시 소멸합니다.</color>"
+
+msgid "sel_event_01_period"
+msgstr ""
+
+msgid "popup_godiva_filter_title"
+msgstr "표시 순서 변경"
+
+msgid "popup_vop_all_receive_vc_caution"
+msgstr "※가정석은 선물상자로 보내드립니다."
+
+msgid "popup_vop_all_receive_title"
+msgstr "오퍼레이션 보상 수령"
+
+msgid "popup_vop_all_receive_item_over"
+msgstr "※보유 한도를 초과하여 일부 보상을 받지 못했습니다."
+
+msgid "popup_story_complete_stage"
+msgstr "【기억의 시공】에서 현재 발견된\\n모든 기억을 해방했습니다.\\n향후 신규 악곡은\\n악곡 선택 화면에 추가됩니다."
+
+msgid "popup_story_mission_guidance"
+msgstr "【기억의 시공】을 모두 해방하기\\n를 달성했습니다.\\n미션에서 보상을 받을 수 있습니다."
+
+msgid "popup_gacha_lot_ticket_few_caution_04"
+msgstr "※{0}의 획득 방법은 가챠 상세를 확인해 주세요."
+
+msgid "use_item_description_05"
+msgstr "<color=#C8087E>1회 사용 최대 수량은 {0}장입니다.</color>\\n라이브 스킵 티켓을 소비하여 라이브를 스킵할 수 있습니다.\\n스페셜 라이브의 남은 횟수보다 많은 티켓은 사용할 수 없습니다.\\n노트는 모두 PERFECT, 콤보 수는 0으로 처리되어 보상, 가희 숙련도 포인트 등을 획득할 수 있습니다.\\n사용하는 티켓 수에 따라 획득량이 달라집니다."
+
+msgid "popup_godiva_bonus_remind_title"
+msgstr "악곡 선택"
+
+msgid "popup_godiva_bonus_remind_text"
+msgstr "스페셜 라이브가 진행 중입니다.\\n스페셜 라이브 대상 곡으로 변경하시겠습니까?\\n<color=#C8087E>※스페셜 라이브 이외의 곡을 플레이해도\\n라이브 볼티지는 상승하지 않습니다.</color>"
+
+msgid "home_footer_badge_text_02"
+msgstr ""
+
+msgid "home_footer_badge_text_03"
+msgstr "가챠 갱신!"
+
+msgid "home_footer_badge_text_04"
+msgstr "아침 무료!"
+
+msgid "home_footer_badge_text_05"
+msgstr "점심 무료!"
+
+msgid "home_footer_badge_text_06"
+msgstr "저녁 무료!"
+
+msgid "home_footer_badge_text_07"
+msgstr ""
+
+msgid "home_footer_badge_text_08"
+msgstr "신기능 추가!"
+
+msgid "home_footer_badge_text_09"
+msgstr "수신 메시지 있음"
+
+msgid "home_banner_period"
+msgstr "{0}/{1}/{2} {3}:{4:D2}까지"
+
+msgid "home_event_banner_period"
+msgstr ""
+
+msgid "home_unlock_rank"
+msgstr "RANK{0}에 해방"
+
+msgid "gakuya_gift_unlock_rank"
+msgstr "RANK{0}\\n에 해방"
+
+msgid "gakuya_status_diva_ranking_value"
+msgstr "{0}위"
+
+msgid "gakuya_intimacy_present_none"
+msgstr "선물을 가지고 있지 않아\\r\\n선물을 줄 수 없습니다."
+
+msgid "gakuya_gift_stock_count"
+msgstr "보유 수 : {0}"
+
+msgid "pop_gakuya_present_ask_title"
+msgstr ""
+
+msgid "pop_gakuya_present_ask"
+msgstr "{0}\\n\\n이 아이템을 사용하시겠습니까?"
+
+msgid "pop_gakuya_present_lv_max"
+msgstr "친밀도 레벨이 최대이기 때문에\\n선물을 줄 수 없습니다."
+
+msgid "pop_gakuya_present_limit_title"
+msgstr "사용 상한"
+
+msgid "pop_gakuya_present_limit"
+msgstr "오늘은 이 이상 선물을 줄 수 없습니다."
+
+msgid "popup_sp_transition_bingo_error_title"
+msgstr "빙고 미개방"
+
+msgid "popup_sp_bingo_debutmission_notclear_text"
+msgstr "데뷔 미션을 모두 달성한 후\\n도전할 수 있습니다.\\n"
+
+msgid "home_event_started"
+msgstr "이벤트 개최중!"
+
+msgid "home_event_counting"
+msgstr "이벤트 집계중!"
+
+msgid "home_event_reward_recieved"
+msgstr "에필로그 공개중!"
+
+msgid "home_story_release_diva"
+msgstr "{0}의 기억을\\n해방하자!"
+
+msgid "home_story_release_music"
+msgstr "새로운 노래의 기억을\\n해방하자!"
+
+msgid "home_bg_limit_period"
+msgstr "{0}/{1}/{2} {3}:{4:D2}까지"
+
+msgid "home_banner_raid_lobby_open"
+msgstr "마크로스 로비 오픈!"
+
+msgid "home_banner_raid_end"
+msgstr "이벤트 종료"
+
+msgid "home_pass_button_purchase"
+msgstr "　구입 가능!"
+
+msgid "home_pass_button_rare_up_item"
+msgstr "까지 앞으로 {0}회"
+
+msgid "popup_minigame001_pause_title"
+msgstr "일시 정지 중"
+
+msgid "popup_minigame001_pause_text"
+msgstr ""
+
+msgid "popup_minigame001_retire_title"
+msgstr "리타이어 확인"
+
+msgid "popup_minigame001_retire_text"
+msgstr "리타이어하면 보상을 획득할 수 없습니다.\\n\\n괜찮으시겠습니까?"
+
+msgid "home_fes_remain_prefix"
+msgstr "개최까지 앞으로 "
+
+msgid "gacha_ticket_ev_name"
+msgstr "보유 이벤트 티켓"
+
+msgid "popup_filter_unspecified"
+msgstr "지정 없음"
+
+msgid "popup_filter_difficulty_title_h2"
+msgstr "난이도"
+
+msgid "popup_filter_difficulty_easy"
+msgstr ""
+
+msgid "popup_filter_difficulty_normal"
+msgstr ""
+
+msgid "popup_filter_difficulty_hard"
+msgstr ""
+
+msgid "popup_filter_difficulty_veryhard"
+msgstr ""
+
+msgid "popup_filter_difficulty_extreme"
+msgstr ""
+
+msgid "popup_filter_difficulty_6line_hard"
+msgstr ""
+
+msgid "popup_filter_difficulty_6line_veryhard"
+msgstr ""
+
+msgid "popup_filter_difficulty_6line_extreme"
+msgstr ""
+
+msgid "popup_filter_music_attribute_title_h2"
+msgstr "속성"
+
+msgid "popup_filter_music_attribute_001"
+msgstr "별"
+
+msgid "popup_filter_music_attribute_002"
+msgstr "사랑"
+
+msgid "popup_filter_music_attribute_003"
+msgstr "생명"
+
+msgid "popup_filter_music_attribute_004"
+msgstr "전"
+
+msgid "popup_filter_combo_title_h2"
+msgstr "콤보"
+
+msgid "popup_filter_fullcombo"
+msgstr "풀콤보\\n미달성"
+
+msgid "popup_filter_prefect_fullcombo"
+msgstr "퍼펙트 풀콤보\\n미달성"
+
+msgid "popup_filter_unit_title_h2"
+msgstr "유닛 라이브"
+
+msgid "popup_filter_reward_title_h2"
+msgstr "달성 보상"
+
+msgid "popup_filter_reward_score"
+msgstr "SCORE SS \\n미달성"
+
+msgid "popup_filter_reward_combo"
+msgstr "COMBO SS \\n미달성"
+
+msgid "popup_filter_reward_clear"
+msgstr "CLEAR 보상 \\n미달성"
+
+msgid "popup_filter_music_level_title_h2"
+msgstr "악곡 레벨"
+
+msgid "popup_filter_bonus_title_h2"
+msgstr "보너스"
+
+msgid "popup_filter_bonus_ok"
+msgstr "있음"
+
+msgid "popup_filter_bonus_not_ok"
+msgstr "없음"
+
+msgid "music_not_exist_filter_text"
+msgstr "현재 필터 설정에서 해당되는 악곡이 없습니다."
+
+msgid "pop_gacha_period_warning_title"
+msgstr "유효기간이 있는 아이템"
+
+msgid "pop_gacha_period_warning_text_1"
+msgstr "{0}으로 뽑을 수 있는 가챠가 <color=#C8087E>오늘 종료</color>됩니다."
+
+msgid "pop_gacha_period_warning_text_2"
+msgstr "가챠 개최 기한: {0}/{1}/{2} {3}:{4:D2}까지"
+
+msgid "pop_gacha_period_warning_text_3"
+msgstr "※대상 가챠는 가챠 화면에서 확인해 주세요."
+
+msgid "event_mission_setting_desc_006"
+msgstr "필터 설정은 무효가 됩니다."
+
+msgid "unit_skip_story_title"
+msgstr "라이브 스킵 티켓"
+
+msgid "unit_skip_story_text"
+msgstr "기억의 시공에서 곡을 선택한 경우,\\n스킵 기능을 이용할 수 없습니다."
+
+msgid "popup_diva_change_text"
+msgstr "4번째, 5번째로 설정되는 가희의 스테이터스는\\n유닛에 반영되지 않습니다."
+
+msgid "unit_diva_limit_message"
+msgstr "인원 제한으로 인해\\n이 곡에 참가하지 않습니다."
+
+msgid "unit_head_prism_btton_on"
+msgstr ""
+
+msgid "unit_head_prism_btton_off"
+msgstr ""
+
+msgid "unit_save_button_save"
+msgstr "저장"
+
+msgid "unit_save_button_overwrite"
+msgstr "덮어쓰기"
+
+msgid "unit_mv_mode_description"
+msgstr "노트 표시 설정：【ON】노트가 표시됩니다.【OFF】노트만 표시되지 않습니다.　　발키리 모드 설정：【ON】발키리 모드 연출이 표시됩니다.【OFF】발키리 모드 연출이 표시되지 않습니다.　　초가희 모드 설정：【ON】초가희 모드 연출이 표시됩니다.【OFF】초가희 모드 연출이 표시되지 않습니다."
+
+msgid "unit_prism_switch_button_on"
+msgstr ""
+
+msgid "unit_prism_switch_button_off"
+msgstr ""
+
+msgid "unit_mv_mode_switch_button_on"
+msgstr ""
+
+msgid "unit_mv_mode_switch_button_off"
+msgstr ""
+
+msgid "unit_unitset_description"
+msgstr "조작할 유닛 세트를 목록에서 선택해 주세요."
+
+msgid "unit_unitset_page"
+msgstr ""
+
+msgid "unit_unitset_dummy_name"
+msgstr "유닛 {0}"
+
+msgid "unit_status_skill_regulation_series_y"
+msgstr "시리즈가 일치하여 이 스킬 효과는 발동되지 않습니다."
+
+msgid "unit_status_skill_regulation_series_n"
+msgstr "시리즈가 일치하지 않아 이 스킬 효과는 발동되지 않습니다."
+
+msgid "unit_status_skill_regulation_attr"
+msgstr "대상 속성 악곡이 아니므로 발동되지 않습니다."
+
+msgid "popup_sort_item_music_exp"
+msgstr "숙련도"
+
+msgid "unit_diva_status_titla_level"
+msgstr "가희 Lv"
+
+msgid "unit_diva_status_titla_total"
+msgstr ""
+
+msgid "unit_diva_status_titla_music_exp"
+msgstr "숙련도"
+
+msgid "popup_unit_disp_type_scene"
+msgstr "플레이트"
+
+msgid "popup_unit_disp_type_diva"
+msgstr "가희"
+
+msgid "unit_playbutton_en"
+msgstr "소비 EN"
+
+msgid "unit_playbutton_ap"
+msgstr "소비 AP"
+
+msgid "popup_prism_unlock_text"
+msgstr "【해방 조건】\\n\\n플레이어 랭크를 {0}으로 한다."
+
+msgid "popup_unit_status_attr_reg"
+msgstr "다음 곡을 플레이할 때만 센터 스킬이 발동합니다."
+
+msgid "popup_set_prizm_title"
+msgstr "변경 확인"
+
+msgid "popup_set_prizm_choice"
+msgstr "가희 배치 설정을 변경합니다.\\n\\n<color=#C8087E>※이미 편성된 가희는 편성 내용이 덮어쓰기됩니다.</color>"
+
+msgid "popup_set_prizm_lackdiva_titile"
+msgstr "변경 알림"
+
+msgid "popup_sort_item_diva_and_valkyrie_and_bg"
+msgstr "가희／발키리／배경"
+
+msgid "popup_filter_diva_val_title_h3"
+msgstr "가희／발키리／배경"
+
+msgid "unit_diva_status_leaf_attr"
+msgstr "속성 일치 +{0}%"
+
+msgid "unit_diva_status_leaf_series"
+msgstr "시리즈 일치 +{0}%"
+
+msgid "unit_setpopup_text_08"
+msgstr "덮어쓰기 전"
+
+msgid "unit_setpopup_text_09"
+msgstr "덮어쓰기 후"
+
+msgid "popup_sort_musicselect_sortitem_title_h2"
+msgstr "표시 순서"
+
+msgid "popup_sort_item_default"
+msgstr "시리즈"
+
+msgid "popup_sort_item_musiclevel"
+msgstr "악곡 레벨"
+
+msgid "popup_sort_item_highscore"
+msgstr "하이스코어"
+
+msgid "popup_sort_item_utarate"
+msgstr "노래 레이트"
+
+msgid "popup_sort_item_clearnum"
+msgstr "클리어 횟수"
+
+msgid "popup_sort_item_notesnum"
+msgstr "노트 수"
+
+msgid "popup_sort_item_musiclength"
+msgstr "곡 길이"
+
+msgid "popup_sort_item_smallorder"
+msgstr "오름차순"
+
+msgid "popup_sort_item_bigorder"
+msgstr "내림차순"
+
+msgid "popup_sort_order_title_h2"
+msgstr "오름차순/내림차순"
+
+msgid "popup_sort_filter_bookmark_h2"
+msgstr "즐겨찾기"
+
+msgid "popup_sort_filter_bookmark_00"
+msgstr "설정 없음"
+
+msgid "popup_sort_filter_musiclock_h2"
+msgstr "악곡 해방 상황"
+
+msgid "popup_sort_filter_musiclock"
+msgstr "미해방 악곡"
+
+msgid "popup_sort_filter_musicunlock"
+msgstr "해방 완료 악곡"
+
+msgid "popup_sort_filter_range_h2"
+msgstr "악곡 시간"
+
+msgid "popup_sort_filter_range_long"
+msgstr "롱"
+
+msgid "popup_sort_filter_range_short"
+msgstr "숏"
+
+msgid "popup_music_bookmark_title"
+msgstr "즐겨찾기 등록"
+
+msgid "popup_music_unlock_title"
+msgstr "해방 조건"
+
+msgid "popup_music_unlock_text01"
+msgstr "아래 두 조건을 모두 만족하면 해제됩니다."
+
+msgid "popup_music_unlock_text02"
+msgstr "・플레이어 랭크 {0} 달성."
+
+msgid "popup_music_unlock_text03"
+msgstr "・기억의 시공에서 현재 발견된 모든 기억을 해제한다."
+
+msgid "popup_music_unlock_text04"
+msgstr "기억의 시공을 진행하여,\\n곡 「{0}」을 해제한다."
+
+msgid "popup_music_unlock_text05"
+msgstr "플레이어 랭크 {0} 달성."
+
+msgid "popup_music_unlock_text06"
+msgstr "아래 조건 중 하나를 만족하면 해제됩니다."
+
+msgid "popup_music_unlock_text07"
+msgstr "・라이브에서 아래 곡 {0}을\\n스코어 랭크 {1} 이상으로 클리어한다.\\n「{2}」"
+
+msgid "popup_music_input_bookmarkname_title"
+msgstr "즐겨찾기 이름 편집"
+
+msgid "popup_music_input_bookmarkname_text_01"
+msgstr "즐겨찾기 이름을 입력해 주세요.\\n（전각 반각 {0}자까지）"
+
+msgid "popup_music_input_bookmarkname_deletecheck_title"
+msgstr "변경 내용 취소"
+
+msgid "popup_music_input_bookmarkname_deletecheck_text_01"
+msgstr "즐겨찾기 등록 위치와 즐겨찾기 이름으로 변경한\\n모든 내용이 저장되지 않습니다.\\n괜찮으시겠습니까?"
+
+msgid "popup_sort_item_notes_expectation"
+msgstr "노트 기대값"
+
+msgid "music_not_exist_text_01"
+msgstr "현재 필터 설정으로\\n해당하는 곡이 없습니다."
+
+msgid "music_not_exist_line6_text_01"
+msgstr "현재 시리즈에서 플레이할 수 있는\\n6레인용 악곡이 없습니다."
+
+msgid "vertical_music_select_event_remain_time"
+msgstr "남음 : <color=#FF1576>{0}</color>"
+
+msgid "vertical_music_select_event_remain_count"
+msgstr "남은 횟수 : <color=#FF1576>{0}회</color>"
+
+msgid "music_event_remain_prefix_01"
+msgstr "앞으로"
+
+msgid "vertical_music_select_event_period"
+msgstr "개최 기간：{0}년{1}월{2}일{3}:{4:D2} ～ {5}년{6}월{7}일{8}:{9:D2}"
+
+msgid "vertical_music_select_music_time"
+msgstr ""
+
+msgid "music_not_exist_text_02"
+msgstr "이 카테고리에서 현재 플레이할 수 있는 곡이 없습니다."
+
+msgid "pop_gakuya_present_caution"
+msgstr "<color=#FF1576>※친밀도 한도를 초과한 경우 수치는 반영되지 않습니다.</color>"
+
+msgid "pop_gakuya_present_num_prefix"
+msgstr "앞으로"
+
+msgid "pop_gakuya_present_num_title"
+msgstr "{0}회"
+
+msgid "popup_filter_have_title_h2"
+msgstr "보유 현황"
+
+msgid "popup_filter_have_01"
+msgstr "보유"
+
+msgid "popup_filter_have_02"
+msgstr "미보유"

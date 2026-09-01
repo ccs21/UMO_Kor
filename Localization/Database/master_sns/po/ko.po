@@ -1,0 +1,7240 @@
+msgid ""
+msgstr ""
+"Language: ko\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "sns_dsc_0001"
+msgstr "프레이아가 로그인했습니다"
+
+msgid "sns_dsc_0002"
+msgstr "기억의 시공에서 악곡 1개 해방"
+
+msgid "sns_dsc_0003"
+msgstr "기억의 시공에서 악곡 2개 해방"
+
+msgid "sns_dsc_0004"
+msgstr "기억의 시공에서 악곡 3개 해방"
+
+msgid "sns_dsc_0005"
+msgstr "기억의 시공에서 악곡 4개 해방"
+
+msgid "sns_dsc_0006"
+msgstr "기억의 시공에서 악곡 5개 해방"
+
+msgid "sns_dsc_0007"
+msgstr "기억의 시공에서 악곡 6개 해방"
+
+msgid "sns_dsc_0008"
+msgstr "기억의 시공에서 악곡 7개 해방"
+
+msgid "sns_dsc_0009"
+msgstr "기억의 시공에서 악곡 8개 해방"
+
+msgid "sns_dsc_0010"
+msgstr "기억의 시공에서 악곡 9개 해방"
+
+msgid "sns_dsc_0011"
+msgstr "기억의 시공에서 악곡 10개 해방"
+
+msgid "sns_dsc_0012"
+msgstr "기억의 시공에서 악곡 11개 해방"
+
+msgid "sns_dsc_0013"
+msgstr "기억의 시공에서 악곡 12개 해방"
+
+msgid "sns_dsc_0014"
+msgstr "기억의 시공에서 악곡 13개 해방"
+
+msgid "sns_dsc_0015"
+msgstr "기억의 시공에서 악곡 14개 해방"
+
+msgid "sns_dsc_0016"
+msgstr "기억의 시공에서 악곡 15개 해방"
+
+msgid "sns_dsc_0017"
+msgstr "기억의 시공에서 악곡 16개 해방"
+
+msgid "sns_dsc_0018"
+msgstr "기억의 시공에서 악곡 17개 해방"
+
+msgid "sns_dsc_0019"
+msgstr "기억의 시공에서 악곡 18개 해방"
+
+msgid "sns_dsc_0020"
+msgstr "기억의 시공에서 악곡 19개 해방"
+
+msgid "sns_dsc_0021"
+msgstr "기억의 시공에서 악곡 20개 해방"
+
+msgid "sns_dsc_0022"
+msgstr "기억의 시공에서 악곡 21개 해방"
+
+msgid "sns_dsc_0023"
+msgstr "기억의 시공에서 악곡 22개 해방"
+
+msgid "sns_dsc_0024"
+msgstr "기억의 시공에서 악곡 23개 해방"
+
+msgid "sns_dsc_0025"
+msgstr "기억의 시공에서 악곡 24개 해방"
+
+msgid "sns_dsc_0026"
+msgstr "기억의 시공에서 악곡 25개 해방"
+
+msgid "sns_dsc_0027"
+msgstr "기억의 시공에서 악곡 26개 해방"
+
+msgid "sns_dsc_0028"
+msgstr "기억의 시공에서 악곡 27개 해방"
+
+msgid "sns_dsc_0029"
+msgstr "기억의 시공에서 악곡 28개 해방"
+
+msgid "sns_dsc_0030"
+msgstr "기억의 시공에서 악곡 29개 해방"
+
+msgid "sns_dsc_0031"
+msgstr "기억의 시공에서 악곡 30개 해방"
+
+msgid "sns_dsc_0032"
+msgstr "기억의 시공에서 악곡 31개 해방"
+
+msgid "sns_dsc_0033"
+msgstr "기억의 시공에서 악곡 32개 해방"
+
+msgid "sns_dsc_0034"
+msgstr "기억의 시공에서 악곡 33개 해방"
+
+msgid "sns_dsc_0035"
+msgstr "기억의 시공에서 악곡 34개 해방"
+
+msgid "sns_dsc_0036"
+msgstr "기억의 시공에서 악곡 35개 해방"
+
+msgid "sns_dsc_0038"
+msgstr "기억의 시공에서 악곡 36개 해방"
+
+msgid "sns_dsc_0039"
+msgstr "기억의 시공에서 악곡 37개 해방"
+
+msgid "sns_dsc_0040"
+msgstr "기억의 시공에서 악곡 38개 해방"
+
+msgid "sns_dsc_0041"
+msgstr "기억의 시공에서 악곡 39개 해방"
+
+msgid "sns_dsc_0042"
+msgstr "기억의 시공에서 악곡 40개 해방"
+
+msgid "sns_dsc_0043"
+msgstr "기억의 시공에서 악곡 41개 해방"
+
+msgid "sns_dsc_0044"
+msgstr "기억의 시공에서 악곡 42개 해방"
+
+msgid "sns_dsc_0045"
+msgstr "기억의 시공에서 악곡 43개 해방"
+
+msgid "sns_dsc_0046"
+msgstr "기억의 시공에서 악곡 44개 해방"
+
+msgid "sns_dsc_0047"
+msgstr "기억의 시공에서 악곡 45개 해방"
+
+msgid "sns_dsc_0048"
+msgstr "기억의 시공에서 악곡 46개 해방"
+
+msgid "sns_dsc_0049"
+msgstr "기억의 시공에서 악곡 47개 해방"
+
+msgid "sns_dsc_0050"
+msgstr "기억의 시공에서 악곡 48개 해방"
+
+msgid "sns_dsc_0051"
+msgstr "기억의 시공에서 악곡 49개 해방"
+
+msgid "sns_dsc_0052"
+msgstr "기억의 시공에서 악곡 50개 해방"
+
+msgid "sns_dsc_0053"
+msgstr "기억의 시공에서 악곡 51개 해방"
+
+msgid "sns_dsc_0054"
+msgstr "기억의 시공에서 악곡 52개 해방"
+
+msgid "sns_dsc_0055"
+msgstr "기억의 시공에서 악곡 53개 해방"
+
+msgid "sns_dsc_0056"
+msgstr "기억의 시공에서 악곡 54개 해방"
+
+msgid "sns_dsc_0057"
+msgstr "기억의 시공에서 악곡 55개 해방"
+
+msgid "sns_dsc_0058"
+msgstr "기억의 시공에서 악곡 56개 해방"
+
+msgid "sns_dsc_0059"
+msgstr "기억의 시공에서 악곡 57개 해방"
+
+msgid "sns_dsc_0060"
+msgstr "기억의 시공에서 악곡 58개 해방"
+
+msgid "sns_dsc_0061"
+msgstr "기억의 시공에서 악곡 59개 해방"
+
+msgid "sns_dsc_0062"
+msgstr "기억의 시공에서 악곡 60개 해방"
+
+msgid "sns_dsc_0063"
+msgstr "기억의 시공에서 악곡 61개 해방"
+
+msgid "sns_dsc_0064"
+msgstr "기억의 시공에서 악곡 62개 해방"
+
+msgid "sns_dsc_0065"
+msgstr "기억의 시공에서 악곡 63개 해방"
+
+msgid "sns_dsc_0066"
+msgstr "기억의 시공에서 악곡 64개 해방"
+
+msgid "sns_dsc_0067"
+msgstr "기억의 시공에서 악곡 65개 해방"
+
+msgid "sns_dsc_0068"
+msgstr "기억의 시공에서 악곡 66개 해방"
+
+msgid "sns_dsc_0069"
+msgstr "기억의 시공에서 악곡 67개 해방"
+
+msgid "sns_dsc_0070"
+msgstr "기억의 시공에서 악곡 68개 해방"
+
+msgid "sns_dsc_0071"
+msgstr "기억의 시공에서 악곡 69개 해방"
+
+msgid "sns_dsc_0072"
+msgstr "기억의 시공에서 악곡 70개 해방"
+
+msgid "sns_dsc_0073"
+msgstr "기억의 시공에서 악곡 71개 해방"
+
+msgid "sns_dsc_0074"
+msgstr "기억의 시공에서 악곡 72개 해방"
+
+msgid "sns_dsc_0075"
+msgstr "기억의 시공에서 악곡 73개 해방"
+
+msgid "sns_dsc_0076"
+msgstr "기억의 시공에서 악곡 74개 해방"
+
+msgid "sns_dsc_0077"
+msgstr "기억의 시공에서 악곡 75개 해방"
+
+msgid "sns_dsc_0078"
+msgstr "상시곡 「절대영도θ노바틱 Another ver.」 해금"
+
+msgid "sns_dsc_0079"
+msgstr "상시곡 「HEART＆SOUL」 해금"
+
+msgid "sns_dsc_0080"
+msgstr "상시곡 「푸른 에테르」 해금"
+
+msgid "sns_dsc_0081"
+msgstr "상시곡 「신데렐라」 해금"
+
+msgid "sns_dsc_0082"
+msgstr "상시곡 「넘어서는 안 되는 보더라인 Another ver.」 해금"
+
+msgid "sns_dsc_0083"
+msgstr "상시곡 「우리들의 전장【MIRROR ver.】」 해금"
+
+msgid "sns_dsc_0084"
+msgstr "상시곡 「요정」 해금"
+
+msgid "sns_dsc_0085"
+msgstr "상시곡 「Merry Christmas without You」 해금"
+
+msgid "sns_dsc_0086"
+msgstr "상시곡 「Dancing in the Moonlight Another ver.」 해금"
+
+msgid "sns_dsc_0087"
+msgstr "상시곡 「이졸라도」 해금"
+
+msgid "sns_dsc_0101"
+msgstr "프레이아 레벨 2"
+
+msgid "sns_dsc_0102"
+msgstr "프레이아 레벨 4"
+
+msgid "sns_dsc_0103"
+msgstr "프레이아 레벨 7"
+
+msgid "sns_dsc_0104"
+msgstr "프레이아 레벨 10"
+
+msgid "sns_dsc_0105"
+msgstr "프레이아 레벨 12"
+
+msgid "sns_dsc_0106"
+msgstr "프레이아 레벨 17"
+
+msgid "sns_dsc_0107"
+msgstr "프레이아 레벨 20"
+
+msgid "sns_dsc_0108"
+msgstr "프레이아 레벨 25"
+
+msgid "sns_dsc_0109"
+msgstr "프레이아 레벨 30"
+
+msgid "sns_dsc_0110"
+msgstr "프레이아 레벨 35"
+
+msgid "sns_dsc_0111"
+msgstr "프레이아 레벨 40"
+
+msgid "sns_dsc_0114"
+msgstr "미쿠모 레벨 2"
+
+msgid "sns_dsc_0115"
+msgstr "미쿠모 레벨 4"
+
+msgid "sns_dsc_0116"
+msgstr "미쿠모 레벨 7"
+
+msgid "sns_dsc_0117"
+msgstr "미쿠모 레벨 10"
+
+msgid "sns_dsc_0118"
+msgstr "미쿠모 레벨 12"
+
+msgid "sns_dsc_0119"
+msgstr "미쿠모 레벨 17"
+
+msgid "sns_dsc_0120"
+msgstr "미쿠모 레벨 20"
+
+msgid "sns_dsc_0121"
+msgstr "미쿠모 레벨 25"
+
+msgid "sns_dsc_0122"
+msgstr "미쿠모 레벨 30"
+
+msgid "sns_dsc_0123"
+msgstr "미쿠모 레벨 35"
+
+msgid "sns_dsc_0124"
+msgstr "미쿠모 레벨 40"
+
+msgid "sns_dsc_0127"
+msgstr "카나메 레벨 2"
+
+msgid "sns_dsc_0128"
+msgstr "카나메 레벨 4"
+
+msgid "sns_dsc_0129"
+msgstr "카나메 레벨 7"
+
+msgid "sns_dsc_0130"
+msgstr "카나메 레벨 10"
+
+msgid "sns_dsc_0131"
+msgstr "카나메 레벨 12"
+
+msgid "sns_dsc_0132"
+msgstr "카나메 레벨 17"
+
+msgid "sns_dsc_0133"
+msgstr "카나메 레벨 20"
+
+msgid "sns_dsc_0134"
+msgstr "카나메 레벨 25"
+
+msgid "sns_dsc_0135"
+msgstr "카나메 레벨 30"
+
+msgid "sns_dsc_0136"
+msgstr "카나메 레벨 35"
+
+msgid "sns_dsc_0137"
+msgstr "카나메 레벨 40"
+
+msgid "sns_dsc_0140"
+msgstr "마키나 레벨 2"
+
+msgid "sns_dsc_0141"
+msgstr "마키나 레벨 4"
+
+msgid "sns_dsc_0142"
+msgstr "마키나 레벨 7"
+
+msgid "sns_dsc_0143"
+msgstr "마키나 레벨 10"
+
+msgid "sns_dsc_0144"
+msgstr "마키나 레벨 12"
+
+msgid "sns_dsc_0145"
+msgstr "마키나 레벨 17"
+
+msgid "sns_dsc_0146"
+msgstr "마키나 레벨 20"
+
+msgid "sns_dsc_0147"
+msgstr "마키나 레벨 25"
+
+msgid "sns_dsc_0148"
+msgstr "마키나 레벨 30"
+
+msgid "sns_dsc_0149"
+msgstr "마키나 레벨 35"
+
+msgid "sns_dsc_0150"
+msgstr "마키나 레벨 40"
+
+msgid "sns_dsc_0153"
+msgstr "레이나 레벨 2"
+
+msgid "sns_dsc_0154"
+msgstr "레이나 레벨 4"
+
+msgid "sns_dsc_0155"
+msgstr "레이나 레벨 7"
+
+msgid "sns_dsc_0156"
+msgstr "레이나 레벨 10"
+
+msgid "sns_dsc_0157"
+msgstr "레이나 레벨 12"
+
+msgid "sns_dsc_0158"
+msgstr "레이나 레벨 17"
+
+msgid "sns_dsc_0159"
+msgstr "레이나 레벨 20"
+
+msgid "sns_dsc_0160"
+msgstr "레이나 레벨 25"
+
+msgid "sns_dsc_0161"
+msgstr "레이나 레벨 30"
+
+msgid "sns_dsc_0162"
+msgstr "레이나 레벨 35"
+
+msgid "sns_dsc_0163"
+msgstr "레이나 레벨 40"
+
+msgid "sns_dsc_0166"
+msgstr "란카 레벨 2"
+
+msgid "sns_dsc_0167"
+msgstr "란카 레벨 4"
+
+msgid "sns_dsc_0168"
+msgstr "란카 레벨 7"
+
+msgid "sns_dsc_0169"
+msgstr "란카 레벨 10"
+
+msgid "sns_dsc_0170"
+msgstr "란카 레벨 12"
+
+msgid "sns_dsc_0171"
+msgstr "란카 레벨 17"
+
+msgid "sns_dsc_0172"
+msgstr "란카 레벨 20"
+
+msgid "sns_dsc_0173"
+msgstr "란카 레벨 25"
+
+msgid "sns_dsc_0174"
+msgstr "란카 레벨 30"
+
+msgid "sns_dsc_0175"
+msgstr "란카 레벨 35"
+
+msgid "sns_dsc_0176"
+msgstr "란카 레벨 40"
+
+msgid "sns_dsc_0179"
+msgstr "셰릴 레벨 2"
+
+msgid "sns_dsc_0180"
+msgstr "셰릴 레벨 4"
+
+msgid "sns_dsc_0181"
+msgstr "셰릴 레벨 7"
+
+msgid "sns_dsc_0182"
+msgstr "셰릴 레벨 10"
+
+msgid "sns_dsc_0183"
+msgstr "셰릴 레벨 12"
+
+msgid "sns_dsc_0184"
+msgstr "셰릴 레벨 17"
+
+msgid "sns_dsc_0185"
+msgstr "셰릴 레벨 20"
+
+msgid "sns_dsc_0186"
+msgstr "셰릴 레벨 25"
+
+msgid "sns_dsc_0187"
+msgstr "셰릴 레벨 30"
+
+msgid "sns_dsc_0188"
+msgstr "셰릴 레벨 35"
+
+msgid "sns_dsc_0189"
+msgstr "셰릴 레벨 40"
+
+msgid "sns_dsc_0192"
+msgstr "밀레느 레벨 2"
+
+msgid "sns_dsc_0193"
+msgstr "밀레느 레벨 4"
+
+msgid "sns_dsc_0194"
+msgstr "밀레느 레벨 7"
+
+msgid "sns_dsc_0195"
+msgstr "밀레느 레벨 10"
+
+msgid "sns_dsc_0196"
+msgstr "밀레느 레벨 12"
+
+msgid "sns_dsc_0197"
+msgstr "밀레느 레벨 17"
+
+msgid "sns_dsc_0198"
+msgstr "밀레느 레벨 20"
+
+msgid "sns_dsc_0199"
+msgstr "밀레느 레벨 25"
+
+msgid "sns_dsc_0200"
+msgstr "밀레느 레벨 30"
+
+msgid "sns_dsc_0201"
+msgstr "밀레느 레벨 35"
+
+msgid "sns_dsc_0202"
+msgstr "밀레느 레벨 40"
+
+msgid "sns_dsc_0205"
+msgstr "바사라 레벨 2"
+
+msgid "sns_dsc_0206"
+msgstr "바사라 레벨 4"
+
+msgid "sns_dsc_0207"
+msgstr "바사라 레벨 7"
+
+msgid "sns_dsc_0208"
+msgstr "바사라 레벨 10"
+
+msgid "sns_dsc_0209"
+msgstr "바사라 레벨 12"
+
+msgid "sns_dsc_0210"
+msgstr "바사라 레벨 17"
+
+msgid "sns_dsc_0211"
+msgstr "바사라 레벨 20"
+
+msgid "sns_dsc_0212"
+msgstr "바사라 레벨 25"
+
+msgid "sns_dsc_0213"
+msgstr "바사라 레벨 30"
+
+msgid "sns_dsc_0214"
+msgstr "바사라 레벨 35"
+
+msgid "sns_dsc_0215"
+msgstr "바사라 레벨 40"
+
+msgid "sns_dsc_0218"
+msgstr "민메이 레벨 2"
+
+msgid "sns_dsc_0219"
+msgstr "민메이 레벨 4"
+
+msgid "sns_dsc_0220"
+msgstr "민메이 레벨 7"
+
+msgid "sns_dsc_0221"
+msgstr "민메이 레벨 10"
+
+msgid "sns_dsc_0222"
+msgstr "민메이 레벨 12"
+
+msgid "sns_dsc_0223"
+msgstr "민메이 레벨 17"
+
+msgid "sns_dsc_0224"
+msgstr "민메이 레벨 20"
+
+msgid "sns_dsc_0225"
+msgstr "민메이 레벨 25"
+
+msgid "sns_dsc_0226"
+msgstr "민메이 레벨 30"
+
+msgid "sns_dsc_0227"
+msgstr "민메이 레벨 35"
+
+msgid "sns_dsc_0228"
+msgstr "민메이 레벨 40"
+
+msgid "sns_dsc_0231"
+msgstr "라이브 5회 클리어"
+
+msgid "sns_dsc_0232"
+msgstr "라이브 10회 클리어"
+
+msgid "sns_dsc_0233"
+msgstr "라이브 20회 클리어"
+
+msgid "sns_dsc_0234"
+msgstr "라이브 30회 클리어"
+
+msgid "sns_dsc_0235"
+msgstr "라이브 40회 클리어"
+
+msgid "sns_dsc_0236"
+msgstr "라이브 50회 클리어"
+
+msgid "sns_dsc_0237"
+msgstr "라이브 75회 클리어"
+
+msgid "sns_dsc_0238"
+msgstr "라이브 100회 클리어"
+
+msgid "sns_dsc_0239"
+msgstr "라이브 150회 클리어"
+
+msgid "sns_dsc_0240"
+msgstr "라이브 200회 클리어"
+
+msgid "sns_dsc_0241"
+msgstr "라이브 250회 클리어"
+
+msgid "sns_dsc_0242"
+msgstr "라이브 300회 클리어"
+
+msgid "sns_dsc_0243"
+msgstr "라이브 400회 클리어"
+
+msgid "sns_dsc_0244"
+msgstr "라이브 500회 클리어"
+
+msgid "sns_dsc_0245"
+msgstr "라이브 600회 클리어"
+
+msgid "sns_dsc_0246"
+msgstr "라이브 700회 클리어"
+
+msgid "sns_dsc_0247"
+msgstr "라이브 800회 클리어"
+
+msgid "sns_dsc_0248"
+msgstr "라이브 900회 클리어"
+
+msgid "sns_dsc_0249"
+msgstr "라이브 1000회 클리어"
+
+msgid "sns_dsc_0250"
+msgstr "라이브 1250회 클리어"
+
+msgid "sns_dsc_0251"
+msgstr "라이브 1500회 클리어"
+
+msgid "sns_dsc_0252"
+msgstr "라이브 1750회 클리어"
+
+msgid "sns_dsc_0253"
+msgstr "라이브 2000회 클리어"
+
+msgid "sns_dsc_0254"
+msgstr "라이브 2250회 클리어"
+
+msgid "sns_dsc_0255"
+msgstr "라이브 2500회 클리어"
+
+msgid "sns_dsc_0256"
+msgstr "라이브 2750회 클리어"
+
+msgid "sns_dsc_0257"
+msgstr "라이브 3000회 클리어"
+
+msgid "sns_dsc_0258"
+msgstr "라이브 3250회 클리어"
+
+msgid "sns_dsc_0259"
+msgstr "라이브 3500회 클리어"
+
+msgid "sns_dsc_0260"
+msgstr "라이브 3750회 클리어"
+
+msgid "sns_dsc_0400"
+msgstr "프레이아 생일"
+
+msgid "sns_dsc_0401"
+msgstr "셰릴 생일"
+
+msgid "sns_dsc_0402"
+msgstr "멧서 생일"
+
+msgid "sns_dsc_0403"
+msgstr "2021 크리스마스"
+
+msgid "sns_dsc_0404"
+msgstr "로이드 생일"
+
+msgid "sns_dsc_0405"
+msgstr "오즈마 생일"
+
+msgid "sns_dsc_0406"
+msgstr "아라드 생일"
+
+msgid "sns_dsc_0407"
+msgstr "감린 생일"
+
+msgid "sns_dsc_0408"
+msgstr "밀레느 생일"
+
+msgid "sns_dsc_0409"
+msgstr "미라쥬 생일"
+
+msgid "sns_dsc_0410"
+msgstr "키스 생일"
+
+msgid "sns_dsc_0411"
+msgstr "미사 생일"
+
+msgid "sns_dsc_0412"
+msgstr "2022 만우절"
+
+msgid "sns_dsc_0413"
+msgstr "2022 만우절"
+
+msgid "sns_dsc_0414"
+msgstr "보그 생일"
+
+msgid "sns_dsc_0415"
+msgstr "마키나 생일"
+
+msgid "sns_dsc_0416"
+msgstr "란카 생일"
+
+msgid "sns_dsc_0417"
+msgstr "카나메 생일"
+
+msgid "sns_dsc_0532"
+msgstr "데뷔 오퍼레이션 1회 달성"
+
+msgid "sns_dsc_0533"
+msgstr "데뷔 오퍼레이션 2회 달성"
+
+msgid "sns_dsc_0534"
+msgstr "데뷔 오퍼레이션 3회 달성"
+
+msgid "sns_dsc_0535"
+msgstr "데뷔 오퍼레이션 4회 달성"
+
+msgid "sns_dsc_0536"
+msgstr "데뷔 오퍼레이션 5회 달성"
+
+msgid "sns_dsc_0537"
+msgstr "데뷔 오퍼레이션 6회 달성"
+
+msgid "sns_dsc_0538"
+msgstr "데뷔 오퍼레이션 7회 달성"
+
+msgid "sns_dsc_0539"
+msgstr "데뷔 오퍼레이션 8회 달성"
+
+msgid "sns_dsc_0540"
+msgstr "가희 오퍼레이션 해방"
+
+msgid "sns_dsc_0541"
+msgstr "프레이아 가희 오퍼레이션 1회 달성"
+
+msgid "sns_dsc_0542"
+msgstr "프레이아 가희 오퍼레이션 10회 달성"
+
+msgid "sns_dsc_0543"
+msgstr "미쿠모 가희 오퍼레이션 1회 달성"
+
+msgid "sns_dsc_0544"
+msgstr "미쿠모 가희 오퍼레이션 10회 달성"
+
+msgid "sns_dsc_0545"
+msgstr "카나메 가희 오퍼레이션 1회 달성"
+
+msgid "sns_dsc_0546"
+msgstr "카나메 가희 오퍼레이션 10회 달성"
+
+msgid "sns_dsc_0547"
+msgstr "마키나 가희 오퍼레이션 1회 달성"
+
+msgid "sns_dsc_0548"
+msgstr "마키나 가희 오퍼레이션 10회 달성"
+
+msgid "sns_dsc_0549"
+msgstr "레이나 가희 오퍼레이션 1회 달성"
+
+msgid "sns_dsc_0550"
+msgstr "레이나 가희 오퍼레이션 10회 달성"
+
+msgid "sns_dsc_0551"
+msgstr "란카 가희 오퍼레이션 1회 달성"
+
+msgid "sns_dsc_0552"
+msgstr "란카 가희 오퍼레이션 10회 달성"
+
+msgid "sns_dsc_0553"
+msgstr "셰릴 가희 오퍼레이션 1회 달성"
+
+msgid "sns_dsc_0554"
+msgstr "셰릴 가희 오퍼레이션 10회 달성"
+
+msgid "sns_dsc_0555"
+msgstr "밀레느 가희 오퍼레이션 1회 달성"
+
+msgid "sns_dsc_0556"
+msgstr "밀레느 가희 오퍼레이션 10회 달성"
+
+msgid "sns_dsc_0557"
+msgstr "바사라 가희 오퍼레이션 1회 달성"
+
+msgid "sns_dsc_0558"
+msgstr "바사라 가희 오퍼레이션 10회 달성"
+
+msgid "sns_dsc_0559"
+msgstr "민메이 가희 오퍼레이션 1회 달성"
+
+msgid "sns_dsc_0560"
+msgstr "민메이 가희 오퍼레이션 10회 달성"
+
+msgid "sns_dsc_0561"
+msgstr ""
+
+msgid "sns_dsc_0577"
+msgstr "바사라 생일"
+
+msgid "sns_dsc_0578"
+msgstr "미쿠모 생일"
+
+msgid "sns_dsc_0580"
+msgstr "민메이 생일"
+
+msgid "sns_dsc_0583"
+msgstr "프레이아 생일"
+
+msgid "sns_dsc_0584"
+msgstr "셰릴 생일"
+
+msgid "sns_dsc_0588"
+msgstr "척 생일"
+
+msgid "sns_dsc_0589"
+msgstr "하야테 생일"
+
+msgid "sns_dsc_0590"
+msgstr "레이 생일"
+
+msgid "sns_dsc_0592"
+msgstr "멧서 생일"
+
+msgid "sns_dsc_0593"
+msgstr "로이드 생일"
+
+msgid "sns_dsc_0594"
+msgstr "아라드 생일"
+
+msgid "sns_dsc_0595"
+msgstr "감린 생일"
+
+msgid "sns_dsc_0596"
+msgstr "오즈마 생일"
+
+msgid "sns_dsc_0598"
+msgstr "밀레느 생일"
+
+msgid "sns_dsc_0604"
+msgstr "마키나 생일"
+
+msgid "sns_dsc_0605"
+msgstr "란카 생일"
+
+msgid "sns_dsc_0608"
+msgstr "카나메 생일"
+
+msgid "sns_dsc_0611"
+msgstr "레이나 생일"
+
+msgid "sns_dsc_0613"
+msgstr "미라쥬 생일"
+
+msgid "sns_dsc_0614"
+msgstr "키스 생일"
+
+msgid "sns_dsc_0615"
+msgstr "미사 생일"
+
+msgid "sns_dsc_0616"
+msgstr "보그 생일"
+
+msgid "sns_dsc_0617"
+msgstr "아라드 생일"
+
+msgid "sns_dsc_0618"
+msgstr "바사라 생일"
+
+msgid "sns_dsc_0619"
+msgstr "미쿠모 생일"
+
+msgid "sns_dsc_0620"
+msgstr "척 생일"
+
+msgid "sns_dsc_0621"
+msgstr "하야테 생일"
+
+msgid "sns_dsc_0622"
+msgstr "레이 생일"
+
+msgid "sns_dsc_0623"
+msgstr "민메이 생일"
+
+msgid "sns_dsc_0624"
+msgstr "프레이아 생일"
+
+msgid "sns_dsc_0625"
+msgstr "셰릴 생일"
+
+msgid "sns_dsc_0626"
+msgstr "멧서 생일"
+
+msgid "sns_dsc_0627"
+msgstr "로이드 생일"
+
+msgid "sns_dsc_0628"
+msgstr "오즈마 생일"
+
+msgid "sns_dsc_0629"
+msgstr "아라드 생일"
+
+msgid "sns_dsc_0630"
+msgstr "감린 생일"
+
+msgid "sns_dsc_0631"
+msgstr "밀레느 생일"
+
+msgid "sns_dsc_0632"
+msgstr "미라쥬 생일"
+
+msgid "sns_dsc_0633"
+msgstr "키스 생일"
+
+msgid "sns_dsc_0634"
+msgstr "미사 생일"
+
+msgid "sns_dsc_0635"
+msgstr "보그 생일"
+
+msgid "sns_dsc_0636"
+msgstr "2019 만우절"
+
+msgid "sns_dsc_0637"
+msgstr "마키나 생일"
+
+msgid "sns_dsc_0638"
+msgstr "란카 생일"
+
+msgid "sns_dsc_0639"
+msgstr "카나메 생일"
+
+msgid "sns_dsc_0640"
+msgstr "레이나 생일"
+
+msgid "sns_dsc_0641"
+msgstr "아라드 생일"
+
+msgid "sns_dsc_0642"
+msgstr "척 생일"
+
+msgid "sns_dsc_0643"
+msgstr "바사라 생일"
+
+msgid "sns_dsc_0644"
+msgstr "미쿠모 생일"
+
+msgid "sns_dsc_0645"
+msgstr "하야테 생일"
+
+msgid "sns_dsc_0646"
+msgstr "레이 생일"
+
+msgid "sns_dsc_0647"
+msgstr "민메이 생일"
+
+msgid "sns_dsc_0648"
+msgstr "프레이아 생일"
+
+msgid "sns_dsc_0649"
+msgstr "셰릴 생일"
+
+msgid "sns_dsc_0650"
+msgstr "멧서 생일"
+
+msgid "sns_dsc_0651"
+msgstr "2019 크리스마스"
+
+msgid "sns_dsc_0652"
+msgstr "로이드 생일"
+
+msgid "sns_dsc_0653"
+msgstr "오즈마 생일"
+
+msgid "sns_dsc_0654"
+msgstr "아라드 생일"
+
+msgid "sns_dsc_0655"
+msgstr "감린 생일"
+
+msgid "sns_dsc_0656"
+msgstr "밀레느 생일"
+
+msgid "sns_dsc_0657"
+msgstr "미라쥬 생일"
+
+msgid "sns_dsc_0658"
+msgstr "키스 생일"
+
+msgid "sns_dsc_0659"
+msgstr "미사 생일"
+
+msgid "sns_dsc_0660"
+msgstr "보그 생일"
+
+msgid "sns_dsc_0661"
+msgstr "2020 만우절"
+
+msgid "sns_dsc_0662"
+msgstr "2020 만우절"
+
+msgid "sns_dsc_0663"
+msgstr "마키나 생일"
+
+msgid "sns_dsc_0664"
+msgstr "란카 생일"
+
+msgid "sns_dsc_0665"
+msgstr "카나메 생일"
+
+msgid "sns_dsc_0666"
+msgstr "레이나 생일"
+
+msgid "sns_dsc_0667"
+msgstr "아라드 생일"
+
+msgid "sns_dsc_0668"
+msgstr "바사라 생일"
+
+msgid "sns_dsc_0669"
+msgstr "미쿠모 생일"
+
+msgid "sns_dsc_0670"
+msgstr "척 생일"
+
+msgid "sns_dsc_0671"
+msgstr "하야테 생일"
+
+msgid "sns_dsc_0672"
+msgstr "레이 생일"
+
+msgid "sns_dsc_0673"
+msgstr "민메이 생일"
+
+msgid "sns_dsc_0674"
+msgstr "프레이아 생일"
+
+msgid "sns_dsc_0675"
+msgstr "셰릴 생일"
+
+msgid "sns_dsc_0676"
+msgstr "멧서 생일"
+
+msgid "sns_dsc_0677"
+msgstr "2020 크리스마스"
+
+msgid "sns_dsc_0678"
+msgstr "로이드 생일"
+
+msgid "sns_dsc_0679"
+msgstr "오즈마 생일"
+
+msgid "sns_dsc_0680"
+msgstr "아라드 생일"
+
+msgid "sns_dsc_0681"
+msgstr "감린 생일"
+
+msgid "sns_dsc_0682"
+msgstr "밀레느 생일"
+
+msgid "sns_dsc_0683"
+msgstr "미라쥬 생일"
+
+msgid "sns_dsc_0684"
+msgstr "키스 생일"
+
+msgid "sns_dsc_0685"
+msgstr "미사 생일"
+
+msgid "sns_dsc_0686"
+msgstr "2021 만우절"
+
+msgid "sns_dsc_0687"
+msgstr "2021 만우절"
+
+msgid "sns_dsc_0688"
+msgstr "보그 생일"
+
+msgid "sns_dsc_0689"
+msgstr "마키나 생일"
+
+msgid "sns_dsc_0690"
+msgstr "란카 생일"
+
+msgid "sns_dsc_0691"
+msgstr "카나메 생일"
+
+msgid "sns_dsc_0692"
+msgstr "레이나 생일"
+
+msgid "sns_dsc_0693"
+msgstr "아라드 생일"
+
+msgid "sns_dsc_0694"
+msgstr "바사라 생일"
+
+msgid "sns_dsc_0695"
+msgstr "미쿠모 생일"
+
+msgid "sns_dsc_0696"
+msgstr "척 생일"
+
+msgid "sns_dsc_0697"
+msgstr "하야테 생일"
+
+msgid "sns_dsc_0698"
+msgstr "레이 생일"
+
+msgid "sns_dsc_0699"
+msgstr "민메이 생일"
+
+msgid "sns_dsc_0700"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0701"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0702"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0703"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0704"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0705"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0706"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0707"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0708"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0709"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0710"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0711"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0712"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0713"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0714"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0715"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0716"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0717"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0718"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0719"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0720"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0721"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0722"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0723"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0724"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0725"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0726"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0727"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0728"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0729"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0730"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0731"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0732"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0733"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0734"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0735"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0736"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0737"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0738"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0739"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0740"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0741"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0742"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0743"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0744"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0745"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0746"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0747"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0748"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0749"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0750"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0751"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0752"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0753"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0754"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0755"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0756"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0757"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0758"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0759"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0760"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0761"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0762"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0763"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0764"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0765"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0766"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0767"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0768"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0769"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0770"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0771"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0772"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0773"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0774"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0775"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0776"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0777"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0778"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0779"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0780"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0781"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0782"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0783"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0784"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0785"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0786"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0787"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0788"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0789"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0790"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0791"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0792"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0793"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0794"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0795"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0796"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0797"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0798"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0799"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0800"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0801"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0802"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0803"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0804"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0805"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0806"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0807"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0808"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0809"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0810"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0811"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0812"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0813"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0814"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0815"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0816"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0817"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0818"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0819"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0820"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0821"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0822"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0823"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0824"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0825"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0826"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0827"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0828"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0829"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0830"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0831"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0832"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0833"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0834"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0835"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0836"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0837"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0838"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0839"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0840"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0841"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0842"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0843"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0844"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0845"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0846"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0847"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0848"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0849"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0850"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0851"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0852"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0853"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0854"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0855"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0856"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0857"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0858"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0860"
+msgstr "합계 포인트 1000pt 입수"
+
+msgid "sns_dsc_0861"
+msgstr "합계 포인트 10000pt 입수"
+
+msgid "sns_dsc_0862"
+msgstr "합계 포인트 20000pt 입수"
+
+msgid "sns_dsc_0863"
+msgstr "합계 포인트 1300pt 입수"
+
+msgid "sns_dsc_0864"
+msgstr "합계 포인트 14000pt 입수"
+
+msgid "sns_dsc_0865"
+msgstr "합계 포인트 24000pt 입수"
+
+msgid "sns_dsc_0866"
+msgstr "합계 포인트 1000pt 입수"
+
+msgid "sns_dsc_0867"
+msgstr "합계 포인트 6400pt 입수"
+
+msgid "sns_dsc_0868"
+msgstr "합계 포인트 14500pt 입수"
+
+msgid "sns_dsc_0869"
+msgstr "합계 포인트 1300pt 입수"
+
+msgid "sns_dsc_0870"
+msgstr "합계 포인트 14000pt 입수"
+
+msgid "sns_dsc_0871"
+msgstr "합계 포인트 24000pt 입수"
+
+msgid "sns_dsc_0872"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0873"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0874"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0875"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0876"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0877"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0878"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0879"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0880"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0881"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0882"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0883"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0884"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0885"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0886"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0887"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0888"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0889"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0890"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0891"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0892"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0893"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0894"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0895"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0896"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0897"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0898"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0899"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0900"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0901"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0902"
+msgstr "크리스마스 (2017)"
+
+msgid "sns_dsc_0903"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0904"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0905"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0906"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0907"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0908"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0909"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0910"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0911"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0912"
+msgstr "스카이트리 콜라보"
+
+msgid "sns_dsc_0913"
+msgstr "스카이트리 콜라보"
+
+msgid "sns_dsc_0914"
+msgstr "스카이트리 콜라보"
+
+msgid "sns_dsc_0915"
+msgstr "스카이트리 콜라보"
+
+msgid "sns_dsc_0916"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0917"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0918"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0919"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0920"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0921"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0922"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0923"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0924"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0925"
+msgstr "극장판 콜라보"
+
+msgid "sns_dsc_0926"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0927"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0928"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0929"
+msgstr "3rd 라이브 콜라보"
+
+msgid "sns_dsc_0930"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0931"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0932"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0933"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0934"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0935"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0936"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0937"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0938"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0939"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0940"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0941"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0942"
+msgstr "만우절"
+
+msgid "sns_dsc_0943"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0944"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0945"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0946"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0947"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0948"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0949"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0950"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0951"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0952"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0953"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0954"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0955"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0956"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0957"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0958"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0959"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0960"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0961"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0962"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0963"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0964"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0965"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0966"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0967"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0968"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0969"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0970"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0971"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0972"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0973"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0974"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0975"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0976"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0977"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0978"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0979"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0980"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0981"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0982"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0983"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0984"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0985"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0986"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0987"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0988"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0989"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0990"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0991"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0992"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0993"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0994"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0995"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0996"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0997"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0998"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_0999"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1000"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1001"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1002"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1003"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1004"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1005"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1006"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1007"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1008"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1009"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1010"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1011"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1012"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1013"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1014"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1015"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1016"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1017"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1018"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1019"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1020"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1021"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1022"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1023"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1024"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1025"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1026"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1027"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1028"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1029"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1030"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1031"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1032"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1033"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1034"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1035"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1036"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1037"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1038"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1039"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1040"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1041"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1042"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1043"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1044"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1045"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1046"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1047"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1048"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1049"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1050"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1051"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1052"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1053"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1054"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1055"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1056"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1057"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1058"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1059"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1060"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1061"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1062"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1063"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1064"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1065"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1066"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1067"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1068"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1069"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1070"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1071"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1072"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1073"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1074"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1075"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1076"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1077"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1078"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1079"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1080"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1081"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1082"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1083"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1084"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1085"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1086"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1087"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1088"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1089"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1090"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1091"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1092"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1093"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1094"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1095"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1096"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1097"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1098"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1099"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1100"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1101"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1102"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1103"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1104"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1105"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1106"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1107"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1108"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1109"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1110"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1111"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1112"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1113"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1114"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1115"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1116"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1117"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1118"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1119"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1120"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1121"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1122"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1123"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1124"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc_1125"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0001"
+msgstr "프레이아가 로그인했습니다"
+
+msgid "sns_dsc2_0002"
+msgstr "기억의 시공에서 악곡을 1곡 해방"
+
+msgid "sns_dsc2_0003"
+msgstr "기억의 시공에서 악곡을 2곡 해방"
+
+msgid "sns_dsc2_0004"
+msgstr "기억의 시공에서 악곡을 3곡 해방"
+
+msgid "sns_dsc2_0005"
+msgstr "기억의 시공에서 악곡을 4곡 해방"
+
+msgid "sns_dsc2_0006"
+msgstr "기억의 시공에서 악곡을 5곡 해방"
+
+msgid "sns_dsc2_0007"
+msgstr "기억의 시공에서 악곡을 6곡 해방"
+
+msgid "sns_dsc2_0008"
+msgstr "기억의 시공에서 악곡을 7곡 해방"
+
+msgid "sns_dsc2_0009"
+msgstr "기억의 시공에서 악곡을 8곡 해방"
+
+msgid "sns_dsc2_0010"
+msgstr "기억의 시공에서 악곡을 9곡 해방"
+
+msgid "sns_dsc2_0011"
+msgstr "기억의 시공에서 악곡을 10곡 해방"
+
+msgid "sns_dsc2_0012"
+msgstr "기억의 시공에서 악곡을 11곡 해방"
+
+msgid "sns_dsc2_0013"
+msgstr "기억의 시공에서 악곡을 12곡 해방"
+
+msgid "sns_dsc2_0014"
+msgstr "기억의 시공에서 악곡을 13곡 해방"
+
+msgid "sns_dsc2_0015"
+msgstr "기억의 시공에서 악곡을 14곡 해방"
+
+msgid "sns_dsc2_0016"
+msgstr "기억의 시공에서 악곡을 15곡 해방"
+
+msgid "sns_dsc2_0017"
+msgstr "기억의 시공에서 악곡을 16곡 해방"
+
+msgid "sns_dsc2_0018"
+msgstr "기억의 시공에서 악곡을 17곡 해방"
+
+msgid "sns_dsc2_0019"
+msgstr "기억의 시공에서 악곡을 18곡 해방"
+
+msgid "sns_dsc2_0020"
+msgstr "기억의 시공에서 악곡을 19곡 해방"
+
+msgid "sns_dsc2_0021"
+msgstr "기억의 시공에서 악곡을 20곡 해방"
+
+msgid "sns_dsc2_0022"
+msgstr "기억의 시공에서 악곡을 21곡 해방"
+
+msgid "sns_dsc2_0023"
+msgstr "기억의 시공에서 악곡을 22곡 해방"
+
+msgid "sns_dsc2_0024"
+msgstr "기억의 시공에서 악곡을 23곡 해방"
+
+msgid "sns_dsc2_0025"
+msgstr "기억의 시공에서 악곡을 24곡 해방"
+
+msgid "sns_dsc2_0026"
+msgstr "기억의 시공에서 악곡을 25곡 해방"
+
+msgid "sns_dsc2_0027"
+msgstr "기억의 시공에서 악곡을 26곡 해방"
+
+msgid "sns_dsc2_0028"
+msgstr "기억의 시공에서 악곡을 27곡 해방"
+
+msgid "sns_dsc2_0029"
+msgstr "기억의 시공에서 악곡을 28곡 해방"
+
+msgid "sns_dsc2_0030"
+msgstr "기억의 시공에서 악곡을 29곡 해방"
+
+msgid "sns_dsc2_0031"
+msgstr "기억의 시공에서 악곡을 30곡 해방"
+
+msgid "sns_dsc2_0032"
+msgstr "기억의 시공에서 악곡을 31곡 해방"
+
+msgid "sns_dsc2_0033"
+msgstr "기억의 시공에서 악곡을 32곡 해방"
+
+msgid "sns_dsc2_0034"
+msgstr "기억의 시공에서 악곡을 33곡 해방"
+
+msgid "sns_dsc2_0035"
+msgstr "기억의 시공에서 악곡을 34곡 해방"
+
+msgid "sns_dsc2_0036"
+msgstr "기억의 시공에서 악곡을 35곡 해방"
+
+msgid "sns_dsc2_0038"
+msgstr "기억의 시공에서 악곡을 36곡 해방"
+
+msgid "sns_dsc2_0039"
+msgstr "기억의 시공에서 악곡을 37곡 해방"
+
+msgid "sns_dsc2_0040"
+msgstr "기억의 시공에서 악곡을 38곡 해방"
+
+msgid "sns_dsc2_0041"
+msgstr "기억의 시공에서 악곡을 39곡 해방"
+
+msgid "sns_dsc2_0042"
+msgstr "기억의 시공에서 악곡을 40곡 해방"
+
+msgid "sns_dsc2_0043"
+msgstr "기억의 시공에서 악곡을 41곡 해방"
+
+msgid "sns_dsc2_0044"
+msgstr "기억의 시공에서 악곡을 42곡 해방"
+
+msgid "sns_dsc2_0045"
+msgstr "기억의 시공에서 악곡을 43곡 해방"
+
+msgid "sns_dsc2_0046"
+msgstr "기억의 시공에서 악곡을 44곡 해방"
+
+msgid "sns_dsc2_0047"
+msgstr "기억의 시공에서 악곡을 45곡 해방"
+
+msgid "sns_dsc2_0048"
+msgstr "기억의 시공에서 악곡을 46곡 해방"
+
+msgid "sns_dsc2_0049"
+msgstr "기억의 시공에서 악곡을 47곡 해방"
+
+msgid "sns_dsc2_0050"
+msgstr "기억의 시공에서 악곡을 48곡 해방"
+
+msgid "sns_dsc2_0051"
+msgstr "기억의 시공에서 악곡을 49곡 해방"
+
+msgid "sns_dsc2_0052"
+msgstr "기억의 시공에서 악곡을 50곡 해방"
+
+msgid "sns_dsc2_0053"
+msgstr "기억의 시공에서 악곡을 51곡 해방"
+
+msgid "sns_dsc2_0054"
+msgstr "기억의 시공에서 악곡을 52곡 해방"
+
+msgid "sns_dsc2_0055"
+msgstr "기억의 시공에서 악곡을 53곡 해방"
+
+msgid "sns_dsc2_0056"
+msgstr "기억의 시공에서 악곡을 54곡 해방"
+
+msgid "sns_dsc2_0057"
+msgstr "기억의 시공에서 악곡을 55곡 해방"
+
+msgid "sns_dsc2_0058"
+msgstr "기억의 시공에서 악곡을 56곡 해방"
+
+msgid "sns_dsc2_0059"
+msgstr "기억의 시공에서 악곡을 57곡 해방"
+
+msgid "sns_dsc2_0060"
+msgstr "기억의 시공에서 악곡을 58곡 해방"
+
+msgid "sns_dsc2_0061"
+msgstr "기억의 시공에서 악곡을 59곡 해방"
+
+msgid "sns_dsc2_0062"
+msgstr "기억의 시공에서 악곡을 60곡 해방"
+
+msgid "sns_dsc2_0063"
+msgstr "기억의 시공에서 악곡을 61곡 해방"
+
+msgid "sns_dsc2_0064"
+msgstr "기억의 시공에서 악곡을 62곡 해방"
+
+msgid "sns_dsc2_0065"
+msgstr "기억의 시공에서 악곡을 63곡 해방"
+
+msgid "sns_dsc2_0066"
+msgstr "기억의 시공에서 악곡을 64곡 해방"
+
+msgid "sns_dsc2_0067"
+msgstr "기억의 시공에서 악곡을 65곡 해방"
+
+msgid "sns_dsc2_0068"
+msgstr "기억의 시공에서 악곡을 66곡 해방"
+
+msgid "sns_dsc2_0069"
+msgstr "기억의 시공에서 악곡을 67곡 해방"
+
+msgid "sns_dsc2_0070"
+msgstr "기억의 시공에서 악곡을 68곡 해방"
+
+msgid "sns_dsc2_0071"
+msgstr "기억의 시공에서 악곡을 69곡 해방"
+
+msgid "sns_dsc2_0072"
+msgstr "기억의 시공에서 악곡을 70곡 해방"
+
+msgid "sns_dsc2_0073"
+msgstr "기억의 시공에서 악곡을 71곡 해방"
+
+msgid "sns_dsc2_0074"
+msgstr "기억의 시공에서 악곡을 72곡 해방"
+
+msgid "sns_dsc2_0075"
+msgstr "기억의 시공에서 악곡을 73곡 해방"
+
+msgid "sns_dsc2_0076"
+msgstr "기억의 시공에서 악곡을 74곡 해방"
+
+msgid "sns_dsc2_0077"
+msgstr "기억의 시공에서 악곡을 75곡 해방"
+
+msgid "sns_dsc2_0078"
+msgstr "상시곡 「절대영도θ노바틱 Another ver.」 해금"
+
+msgid "sns_dsc2_0079"
+msgstr "상시곡 「HEART＆SOUL」 해금"
+
+msgid "sns_dsc2_0080"
+msgstr "상시곡 「푸른 에테르」 해금"
+
+msgid "sns_dsc2_0081"
+msgstr "상시곡 「신데렐라」 해금"
+
+msgid "sns_dsc2_0082"
+msgstr "상시곡 「넘어서는 안 되는 보더라인 Another ver.」 해금"
+
+msgid "sns_dsc2_0083"
+msgstr "상시곡 「우리들의 전장【MIRROR ver.】」 해금"
+
+msgid "sns_dsc2_0084"
+msgstr "상시곡 「요정」 해금"
+
+msgid "sns_dsc2_0085"
+msgstr "상시곡 「Merry Christmas without You」 해금"
+
+msgid "sns_dsc2_0086"
+msgstr "상시곡 「Dancing in the Moonlight Another ver.」 해금"
+
+msgid "sns_dsc2_0087"
+msgstr "상시곡 「이졸라도」 해금"
+
+msgid "sns_dsc2_0101"
+msgstr "프레이아 레벨 2에 해방"
+
+msgid "sns_dsc2_0102"
+msgstr "프레이아 레벨 4에 해방"
+
+msgid "sns_dsc2_0103"
+msgstr "프레이아 레벨 7에 해방"
+
+msgid "sns_dsc2_0104"
+msgstr "프레이아 레벨 10에 해방"
+
+msgid "sns_dsc2_0105"
+msgstr "프레이아 레벨 12에 해방"
+
+msgid "sns_dsc2_0106"
+msgstr "프레이아 레벨 17에 해방"
+
+msgid "sns_dsc2_0107"
+msgstr "프레이아 레벨 20에 해방"
+
+msgid "sns_dsc2_0108"
+msgstr "프레이아 레벨 25에 해방"
+
+msgid "sns_dsc2_0109"
+msgstr "프레이아 레벨 30에 해방"
+
+msgid "sns_dsc2_0110"
+msgstr "프레이아 레벨 35에 해방"
+
+msgid "sns_dsc2_0111"
+msgstr "프레이아 레벨 40에 해방"
+
+msgid "sns_dsc2_0114"
+msgstr "미쿠모 레벨 2에 해방"
+
+msgid "sns_dsc2_0115"
+msgstr "미쿠모 레벨 4에 해방"
+
+msgid "sns_dsc2_0116"
+msgstr "미쿠모 레벨 7에 해방"
+
+msgid "sns_dsc2_0117"
+msgstr "미쿠모 레벨 10에 해방"
+
+msgid "sns_dsc2_0118"
+msgstr "미쿠모 레벨 12에 해방"
+
+msgid "sns_dsc2_0119"
+msgstr "미쿠모 레벨 17에 해방"
+
+msgid "sns_dsc2_0120"
+msgstr "미쿠모 레벨 20에 해방"
+
+msgid "sns_dsc2_0121"
+msgstr "미쿠모 레벨 25에 해방"
+
+msgid "sns_dsc2_0122"
+msgstr "미쿠모 레벨 30에 해방"
+
+msgid "sns_dsc2_0123"
+msgstr "미쿠모 레벨 35에 해방"
+
+msgid "sns_dsc2_0124"
+msgstr "미쿠모 레벨 40에 해방"
+
+msgid "sns_dsc2_0127"
+msgstr "카나메 레벨 2에 해방"
+
+msgid "sns_dsc2_0128"
+msgstr "카나메 레벨 4에 해방"
+
+msgid "sns_dsc2_0129"
+msgstr "카나메 레벨 7에 해방"
+
+msgid "sns_dsc2_0130"
+msgstr "카나메 레벨 10에 해방"
+
+msgid "sns_dsc2_0131"
+msgstr "카나메 레벨 12에 해방"
+
+msgid "sns_dsc2_0132"
+msgstr "카나메 레벨 17에 해방"
+
+msgid "sns_dsc2_0133"
+msgstr "카나메 레벨 20에 해방"
+
+msgid "sns_dsc2_0134"
+msgstr "카나메 레벨 25에 해방"
+
+msgid "sns_dsc2_0135"
+msgstr "카나메 레벨 30에 해방"
+
+msgid "sns_dsc2_0136"
+msgstr "카나메 레벨 35에 해방"
+
+msgid "sns_dsc2_0137"
+msgstr "카나메 레벨 40에 해방"
+
+msgid "sns_dsc2_0140"
+msgstr "마키나 레벨 2에 해방"
+
+msgid "sns_dsc2_0141"
+msgstr "마키나 레벨 4에 해방"
+
+msgid "sns_dsc2_0142"
+msgstr "마키나 레벨 7에 해방"
+
+msgid "sns_dsc2_0143"
+msgstr "마키나 레벨 10에 해방"
+
+msgid "sns_dsc2_0144"
+msgstr "마키나 레벨 12에 해방"
+
+msgid "sns_dsc2_0145"
+msgstr "마키나 레벨 17에 해방"
+
+msgid "sns_dsc2_0146"
+msgstr "마키나 레벨 20에 해방"
+
+msgid "sns_dsc2_0147"
+msgstr "마키나 레벨 25에 해방"
+
+msgid "sns_dsc2_0148"
+msgstr "마키나 레벨 30에 해방"
+
+msgid "sns_dsc2_0149"
+msgstr "마키나 레벨 35에 해방"
+
+msgid "sns_dsc2_0150"
+msgstr "마키나 레벨 40에 해방"
+
+msgid "sns_dsc2_0153"
+msgstr "레이나 레벨 2에 해방"
+
+msgid "sns_dsc2_0154"
+msgstr "레이나 레벨 4에 해방"
+
+msgid "sns_dsc2_0155"
+msgstr "레이나 레벨 7에 해방"
+
+msgid "sns_dsc2_0156"
+msgstr "레이나 레벨 10에 해방"
+
+msgid "sns_dsc2_0157"
+msgstr "레이나 레벨 12에 해방"
+
+msgid "sns_dsc2_0158"
+msgstr "레이나 레벨 17에 해방"
+
+msgid "sns_dsc2_0159"
+msgstr "레이나 레벨 20에 해방"
+
+msgid "sns_dsc2_0160"
+msgstr "레이나 레벨 25에 해방"
+
+msgid "sns_dsc2_0161"
+msgstr "레이나 레벨 30에 해방"
+
+msgid "sns_dsc2_0162"
+msgstr "레이나 레벨 35에 해방"
+
+msgid "sns_dsc2_0163"
+msgstr "레이나 레벨 40에 해방"
+
+msgid "sns_dsc2_0166"
+msgstr "란카 레벨 2에 해방"
+
+msgid "sns_dsc2_0167"
+msgstr "란카 레벨 4에 해방"
+
+msgid "sns_dsc2_0168"
+msgstr "란카 레벨 7에 해방"
+
+msgid "sns_dsc2_0169"
+msgstr "란카 레벨 10에 해방"
+
+msgid "sns_dsc2_0170"
+msgstr "란카 레벨 12에 해방"
+
+msgid "sns_dsc2_0171"
+msgstr "란카 레벨 17에 해방"
+
+msgid "sns_dsc2_0172"
+msgstr "란카 레벨 20에 해방"
+
+msgid "sns_dsc2_0173"
+msgstr "란카 레벨 25에 해방"
+
+msgid "sns_dsc2_0174"
+msgstr "란카 레벨 30에 해방"
+
+msgid "sns_dsc2_0175"
+msgstr "란카 레벨 35에 해방"
+
+msgid "sns_dsc2_0176"
+msgstr "란카 레벨 40에 해방"
+
+msgid "sns_dsc2_0179"
+msgstr "셰릴 레벨 2에 해방"
+
+msgid "sns_dsc2_0180"
+msgstr "셰릴 레벨 4에 해방"
+
+msgid "sns_dsc2_0181"
+msgstr "셰릴 레벨 7에 해방"
+
+msgid "sns_dsc2_0182"
+msgstr "셰릴 레벨 10에 해방"
+
+msgid "sns_dsc2_0183"
+msgstr "셰릴 레벨 12에 해방"
+
+msgid "sns_dsc2_0184"
+msgstr "셰릴 레벨 17에 해방"
+
+msgid "sns_dsc2_0185"
+msgstr "셰릴 레벨 20에 해방"
+
+msgid "sns_dsc2_0186"
+msgstr "셰릴 레벨 25에 해방"
+
+msgid "sns_dsc2_0187"
+msgstr "셰릴 레벨 30에 해방"
+
+msgid "sns_dsc2_0188"
+msgstr "셰릴 레벨 35에 해방"
+
+msgid "sns_dsc2_0189"
+msgstr "셰릴 레벨 40에 해방"
+
+msgid "sns_dsc2_0192"
+msgstr "밀레느 레벨 2에 해방"
+
+msgid "sns_dsc2_0193"
+msgstr "밀레느 레벨 4에 해방"
+
+msgid "sns_dsc2_0194"
+msgstr "밀레느 레벨 7에 해방"
+
+msgid "sns_dsc2_0195"
+msgstr "밀레느 레벨 10에 해방"
+
+msgid "sns_dsc2_0196"
+msgstr "밀레느 레벨 12에 해방"
+
+msgid "sns_dsc2_0197"
+msgstr "밀레느 레벨 17에 해방"
+
+msgid "sns_dsc2_0198"
+msgstr "밀레느 레벨 20에 해방"
+
+msgid "sns_dsc2_0199"
+msgstr "밀레느 레벨 25에 해방"
+
+msgid "sns_dsc2_0200"
+msgstr "밀레느 레벨 30에 해방"
+
+msgid "sns_dsc2_0201"
+msgstr "밀레느 레벨 35에 해방"
+
+msgid "sns_dsc2_0202"
+msgstr "밀레느 레벨 40에 해방"
+
+msgid "sns_dsc2_0205"
+msgstr "바사라 레벨 2에 해방"
+
+msgid "sns_dsc2_0206"
+msgstr "바사라 레벨 4에 해방"
+
+msgid "sns_dsc2_0207"
+msgstr "바사라 레벨 7에 해방"
+
+msgid "sns_dsc2_0208"
+msgstr "바사라 레벨 10에 해방"
+
+msgid "sns_dsc2_0209"
+msgstr "바사라 레벨 12에 해방"
+
+msgid "sns_dsc2_0210"
+msgstr "바사라 레벨 17에 해방"
+
+msgid "sns_dsc2_0211"
+msgstr "바사라 레벨 20에 해방"
+
+msgid "sns_dsc2_0212"
+msgstr "바사라 레벨 25에 해방"
+
+msgid "sns_dsc2_0213"
+msgstr "바사라 레벨 30에 해방"
+
+msgid "sns_dsc2_0214"
+msgstr "바사라 레벨 35에 해방"
+
+msgid "sns_dsc2_0215"
+msgstr "바사라 레벨 40에 해방"
+
+msgid "sns_dsc2_0218"
+msgstr "민메이 레벨 2에 해방"
+
+msgid "sns_dsc2_0219"
+msgstr "민메이 레벨 4에 해방"
+
+msgid "sns_dsc2_0220"
+msgstr "민메이 레벨 7에 해방"
+
+msgid "sns_dsc2_0221"
+msgstr "민메이 레벨 10에 해방"
+
+msgid "sns_dsc2_0222"
+msgstr "민메이 레벨 12에 해방"
+
+msgid "sns_dsc2_0223"
+msgstr "민메이 레벨 17에 해방"
+
+msgid "sns_dsc2_0224"
+msgstr "민메이 레벨 20에 해방"
+
+msgid "sns_dsc2_0225"
+msgstr "민메이 레벨 25에 해방"
+
+msgid "sns_dsc2_0226"
+msgstr "민메이 레벨 30에 해방"
+
+msgid "sns_dsc2_0227"
+msgstr "민메이 레벨 35에 해방"
+
+msgid "sns_dsc2_0228"
+msgstr "민메이 레벨 40에 해방"
+
+msgid "sns_dsc2_0231"
+msgstr "라이브 5회 클리어 시 해방"
+
+msgid "sns_dsc2_0232"
+msgstr "라이브 10회 클리어 시 해방"
+
+msgid "sns_dsc2_0233"
+msgstr "라이브 20회 클리어 시 해방"
+
+msgid "sns_dsc2_0234"
+msgstr "라이브 30회 클리어 시 해방"
+
+msgid "sns_dsc2_0235"
+msgstr "라이브 40회 클리어 시 해방"
+
+msgid "sns_dsc2_0236"
+msgstr "라이브 50회 클리어 시 해방"
+
+msgid "sns_dsc2_0237"
+msgstr "라이브 75회 클리어 시 해방"
+
+msgid "sns_dsc2_0238"
+msgstr "라이브 100회 클리어 시 해방"
+
+msgid "sns_dsc2_0239"
+msgstr "라이브 150회 클리어 시 해방"
+
+msgid "sns_dsc2_0240"
+msgstr "라이브 200회 클리어 시 해방"
+
+msgid "sns_dsc2_0241"
+msgstr "라이브 250회 클리어 시 해방"
+
+msgid "sns_dsc2_0242"
+msgstr "라이브 300회 클리어 시 해방"
+
+msgid "sns_dsc2_0243"
+msgstr "라이브 400회 클리어 시 해방"
+
+msgid "sns_dsc2_0244"
+msgstr "라이브 500회 클리어 시 해방"
+
+msgid "sns_dsc2_0245"
+msgstr "라이브 600회 클리어 시 해방"
+
+msgid "sns_dsc2_0246"
+msgstr "라이브 700회 클리어 시 해방"
+
+msgid "sns_dsc2_0247"
+msgstr "라이브 800회 클리어 시 해방"
+
+msgid "sns_dsc2_0248"
+msgstr "라이브 900회 클리어 시 해방"
+
+msgid "sns_dsc2_0249"
+msgstr "라이브 1000회 클리어 시 해방"
+
+msgid "sns_dsc2_0250"
+msgstr "라이브 1250회 클리어 시 해방"
+
+msgid "sns_dsc2_0251"
+msgstr "라이브 1500회 클리어 시 해방"
+
+msgid "sns_dsc2_0252"
+msgstr "라이브 1750회 클리어 시 해방"
+
+msgid "sns_dsc2_0253"
+msgstr "라이브 2000회 클리어 시 해방"
+
+msgid "sns_dsc2_0254"
+msgstr "라이브 2250회 클리어 시 해방"
+
+msgid "sns_dsc2_0255"
+msgstr "라이브 2500회 클리어 시 해방"
+
+msgid "sns_dsc2_0256"
+msgstr "라이브 2750회 클리어 시 해방"
+
+msgid "sns_dsc2_0257"
+msgstr "라이브 3000회 클리어 시 해방"
+
+msgid "sns_dsc2_0258"
+msgstr "라이브 3250회 클리어 시 해방"
+
+msgid "sns_dsc2_0259"
+msgstr "라이브 3500회 클리어 시 해방"
+
+msgid "sns_dsc2_0260"
+msgstr "라이브 3750회 클리어 시 해방"
+
+msgid "sns_dsc2_0400"
+msgstr "프레이아 생일"
+
+msgid "sns_dsc2_0401"
+msgstr "셰릴 생일"
+
+msgid "sns_dsc2_0402"
+msgstr "멧서 생일"
+
+msgid "sns_dsc2_0403"
+msgstr "2021 크리스마스"
+
+msgid "sns_dsc2_0404"
+msgstr "로이드 생일"
+
+msgid "sns_dsc2_0405"
+msgstr "오즈마 생일"
+
+msgid "sns_dsc2_0406"
+msgstr "아라드 생일"
+
+msgid "sns_dsc2_0407"
+msgstr "감린 생일"
+
+msgid "sns_dsc2_0408"
+msgstr "밀레느 생일"
+
+msgid "sns_dsc2_0409"
+msgstr "미라쥬 생일"
+
+msgid "sns_dsc2_0410"
+msgstr "키스 생일"
+
+msgid "sns_dsc2_0411"
+msgstr "미사 생일"
+
+msgid "sns_dsc2_0412"
+msgstr "2022 만우절"
+
+msgid "sns_dsc2_0413"
+msgstr "2022 만우절"
+
+msgid "sns_dsc2_0414"
+msgstr "보그 생일"
+
+msgid "sns_dsc2_0415"
+msgstr "마키나 생일"
+
+msgid "sns_dsc2_0416"
+msgstr "란카 생일"
+
+msgid "sns_dsc2_0417"
+msgstr "카나메 생일"
+
+msgid "sns_dsc2_0532"
+msgstr "데뷔 오퍼레이션 1회 달성으로 해방"
+
+msgid "sns_dsc2_0533"
+msgstr "데뷔 오퍼레이션 2회 달성으로 해방"
+
+msgid "sns_dsc2_0534"
+msgstr "데뷔 오퍼레이션 3회 달성으로 해방"
+
+msgid "sns_dsc2_0535"
+msgstr "데뷔 오퍼레이션 4회 달성으로 해방"
+
+msgid "sns_dsc2_0536"
+msgstr "데뷔 오퍼레이션 5회 달성으로 해방"
+
+msgid "sns_dsc2_0537"
+msgstr "데뷔 오퍼레이션 6회 달성으로 해방"
+
+msgid "sns_dsc2_0538"
+msgstr "데뷔 오퍼레이션 7회 달성으로 해방"
+
+msgid "sns_dsc2_0539"
+msgstr "데뷔 오퍼레이션 8회 달성으로 해방"
+
+msgid "sns_dsc2_0540"
+msgstr "발키리 오퍼레이션 합계 10회 클리어"
+
+msgid "sns_dsc2_0541"
+msgstr "프레이아 가희 오퍼레이션 1회 달성으로 해방"
+
+msgid "sns_dsc2_0542"
+msgstr "프레이아 가희 오퍼레이션 10회 달성으로 해방"
+
+msgid "sns_dsc2_0543"
+msgstr "미쿠모 가희 오퍼레이션 1회 달성으로 해방"
+
+msgid "sns_dsc2_0544"
+msgstr "미쿠모 가희 오퍼레이션 10회 달성으로 해방"
+
+msgid "sns_dsc2_0545"
+msgstr "카나메 가희 오퍼레이션 1회 달성으로 해방"
+
+msgid "sns_dsc2_0546"
+msgstr "카나메 가희 오퍼레이션 10회 달성으로 해방"
+
+msgid "sns_dsc2_0547"
+msgstr "마키나 가희 오퍼레이션 1회 달성으로 해방"
+
+msgid "sns_dsc2_0548"
+msgstr "마키나 가희 오퍼레이션 10회 달성으로 해방"
+
+msgid "sns_dsc2_0549"
+msgstr "레이나 가희 오퍼레이션 1회 달성으로 해방"
+
+msgid "sns_dsc2_0550"
+msgstr "레이나 가희 오퍼레이션 10회 달성으로 해방"
+
+msgid "sns_dsc2_0551"
+msgstr "란카 가희 오퍼레이션 1회 달성으로 해방"
+
+msgid "sns_dsc2_0552"
+msgstr "란카 가희 오퍼레이션 10회 달성으로 해방"
+
+msgid "sns_dsc2_0553"
+msgstr "셰릴 가희 오퍼레이션 1회 달성으로 해방"
+
+msgid "sns_dsc2_0554"
+msgstr "셰릴 가희 오퍼레이션 10회 달성으로 해방"
+
+msgid "sns_dsc2_0555"
+msgstr "밀레느 가희 오퍼레이션 1회 달성으로 해방"
+
+msgid "sns_dsc2_0556"
+msgstr "밀레느 가희 오퍼레이션 10회 달성으로 해방"
+
+msgid "sns_dsc2_0557"
+msgstr "바사라 가희 오퍼레이션 1회 달성으로 해방"
+
+msgid "sns_dsc2_0558"
+msgstr "바사라 가희 오퍼레이션 10회 달성으로 해방"
+
+msgid "sns_dsc2_0559"
+msgstr "민메이 가희 오퍼레이션 1회 달성으로 해방"
+
+msgid "sns_dsc2_0560"
+msgstr "민메이 가희 오퍼레이션 10회 달성으로 해방"
+
+msgid "sns_dsc2_0561"
+msgstr ""
+
+msgid "sns_dsc2_0577"
+msgstr "바사라 생일"
+
+msgid "sns_dsc2_0578"
+msgstr "미쿠모 생일"
+
+msgid "sns_dsc2_0580"
+msgstr "민메이 생일"
+
+msgid "sns_dsc2_0583"
+msgstr "프레이아 생일"
+
+msgid "sns_dsc2_0584"
+msgstr "셰릴 생일"
+
+msgid "sns_dsc2_0588"
+msgstr "척 생일"
+
+msgid "sns_dsc2_0589"
+msgstr "하야테 생일"
+
+msgid "sns_dsc2_0590"
+msgstr "레이 생일"
+
+msgid "sns_dsc2_0592"
+msgstr "멧서 생일"
+
+msgid "sns_dsc2_0593"
+msgstr "로이드 생일"
+
+msgid "sns_dsc2_0594"
+msgstr "아라드 생일"
+
+msgid "sns_dsc2_0595"
+msgstr "감린 생일"
+
+msgid "sns_dsc2_0596"
+msgstr "오즈마 생일"
+
+msgid "sns_dsc2_0598"
+msgstr "밀레느 생일"
+
+msgid "sns_dsc2_0604"
+msgstr "마키나 생일"
+
+msgid "sns_dsc2_0605"
+msgstr "란카 생일"
+
+msgid "sns_dsc2_0608"
+msgstr "카나메 생일"
+
+msgid "sns_dsc2_0611"
+msgstr "레이나 생일"
+
+msgid "sns_dsc2_0613"
+msgstr "미라쥬 생일"
+
+msgid "sns_dsc2_0614"
+msgstr "키스 생일"
+
+msgid "sns_dsc2_0615"
+msgstr "미사 생일"
+
+msgid "sns_dsc2_0616"
+msgstr "보그 생일"
+
+msgid "sns_dsc2_0617"
+msgstr "아라드 생일"
+
+msgid "sns_dsc2_0618"
+msgstr "바사라 생일"
+
+msgid "sns_dsc2_0619"
+msgstr "미쿠모 생일"
+
+msgid "sns_dsc2_0620"
+msgstr "척 생일"
+
+msgid "sns_dsc2_0621"
+msgstr "하야테 생일"
+
+msgid "sns_dsc2_0622"
+msgstr "레이 생일"
+
+msgid "sns_dsc2_0623"
+msgstr "민메이 생일"
+
+msgid "sns_dsc2_0624"
+msgstr "프레이아 생일"
+
+msgid "sns_dsc2_0625"
+msgstr "셰릴 생일"
+
+msgid "sns_dsc2_0626"
+msgstr "멧서 생일"
+
+msgid "sns_dsc2_0627"
+msgstr "로이드 생일"
+
+msgid "sns_dsc2_0628"
+msgstr "오즈마 생일"
+
+msgid "sns_dsc2_0629"
+msgstr "아라드 생일"
+
+msgid "sns_dsc2_0630"
+msgstr "감린 생일"
+
+msgid "sns_dsc2_0631"
+msgstr "밀레느 생일"
+
+msgid "sns_dsc2_0632"
+msgstr "미라쥬 생일"
+
+msgid "sns_dsc2_0633"
+msgstr "키스 생일"
+
+msgid "sns_dsc2_0634"
+msgstr "미사 생일"
+
+msgid "sns_dsc2_0635"
+msgstr "보그 생일"
+
+msgid "sns_dsc2_0636"
+msgstr "2019 만우절"
+
+msgid "sns_dsc2_0637"
+msgstr "마키나 생일"
+
+msgid "sns_dsc2_0638"
+msgstr "란카 생일"
+
+msgid "sns_dsc2_0639"
+msgstr "카나메 생일"
+
+msgid "sns_dsc2_0640"
+msgstr "레이나 생일"
+
+msgid "sns_dsc2_0641"
+msgstr "아라드 생일"
+
+msgid "sns_dsc2_0642"
+msgstr "척 생일"
+
+msgid "sns_dsc2_0643"
+msgstr "바사라 생일"
+
+msgid "sns_dsc2_0644"
+msgstr "미쿠모 생일"
+
+msgid "sns_dsc2_0645"
+msgstr "하야테 생일"
+
+msgid "sns_dsc2_0646"
+msgstr "레이 생일"
+
+msgid "sns_dsc2_0647"
+msgstr "민메이 생일"
+
+msgid "sns_dsc2_0648"
+msgstr "프레이아 생일"
+
+msgid "sns_dsc2_0649"
+msgstr "셰릴 생일"
+
+msgid "sns_dsc2_0650"
+msgstr "멧서 생일"
+
+msgid "sns_dsc2_0651"
+msgstr "2019 크리스마스"
+
+msgid "sns_dsc2_0652"
+msgstr "로이드 생일"
+
+msgid "sns_dsc2_0653"
+msgstr "오즈마 생일"
+
+msgid "sns_dsc2_0654"
+msgstr "아라드 생일"
+
+msgid "sns_dsc2_0655"
+msgstr "감린 생일"
+
+msgid "sns_dsc2_0656"
+msgstr "밀레느 생일"
+
+msgid "sns_dsc2_0657"
+msgstr "미라쥬 생일"
+
+msgid "sns_dsc2_0658"
+msgstr "키스 생일"
+
+msgid "sns_dsc2_0659"
+msgstr "미사 생일"
+
+msgid "sns_dsc2_0660"
+msgstr "보그 생일"
+
+msgid "sns_dsc2_0661"
+msgstr "2020 만우절"
+
+msgid "sns_dsc2_0662"
+msgstr "2020 만우절"
+
+msgid "sns_dsc2_0663"
+msgstr "마키나 생일"
+
+msgid "sns_dsc2_0664"
+msgstr "란카 생일"
+
+msgid "sns_dsc2_0665"
+msgstr "카나메 생일"
+
+msgid "sns_dsc2_0666"
+msgstr "레이나 생일"
+
+msgid "sns_dsc2_0667"
+msgstr "아라드 생일"
+
+msgid "sns_dsc2_0668"
+msgstr "바사라 생일"
+
+msgid "sns_dsc2_0669"
+msgstr "미쿠모 생일"
+
+msgid "sns_dsc2_0670"
+msgstr "척 생일"
+
+msgid "sns_dsc2_0671"
+msgstr "하야테 생일"
+
+msgid "sns_dsc2_0672"
+msgstr "레이 생일"
+
+msgid "sns_dsc2_0673"
+msgstr "민메이 생일"
+
+msgid "sns_dsc2_0674"
+msgstr "프레이아 생일"
+
+msgid "sns_dsc2_0675"
+msgstr "셰릴 생일"
+
+msgid "sns_dsc2_0676"
+msgstr "멧서 생일"
+
+msgid "sns_dsc2_0677"
+msgstr "2020 크리스마스"
+
+msgid "sns_dsc2_0678"
+msgstr "로이드 생일"
+
+msgid "sns_dsc2_0679"
+msgstr "오즈마 생일"
+
+msgid "sns_dsc2_0680"
+msgstr "아라드 생일"
+
+msgid "sns_dsc2_0681"
+msgstr "감린 생일"
+
+msgid "sns_dsc2_0682"
+msgstr "밀레느 생일"
+
+msgid "sns_dsc2_0683"
+msgstr "미라쥬 생일"
+
+msgid "sns_dsc2_0684"
+msgstr "키스 생일"
+
+msgid "sns_dsc2_0685"
+msgstr "미사 생일"
+
+msgid "sns_dsc2_0686"
+msgstr "2021 만우절"
+
+msgid "sns_dsc2_0687"
+msgstr "2021 만우절"
+
+msgid "sns_dsc2_0688"
+msgstr "보그 생일"
+
+msgid "sns_dsc2_0689"
+msgstr "마키나 생일"
+
+msgid "sns_dsc2_0690"
+msgstr "란카 생일"
+
+msgid "sns_dsc2_0691"
+msgstr "카나메 생일"
+
+msgid "sns_dsc2_0692"
+msgstr "레이나 생일"
+
+msgid "sns_dsc2_0693"
+msgstr "아라드 생일"
+
+msgid "sns_dsc2_0694"
+msgstr "바사라 생일"
+
+msgid "sns_dsc2_0695"
+msgstr "미쿠모 생일"
+
+msgid "sns_dsc2_0696"
+msgstr "척 생일"
+
+msgid "sns_dsc2_0697"
+msgstr "하야테 생일"
+
+msgid "sns_dsc2_0698"
+msgstr "레이 생일"
+
+msgid "sns_dsc2_0699"
+msgstr "민메이 생일"
+
+msgid "sns_dsc2_0700"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0701"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0702"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0703"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0704"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0705"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0706"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0707"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0708"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0709"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0710"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0711"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0712"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0713"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0714"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0715"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0716"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0717"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0718"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0719"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0720"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0721"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0722"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0723"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0724"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0725"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0726"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0727"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0728"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0729"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0730"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0731"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0732"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0733"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0734"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0735"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0736"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0737"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0738"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0739"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0740"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0741"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0742"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0743"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0744"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0745"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0746"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0747"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0748"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0749"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0750"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0751"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0752"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0753"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0754"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0755"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0756"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0757"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0758"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0759"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0760"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0761"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0762"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0763"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0764"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0765"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0766"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0767"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0768"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0769"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0770"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0771"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0772"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0773"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0774"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0775"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0776"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0777"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0778"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0779"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0780"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0781"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0782"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0783"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0784"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0785"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0786"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0787"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0788"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0789"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0790"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0791"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0792"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0793"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0794"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0795"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0796"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0797"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0798"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0799"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0800"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0801"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0802"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0803"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0804"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0805"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0806"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0807"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0808"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0809"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0810"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0811"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0812"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0813"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0814"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0815"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0816"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0817"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0818"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0819"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0820"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0821"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0822"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0823"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0824"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0825"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0826"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0827"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0828"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0829"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0830"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0831"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0832"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0833"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0834"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0835"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0836"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0837"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0838"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0839"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0840"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0841"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0842"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0843"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0844"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0845"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0846"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0847"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0848"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0849"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0850"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0851"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0852"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0853"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0854"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0855"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0856"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0857"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0858"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0860"
+msgstr "누적 포인트 1000pt 획득"
+
+msgid "sns_dsc2_0861"
+msgstr "누적 포인트 10000pt 획득"
+
+msgid "sns_dsc2_0862"
+msgstr "누적 포인트 20000pt 획득"
+
+msgid "sns_dsc2_0863"
+msgstr "누적 포인트 1300pt 획득"
+
+msgid "sns_dsc2_0864"
+msgstr "누적 포인트 14000pt 획득"
+
+msgid "sns_dsc2_0865"
+msgstr "누적 포인트 24000pt 획득"
+
+msgid "sns_dsc2_0866"
+msgstr "누적 포인트 1000pt 획득"
+
+msgid "sns_dsc2_0867"
+msgstr "누적 포인트 6400pt 획득"
+
+msgid "sns_dsc2_0868"
+msgstr "누적 포인트 14500pt 획득"
+
+msgid "sns_dsc2_0869"
+msgstr "누적 포인트 1300pt 획득"
+
+msgid "sns_dsc2_0870"
+msgstr "누적 포인트 14000pt 획득"
+
+msgid "sns_dsc2_0871"
+msgstr "누적 포인트 24000pt 획득"
+
+msgid "sns_dsc2_0872"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0873"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0874"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0875"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0876"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0877"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0878"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0879"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0880"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0881"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0882"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0883"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0884"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0885"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0886"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0887"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0888"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0889"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0890"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0891"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0892"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0893"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0894"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0895"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0896"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0897"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0898"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0899"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0900"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0901"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0902"
+msgstr "크리스마스 (2017)"
+
+msgid "sns_dsc2_0903"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0904"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0905"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0906"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0907"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0908"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0909"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0910"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0911"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0912"
+msgstr "스카이트리 콜라보"
+
+msgid "sns_dsc2_0913"
+msgstr "스카이트리 콜라보"
+
+msgid "sns_dsc2_0914"
+msgstr "스카이트리 콜라보"
+
+msgid "sns_dsc2_0915"
+msgstr "스카이트리 콜라보"
+
+msgid "sns_dsc2_0916"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0917"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0918"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0919"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0920"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0921"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0922"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0923"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0924"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0925"
+msgstr "극장판 콜라보"
+
+msgid "sns_dsc2_0926"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0927"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0928"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0929"
+msgstr "3rd 라이브 콜라보"
+
+msgid "sns_dsc2_0930"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0931"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0932"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0933"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0934"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0935"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0936"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0937"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0938"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0939"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0940"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0941"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0942"
+msgstr ""
+
+msgid "sns_dsc2_0943"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0944"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0945"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0946"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0947"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0948"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0949"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0950"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0951"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0952"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0953"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0954"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0955"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0956"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0957"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0958"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0959"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0960"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0961"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0962"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0963"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0964"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0965"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0966"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0967"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0968"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0969"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0970"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0971"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0972"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0973"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0974"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0975"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0976"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0977"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0978"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0979"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0980"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0981"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0982"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0983"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0984"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0985"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0986"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0987"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0988"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0989"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0990"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0991"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0992"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0993"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0994"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0995"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0996"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0997"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0998"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_0999"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1000"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1001"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1002"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1003"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1004"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1005"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1006"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1007"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1008"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1009"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1010"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1011"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1012"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1013"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1014"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1015"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1016"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1017"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1018"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1019"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1020"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1021"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1022"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1023"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1024"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1025"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1026"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1027"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1028"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1029"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1030"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1031"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1032"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1033"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1034"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1035"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1036"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1037"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1038"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1039"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1040"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1041"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1042"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1043"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1044"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1045"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1046"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1047"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1048"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1049"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1050"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1051"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1052"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1053"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1054"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1055"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1056"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1057"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1058"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1059"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1060"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1061"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1062"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1063"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1064"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1065"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1066"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1067"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1068"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1069"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1070"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1071"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1072"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1073"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1074"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1075"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1076"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1077"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1078"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1079"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1080"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1081"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1082"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1083"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1084"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1085"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1086"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1087"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1088"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1089"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1090"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1091"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1092"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1093"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1094"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1095"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1096"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1097"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1098"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1099"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1100"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1101"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1102"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1103"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1104"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1105"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1106"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1107"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1108"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1109"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1110"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1111"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1112"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1113"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1114"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1115"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1116"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1117"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1118"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1119"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1120"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1121"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1122"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1123"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1124"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_dsc2_1125"
+msgstr "이벤트를 진행하여 해방"
+
+msgid "sns_nm_0001"
+msgstr "초시공 SNS에 어서 오세요!"
+
+msgid "sns_nm_0002"
+msgstr "공명하는 멸망의 노래"
+
+msgid "sns_nm_0003"
+msgstr "전설의 가희와 전술 음악 유닛"
+
+msgid "sns_nm_0004"
+msgstr "내 노래를 들어!"
+
+msgid "sns_nm_0005"
+msgstr "우리들의 노래를 들어줘!"
+
+msgid "sns_nm_0006"
+msgstr "전장에서 노래한다는 것"
+
+msgid "sns_nm_0007"
+msgstr "위대한 보컬리스트"
+
+msgid "sns_nm_0008"
+msgstr "사인 한 장 받을 수 있을까요?"
+
+msgid "sns_nm_0009"
+msgstr "발키리를 나르는 바람"
+
+msgid "sns_nm_0010"
+msgstr "기억의 시공"
+
+msgid "sns_nm_0011"
+msgstr "금욕적인 미쿠모"
+
+msgid "sns_nm_0012"
+msgstr "지너스 가문의 숙모와 조카"
+
+msgid "sns_nm_0013"
+msgstr "알토의 등록 사진"
+
+msgid "sns_nm_0014"
+msgstr "기타로 조종하는 발키리"
+
+msgid "sns_nm_0015"
+msgstr "라이브 전의 가희들"
+
+msgid "sns_nm_0016"
+msgstr "대장님, 부하는 어떻습니까?"
+
+msgid "sns_nm_0017"
+msgstr "단결하는 가희들"
+
+msgid "sns_nm_0018"
+msgstr "화해를 위한 조언"
+
+msgid "sns_nm_0019"
+msgstr "많은 이야기를 나눠요!"
+
+msgid "sns_nm_0020"
+msgstr "공중기사단의 이상"
+
+msgid "sns_nm_0021"
+msgstr "가희와 파일럿의 기억"
+
+msgid "sns_nm_0022"
+msgstr "숙모를 위해서라면"
+
+msgid "sns_nm_0023"
+msgstr "또 한 명의 나"
+
+msgid "sns_nm_0024"
+msgstr "혹시나…"
+
+msgid "sns_nm_0025"
+msgstr "보안 업그레이드"
+
+msgid "sns_nm_0026"
+msgstr "미라쥬의 상담"
+
+msgid "sns_nm_0027"
+msgstr "레이나에게 직접 담판"
+
+msgid "sns_nm_0028"
+msgstr "멸망의 노래"
+
+msgid "sns_nm_0029"
+msgstr "첫 발키리"
+
+msgid "sns_nm_0030"
+msgstr "시공의 뒤틀림"
+
+msgid "sns_nm_0031"
+msgstr "공중기사단에 관한 조사 보고"
+
+msgid "sns_nm_0032"
+msgstr "레이나와 브레라"
+
+msgid "sns_nm_0033"
+msgstr "자유로운 녀석은…"
+
+msgid "sns_nm_0034"
+msgstr "세 사람이 모였을 때"
+
+msgid "sns_nm_0035"
+msgstr "화해하는 방법"
+
+msgid "sns_nm_0036"
+msgstr "성실한 남자, 감린 키자키"
+
+msgid "sns_nm_0038"
+msgstr "어른스러운 밀레느 씨"
+
+msgid "sns_nm_0039"
+msgstr "바사라와 프레이아는 닮았다…?"
+
+msgid "sns_nm_0040"
+msgstr "숙모님께 어울릴 것 같아서…"
+
+msgid "sns_nm_0041"
+msgstr "더 친해지고 싶어요!"
+
+msgid "sns_nm_0042"
+msgstr "소녀의 마음을 배워봐요"
+
+msgid "sns_nm_0043"
+msgstr "미라쥬와 감린"
+
+msgid "sns_nm_0044"
+msgstr "요리에 도전!"
+
+msgid "sns_nm_0045"
+msgstr "넥키 바사라와 초시공 SNS"
+
+msgid "sns_nm_0046"
+msgstr "자매들의 복잡한 마음"
+
+msgid "sns_nm_0047"
+msgstr "메카닉 토크"
+
+msgid "sns_nm_0048"
+msgstr "미쿠모와 이모티콘"
+
+msgid "sns_nm_0049"
+msgstr "하야테는 상냥한 사람?"
+
+msgid "sns_nm_0050"
+msgstr "작은 존재들의 만남"
+
+msgid "sns_nm_0051"
+msgstr "당신에게도 추천할게"
+
+msgid "sns_nm_0052"
+msgstr "해파리가 먹고 싶어"
+
+msgid "sns_nm_0053"
+msgstr "누군가를 닮아가고 있어…?"
+
+msgid "sns_nm_0054"
+msgstr "민메이의 장난"
+
+msgid "sns_nm_0055"
+msgstr "우선 친구부터 시작해요"
+
+msgid "sns_nm_0056"
+msgstr "부탁해, 란카!"
+
+msgid "sns_nm_0057"
+msgstr "질리지 않는 두 사람"
+
+msgid "sns_nm_0058"
+msgstr "긴장의 발키리 오퍼레이션"
+
+msgid "sns_nm_0059"
+msgstr "감린 선배"
+
+msgid "sns_nm_0060"
+msgstr "혼날 것 같단 생각이 들어"
+
+msgid "sns_nm_0061"
+msgstr "바사라의 별명…??"
+
+msgid "sns_nm_0062"
+msgstr "미쿠모를 기다리는 세 사람"
+
+msgid "sns_nm_0063"
+msgstr "남 말 할 처지는 아니야"
+
+msgid "sns_nm_0064"
+msgstr "미셸의 부탁"
+
+msgid "sns_nm_0065"
+msgstr "메서와 밀레느"
+
+msgid "sns_nm_0066"
+msgstr "제대로 된 사람이 되어야 해!"
+
+msgid "sns_nm_0067"
+msgstr "밀레느에게 맡겨줘"
+
+msgid "sns_nm_0068"
+msgstr "민메이의 요즘 관심사"
+
+msgid "sns_nm_0069"
+msgstr "새로운 이모티콘이야"
+
+msgid "sns_nm_0070"
+msgstr "각오해"
+
+msgid "sns_nm_0071"
+msgstr "사이가 좋아지는 방법"
+
+msgid "sns_nm_0072"
+msgstr "카나메의 고민"
+
+msgid "sns_nm_0073"
+msgstr "바사라도 놀랄 만한"
+
+msgid "sns_nm_0074"
+msgstr "미라쥬와 구바바"
+
+msgid "sns_nm_0075"
+msgstr "민메이의 휴일"
+
+msgid "sns_nm_0076"
+msgstr "새로운 메뉴?"
+
+msgid "sns_nm_0077"
+msgstr "감각파"
+
+msgid "sns_nm_0078"
+msgstr "란카의 옷"
+
+msgid "sns_nm_0079"
+msgstr "미쿠모의 휴일"
+
+msgid "sns_nm_0080"
+msgstr "드문 싸움"
+
+msgid "sns_nm_0081"
+msgstr "약속 장소에서 만나기"
+
+msgid "sns_nm_0082"
+msgstr "구바바에게 상담"
+
+msgid "sns_nm_0083"
+msgstr "대수색"
+
+msgid "sns_nm_0084"
+msgstr "바사라와 함께"
+
+msgid "sns_nm_0085"
+msgstr "셰릴의 특별한 휴가"
+
+msgid "sns_nm_0086"
+msgstr "비밀스러운 외출"
+
+msgid "sns_nm_0087"
+msgstr "히카루의 고민"
+
+msgid "sns_nm_0101"
+msgstr "든든해진 프레이아"
+
+msgid "sns_nm_0102"
+msgstr "데뷔 무대의 추억"
+
+msgid "sns_nm_0103"
+msgstr "프레이아의 휴일"
+
+msgid "sns_nm_0104"
+msgstr "사과 감별 대회…?"
+
+msgid "sns_nm_0105"
+msgstr "프레이아와 큐루루"
+
+msgid "sns_nm_0106"
+msgstr "프레이아의 소중한 부적"
+
+msgid "sns_nm_0107"
+msgstr "잊어버린 거야!?"
+
+msgid "sns_nm_0108"
+msgstr "윈더미어 사투리로 이야기하자!"
+
+msgid "sns_nm_0109"
+msgstr "프레이아와 미라쥬"
+
+msgid "sns_nm_0110"
+msgstr "대기실에서 미니 라이브!"
+
+msgid "sns_nm_0111"
+msgstr "쿠션의 행방"
+
+msgid "sns_nm_0114"
+msgstr "미쿠모의 변화"
+
+msgid "sns_nm_0115"
+msgstr "가창 테스트의 추억"
+
+msgid "sns_nm_0116"
+msgstr "미쿠모의 신비로운 휴일"
+
+msgid "sns_nm_0117"
+msgstr "해거미, 먹어본 적 있나요?"
+
+msgid "sns_nm_0118"
+msgstr "실제보다 의외로…"
+
+msgid "sns_nm_0119"
+msgstr "팬들의 마음"
+
+msgid "sns_nm_0120"
+msgstr "무슨 좋은 일이라도 있었어?"
+
+msgid "sns_nm_0121"
+msgstr "나를 화나게 해봐"
+
+msgid "sns_nm_0122"
+msgstr "해변에서 발견!"
+
+msgid "sns_nm_0123"
+msgstr "카나메의 초대"
+
+msgid "sns_nm_0124"
+msgstr "미쿠모의 일상~관리~"
+
+msgid "sns_nm_0127"
+msgstr "최상의 컨디션인 카나메"
+
+msgid "sns_nm_0128"
+msgstr "카나메의 경력 자료"
+
+msgid "sns_nm_0129"
+msgstr "레슨에 어울려줘!"
+
+msgid "sns_nm_0130"
+msgstr "안주가 맛있다니까?"
+
+msgid "sns_nm_0131"
+msgstr "습한 날의 고민"
+
+msgid "sns_nm_0132"
+msgstr "카나메의 핑키 링"
+
+msgid "sns_nm_0133"
+msgstr "발키리로서 할 수 있는 일"
+
+msgid "sns_nm_0134"
+msgstr "모두의 카나메 누나"
+
+msgid "sns_nm_0135"
+msgstr "거리를 좁히는 방법"
+
+msgid "sns_nm_0136"
+msgstr "멧서와의 약속"
+
+msgid "sns_nm_0137"
+msgstr "매니저 시절의 추억"
+
+msgid "sns_nm_0140"
+msgstr "질 수 없으니까!"
+
+msgid "sns_nm_0141"
+msgstr "물과 기름 같은 두 사람"
+
+msgid "sns_nm_0142"
+msgstr "잘 물어봐 줬어요!"
+
+msgid "sns_nm_0143"
+msgstr "달콤하고 폭신폭신"
+
+msgid "sns_nm_0144"
+msgstr "다이어트는 안 돼!"
+
+msgid "sns_nm_0145"
+msgstr "마키나의 고글"
+
+msgid "sns_nm_0146"
+msgstr "포기하지 않아서 다행이었던 일"
+
+msgid "sns_nm_0147"
+msgstr "발키레에 들어오고 변한 점"
+
+msgid "sns_nm_0148"
+msgstr "발키리를 위해서니까"
+
+msgid "sns_nm_0149"
+msgstr "마키나의 의외의 모습"
+
+msgid "sns_nm_0150"
+msgstr "마키나의 ○○는 내가 지킬게…"
+
+msgid "sns_nm_0153"
+msgstr "최상의 컨디션을 유지하는 비결은?"
+
+msgid "sns_nm_0154"
+msgstr "언제나 함께하는 두 사람"
+
+msgid "sns_nm_0155"
+msgstr "레이나의 휴일"
+
+msgid "sns_nm_0156"
+msgstr "궁극의 선택"
+
+msgid "sns_nm_0157"
+msgstr "레이나의 귀"
+
+msgid "sns_nm_0158"
+msgstr "고집 있는 의상의 비밀"
+
+msgid "sns_nm_0159"
+msgstr "마키나 덕분"
+
+msgid "sns_nm_0160"
+msgstr "나는 위험을 즐기는 여자"
+
+msgid "sns_nm_0161"
+msgstr "가슴이 찌릿찌릿… 외로워"
+
+msgid "sns_nm_0162"
+msgstr "카나메가 본 레이나"
+
+msgid "sns_nm_0163"
+msgstr "한밤중의 레이나와 마키나"
+
+msgid "sns_nm_0166"
+msgstr "더욱더 열심히 할게요!"
+
+msgid "sns_nm_0167"
+msgstr "스타라이트 낫토"
+
+msgid "sns_nm_0168"
+msgstr "쉬는 날의 그것"
+
+msgid "sns_nm_0169"
+msgstr "맛있게 만들 수 있다면…"
+
+msgid "sns_nm_0170"
+msgstr "어떤 헤어스타일이 좋을 것 같아?"
+
+msgid "sns_nm_0171"
+msgstr "일본장수도롱뇽 씨"
+
+msgid "sns_nm_0172"
+msgstr "오즈마 VS 브레라　형제의 대결"
+
+msgid "sns_nm_0173"
+msgstr "란카가 좋아하는 장소"
+
+msgid "sns_nm_0174"
+msgstr "남매싸움의 이유"
+
+msgid "sns_nm_0175"
+msgstr "소문의 의상…?"
+
+msgid "sns_nm_0176"
+msgstr "전학 온 란카와 셰릴"
+
+msgid "sns_nm_0179"
+msgstr "셰릴의 자극적인 버릇"
+
+msgid "sns_nm_0180"
+msgstr "셀프 프로듀스"
+
+msgid "sns_nm_0181"
+msgstr "소개해 줘도 괜찮겠지?"
+
+msgid "sns_nm_0182"
+msgstr "추억의 핫도그 가게"
+
+msgid "sns_nm_0183"
+msgstr "셰릴의 선글라스"
+
+msgid "sns_nm_0184"
+msgstr "운명의 사람을 만난 날"
+
+msgid "sns_nm_0185"
+msgstr "딱히 걱정하는 건 아니지만"
+
+msgid "sns_nm_0186"
+msgstr "재미있는 일은 즐겨야지!"
+
+msgid "sns_nm_0187"
+msgstr "쇼핑에 어울려줘"
+
+msgid "sns_nm_0188"
+msgstr "무대에서 본 풍경"
+
+msgid "sns_nm_0189"
+msgstr "첫 파자마 파티"
+
+msgid "sns_nm_0192"
+msgstr "신곡 연습…?"
+
+msgid "sns_nm_0193"
+msgstr "밀레느의 성장"
+
+msgid "sns_nm_0194"
+msgstr "다재다능한 밀레느의 휴일"
+
+msgid "sns_nm_0195"
+msgstr "저녁 식사 요청"
+
+msgid "sns_nm_0196"
+msgstr "신경 쓰인다고! 내가 말이야!"
+
+msgid "sns_nm_0197"
+msgstr "구바바와 SNS"
+
+msgid "sns_nm_0198"
+msgstr "밀레느라고 불러줘!"
+
+msgid "sns_nm_0199"
+msgstr "좋은 생각이 떠올랐어!"
+
+msgid "sns_nm_0200"
+msgstr "밀레느와 구바바"
+
+msgid "sns_nm_0201"
+msgstr "우리들의 사운드"
+
+msgid "sns_nm_0202"
+msgstr "라이브가 끝난 뒤"
+
+msgid "sns_nm_0205"
+msgstr "바사라의 상담 상대"
+
+msgid "sns_nm_0206"
+msgstr "전장에서의 레코딩"
+
+msgid "sns_nm_0207"
+msgstr "바사라의 휴일"
+
+msgid "sns_nm_0208"
+msgstr "바사라의 스페셜 카레"
+
+msgid "sns_nm_0209"
+msgstr "노래할 수 있는 몸은 노래로 만들어라"
+
+msgid "sns_nm_0210"
+msgstr "수수께끼의 메모"
+
+msgid "sns_nm_0211"
+msgstr "빨리 노래하게 해 줘!"
+
+msgid "sns_nm_0212"
+msgstr "바사라의 악보"
+
+msgid "sns_nm_0213"
+msgstr "데뷔 라이브의 사건"
+
+msgid "sns_nm_0214"
+msgstr "신비한 남자, 넥키 바사라"
+
+msgid "sns_nm_0215"
+msgstr "추억의 라이브"
+
+msgid "sns_nm_0218"
+msgstr "매일이 자극적"
+
+msgid "sns_nm_0219"
+msgstr "민메이의 데뷔곡"
+
+msgid "sns_nm_0220"
+msgstr "민메이의 휴일"
+
+msgid "sns_nm_0221"
+msgstr "야식 가져갈게"
+
+msgid "sns_nm_0222"
+msgstr "머리카락은 여자의 생명"
+
+msgid "sns_nm_0223"
+msgstr "냥냥의 이름"
+
+msgid "sns_nm_0224"
+msgstr "지금의 내가 할 수 있는 일"
+
+msgid "sns_nm_0225"
+msgstr "마크로스 시티"
+
+msgid "sns_nm_0226"
+msgstr "몰래 일을 빠져나와서"
+
+msgid "sns_nm_0227"
+msgstr "끝까지 지켜봐 줘!"
+
+msgid "sns_nm_0228"
+msgstr "우리, 닮았네요"
+
+msgid "sns_nm_0231"
+msgstr "프레이아의 과제"
+
+msgid "sns_nm_0232"
+msgstr "넥키 바사라 직전, 음악의 행복"
+
+msgid "sns_nm_0233"
+msgstr "가장 좋아하는 가희"
+
+msgid "sns_nm_0234"
+msgstr "인생에는 굴곡이 필요해"
+
+msgid "sns_nm_0235"
+msgstr "각자의 「사랑, 기억하고 있습니까」"
+
+msgid "sns_nm_0236"
+msgstr "천재 파일럿 VS 미남 스나이퍼"
+
+msgid "sns_nm_0237"
+msgstr "눈보다도 쿨한 사람들"
+
+msgid "sns_nm_0238"
+msgstr "척의 야망"
+
+msgid "sns_nm_0239"
+msgstr "대장들의 고민"
+
+msgid "sns_nm_0240"
+msgstr "밀리아, 패션을 알다"
+
+msgid "sns_nm_0241"
+msgstr "넥키 바사라 직전, 필살 대사"
+
+msgid "sns_nm_0242"
+msgstr "가르쳐 줘"
+
+msgid "sns_nm_0243"
+msgstr "발키레 의상을 입고 싶어!"
+
+msgid "sns_nm_0244"
+msgstr "레이나가 본 브레라의 머릿속"
+
+msgid "sns_nm_0245"
+msgstr "언제나 미스터리"
+
+msgid "sns_nm_0246"
+msgstr "초시공 신데렐라, 란카 리"
+
+msgid "sns_nm_0247"
+msgstr "셰릴 놈으로 계속 살아가는 것"
+
+msgid "sns_nm_0248"
+msgstr "루카는 어떤 옷을 좋아해?"
+
+msgid "sns_nm_0249"
+msgstr "오즈마의 소원"
+
+msgid "sns_nm_0250"
+msgstr "알토의 이미지 체인지"
+
+msgid "sns_nm_0251"
+msgstr "지너스 가문의 아버지와 딸"
+
+msgid "sns_nm_0252"
+msgstr "이게 내 무대 의상이야!"
+
+msgid "sns_nm_0253"
+msgstr "발키리를 빌려줘!"
+
+msgid "sns_nm_0254"
+msgstr "비히다 씨에게 묻고 싶은 것"
+
+msgid "sns_nm_0255"
+msgstr "바사라 in 발키레"
+
+msgid "sns_nm_0256"
+msgstr "미스 마크로스 콘테스트"
+
+msgid "sns_nm_0257"
+msgstr "파일럿 여러분에게 질문"
+
+msgid "sns_nm_0258"
+msgstr "오빠의 파인 케이크"
+
+msgid "sns_nm_0259"
+msgstr "성실한 부하, 메서"
+
+msgid "sns_nm_0260"
+msgstr "지너스 가문의 할머니와 손녀"
+
+msgid "sns_nm_0400"
+msgstr "하트풀 버스데이 ~프레이아~"
+
+msgid "sns_nm_0401"
+msgstr "하트풀 버스데이 ~셰릴~"
+
+msgid "sns_nm_0402"
+msgstr "하트풀 버스데이 ~메서~"
+
+msgid "sns_nm_0403"
+msgstr "해피 메리 크리스마스 ~2021~"
+
+msgid "sns_nm_0404"
+msgstr "하트풀 버스데이 ~로이드~"
+
+msgid "sns_nm_0405"
+msgstr "하트풀 버스데이 ~오즈마~"
+
+msgid "sns_nm_0406"
+msgstr "하트풀 버스데이 ~아라드~"
+
+msgid "sns_nm_0407"
+msgstr "하트풀 버스데이 ~감린~"
+
+msgid "sns_nm_0408"
+msgstr "하트풀 버스데이 ~밀레느~"
+
+msgid "sns_nm_0409"
+msgstr "하트풀 버스데이 ~미라쥬~"
+
+msgid "sns_nm_0410"
+msgstr "하트풀 버스데이 ~키스~"
+
+msgid "sns_nm_0411"
+msgstr "하트풀 버스데이 ~미사~"
+
+msgid "sns_nm_0412"
+msgstr "범인의 정체"
+
+msgid "sns_nm_0413"
+msgstr "스타라이트 낫토"
+
+msgid "sns_nm_0414"
+msgstr "하트풀 버스데이 ~보그~"
+
+msgid "sns_nm_0415"
+msgstr "하트풀 버스데이 ~마키나~"
+
+msgid "sns_nm_0416"
+msgstr "하트풀 버스데이 ~란카~"
+
+msgid "sns_nm_0417"
+msgstr "하트풀 버스데이 ~카나메~"
+
+msgid "sns_nm_0532"
+msgstr "발키리 오퍼레이션"
+
+msgid "sns_nm_0533"
+msgstr "초시공 네트워크의 이상"
+
+msgid "sns_nm_0534"
+msgstr "출격 준비, 완료"
+
+msgid "sns_nm_0535"
+msgstr "한편 그 무렵…"
+
+msgid "sns_nm_0536"
+msgstr "파일럿으로부터의 통신"
+
+msgid "sns_nm_0537"
+msgstr "대장들의 걱정"
+
+msgid "sns_nm_0538"
+msgstr "초시공 네트워크의 세계"
+
+msgid "sns_nm_0539"
+msgstr "누구와 함께 날아갈까?"
+
+msgid "sns_nm_0540"
+msgstr "가희들의 부탁"
+
+msgid "sns_nm_0541"
+msgstr "전부 거기서부터 시작된 거야"
+
+msgid "sns_nm_0542"
+msgstr "발키레는 사이좋아"
+
+msgid "sns_nm_0543"
+msgstr "전장에서 울려 퍼진 노랫소리"
+
+msgid "sns_nm_0544"
+msgstr "신기한 일이 있었어"
+
+msgid "sns_nm_0545"
+msgstr "이것이 5명의 발키레"
+
+msgid "sns_nm_0546"
+msgstr "한밤중의 바다에서"
+
+msgid "sns_nm_0547"
+msgstr "두 사람의 자극적인 나날"
+
+msgid "sns_nm_0548"
+msgstr "더 많이 알고 싶어서!"
+
+msgid "sns_nm_0549"
+msgstr "의지할 수 있는 상대가 있다는 것"
+
+msgid "sns_nm_0550"
+msgstr "조금은 특별"
+
+msgid "sns_nm_0551"
+msgstr "란카의 보물"
+
+msgid "sns_nm_0552"
+msgstr "내가 자랑하는 오빠"
+
+msgid "sns_nm_0553"
+msgstr "갤럭시의 흔적"
+
+msgid "sns_nm_0554"
+msgstr "셰릴이 말하는 사오토메 알토"
+
+msgid "sns_nm_0555"
+msgstr "바사라에게는 비밀!"
+
+msgid "sns_nm_0556"
+msgstr "Fire Bomber의 팬으로서"
+
+msgid "sns_nm_0557"
+msgstr "바사라와 함께 난다는 것"
+
+msgid "sns_nm_0558"
+msgstr "이곳에서 노래하고 싶어"
+
+msgid "sns_nm_0559"
+msgstr "민메이의 추천"
+
+msgid "sns_nm_0560"
+msgstr "몰래 빠져나와서"
+
+msgid "sns_nm_0561"
+msgstr ""
+
+msgid "sns_nm_0577"
+msgstr "Happy birthday ~바사라~"
+
+msgid "sns_nm_0578"
+msgstr "Happy birthday ~미쿠모~"
+
+msgid "sns_nm_0580"
+msgstr "Happy birthday ~민메이~"
+
+msgid "sns_nm_0583"
+msgstr "Happy birthday ~프레이아~"
+
+msgid "sns_nm_0584"
+msgstr "Happy birthday ~셰릴~"
+
+msgid "sns_nm_0588"
+msgstr "Happy birthday ~척~"
+
+msgid "sns_nm_0589"
+msgstr "Happy birthday ~하야테~"
+
+msgid "sns_nm_0590"
+msgstr "Happy birthday ~레이~"
+
+msgid "sns_nm_0592"
+msgstr "Happy birthday ~메서~"
+
+msgid "sns_nm_0593"
+msgstr "Happy birthday ~로이드~"
+
+msgid "sns_nm_0594"
+msgstr "Happy birthday ~아라드~"
+
+msgid "sns_nm_0595"
+msgstr "Happy birthday ~감린~"
+
+msgid "sns_nm_0596"
+msgstr "Happy birthday ~오즈마~"
+
+msgid "sns_nm_0598"
+msgstr "Happy birthday ~밀레느~"
+
+msgid "sns_nm_0604"
+msgstr "Happy birthday ~마키나~"
+
+msgid "sns_nm_0605"
+msgstr "Happy birthday ~란카~"
+
+msgid "sns_nm_0608"
+msgstr "Happy birthday ~카나메~"
+
+msgid "sns_nm_0611"
+msgstr "Happy birthday ~레이나~"
+
+msgid "sns_nm_0613"
+msgstr "Happy Birthday ~미라쥬~"
+
+msgid "sns_nm_0614"
+msgstr "Happy birthday ~키스~"
+
+msgid "sns_nm_0615"
+msgstr "Happy birthday ~미사~"
+
+msgid "sns_nm_0616"
+msgstr "Happy birthday ~보그~"
+
+msgid "sns_nm_0617"
+msgstr "Happy birthday ~알토~"
+
+msgid "sns_nm_0618"
+msgstr "원더풀 버스데이 ~바사라~"
+
+msgid "sns_nm_0619"
+msgstr "원더풀 버스데이 ~미쿠모~"
+
+msgid "sns_nm_0620"
+msgstr "원더풀 버스데이 ~척~"
+
+msgid "sns_nm_0621"
+msgstr "원더풀 버스데이 ~하야테~"
+
+msgid "sns_nm_0622"
+msgstr "원더풀 버스데이 ~레이~"
+
+msgid "sns_nm_0623"
+msgstr "원더풀 버스데이 ~민메이~"
+
+msgid "sns_nm_0624"
+msgstr "원더풀 버스데이 ~프레이아~"
+
+msgid "sns_nm_0625"
+msgstr "원더풀 버스데이 ~셰릴~"
+
+msgid "sns_nm_0626"
+msgstr "원더풀 버스데이 ~메서~"
+
+msgid "sns_nm_0627"
+msgstr "원더풀 버스데이 ~로이드~"
+
+msgid "sns_nm_0628"
+msgstr "원더풀 버스데이 ~오즈마~"
+
+msgid "sns_nm_0629"
+msgstr "원더풀 버스데이 ~아라드~"
+
+msgid "sns_nm_0630"
+msgstr "원더풀 버스데이 ~감린~"
+
+msgid "sns_nm_0631"
+msgstr "원더풀 버스데이 ~밀레느~"
+
+msgid "sns_nm_0632"
+msgstr "원더풀 버스데이 ~미라쥬~"
+
+msgid "sns_nm_0633"
+msgstr "원더풀 버스데이 ~키스~"
+
+msgid "sns_nm_0634"
+msgstr "원더풀 버스데이 ~미사~"
+
+msgid "sns_nm_0635"
+msgstr "원더풀 버스데이 ~보그~"
+
+msgid "sns_nm_0636"
+msgstr "미지의 생물, 날아오다"
+
+msgid "sns_nm_0637"
+msgstr "원더풀 버스데이 ~마키나~"
+
+msgid "sns_nm_0638"
+msgstr "원더풀 버스데이 ~란카~"
+
+msgid "sns_nm_0639"
+msgstr "원더풀 버스데이 ~카나메~"
+
+msgid "sns_nm_0640"
+msgstr "원더풀 버스데이 ~레이나~"
+
+msgid "sns_nm_0641"
+msgstr "원더풀 버스데이 ~알토~"
+
+msgid "sns_nm_0642"
+msgstr "스페셜 버스데이 ~척~"
+
+msgid "sns_nm_0643"
+msgstr "스페셜 버스데이 ~바사라~"
+
+msgid "sns_nm_0644"
+msgstr "스페셜 버스데이 ~미쿠모~"
+
+msgid "sns_nm_0645"
+msgstr "스페셜 버스데이 ~하야테~"
+
+msgid "sns_nm_0646"
+msgstr "스페셜 버스데이 ~레이~"
+
+msgid "sns_nm_0647"
+msgstr "스페셜 버스데이 ~민메이~"
+
+msgid "sns_nm_0648"
+msgstr "스페셜 버스데이 ~프레이아~"
+
+msgid "sns_nm_0649"
+msgstr "스페셜 버스데이 ~셰릴~"
+
+msgid "sns_nm_0650"
+msgstr "스페셜 버스데이 ~메서~"
+
+msgid "sns_nm_0651"
+msgstr "해피 메리 크리스마스 ~2019~"
+
+msgid "sns_nm_0652"
+msgstr "스페셜 버스데이 ~로이드~"
+
+msgid "sns_nm_0653"
+msgstr "스페셜 버스데이 ~오즈마~"
+
+msgid "sns_nm_0654"
+msgstr "스페셜 버스데이 ~아라드~"
+
+msgid "sns_nm_0655"
+msgstr "스페셜 버스데이 ~감린~"
+
+msgid "sns_nm_0656"
+msgstr "스페셜 버스데이 ~밀레느~"
+
+msgid "sns_nm_0657"
+msgstr "스페셜 버스데이 ~미라쥬~"
+
+msgid "sns_nm_0658"
+msgstr "스페셜 버스데이 ~키스~"
+
+msgid "sns_nm_0659"
+msgstr "스페셜 버스데이 ~미사~"
+
+msgid "sns_nm_0660"
+msgstr "스페셜 버스데이 ~보그~"
+
+msgid "sns_nm_0661"
+msgstr "만우절 라이브"
+
+msgid "sns_nm_0662"
+msgstr "발키리 유닛 댄스"
+
+msgid "sns_nm_0663"
+msgstr "스페셜 버스데이 ~마키나~"
+
+msgid "sns_nm_0664"
+msgstr "스페셜 버스데이 ~란카~"
+
+msgid "sns_nm_0665"
+msgstr "스페셜 버스데이 ~카나메~"
+
+msgid "sns_nm_0666"
+msgstr "스페셜 버스데이 ~레이나~"
+
+msgid "sns_nm_0667"
+msgstr "스페셜 버스데이 ~알토~"
+
+msgid "sns_nm_0668"
+msgstr "엔조이 버스데이 ~바사라~"
+
+msgid "sns_nm_0669"
+msgstr "엔조이 버스데이 ~미쿠모~"
+
+msgid "sns_nm_0670"
+msgstr "엔조이 버스데이 ~척~"
+
+msgid "sns_nm_0671"
+msgstr "엔조이 버스데이 ~하야테~"
+
+msgid "sns_nm_0672"
+msgstr "엔조이 버스데이 ~레이~"
+
+msgid "sns_nm_0673"
+msgstr "엔조이 버스데이 ~민메이~"
+
+msgid "sns_nm_0674"
+msgstr "엔조이 버스데이 ~프레이아~"
+
+msgid "sns_nm_0675"
+msgstr "엔조이 버스데이 ~셰릴~"
+
+msgid "sns_nm_0676"
+msgstr "엔조이 버스데이 ~메서~"
+
+msgid "sns_nm_0677"
+msgstr "해피 메리 크리스마스 ~2020~"
+
+msgid "sns_nm_0678"
+msgstr "엔조이 버스데이 ~로이드~"
+
+msgid "sns_nm_0679"
+msgstr "엔조이 버스데이 ~오즈마~"
+
+msgid "sns_nm_0680"
+msgstr "엔조이 버스데이 ~아라드~"
+
+msgid "sns_nm_0681"
+msgstr "엔조이 버스데이 ~감린~"
+
+msgid "sns_nm_0682"
+msgstr "엔조이 버스데이 ~밀레느~"
+
+msgid "sns_nm_0683"
+msgstr "엔조이 버스데이 ~미라쥬~"
+
+msgid "sns_nm_0684"
+msgstr "엔조이 버스데이 ~키스~"
+
+msgid "sns_nm_0685"
+msgstr "엔조이 버스데이 ~미사~"
+
+msgid "sns_nm_0686"
+msgstr "신작 게임…?"
+
+msgid "sns_nm_0687"
+msgstr "다 함께 플레이!"
+
+msgid "sns_nm_0688"
+msgstr "엔조이 버스데이 ~보그~"
+
+msgid "sns_nm_0689"
+msgstr "엔조이 버스데이 ~마키나~"
+
+msgid "sns_nm_0690"
+msgstr "엔조이 버스데이 ~란카~"
+
+msgid "sns_nm_0691"
+msgstr "엔조이 버스데이 ~카나메~"
+
+msgid "sns_nm_0692"
+msgstr "엔조이 버스데이 ~레이나~"
+
+msgid "sns_nm_0693"
+msgstr "엔조이 버스데이 ~알토~"
+
+msgid "sns_nm_0694"
+msgstr "하트풀 버스데이 ~바사라~"
+
+msgid "sns_nm_0695"
+msgstr "하트풀 버스데이 ~미쿠모~"
+
+msgid "sns_nm_0696"
+msgstr "하트풀 버스데이 ~척~"
+
+msgid "sns_nm_0697"
+msgstr "하트풀 버스데이 ~하야테~"
+
+msgid "sns_nm_0698"
+msgstr "하트풀 버스데이 ~레이~"
+
+msgid "sns_nm_0699"
+msgstr "하트풀 버스데이 ~민메이~"
+
+msgid "sns_nm_0700"
+msgstr "신출귀몰한 넥키 바사라"
+
+msgid "sns_nm_0701"
+msgstr "민메이의 고민"
+
+msgid "sns_nm_0702"
+msgstr "가희들이 본 린 민메이"
+
+msgid "sns_nm_0703"
+msgstr "발키레를 향한 장난"
+
+msgid "sns_nm_0704"
+msgstr "미라쥬의 절규"
+
+msgid "sns_nm_0705"
+msgstr "넥키 바사라를 놀라게 하자!"
+
+msgid "sns_nm_0706"
+msgstr "만약의 학원 생활!"
+
+msgid "sns_nm_0707"
+msgstr "도망치지 않는 용기"
+
+msgid "sns_nm_0708"
+msgstr "방과 후 발키레!"
+
+msgid "sns_nm_0709"
+msgstr "영혼을 보내는 노래"
+
+msgid "sns_nm_0710"
+msgstr "근처에 있었어"
+
+msgid "sns_nm_0711"
+msgstr "카나메가 본 기억"
+
+msgid "sns_nm_0712"
+msgstr "버스데이 라이브와 서프라이즈"
+
+msgid "sns_nm_0713"
+msgstr "셰릴 놈이니까"
+
+msgid "sns_nm_0714"
+msgstr "본방은 지금부터"
+
+msgid "sns_nm_0715"
+msgstr "작전 성공!"
+
+msgid "sns_nm_0716"
+msgstr "피는 속일 수 없다"
+
+msgid "sns_nm_0717"
+msgstr "하야테와 미쿠모를 찾아라"
+
+msgid "sns_nm_0718"
+msgstr "지너스 가문 한정! 매지컬 라이브!"
+
+msgid "sns_nm_0719"
+msgstr "바사라와 감린…?"
+
+msgid "sns_nm_0720"
+msgstr ""
+
+msgid "sns_nm_0721"
+msgstr "크리스마스 라이브의 성과"
+
+msgid "sns_nm_0722"
+msgstr "산타의 선물…?"
+
+msgid "sns_nm_0723"
+msgstr "고민하는 알토"
+
+msgid "sns_nm_0724"
+msgstr "프레이아와 바사라로 파이어!"
+
+msgid "sns_nm_0725"
+msgstr "란카와 밀레느의 사이좋은 라이브"
+
+msgid "sns_nm_0726"
+msgstr "섹시한 두 사람"
+
+msgid "sns_nm_0727"
+msgstr "느긋하게 보내는 설날"
+
+msgid "sns_nm_0728"
+msgstr "하야테와 데이트?"
+
+msgid "sns_nm_0729"
+msgstr "라이브 성공 기원"
+
+msgid "sns_nm_0730"
+msgstr "알토의 협력"
+
+msgid "sns_nm_0731"
+msgstr "고집 있는 안무"
+
+msgid "sns_nm_0732"
+msgstr "춤춘 거야…??"
+
+msgid "sns_nm_0733"
+msgstr "밀레느, 여배우 데뷔?"
+
+msgid "sns_nm_0734"
+msgstr "역시 바사라는 바사라"
+
+msgid "sns_nm_0735"
+msgstr "두 명의 린 민메이"
+
+msgid "sns_nm_0736"
+msgstr ""
+
+msgid "sns_nm_0737"
+msgstr "샤론 애플의 환영"
+
+msgid "sns_nm_0738"
+msgstr "인공지능이 가진 마음"
+
+msgid "sns_nm_0739"
+msgstr "랜드홀에서의 라이브, 다시 한번"
+
+msgid "sns_nm_0740"
+msgstr "달콤한 향기"
+
+msgid "sns_nm_0741"
+msgstr "미쿠모의 서프라이즈"
+
+msgid "sns_nm_0742"
+msgstr "브레라의 배려"
+
+msgid "sns_nm_0743"
+msgstr "셰릴의 확신"
+
+msgid "sns_nm_0744"
+msgstr "동료들에게 둘러싸여"
+
+msgid "sns_nm_0745"
+msgstr "전설의 록 밴드"
+
+msgid "sns_nm_0746"
+msgstr "바사라와 셰릴의 행방"
+
+msgid "sns_nm_0747"
+msgstr "사이가 좋다거나 나쁘다거나"
+
+msgid "sns_nm_0748"
+msgstr "벚꽃색 교복"
+
+msgid "sns_nm_0749"
+msgstr "걸즈 스쿨"
+
+msgid "sns_nm_0750"
+msgstr "시간은 흐른다"
+
+msgid "sns_nm_0751"
+msgstr "별에게 노래하면"
+
+msgid "sns_nm_0752"
+msgstr "유성 데이트"
+
+msgid "sns_nm_0753"
+msgstr "30년이나 기다리지 않아도"
+
+msgid "sns_nm_0754"
+msgstr "파티 라이브"
+
+msgid "sns_nm_0755"
+msgstr "범인은 누구?"
+
+msgid "sns_nm_0756"
+msgstr "복수란"
+
+msgid "sns_nm_0757"
+msgstr "주지의 사실"
+
+msgid "sns_nm_0758"
+msgstr "알토니까 어쩔 수 없지"
+
+msgid "sns_nm_0759"
+msgstr "라이벌이니까"
+
+msgid "sns_nm_0760"
+msgstr "든든한 협력자"
+
+msgid "sns_nm_0761"
+msgstr "기적의 콤비"
+
+msgid "sns_nm_0762"
+msgstr "그럴 수도 있을 것 같아"
+
+msgid "sns_nm_0763"
+msgstr "정면 승부"
+
+msgid "sns_nm_0764"
+msgstr "예전과 지금의 발키레"
+
+msgid "sns_nm_0765"
+msgstr "귀여움 한가득"
+
+msgid "sns_nm_0766"
+msgstr "록 인 더 웨딩"
+
+msgid "sns_nm_0767"
+msgstr "베이스를 든 신부"
+
+msgid "sns_nm_0768"
+msgstr "밀레느의 미래 상대는?"
+
+msgid "sns_nm_0769"
+msgstr "셰릴의 요구"
+
+msgid "sns_nm_0770"
+msgstr "신부와… 신부?"
+
+msgid "sns_nm_0771"
+msgstr "드레스를 입는 사람은?"
+
+msgid "sns_nm_0772"
+msgstr "화해 대작전!"
+
+msgid "sns_nm_0773"
+msgstr "인연의 듀엣"
+
+msgid "sns_nm_0774"
+msgstr "적당한 긴장감"
+
+msgid "sns_nm_0775"
+msgstr "답례하고 싶어"
+
+msgid "sns_nm_0776"
+msgstr "최고의 방법"
+
+msgid "sns_nm_0777"
+msgstr "셰릴과 란카가 바라는 것"
+
+msgid "sns_nm_0778"
+msgstr "쿵후 걸 민메이"
+
+msgid "sns_nm_0779"
+msgstr "쿵후 걸 프레이아"
+
+msgid "sns_nm_0780"
+msgstr "민메이의 선물"
+
+msgid "sns_nm_0781"
+msgstr "해변에 내려온 여신들"
+
+msgid "sns_nm_0782"
+msgstr "오늘의 카메라 담당"
+
+msgid "sns_nm_0783"
+msgstr "미쿠모의 순정"
+
+msgid "sns_nm_0784"
+msgstr "물속의 인어들"
+
+msgid "sns_nm_0785"
+msgstr "문제 발생?"
+
+msgid "sns_nm_0786"
+msgstr "돌고래와 노래하면…"
+
+msgid "sns_nm_0787"
+msgstr "좋아해 줘서"
+
+msgid "sns_nm_0788"
+msgstr "음모?"
+
+msgid "sns_nm_0789"
+msgstr "성간비행"
+
+msgid "sns_nm_0790"
+msgstr "대사건 발생?"
+
+msgid "sns_nm_0791"
+msgstr "수영복과 앞치마"
+
+msgid "sns_nm_0792"
+msgstr "밀레느의 계획"
+
+msgid "sns_nm_0793"
+msgstr "프론티어의 할로윈"
+
+msgid "sns_nm_0794"
+msgstr "만약 레이나가 고양이라면?"
+
+msgid "sns_nm_0795"
+msgstr "분장하고 싶은 남자"
+
+msgid "sns_nm_0796"
+msgstr "영화 촬영 1일 차"
+
+msgid "sns_nm_0797"
+msgstr "갈매기들의 진실?"
+
+msgid "sns_nm_0798"
+msgstr "6번째 발키레"
+
+msgid "sns_nm_0799"
+msgstr "행복한 버스데이"
+
+msgid "sns_nm_0800"
+msgstr "시공을 초월한 선물"
+
+msgid "sns_nm_0801"
+msgstr "노래의 선물"
+
+msgid "sns_nm_0802"
+msgstr "보컬 쟁탈전!"
+
+msgid "sns_nm_0803"
+msgstr "위험하고 자극적인 라이브"
+
+msgid "sns_nm_0804"
+msgstr "콕콕, 욱신거리게 해버릴 테니까"
+
+msgid "sns_nm_0805"
+msgstr "메서 산타의 인기"
+
+msgid "sns_nm_0806"
+msgstr "전력을 다했던 그 시절"
+
+msgid "sns_nm_0807"
+msgstr "클레아와 리디, 그날의 발키레"
+
+msgid "sns_nm_0808"
+msgstr "최고의 크리스마스 라이브를"
+
+msgid "sns_nm_0809"
+msgstr "뛰어들어 버려!"
+
+msgid "sns_nm_0810"
+msgstr "하늘에서 노래하는 남자"
+
+msgid "sns_nm_0811"
+msgstr "셰릴의 진심"
+
+msgid "sns_nm_0812"
+msgstr "혼자인 건 싫어"
+
+msgid "sns_nm_0813"
+msgstr "혼자가 아니니까"
+
+msgid "sns_nm_0814"
+msgstr "레이나의 보물"
+
+msgid "sns_nm_0815"
+msgstr "걱정할 필요 없어"
+
+msgid "sns_nm_0816"
+msgstr "새로운 린 민메이 이야기"
+
+msgid "sns_nm_0817"
+msgstr "지너스 가문의 발렌타인"
+
+msgid "sns_nm_0818"
+msgstr "프레이아, 비밀 계획"
+
+msgid "sns_nm_0819"
+msgstr "진짜 마음을 담은 초콜릿"
+
+msgid "sns_nm_0820"
+msgstr "영화 『사랑은 도그파이트』"
+
+msgid "sns_nm_0821"
+msgstr "뜻밖의 출연자들"
+
+msgid "sns_nm_0822"
+msgstr "귀여움 경보!"
+
+msgid "sns_nm_0823"
+msgstr "어서 오세요, 여신님"
+
+msgid "sns_nm_0824"
+msgstr "미라쥬의 취미?"
+
+msgid "sns_nm_0825"
+msgstr "미쿠모는 보았다"
+
+msgid "sns_nm_0826"
+msgstr "천사 같은 프레이아"
+
+msgid "sns_nm_0827"
+msgstr "천사 같은 프레이아 Take2"
+
+msgid "sns_nm_0828"
+msgstr "천사의 그림물감으로…"
+
+msgid "sns_nm_0829"
+msgstr "러블리 봄버!"
+
+msgid "sns_nm_0830"
+msgstr "알토는 안 나와?"
+
+msgid "sns_nm_0831"
+msgstr "어서 와, 미호시 학원에!"
+
+msgid "sns_nm_0832"
+msgstr "라이브 후의 즐거움"
+
+msgid "sns_nm_0833"
+msgstr "발키레 나우!"
+
+msgid "sns_nm_0834"
+msgstr "새로운 일면"
+
+msgid "sns_nm_0835"
+msgstr "어서 오세요!"
+
+msgid "sns_nm_0836"
+msgstr "의심의 눈초리"
+
+msgid "sns_nm_0837"
+msgstr "레이나의 보물"
+
+msgid "sns_nm_0838"
+msgstr "바다의 행성"
+
+msgid "sns_nm_0839"
+msgstr "배의 수호자"
+
+msgid "sns_nm_0840"
+msgstr "제법 해냈잖아!"
+
+msgid "sns_nm_0841"
+msgstr "조사 결과 보고"
+
+msgid "sns_nm_0842"
+msgstr "발키리의 유령?"
+
+msgid "sns_nm_0843"
+msgstr "꿈, 바람, 그리고…"
+
+msgid "sns_nm_0844"
+msgstr "도그파이터들"
+
+msgid "sns_nm_0845"
+msgstr ""
+
+msgid "sns_nm_0846"
+msgstr "바람, 무중력, 그리고…"
+
+msgid "sns_nm_0847"
+msgstr "고마워 투어"
+
+msgid "sns_nm_0848"
+msgstr "프레이아와 밀레느의 밀담"
+
+msgid "sns_nm_0849"
+msgstr "꽃피는 사랑도 있어"
+
+msgid "sns_nm_0850"
+msgstr "밀레느의 걱정거리"
+
+msgid "sns_nm_0851"
+msgstr "비에 맞서다"
+
+msgid "sns_nm_0852"
+msgstr "하늘에서 내리는 LIGHT"
+
+msgid "sns_nm_0853"
+msgstr "노래에 담은 고마움"
+
+msgid "sns_nm_0854"
+msgstr "민메이가 모두에게"
+
+msgid "sns_nm_0855"
+msgstr "이제 혼자가 아니야"
+
+msgid "sns_nm_0856"
+msgstr "고민하는 레이나"
+
+msgid "sns_nm_0857"
+msgstr "레이나다운 전달 방식"
+
+msgid "sns_nm_0858"
+msgstr "서프라이즈야!"
+
+msgid "sns_nm_0860"
+msgstr "알 샤할의 추억"
+
+msgid "sns_nm_0861"
+msgstr "미라쥬의 주먹"
+
+msgid "sns_nm_0862"
+msgstr "차곡차곡 쌓여가는 것"
+
+msgid "sns_nm_0863"
+msgstr "메서 입대 당시의 추억"
+
+msgid "sns_nm_0864"
+msgstr "들려온 노래"
+
+msgid "sns_nm_0865"
+msgstr "다음 즐거움"
+
+msgid "sns_nm_0866"
+msgstr "셰릴과 해변"
+
+msgid "sns_nm_0867"
+msgstr "촬영 현장 뒤편"
+
+msgid "sns_nm_0868"
+msgstr "알토가 골라줄래?"
+
+msgid "sns_nm_0869"
+msgstr "마키나만이 할 수 있는 기술"
+
+msgid "sns_nm_0870"
+msgstr "단련된 스타일"
+
+msgid "sns_nm_0871"
+msgstr "여름의 추억"
+
+msgid "sns_nm_0872"
+msgstr "카타스미 파크에서"
+
+msgid "sns_nm_0873"
+msgstr "바사라의 추억"
+
+msgid "sns_nm_0874"
+msgstr "드디어 따라잡았나?"
+
+msgid "sns_nm_0875"
+msgstr "처음 만난 두 사람"
+
+msgid "sns_nm_0876"
+msgstr "마음에 울린 말"
+
+msgid "sns_nm_0877"
+msgstr "그저 기뻤을 뿐"
+
+msgid "sns_nm_0878"
+msgstr "무대 위의 생일"
+
+msgid "sns_nm_0879"
+msgstr "나중에 가져갈게"
+
+msgid "sns_nm_0880"
+msgstr "창문으로 받는 선물"
+
+msgid "sns_nm_0881"
+msgstr "레이나의 할로윈"
+
+msgid "sns_nm_0882"
+msgstr "마키나를 위해"
+
+msgid "sns_nm_0883"
+msgstr "레이나의 장난"
+
+msgid "sns_nm_0884"
+msgstr "닮은 사람들"
+
+msgid "sns_nm_0885"
+msgstr "미쿠모의 격려"
+
+msgid "sns_nm_0886"
+msgstr "미라쥬의 결의"
+
+msgid "sns_nm_0887"
+msgstr "밀레느의 불안"
+
+msgid "sns_nm_0888"
+msgstr "여행에서 얻는 것"
+
+msgid "sns_nm_0889"
+msgstr "평소의 바사라"
+
+msgid "sns_nm_0890"
+msgstr "하야테를 찾는 프레이아"
+
+msgid "sns_nm_0891"
+msgstr "파일럿 일은 파일럿에게"
+
+msgid "sns_nm_0892"
+msgstr "그때의 말"
+
+msgid "sns_nm_0893"
+msgstr "기억을 싣고 나는 종이비행기"
+
+msgid "sns_nm_0894"
+msgstr "날개에 바람을"
+
+msgid "sns_nm_0895"
+msgstr "은하에 노래를"
+
+msgid "sns_nm_0896"
+msgstr "크로스오버 라이브"
+
+msgid "sns_nm_0897"
+msgstr "라이브 중인 셰릴"
+
+msgid "sns_nm_0898"
+msgstr "호흡이 척척 맞는 두 사람"
+
+msgid "sns_nm_0899"
+msgstr "산타클로스는 없다?"
+
+msgid "sns_nm_0900"
+msgstr "눈사람과 미쿠모"
+
+msgid "sns_nm_0901"
+msgstr "서툰 크리스마스 선물"
+
+msgid "sns_nm_0902"
+msgstr ""
+
+msgid "sns_nm_0903"
+msgstr "카나메와 미쿠모의 라이온"
+
+msgid "sns_nm_0904"
+msgstr "바사라와 밀레느의 라이온"
+
+msgid "sns_nm_0905"
+msgstr "카운트다운"
+
+msgid "sns_nm_0906"
+msgstr "상태가 이상한 두 사람"
+
+msgid "sns_nm_0907"
+msgstr "프레이아의 첫 꿈"
+
+msgid "sns_nm_0908"
+msgstr "카나메, 새해의 만남"
+
+msgid "sns_nm_0909"
+msgstr "미스 마크로스를 향한 길"
+
+msgid "sns_nm_0910"
+msgstr "콘테스트의 뒷이야기"
+
+msgid "sns_nm_0911"
+msgstr "목표! 미스 마크로스"
+
+msgid "sns_nm_0912"
+msgstr "다같이 도쿄 스카이트리"
+
+msgid "sns_nm_0913"
+msgstr "도쿄 스카이트리 전망 회랑에서"
+
+msgid "sns_nm_0914"
+msgstr "스카이트리에 들려주는 노래"
+
+msgid "sns_nm_0915"
+msgstr "하늘 위 카페에서 만나기"
+
+msgid "sns_nm_0916"
+msgstr "셀프 프로듀스"
+
+msgid "sns_nm_0917"
+msgstr "나다운 노래를 부르는 것"
+
+msgid "sns_nm_0918"
+msgstr "상대할 수 없는 사람들"
+
+msgid "sns_nm_0919"
+msgstr "지너스 가문, 집합"
+
+msgid "sns_nm_0920"
+msgstr "바사라의 선물"
+
+msgid "sns_nm_0921"
+msgstr "가무린의 선물"
+
+msgid "sns_nm_0922"
+msgstr "발키레의 발렌타인"
+
+msgid "sns_nm_0923"
+msgstr "셰릴과 란카의 발렌타인"
+
+msgid "sns_nm_0924"
+msgstr "감사의 초콜릿"
+
+msgid "sns_nm_0925"
+msgstr "영화관에 가자!"
+
+msgid "sns_nm_0926"
+msgstr "레슨 중의 사건"
+
+msgid "sns_nm_0927"
+msgstr "미쿠모가 밝히는 진상"
+
+msgid "sns_nm_0928"
+msgstr "멈추지 않아"
+
+msgid "sns_nm_0929"
+msgstr "라이브에 오신 것을 환영합니다!"
+
+msgid "sns_nm_0930"
+msgstr "란카의 오빠"
+
+msgid "sns_nm_0931"
+msgstr "란카와 오즈마"
+
+msgid "sns_nm_0932"
+msgstr "란카의 상담"
+
+msgid "sns_nm_0933"
+msgstr "아이돌다움"
+
+msgid "sns_nm_0934"
+msgstr "민메이 직전"
+
+msgid "sns_nm_0935"
+msgstr "소악마?"
+
+msgid "sns_nm_0936"
+msgstr "너를 위한 라이브"
+
+msgid "sns_nm_0937"
+msgstr "아군이 가득"
+
+msgid "sns_nm_0938"
+msgstr "신비한 감각"
+
+msgid "sns_nm_0939"
+msgstr "미쿠모의 이상"
+
+msgid "sns_nm_0940"
+msgstr "기억 속의 여신"
+
+msgid "sns_nm_0941"
+msgstr "너희와 노래하고 싶어"
+
+msgid "sns_nm_0942"
+msgstr "파란만장 만우절"
+
+msgid "sns_nm_0943"
+msgstr "노래에 담긴 마음"
+
+msgid "sns_nm_0944"
+msgstr "슬픈 기억"
+
+msgid "sns_nm_0945"
+msgstr "벚꽃처럼"
+
+msgid "sns_nm_0946"
+msgstr "신비한 세계"
+
+msgid "sns_nm_0947"
+msgstr "비밀 편지"
+
+msgid "sns_nm_0948"
+msgstr "거짓된 세계의 너에게"
+
+msgid "sns_nm_0949"
+msgstr "초시공 유닛 라이브, 시작"
+
+msgid "sns_nm_0950"
+msgstr "개발까지의 여정"
+
+msgid "sns_nm_0951"
+msgstr "새로운 스테이지"
+
+msgid "sns_nm_0952"
+msgstr "엄마와 조카의 추궁"
+
+msgid "sns_nm_0953"
+msgstr "시빌"
+
+msgid "sns_nm_0954"
+msgstr "언젠가 어딘가에서"
+
+msgid "sns_nm_0955"
+msgstr "아름다운 알토 공주님"
+
+msgid "sns_nm_0956"
+msgstr "싸울수록 사이가 좋은 사람들"
+
+msgid "sns_nm_0957"
+msgstr "언젠가 같은 무대에서"
+
+msgid "sns_nm_0958"
+msgstr "추억에 남는 의상"
+
+msgid "sns_nm_0959"
+msgstr "카나메의 마음"
+
+msgid "sns_nm_0960"
+msgstr "솔직한 감상"
+
+msgid "sns_nm_0961"
+msgstr "팬이에요!"
+
+msgid "sns_nm_0962"
+msgstr "셰릴에게 배우는 것"
+
+msgid "sns_nm_0963"
+msgstr "셰릴의 반응"
+
+msgid "sns_nm_0964"
+msgstr "충격 고백…?"
+
+msgid "sns_nm_0965"
+msgstr "노래하면 되잖아"
+
+msgid "sns_nm_0966"
+msgstr "느끼는 대로"
+
+msgid "sns_nm_0967"
+msgstr "충격적인 사실"
+
+msgid "sns_nm_0968"
+msgstr "사건의 진상"
+
+msgid "sns_nm_0969"
+msgstr "너는 예전부터…"
+
+msgid "sns_nm_0970"
+msgstr "민메이 함장 탄생!?"
+
+msgid "sns_nm_0971"
+msgstr "우리 함장이라고 하면?"
+
+msgid "sns_nm_0972"
+msgstr "언젠가 그날이 온다면"
+
+msgid "sns_nm_0973"
+msgstr "예상 밖의 라이브"
+
+msgid "sns_nm_0974"
+msgstr "밀레느의 부탁"
+
+msgid "sns_nm_0975"
+msgstr "기분 내키는 대로!"
+
+msgid "sns_nm_0976"
+msgstr "결집 1주년!"
+
+msgid "sns_nm_0977"
+msgstr "충격의 한 장"
+
+msgid "sns_nm_0978"
+msgstr "왜냐하면 나는…"
+
+msgid "sns_nm_0979"
+msgstr "미라쥬가 본 것"
+
+msgid "sns_nm_0980"
+msgstr "내 수영복, 어땠어?"
+
+msgid "sns_nm_0981"
+msgstr "輝, 힘내다"
+
+msgid "sns_nm_0982"
+msgstr "바사라가 올 때까지"
+
+msgid "sns_nm_0983"
+msgstr "노래하는 사람과 성실한 사람"
+
+msgid "sns_nm_0984"
+msgstr "계속 넓어지는 교류"
+
+msgid "sns_nm_0985"
+msgstr "알토를 위한 발키리"
+
+msgid "sns_nm_0986"
+msgstr "델타 소대에도 도입?"
+
+msgid "sns_nm_0987"
+msgstr "두 사람을 태운 날개"
+
+msgid "sns_nm_0988"
+msgstr "사막의 무희"
+
+msgid "sns_nm_0989"
+msgstr "단 하나의 문제점"
+
+msgid "sns_nm_0990"
+msgstr "알토가 생각하는 셰릴 놈"
+
+msgid "sns_nm_0991"
+msgstr "비밀의 파자마 파티!"
+
+msgid "sns_nm_0992"
+msgstr "비밀스러운 사랑 이야기"
+
+msgid "sns_nm_0993"
+msgstr "그건 비밀이야?"
+
+msgid "sns_nm_0994"
+msgstr "마키나를 지키자 대작전"
+
+msgid "sns_nm_0995"
+msgstr "마키나의 큰일"
+
+msgid "sns_nm_0996"
+msgstr "다 함께 발키레"
+
+msgid "sns_nm_0997"
+msgstr "초시공 노래 대결!"
+
+msgid "sns_nm_0998"
+msgstr "드림 매치?"
+
+msgid "sns_nm_0999"
+msgstr "뜨거운 마음을 노래에 담아"
+
+msgid "sns_nm_1000"
+msgstr "초시공 코디네이트"
+
+msgid "sns_nm_1001"
+msgstr "두근두근 설레는 기획"
+
+msgid "sns_nm_1002"
+msgstr "새로운 나를 향해"
+
+msgid "sns_nm_1003"
+msgstr "발키리를 타고"
+
+msgid "sns_nm_1004"
+msgstr "푸른 여행길"
+
+msgid "sns_nm_1005"
+msgstr "웃는 얼굴을 보여줘"
+
+msgid "sns_nm_1006"
+msgstr "설렘이 가득"
+
+msgid "sns_nm_1007"
+msgstr "할로윈의 꿈"
+
+msgid "sns_nm_1008"
+msgstr "할로윈 파티 라이브"
+
+msgid "sns_nm_1009"
+msgstr "도전!"
+
+msgid "sns_nm_1010"
+msgstr "라이브 연출안"
+
+msgid "sns_nm_1011"
+msgstr "포기하지 않아"
+
+msgid "sns_nm_1012"
+msgstr "반성회?"
+
+msgid "sns_nm_1013"
+msgstr "룬피카한 하루"
+
+msgid "sns_nm_1014"
+msgstr "내일부터 다시…"
+
+msgid "sns_nm_1015"
+msgstr "반짝이는 거리"
+
+msgid "sns_nm_1016"
+msgstr "카나메의 아이디어"
+
+msgid "sns_nm_1017"
+msgstr "너도 분명 누군가의 요정"
+
+msgid "sns_nm_1018"
+msgstr "성야의 초대장"
+
+msgid "sns_nm_1019"
+msgstr "서프라이즈 선물"
+
+msgid "sns_nm_1020"
+msgstr "시작의 신호"
+
+msgid "sns_nm_1021"
+msgstr "라이브, 시작"
+
+msgid "sns_nm_1022"
+msgstr "연말 라이브의 테마"
+
+msgid "sns_nm_1023"
+msgstr "하고 싶은 것, 전부"
+
+msgid "sns_nm_1024"
+msgstr "루카의 걱정"
+
+msgid "sns_nm_1025"
+msgstr "어른의 매력"
+
+msgid "sns_nm_1026"
+msgstr "셰릴의 레슨"
+
+msgid "sns_nm_1027"
+msgstr "여신의 날갯짓"
+
+msgid "sns_nm_1028"
+msgstr "카나메의 행선지는?"
+
+msgid "sns_nm_1029"
+msgstr "바사라의 경험담"
+
+msgid "sns_nm_1030"
+msgstr "데카르차한 항구 마을?"
+
+msgid "sns_nm_1031"
+msgstr "다시 한번, 그곳에서"
+
+msgid "sns_nm_1032"
+msgstr "발키레는 배신하지 않아"
+
+msgid "sns_nm_1033"
+msgstr "특별 출연"
+
+msgid "sns_nm_1034"
+msgstr "호흡을 맞추다"
+
+msgid "sns_nm_1035"
+msgstr "알토의 부탁"
+
+msgid "sns_nm_1036"
+msgstr "당일"
+
+msgid "sns_nm_1037"
+msgstr "방과 후 데이트"
+
+msgid "sns_nm_1038"
+msgstr "새로운 발상"
+
+msgid "sns_nm_1039"
+msgstr "몰래…?"
+
+msgid "sns_nm_1040"
+msgstr "깜짝 참가"
+
+msgid "sns_nm_1041"
+msgstr "밀레느다움"
+
+msgid "sns_nm_1042"
+msgstr "프레이아의 악기"
+
+msgid "sns_nm_1043"
+msgstr "선택한 이유"
+
+msgid "sns_nm_1044"
+msgstr "초시공 음악제"
+
+msgid "sns_nm_1045"
+msgstr "셰릴의 고민"
+
+msgid "sns_nm_1046"
+msgstr "넘고 싶은 존재"
+
+msgid "sns_nm_1047"
+msgstr "둘 다 나 자신"
+
+msgid "sns_nm_1048"
+msgstr "분위기를 띄우고 싶어!"
+
+msgid "sns_nm_1049"
+msgstr "발키레의 아이디어"
+
+msgid "sns_nm_1050"
+msgstr "라이브 당일"
+
+msgid "sns_nm_1051"
+msgstr "씁쓸한 추억"
+
+msgid "sns_nm_1052"
+msgstr "그리운 힘든 나날"
+
+msgid "sns_nm_1053"
+msgstr "리벤지"
+
+msgid "sns_nm_1054"
+msgstr "바로 상담!"
+
+msgid "sns_nm_1055"
+msgstr "엄격한 조언?"
+
+msgid "sns_nm_1056"
+msgstr "소중히 여기는 것"
+
+msgid "sns_nm_1057"
+msgstr ""
+
+msgid "sns_nm_1058"
+msgstr "제안이 있어!"
+
+msgid "sns_nm_1059"
+msgstr "어울리는 연출"
+
+msgid "sns_nm_1060"
+msgstr "바다에서의 한때"
+
+msgid "sns_nm_1061"
+msgstr "해중 릴랙세이션"
+
+msgid "sns_nm_1062"
+msgstr "끝까지 관철한 모습"
+
+msgid "sns_nm_1063"
+msgstr "치어리더"
+
+msgid "sns_nm_1064"
+msgstr "응원하고 싶은 사람에게"
+
+msgid "sns_nm_1065"
+msgstr "더욱 진화를"
+
+msgid "sns_nm_1066"
+msgstr "작전 대회의"
+
+msgid "sns_nm_1067"
+msgstr "고집스러운 의상"
+
+msgid "sns_nm_1068"
+msgstr "하야테의 기발한 생각"
+
+msgid "sns_nm_1069"
+msgstr "놀라운 투어"
+
+msgid "sns_nm_1070"
+msgstr "투어 계획"
+
+msgid "sns_nm_1071"
+msgstr "견학을 마치고"
+
+msgid "sns_nm_1072"
+msgstr "두근두근 체험 입학"
+
+msgid "sns_nm_1073"
+msgstr "즐거운 학교생활"
+
+msgid "sns_nm_1074"
+msgstr "방과 후의 즐거움"
+
+msgid "sns_nm_1075"
+msgstr "의상안 발표"
+
+msgid "sns_nm_1076"
+msgstr "조용히, 몰래"
+
+msgid "sns_nm_1077"
+msgstr "의상 이미지"
+
+msgid "sns_nm_1078"
+msgstr "고집불통 바사라"
+
+msgid "sns_nm_1079"
+msgstr "천재적인 제안"
+
+msgid "sns_nm_1080"
+msgstr "티 파티"
+
+msgid "sns_nm_1081"
+msgstr "상담하러 왔어요!"
+
+msgid "sns_nm_1082"
+msgstr "카나메의 답"
+
+msgid "sns_nm_1083"
+msgstr "바사라의 조언"
+
+msgid "sns_nm_1084"
+msgstr ""
+
+msgid "sns_nm_1085"
+msgstr "샤론 애플"
+
+msgid "sns_nm_1086"
+msgstr "낙원"
+
+msgid "sns_nm_1087"
+msgstr "스페셜 응원 라이브"
+
+msgid "sns_nm_1088"
+msgstr "델타 소대로부터"
+
+msgid "sns_nm_1089"
+msgstr "깜짝·놀람"
+
+msgid "sns_nm_1090"
+msgstr "새로운 조합"
+
+msgid "sns_nm_1091"
+msgstr "새로운 크리스마스"
+
+msgid "sns_nm_1092"
+msgstr "귀여운 것만이 아니야"
+
+msgid "sns_nm_1093"
+msgstr "작전 회의"
+
+msgid "sns_nm_1094"
+msgstr "작전, 개시"
+
+msgid "sns_nm_1095"
+msgstr "5명이서 발키레"
+
+msgid "sns_nm_1096"
+msgstr "함께 생각하자"
+
+msgid "sns_nm_1097"
+msgstr "추억의 냥냥"
+
+msgid "sns_nm_1098"
+msgstr "냥냥 라이브"
+
+msgid "sns_nm_1099"
+msgstr "상담할 일"
+
+msgid "sns_nm_1100"
+msgstr "만약의 이야기"
+
+msgid "sns_nm_1101"
+msgstr "믿고 있어"
+
+msgid "sns_nm_1102"
+msgstr "요리하기"
+
+msgid "sns_nm_1103"
+msgstr "애틋한 마음"
+
+msgid "sns_nm_1104"
+msgstr "초콜릿의 행방"
+
+msgid "sns_nm_1105"
+msgstr "아이스 스케이트"
+
+msgid "sns_nm_1106"
+msgstr "연습 풍경"
+
+msgid "sns_nm_1107"
+msgstr "추위를 즐기기 위해"
+
+msgid "sns_nm_1108"
+msgstr "상담"
+
+msgid "sns_nm_1109"
+msgstr "뜻밖의 조력자"
+
+msgid "sns_nm_1110"
+msgstr "뜻밖의 콜라보레이션"
+
+msgid "sns_nm_1111"
+msgstr "즐거운 휴가"
+
+msgid "sns_nm_1112"
+msgstr "레이의 작전"
+
+msgid "sns_nm_1113"
+msgstr "다음 약속"
+
+msgid "sns_nm_1114"
+msgstr "어느 행성으로부터"
+
+msgid "sns_nm_1115"
+msgstr "필요한 것"
+
+msgid "sns_nm_1116"
+msgstr "여행의 이유"
+
+msgid "sns_nm_1117"
+msgstr "분석"
+
+msgid "sns_nm_1118"
+msgstr "집합"
+
+msgid "sns_nm_1119"
+msgstr "협력"
+
+msgid "sns_nm_1120"
+msgstr "기억의 조각"
+
+msgid "sns_nm_1121"
+msgstr "폭주의 원인"
+
+msgid "sns_nm_1122"
+msgstr "부정적인 감정의 기억"
+
+msgid "sns_nm_1123"
+msgstr "대규모 작전"
+
+msgid "sns_nm_1124"
+msgstr "우리가 할 수 있는 것"
+
+msgid "sns_nm_1125"
+msgstr "파일럿들의 심경"

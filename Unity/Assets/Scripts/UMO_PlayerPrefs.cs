@@ -70,6 +70,11 @@ public static class UMO_PlayerPrefs
             return stringValues[key];
         return defaultValue;
     }
+    public static bool HasString(string key)
+    {
+        CheckLoad();
+        return stringValues.ContainsKey(key);
+    }
     public static void Save()
     {
         SetInt("version", version);

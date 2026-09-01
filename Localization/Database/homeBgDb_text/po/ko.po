@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Language: ko\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "homebg_0000_name"
+msgstr "연말연시 특별 이벤트(연말)"
+
+msgid "homebg_0001_name"
+msgstr "연말연시 특별 이벤트(연초)"
+
+msgid "homebg_0002_name"
+msgstr "도쿄 스카이트리 콜라보"
+
+msgid "homebg_0003_name"
+msgstr "연초 BGM 변경"
+
+msgid "homebg_0004_name"
+msgstr "냥냥제~수영복 가챠 종료"
+
+msgid "homebg_0005_name"
+msgstr "2018-2019 연말연시 냥냥제"
+
+msgid "homebg_0006_name"
+msgstr "냥냥제"
+
+msgid "homebg_0007_name"
+msgstr "2019-2020 연말연시 냥냥제"
+
+msgid "homebg_0008_name"
+msgstr "3주년 냥냥제"
+
+msgid "homebg_0009_name"
+msgstr "2021-2022 연말연시 냥냥제"
+
+msgid "homebg_0010_name"
+msgstr "브리핑 룸"
+
+msgid "homebg_0011_name"
+msgstr "그리피스 파크"
+
+msgid "homebg_0012_name"
+msgstr "악쇼의 아파트"
+
+msgid "homebg_0013_name"
+msgstr "중화요리점 냥냥"
+
+msgid "homebg_0014_name"
+msgstr "4주년 냥냥제"
+
+msgid "homebg_0015_name"
+msgstr "왈큐레 라이브"
+
+msgid "homebg_0016_name"
+msgstr "딥 아키하바라"
+
+msgid "homebg_0017_name"
+msgstr "바쥬라 본성"
+
+msgid "homebg_0018_name"
+msgstr "매지컬 봄버랜드"

@@ -1,0 +1,1234 @@
+msgid ""
+msgstr ""
+"Language: ko\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "saka_error0000"
+msgstr "에러가 발생했습니다."
+
+msgid "saka_error0001"
+msgstr "에러가 발생했습니다.\\n잠시 후 다시 시도해 주세요."
+
+msgid "saka_error0002"
+msgstr "통신 에러가 발생했습니다.\\n인터넷 연결 및 전파 상태를 확인하시기 바랍니다."
+
+msgid "saka_error0003"
+msgstr "통신 에러가 발생했습니다.\\n인터넷 연결 및 전파 상태를 확인하고,\\n다시 시도해 주세요.\\n취소하면 타이틀 화면으로 돌아갑니다."
+
+msgid "saka_error0004"
+msgstr "파일을 찾을 수 없습니다."
+
+msgid "saka_error0005"
+msgstr "해당하는 공지를 찾을 수 없습니다."
+
+msgid "saka_error0006"
+msgstr "현재 구매하실 수 없습니다."
+
+msgid "saka_error0007"
+msgstr "더 이상 구매할 수 없습니다."
+
+msgid "saka_error0008"
+msgstr "구매에 실패했습니다."
+
+msgid "saka_error0009"
+msgstr "이미 사용한 코드입니다."
+
+msgid "saka_error0010"
+msgstr "사용할 수 없는 코드입니다."
+
+msgid "saka_error0011"
+msgstr "에러가 발생했습니다.\\n앱을 다시 시작해 주세요."
+
+msgid "saka_error0012"
+msgstr "사용할 수 없는 단어가 포함되어 있습니다."
+
+msgid "saka_error0013"
+msgstr "플레이어를 찾을 수 없습니다."
+
+msgid "saka_error0014"
+msgstr "이미 수령했습니다."
+
+msgid "saka_error0015"
+msgstr "수령에 실패했습니다."
+
+msgid "saka_error0016"
+msgstr "친구를 찾을 수 없습니다."
+
+msgid "saka_error0017"
+msgstr "차단 목록에 등록되어 있어 친구 신청이 거부되었습니다."
+
+msgid "saka_error0018"
+msgstr "친구 신청을 할 수 없습니다."
+
+msgid "saka_error0019"
+msgstr "친구를 거부하는 플레이어입니다."
+
+msgid "saka_error0020"
+msgstr "이미 친구 신청을 했습니다."
+
+msgid "saka_error0021"
+msgstr "상대방의 친구 수가 상한선에 도달했습니다."
+
+msgid "saka_error0022"
+msgstr "친구 수가 상한선에 도달했습니다."
+
+msgid "saka_error0023"
+msgstr "초대 코드는 사용할 수 없습니다."
+
+msgid "saka_error0024"
+msgstr "자신의 초대 코드는 사용할 수 없습니다."
+
+msgid "saka_error0025"
+msgstr "이미 초대 코드를 사용하고 있습니다."
+
+msgid "saka_error0026"
+msgstr "이 초대 코드는 사용할 수 없습니다."
+
+msgid "saka_error0027"
+msgstr "이 플레이어의 초대 코드는 사용할 수 없습니다."
+
+msgid "saka_error0028"
+msgstr "메시지를 찾을 수 없습니다."
+
+msgid "saka_error0029"
+msgstr "페이스북 연동이 불가능합니다."
+
+msgid "saka_error0030"
+msgstr "페이스북 연동 절차에 실패했습니다."
+
+msgid "saka_error0031"
+msgstr "이미 종료된 랭킹입니다."
+
+msgid "saka_error0032"
+msgstr "랭킹을 찾을 수 없습니다."
+
+msgid "saka_error0033"
+msgstr "랭킹이 아직 시작되지 않았습니다."
+
+msgid "saka_error0034"
+msgstr "현재 집계 중입니다."
+
+msgid "saka_error0035"
+msgstr "랭킹에 참여하지 않았거나 순위권에 들지 못했습니다."
+
+msgid "saka_error0036"
+msgstr "랭킹이 개최되지 않았습니다."
+
+msgid "saka_error0037"
+msgstr "기간이 지나서 받지 못했습니다."
+
+msgid "saka_error0038"
+msgstr "집계 중입니다."
+
+msgid "saka_error0039"
+msgstr "이 인계 코드는 사용할 수 없습니다."
+
+msgid "saka_error0040"
+msgstr "구매 절차에 실패했습니다."
+
+msgid "saka_error0041"
+msgstr "구매에 실패했습니다.설정을 확인한 후 다시 시도해 주세요."
+
+msgid "saka_error0042"
+msgstr "에러가 발생했습니다. 게임을 다시 시작해 주세요."
+
+msgid "saka_error0043"
+msgstr "구매 정보가 유효하지 않습니다."
+
+msgid "saka_error0044"
+msgstr "미정의"
+
+msgid "saka_error0045"
+msgstr "구매할 수 없습니다."
+
+msgid "saka_error0046"
+msgstr "구매가 취소되었습니다."
+
+msgid "saka_error0047"
+msgstr "푸시 알림을 사용할 수 없습니다."
+
+msgid "saka_error0048"
+msgstr "푸시 알림을 사용할 수 없습니다.\\n푸시 알림 설정을 확인한 후 다시 시도해 보세요."
+
+msgid "saka_error0049"
+msgstr "잘못된 입력입니다."
+
+msgid "saka_error0050"
+msgstr "새로운 버전의 앱이 스토어에서 제공되고 있습니다.\\n앱을 업데이트하기 위해 스토어를 엽니다."
+
+msgid "saka_error0051"
+msgstr "이미 게임 정보가 존재합니다."
+
+msgid "saka_error0052"
+msgstr "인계가 제한되어 있습니다."
+
+msgid "saka_error0053"
+msgstr "잠겨 있습니다. 잠시 후 다시 시도해 보세요."
+
+msgid "saka_error0054"
+msgstr "스레드를 찾을 수 없습니다."
+
+msgid "saka_error0055"
+msgstr "댓글을 찾을 수 없습니다."
+
+msgid "saka_error0056"
+msgstr "권한이 없습니다."
+
+msgid "saka_error0057"
+msgstr "더 이상 게시할 수 없습니다."
+
+msgid "saka_error0058"
+msgstr "현재 점검 중입니다."
+
+msgid "saka_error0059"
+msgstr "현재 이 계정으로는\\n로그인할 수 없습니다.\\n이유를 알 수 없는 경우\\n문의 부탁드립니다."
+
+msgid "saka_error0060"
+msgstr "현재 이 계정으로는 사용할 수 없습니다."
+
+msgid "saka_error0061"
+msgstr "받을 수 있는 랭킹 보상이 없습니다."
+
+msgid "saka_error0062"
+msgstr "더 이상 이용할 수 없습니다."
+
+msgid "saka_error0063"
+msgstr "구입할 수 없습니다."
+
+msgid "saka_error0064"
+msgstr "구매가 정지된 상태입니다."
+
+msgid "saka_error0065"
+msgstr "생일을 등록해 주세요."
+
+msgid "saka_error0066"
+msgstr "길드에 속하지 않음"
+
+msgid "saka_error0067"
+msgstr "지정된 ID의 길드가 존재하지 않음"
+
+msgid "saka_error0068"
+msgstr "길드원이 상한에 도달했습니다."
+
+msgid "saka_error0069"
+msgstr "이용할 수 없습니다."
+
+msgid "saka_error0070"
+msgstr "서비스 대상 외 지역에서 액세스를 하였으므로 이용하실 수 없습니다."
+
+msgid "saka_error0071"
+msgstr "에러가 발생했습니다."
+
+msgid "saka_error0072"
+msgstr "에러가 발생했습니다."
+
+msgid "saka_error0073"
+msgstr "에러가 발생했습니다."
+
+msgid "saka_error0074"
+msgstr "에러가 발생했습니다."
+
+msgid "saka_error0075"
+msgstr "에러가 발생했습니다."
+
+msgid "saka_error0076"
+msgstr "에러가 발생했습니다."
+
+msgid "saka_error0077"
+msgstr "에러가 발생했습니다."
+
+msgid "saka_error0078"
+msgstr "에러가 발생했습니다."
+
+msgid "saka_error0079"
+msgstr "에러가 발생했습니다."
+
+msgid "saka_error0080"
+msgstr "에러가 발생했습니다."
+
+msgid "saka_error0081"
+msgstr "에러가 발생했습니다."
+
+msgid "saka_error0082"
+msgstr "더 이상 스텝 업 가챠를 할 수 없습니다."
+
+msgid "saka_error0083"
+msgstr "X 연동 절차에 실패했습니다."
+
+msgid "saka_error0084"
+msgstr "X 연동이 불가능합니다."
+
+msgid "saka_error0085"
+msgstr "LINE 연동이 불가능합니다."
+
+msgid "saka_error0086"
+msgstr "LINE 연동 절차에 실패했습니다."
+
+msgid "saka_error0087"
+msgstr "LINE 연동 절차에 실패했습니다."
+
+msgid "saka_error0088"
+msgstr "이벤트 랭킹 BAN(임시)"
+
+msgid "saka_error0089"
+msgstr "게스트 플레이어가 없거나 종료 플래그가 설정되지 않은 레이드 보스가 존재하기 때문에 다음 멀티 배틀을 시작할 수 없는 상태입니다."
+
+msgid "saka_error0090"
+msgstr "%s은(는) 이미 조우했습니다."
+
+msgid "saka_error0091"
+msgstr "%s와 조우할 수 없었습니다."
+
+msgid "saka_error0092"
+msgstr "%s과 조우할 수 있는 기간이 지났습니다."
+
+msgid "saka_error0093"
+msgstr "%s의 %s이 너무 낮습니다."
+
+msgid "saka_error0094"
+msgstr "플레이어 취소, Google 측 서버 문제, Google API 설정 오류 등으로 로그인에 실패했습니다"
+
+msgid "saka_error0095"
+msgstr "GameCenter 계정 정보 확인에 오류가 발생했습니다"
+
+msgid "saka_error0096"
+msgstr "다른 GameCenter 계정과 연결됨"
+
+msgid "saka_error0097"
+msgstr "GameCenter 계정이 현재 플레이어 이외의 플레이어와 연결됨"
+
+msgid "saka_error0098"
+msgstr "기기의 GameCenter 기능이 사용 중지되었습니다"
+
+msgid "saka_error0099"
+msgstr "GameCenter 기능으로 시스템 오류가 발생했습니다"
+
+msgid "saka_error0100"
+msgstr "플레이어가 GameCenter 연동을 하지 않음"
+
+msgid "saka_error0101"
+msgstr "JWT ID 토큰 verify 실패"
+
+msgid "saka_error0102"
+msgstr "티켓 수가 부족함"
+
+msgid "saka_error0103"
+msgstr "해당 플레이어 데이터가 존재하지 않음"
+
+msgid "saka_error0104"
+msgstr "GMTool에서 Crow 전용 설정이 설정되지 않음"
+
+msgid "saka_error0105"
+msgstr "현재 플레이어에 지정된 UDKEY, GDKEY와 다른 UDKEY, GDKEY가 연결되어 있음"
+
+msgid "saka_error0106"
+msgstr "이미 다른 플레이어에게 지정된 UDKEY, GDKEY가 연결되어 있음"
+
+msgid "saka_error0107"
+msgstr "iOS, Android의 최소 작동 버전이 설정되지 않음"
+
+msgid "saka_error0108"
+msgstr "Crow의 API 서버에서 오류가 반환됨"
+
+msgid "saka_error0109"
+msgstr "지정된 UDKEY가 잘못됨"
+
+msgid "saka_error0110"
+msgstr "지정된 GDKEY가 잘못됨"
+
+msgid "saka_error0111"
+msgstr "사용중인 iOS는 Sign in with Apple과 호환되지 않습니다.\\niOS13 이상으로 업데이트하여 사용해 보세요."
+
+msgid "saka_error0112"
+msgstr "Apple ID 확인에 오류가 발생했습니다."
+
+msgid "saka_error0113"
+msgstr "다른 Apple ID로 연동되어 있습니다."
+
+msgid "saka_error0114"
+msgstr "Apple ID가 다른 플레이어와 연동되어 있습니다."
+
+msgid "saka_error0115"
+msgstr "Sign in with Apple에서 시스템 오류가 발생했습니다."
+
+msgid "saka_error0116"
+msgstr "Sign in with Apple을 통한 Apple ID 연동을 하지 않았습니다."
+
+msgid "saka_error0117"
+msgstr "지정한 고유 키의 다중 가상 통화 스텝 업 가챠가 존재하지 않음"
+
+msgid "saka_error0118"
+msgstr "지정한 가상화폐 ID의 가상화폐가 존재하지 않음"
+
+msgid "saka_error0119"
+msgstr "다중 가상화폐 스텝 업 가챠의 총 실행 횟수 제한에 도달했음"
+
+msgid "saka_error0120"
+msgstr "지정된 가상화폐 ID가 고유하고 30건을 초과함"
+
+msgid "saka_error0121"
+msgstr "지정한 고유키가 30건을 초과함"
+
+msgid "saka_error0122"
+msgstr "지정한 고유키의 일일 업적이 존재하지 않음"
+
+msgid "saka_error0123"
+msgstr "수령 횟수가 수령 한도 횟수를 초과하는 일일 업적이 지정됨"
+
+msgid "saka_error0124"
+msgstr "난입 가능한 레이드 보스가 존재하지 않았다."
+
+msgid "saka_error0125"
+msgstr "지정된 상품 ID가 고유하고 30건을 초과함"
+
+msgid "saka_error0126"
+msgstr "보류중인 거래가 발생, 결제는 아직 완료되지 않음"
+
+msgid "saka_error0127"
+msgstr "보류 중인 거래가 있고, 아직 결제가 완료되지 않음"
+
+msgid "saka_error0128"
+msgstr "잘못된 상품 ID(ID 중복)가 지정되었음"
+
+msgid "update_error0000"
+msgstr "데이터는 최신 상태입니다."
+
+msgid "update_error0001"
+msgstr "새로운 데이터를 찾았습니다.\\n타이틀 화면으로 돌아갑니다."
+
+msgid "update_error0002"
+msgstr "새로운 다운로드 데이터를 찾았습니다.\\n타이틀 화면으로 돌아갑니다."
+
+msgid "game_popup_pause_title"
+msgstr "일시정지 중"
+
+msgid "game_popup_pause_text"
+msgstr "악곡 이름\\n{0}\\n\\n난이도\\n{1}"
+
+msgid "game_popup_continue_title"
+msgstr "이어하기 확인"
+
+msgid "game_popup_continue_text"
+msgstr "가정석을 {0}개 소모하여\\n이어서 플레이합니다.\\n\\n<color=#C8087E>가정석 {1}→{2}</color>"
+
+msgid "game_popup_continue_text_01"
+msgstr "이어서 하시겠습니까?"
+
+msgid "game_popup_continue_shotage_text"
+msgstr "이어하기를 진행하기 위한 가정석이 부족합니다.\\n가정석을 구매하시겠습니까?"
+
+msgid "game_popup_continue_story_text"
+msgstr "이어서 하시겠습니까?\\n<color=#C8087E>※가정석은 소모되지 않습니다. </color>"
+
+msgid "game_popup_retire_title"
+msgstr "리타이어 확인"
+
+msgid "game_popup_retire_text"
+msgstr "리타이어하면 보상을 받을 수 없습니다.\\n\\n괜찮으시겠습니까?"
+
+msgid "game_popup_retire_text_battle"
+msgstr "리타이어하면 보상을 받을 수 없습니다.\\n괜찮으시겠습니까?\\n\\n<color=#8e0529>※EX 배틀의 경우 EX 게이지가 초기화됩니다. </color>"
+
+msgid "game_popup_retire_text_godiva"
+msgstr "리타이어하면 보상을 받을 수 없습니다.\\n괜찮으시겠습니까?\\n\\n<color=#8e0529>※스페셜 라이브의 경우\\n라이브 보너스는 사라집니다. </color>"
+
+msgid "game_popup_retire_story_text"
+msgstr "리타이어하시겠습니까?"
+
+msgid "game_popup_skip_title"
+msgstr "스킵 확인"
+
+msgid "game_popup_skip_story_text"
+msgstr "스킵하시겠습니까?"
+
+msgid "game_tutorial_skip_title"
+msgstr "스킵 확인"
+
+msgid "game_tutorial_skip_text"
+msgstr "라이브를 스킵하고\\n다음 단계로 넘어가시겠습니까?"
+
+msgid "mlv_unlock_00"
+msgstr "{0}의 가희 Lv {1} 달성"
+
+msgid "mlv_unlock_01"
+msgstr "{0}로\\n{1}의 가희 숙련도 {2} 달성"
+
+msgid "popup_inh_title_000"
+msgstr "SNS 연동 설정"
+
+msgid "popup_inh_sns_000"
+msgstr "각종 계정과 연동하여\\n플레이 데이터를 저장할 수 있습니다."
+
+msgid "popup_inh_sns_001"
+msgstr "※앱과 연동되어 있지 않은 경우, 앱을 삭제하면 플레이 데이터가 사라집니다."
+
+msgid "popup_inh_sns_002"
+msgstr "다음부터 표시하지 않음"
+
+msgid "popup_inh_sns_003"
+msgstr "30일 후에 다시 표시됩니다."
+
+msgid "popup_inh_title_001"
+msgstr "비밀번호 입력"
+
+msgid "popup_inh_pass_000"
+msgstr "플레이어 ID와 비밀번호를 입력하면\\n다른 기기에서 플레이하던 플레이 데이터를\\n이어받을 수 있습니다."
+
+msgid "popup_inh_pass_001"
+msgstr "비밀번호"
+
+msgid "popup_inh_title_002"
+msgstr "기종 변경 절차"
+
+msgid "popup_inh_title_003"
+msgstr "비밀번호 생성"
+
+msgid "popup_inh_pass_002"
+msgstr "데이터 이전 비밀번호를 발행합니다.\\n비밀번호는 잘 보관하고,\\n제3자에게 전달하거나 공개하지 마십시오.\\n\\n<color=#c8087e> ※비밀번호의 유효기간은 발행일로부터 1주일입니다.\\n이전이 완료된 비밀번호는 무효화 됩니다.</color>\\n"
+
+msgid "popup_inh_pass_003"
+msgstr "타이틀(메뉴)→데이터 인계→데이터 이전에서,\\n아래 플레이어 ID와 비밀번호를 입력하면,\\n플레이 데이터를 인계할 수 있습니다."
+
+msgid "popup_inh_pass_004"
+msgstr "플레이어 ID"
+
+msgid "popup_inh_title_004"
+msgstr "인계 완료"
+
+msgid "popup_inh_pass_success"
+msgstr "데이터 인계가 완료되었습니다.\\n타이틀 화면으로 돌아갑니다."
+
+msgid "popup_inh_title_005"
+msgstr "인계 실패"
+
+msgid "popup_inh_pass_success_no"
+msgstr "플레이어 ID 또는 비밀번호가 잘못되었습니다."
+
+msgid "popup_inh_pass_timeover"
+msgstr "비밀번호의 유효기간이 지났기 때문에 무효화되었습니다."
+
+msgid "popup_inh_pass_countover"
+msgstr "30일 이내에 3회 이상 인계를 할 수 없습니다."
+
+msgid "popup_inh_title_006"
+msgstr "플레이 데이터가 없습니다"
+
+msgid "popup_inh_nodata"
+msgstr "플레이 데이터가 없기 때문에\\n비밀번호를 발급할 수 없습니다."
+
+msgid "popup_inh_procedure"
+msgstr "데이터 인계 절차\\n\\n데이터를 인계할 경우에는 아래 절차를 따라주세요.\\n\\n1、현재 단말의 「데이터 인계」에 있는\\n　　「비밀번호 발급」에서 비밀번호를 발급하거나,\\n　　「SNS 연동」에서 SNS 중 하나와 연동해주세요.\\n\\n2、새 단말의 「데이터 인계」에 있는 「데이터 이전」에서\\n　　「비밀번호 입력」을 통해 기존 단말에서 발급한 비밀번호를 입력하거나,\\n　　「데이터 이전」에서 기존 단말과 연동한 SNS에 연동해주세요.\\n\\n\\n◆주의사항(필독)\\n\\n기존 단말에서 발급된 비밀번호의 유효기간은 1주일입니다.\\n기한이 지난 비밀번호는 사용할 수 없습니다.\\n기존 단말에서 다시 비밀번호를 발급해주세요.\\n비밀번호는 발급 버튼을 누를 때마다 갱신됩니다.\\n\\n비밀번호는 데이터를 인계하기 위한 중요한 정보입니다.\\n메모나 스크린샷 등으로 반드시 기록해두세요.\\n또한 제3자에게 알려주거나 공개할 경우\\n데이터를 인계하지 못할 가능성이 있습니다.\\n절대로 공개하지 않도록 주의해주세요.\\n\\n데이터 인계가 완료되면\\n기존 단말에서는 플레이할 수 없게 됩니다.\\n\\n데이터 인계를 하지 않고 앱을 삭제할 경우,\\n지금까지 플레이한 데이터는 사라집니다.\\n앱을 삭제할 때는 충분히 주의해주시기\\n바랍니다."
+
+msgid "popup_inh_desc001"
+msgstr "플레이어 ID를 입력해 주세요"
+
+msgid "popup_inh_desc002"
+msgstr "비밀번호를 입력해 주세요"
+
+msgid "popup_twitter_title"
+msgstr "X 연동"
+
+msgid "popup_facebook_title"
+msgstr "Facebook 연동"
+
+msgid "popup_line_title"
+msgstr "LINE 연동"
+
+msgid "popup_apple_title"
+msgstr "Apple ID 연동"
+
+msgid "popup_twitter_success"
+msgstr "X 연동을 실시했습니다.\\n다른 기기에서 플레이할 경우, 인계를 해주시기 바랍니다.\\n\\n<color=#c8087e>※X 측에서 우타 마크로스와의 「앱 연동」을\\n해제할 경우, 우타 마크로스 앱 상에\\n즉시 반영되지 않을 수 있습니다.\\n15분 이상 기다렸다가 확인하시기 바랍니다. </color> </color> </color> </color> </color> </color"
+
+msgid "popup_facebook_success"
+msgstr "페이스북 연동이 완료되었습니다.\\n다른 기기에서 플레이할 경우 인계를 해주시기 바랍니다."
+
+msgid "popup_line_success"
+msgstr "LINE 연동이 완료되었습니다.\\n다른 기기에서 플레이할 경우 인계를 해주시기 바랍니다."
+
+msgid "popup_apple_success"
+msgstr "Apple ID 연동이 완료되었습니다.\\n다른 기기에서 플레이할 경우 인계를 해주시기 바랍니다."
+
+msgid "popup_twitter_success_no"
+msgstr "X와의 연동이 실패했습니다."
+
+msgid "popup_facebook_success_no"
+msgstr "Facebook과의 연동이 실패했습니다."
+
+msgid "popup_line_success_no"
+msgstr "LINE과의 연동이 실패했습니다."
+
+msgid "popup_apple_success_no"
+msgstr "Apple ID와의 연동이 실패했습니다."
+
+msgid "popup_apple_cancel"
+msgstr "Apple ID와의 연동이 취소되었습니다."
+
+msgid "popup_window_inh_title"
+msgstr "데이터 인계"
+
+msgid "unlock_episode_reward"
+msgstr "에피소드 해방 {0} 달성!"
+
+msgid "popup_support_title"
+msgstr "서포트"
+
+msgid "popup_maintenance_title"
+msgstr "점검"
+
+msgid "popup_ban_title"
+msgstr "경고"
+
+msgid "popup_app_update_title"
+msgstr "앱 업데이트"
+
+msgid "popup_app_update_an"
+msgstr "새로운 앱 버전이 있습니다.\\nGoogle Play 스토어에서\\n업데이트를 진행해주세요.\\n업데이트에 실패할 경우, 단말기를 재부팅해 주시기 바랍니다."
+
+msgid "popup_app_update_ios"
+msgstr "새로운 앱 버전이 있습니다.\\nApp Store에서\\n업데이트를 진행해주세요.\\n업데이트에 실패할 경우, 단말기를 재부팅해 주시기 바랍니다."
+
+msgid "cache_clear_00"
+msgstr "게임 데이터를 삭제하고 데이터 복구를 수행합니다.\\n게임이 잘 실행되지 않는 경우 등에 시도해 보세요.\\n데이터 복구를 하시겠습니까?\\n\\n<color=#c8087e>※플레이 데이터는 삭제되지 않습니다.</color>"
+
+msgid "cache_clear_01"
+msgstr "데이터 복구가 완료되었습니다."
+
+msgid "cache_clear_02"
+msgstr "데이터 복구"
+
+msgid "cache_clear_03"
+msgstr "데이터 복구 완료"
+
+msgid "cache_clear_04"
+msgstr "데이터 복구가 완료되었습니다.\\n타이틀 화면으로 돌아갑니다."
+
+msgid "cache_clear_05"
+msgstr "데이터 복구 후 타이틀 화면에서\\n게임 데이터를 다시 다운로드합니다.\\n\\n<color=#c8087e>※다운로드에 시간이 걸릴 수 있으므로,\\nWi-Fi 환경을 권장합니다. 또한 다운로드 중에는\\n게임을 플레이할 수 없습니다.\\n※스토리지의 남은 용량에 따라서는,\\n게임 플레이를 재개하지 못할 가능성이 있습니다.</color>"
+
+msgid "popup_purchase_recover_title"
+msgstr "구매 프로세스 실행"
+
+msgid "popup_purchase_recover"
+msgstr "월간 패스 유효기간의 자동 갱신,\\n또는 통신 끊김 등으로 중단된 구매 처리가 있습니다.\\nOK를 탭하여 처리를 완료해주세요.\\n이 처리로 추가 구매가 발생하지는 않습니다."
+
+msgid "popup_purchase_recover_done_title"
+msgstr "구매 처리 성공"
+
+msgid "popup_purchase_recover_done"
+msgstr "구매 처리를 완료했습니다."
+
+msgid "popup_purchase_recover_none"
+msgstr "중단된 구매 처리를 찾을 수 없습니다."
+
+msgid "popup_purchase_recover_fail_title"
+msgstr "구매 처리 실패"
+
+msgid "popup_purchase_recover_fail"
+msgstr "구매 처리에 실패했습니다."
+
+msgid "popup_purchase_recover_manual"
+msgstr "통신 끊김 등으로 중단된 구매 처리를\\n완료할 수 있습니다.\\n이 과정에서 추가 구매는 발생하지 않습니다.\\n\\n구매 처리 완료를 실행하시겠습니까?"
+
+msgid "popup_purchase_recover_store_server_error_an"
+msgstr "오류가 발생했습니다.\\n\\n오류 코드：88"
+
+msgid "pp_mail_subject"
+msgstr "[우타 마크로스]인계용 비밀번호"
+
+msgid "pp_mail_body"
+msgstr "플레이어 ID：{0}\\n비밀번호：{1}\\n유효기간： {2}\\n"
+
+msgid "popup_inh_migration_desc"
+msgstr "플레이 데이터 이전 방법을 선택해주세요"
+
+msgid "popup_inh_migration_title"
+msgstr "데이터 이전"
+
+msgid "popup_title_amount_over"
+msgstr "구매 한도"
+
+msgid "popup_text_amount_over_15"
+msgstr "등록 연령이 {0}세 이하인 고객님\\n\\n유료 콘텐츠 구매는\\n월 {1}엔까지 가능합니다."
+
+msgid "popup_text_amount_over_1617"
+msgstr "등록 연령이 {0}세 이상 {1}세 이하인 고객님\\n\\n유료 콘텐츠 구매는\\n월 {2}엔까지 가능합니다."
+
+msgid "profile_diva001_age"
+msgstr "14세"
+
+msgid "profile_diva001_birthday"
+msgstr "11월 3일"
+
+msgid "profile_diva001_birthplace"
+msgstr "행성 윈더미어"
+
+msgid "profile_diva001_favorite"
+msgstr "노래하기, 사과"
+
+msgid "profile_diva001_description"
+msgstr "전술 음악 유닛 「왈큐레」를 동경해 고향을 뛰쳐나온 소녀. 천진난만한 성격으로 노래를 무척 좋아하지만 춤은 서툴다. 감정이 고조되면 머리의 「룬」이 빛난다. 독특한 억양으로 말하며 「기운 팍팍」이 입버릇이다."
+
+msgid "profile_diva002_age"
+msgstr "?세"
+
+msgid "profile_diva002_birthday"
+msgstr "8월 17일"
+
+msgid "profile_diva002_birthplace"
+msgstr "불명"
+
+msgid "profile_diva002_favorite"
+msgstr "은하 전역에 노래를 울려 퍼뜨리는 것"
+
+msgid "profile_diva002_description"
+msgstr "전술 음악 유닛 「왈큐레」의 에이스 보컬. 신원과 경력이 모두 수수께끼에 싸인 미스터리한 존재. 노래에 강한 고집을 보이며, 어떤 위기에 닥치더라도 결코 노래하기를 포기하지 않는다."
+
+msgid "profile_diva003_age"
+msgstr "22세"
+
+msgid "profile_diva003_birthday"
+msgstr "6월 8일"
+
+msgid "profile_diva003_birthplace"
+msgstr "행성 디바이드"
+
+msgid "profile_diva003_favorite"
+msgstr "어패류 별미"
+
+msgid "profile_diva003_description"
+msgstr "전술 음악 유닛 「왈큐레」의 리더. 스케줄 관리를 비롯해 팀 매니지먼트까지 해내는 야무진 성격. 왈큐레에 가입하기 전에는 솔로 아이돌로 활동했다."
+
+msgid "profile_diva004_age"
+msgstr "18세"
+
+msgid "profile_diva004_birthday"
+msgstr "4월 19일"
+
+msgid "profile_diva004_birthplace"
+msgstr "불명"
+
+msgid "profile_diva004_favorite"
+msgstr "메카, 팬시한 것"
+
+msgid "profile_diva004_description"
+msgstr "전술 음악 유닛 「왈큐레」의 멤버. 대대로 메카닉을 해온 집안에서 태어났으며, 본인 역시 일류 실력을 지닌 메카닉이다. 동료나 메카에 별명을 붙이는 버릇이 있다. 레이나와는 자매처럼 사이가 좋다."
+
+msgid "profile_diva005_age"
+msgstr "15세"
+
+msgid "profile_diva005_birthday"
+msgstr "7월 23일"
+
+msgid "profile_diva005_birthplace"
+msgstr "불명"
+
+msgid "profile_diva005_favorite"
+msgstr "괴식, 마이너한 것"
+
+msgid "profile_diva005_description"
+msgstr "전술 음악 유닛 「왈큐레」의 멤버. 독설가이며 감정을 좀처럼 겉으로 드러내지 않는다. 뛰어난 해커이기도 하며 전자 기술자로도 활약하고 있다. 마키나와는 한집에서 함께 살 정도로 사이가 좋다."
+
+msgid "profile_diva006_age"
+msgstr "15세"
+
+msgid "profile_diva006_birthday"
+msgstr "4월 29일"
+
+msgid "profile_diva006_birthplace"
+msgstr "제117차 조사선단"
+
+msgid "profile_diva006_favorite"
+msgstr "노래, 요리, 음악 감상"
+
+msgid "profile_diva006_description"
+msgstr "우연한 계기로 데뷔해 단숨에 인기 아이돌이 된 「초시공 신데렐라」. 마음씨 착하고 성실한 성격. 어렸을 때부터 노래하는 것을 좋아하고, 셰릴을 동경하는 마음을 품고 있다."
+
+msgid "profile_diva007_age"
+msgstr "공칭 17세"
+
+msgid "profile_diva007_birthday"
+msgstr "11월 23일"
+
+msgid "profile_diva007_birthplace"
+msgstr "마크로스 갤럭시 선단"
+
+msgid "profile_diva007_favorite"
+msgstr "요가, 스포츠짐 다니기"
+
+msgid "profile_diva007_description"
+msgstr "「이 은하에 살면서 셰릴의 노래를 듣지 않는 날은 없다」고 불리는 톱 싱어. 통칭 「은하의 요정」. 프로인 자신에게 자부심을 가지고 있으며, 계속 일류로 남기 위한 노력을 아끼지 않는다."
+
+msgid "profile_diva008_age"
+msgstr "14세"
+
+msgid "profile_diva008_birthday"
+msgstr "2월 2일"
+
+msgid "profile_diva008_birthplace"
+msgstr "우주공모 레드문"
+
+msgid "profile_diva008_favorite"
+msgstr "은하 드라이브, 가츠동, 피자"
+
+msgid "profile_diva008_description"
+msgstr "록 밴드 「Fire Bomber」의 보컬／베이스 담당. 일곱 자매 중 막내딸. 주눅 들지 않는 솔직한 성격이며, 어린애 취급받는 것을 싫어한다. 보컬리스트로서도 파일럿으로서도 바사라에게 뒤지지 않는 실력을 지녔다."
+
+msgid "profile_diva009_age"
+msgstr "21세"
+
+msgid "profile_diva009_birthday"
+msgstr "8월 15일"
+
+msgid "profile_diva009_birthplace"
+msgstr "불명"
+
+msgid "profile_diva009_favorite"
+msgstr "내 노래를 들려주는 것"
+
+msgid "profile_diva009_description"
+msgstr "록밴드 「Fire Bomber」의 보컬/기타 담당. 무엇보다 노래하는 것을 좋아하고, 다투는 것을 좋아하지 않는다. 입버릇은 「내 노래를 들어!」. 어떤 일이든 노래가 있으면 서로 이해할 수 있다고 생각한다."
+
+msgid "profile_diva010_age"
+msgstr "15세"
+
+msgid "profile_diva010_birthday"
+msgstr "10월 10일"
+
+msgid "profile_diva010_birthplace"
+msgstr "지구"
+
+msgid "profile_diva010_favorite"
+msgstr "홍차, 냥냥 라멘"
+
+msgid "profile_diva010_description"
+msgstr "후세에 전해지는 전설의 아이돌. 밝고 쾌활한 성격이지만 조금은 이기적인 면이 있다. 그녀의 매력과 노래는 인류와 전쟁 중이던 젠트라디마저도 매료시켜 그들의 문화를 되찾게 하는 계기가 되었다."
+
+msgid "popup_title_neterror"
+msgstr "통신 에러"
+
+msgid "popup_title_dateline"
+msgstr "날짜 변경"
+
+msgid "popup_datetile"
+msgstr "날짜가 변경되었습니다."
+
+msgid "popup_title_data"
+msgstr "데이터 갱신"
+
+msgid "popup_title_data_error"
+msgstr "서버 데이터 오류"
+
+msgid "popup_data_error"
+msgstr "서버에서 가져온 데이터에 이상이 있습니다.\\n타이틀 화면으로 돌아갑니다."
+
+msgid "popup_title_app_error"
+msgstr "애플리케이션 오류"
+
+msgid "popup_app_error"
+msgstr "애플리케이션에 이상이 있습니다."
+
+msgid "popup_app_error_stop"
+msgstr "애플리케이션에 이상이 있습니다.\\n게임을 정상적으로 실행할 수 없습니다."
+
+msgid "notify_comback_title"
+msgstr "메시지"
+
+msgid "notify_comback_01"
+msgstr "당신을 기다리고 있을게!"
+
+msgid "notify_comback_02"
+msgstr "슬슬 내 노래가 그리워진 거 아니야?"
+
+msgid "notify_comback_03"
+msgstr "네가 없으니 왠지 심심하네"
+
+msgid "notify_comback_04"
+msgstr "기다리고 있을 테니까 만나러 와줘~!"
+
+msgid "notify_comback_05"
+msgstr "못 만나니까 가슴이 따끔따끔…"
+
+msgid "notify_comback_06"
+msgstr "오랜만에 너랑 이야기하고 싶어!"
+
+msgid "notify_comback_07"
+msgstr "만나러 와, 기다리고 있을게"
+
+msgid "notify_comback_08"
+msgstr "슬슬 라이브 시작해! 빨리 와줘!"
+
+msgid "notify_comback_09"
+msgstr "내 노래, 빨리 들으러 와!"
+
+msgid "notify_comback_10"
+msgstr "있잖아, 오랜만에 만나지 않을래?"
+
+msgid "popup_ngword_error_title"
+msgstr "등록 오류"
+
+msgid "popup_ngword_error_message"
+msgstr "사용할 수 없는 단어가 포함되어 있습니다.\\n내용을 변경해주세요."
+
+msgid "popup_kiyaku_title"
+msgstr "약관 확인"
+
+msgid "popup_kiyaku_001"
+msgstr "이용약관에 동의하십니까?"
+
+msgid "popup_kiyaku_002"
+msgstr "우타 마크로스 스마트폰 De카르챠를 이용하기 위해서는\\n이용약관에 동의하셔야 합니다."
+
+msgid "popup_not_play_title"
+msgstr "플레이 불가"
+
+msgid "popup_not_play_001"
+msgstr "우타 마크로스 스마트폰 De컬처를 플레이하려면\\n「이용약관」에 동의해야 합니다."
+
+msgid "attention"
+msgstr "■주의■\\n미성년자가 이용할 경우 반드시 보호자의 동의가 필요합니다."
+
+msgid "popup_friend_limit_title"
+msgstr "친구 상한"
+
+msgid "popup_friend_limit_01"
+msgstr "친구 수가 상한에 도달했습니다."
+
+msgid "popup_friend_limit_02"
+msgstr "{0} 님의\\n친구 수가 상한에 도달했습니다."
+
+msgid "popup_already_send_title"
+msgstr "친구 신청 완료"
+
+msgid "popup_already_send_01"
+msgstr "{0} 님에게\\n이미 친구 신청을 보냈습니다."
+
+msgid "popup_accept_fail_title"
+msgstr "승인 실패"
+
+msgid "popup_accept_fail_01"
+msgstr "친구 승인에 실패했습니다."
+
+msgid "popup_already_friend_title"
+msgstr "친구 확인"
+
+msgid "popup_already_friend_01"
+msgstr "이미 친구입니다."
+
+msgid "popup_delete_request_fail_tilte"
+msgstr "친구 신청 취소 실패"
+
+msgid "popup_delete_request_fail_01"
+msgstr "이미 신청이 승인되었거나\\n거절되었기 때문에\\n신청을 취소할 수 없습니다."
+
+msgid "popup_present_expire_title"
+msgstr "수령 실패"
+
+msgid "popup_present_expire_01"
+msgstr "수령하려던 아이템의\\n수령 기한이 만료되었습니다.\\n\\n타이틀 화면으로 돌아갑니다.\\n"
+
+msgid "popup_present_expire_02"
+msgstr "수령하려던 아이템 중\\n수령 기한이 만료된 아이템이 있습니다.\\n\\n타이틀 화면으로 돌아갑니다.\\n"
+
+msgid "popup_purchase_limit_title"
+msgstr "구매 한도"
+
+msgid "popup_purchase_limit_01"
+msgstr "유료 가정석은 9999개를 초과하여\\n구매할 수 없습니다."
+
+msgid "popup_purchase_expire_title"
+msgstr "구매 실패"
+
+msgid "popup_purchase_expire_01"
+msgstr "판매 기간이 종료되었습니다.\\n구매하실 수 없습니다.\\n"
+
+msgid "popup_gacha_expire_01"
+msgstr "현재 이 가챠를 뽑을 수 없습니다.\\n타이틀 화면으로 돌아갑니다."
+
+msgid "popup_internal_client_error_title"
+msgstr "클라이언트 에러"
+
+msgid "popup_internal_client_error_01"
+msgstr "오류가 발생했습니다.\\n저장 공간의 여유 용량이 부족한 경우에도\\n이 메시지가 표시될 수 있습니다."
+
+msgid "popup_inh_player_not_found"
+msgstr "이 {0} 계정은\\n플레이 데이터와 연동되지 않았습니다.\\n사전에 인계를 준비한 계정을 확인하고\\n다시 시도해 주세요."
+
+msgid "popup_purchase_cancel_title"
+msgstr "구매 취소"
+
+msgid "popup_purchase_cancel_01"
+msgstr "구매가 취소되었습니다."
+
+msgid "popup_purchase_error_title"
+msgstr "구매 실패"
+
+msgid "popup_purchase_092_01"
+msgstr "이전 구매 처리가 완료되지 않아\\n구매에 실패했습니다.\\n앱을 재시작하거나 타이틀 화면에서\\n구매 처리를 완료해주세요."
+
+msgid "popup_purchase_error_not_product"
+msgstr "구매 가능한 가정석이 없습니다.\\n메뉴의 문의하기를 통해 연락해주세요."
+
+msgid "popup_inf_already_exists_01"
+msgstr "이 {0} 계정은\\n현재 다른 플레이 데이터와 연동되어 있습니다.\\n연동을 해제한 후 다시 진행하거나,\\n다른 {0} 계정을 이용해주세요."
+
+msgid "popup_inh_select"
+msgstr "기존 단말에서 데이터 인계를 준비하는 경우\\n「데이터 인계 준비」를,\\n새 단말에서 데이터를 인계하는 경우\\n「데이터 인계」를 선택해주세요."
+
+msgid "popup_inh_pre_title"
+msgstr "데이터 인계 준비"
+
+msgid "popup_inh_pre_sns_select"
+msgstr "인계 준비를 하지 않고 앱을 삭제할 경우,\\n지금까지 플레이한 데이터는 사라집니다.\\n\\n단말 분실 등 예상치 못한 상황이 발생하더라도\\n플레이 데이터를 인계할 수 있도록 미리 절차를 진행해주세요.\\n연동 후 버튼을 다시 탭하면 연동을 해제할 수 있습니다."
+
+msgid "popup_inh_sns_select"
+msgstr "기존 단말에서 미리 준비한 아래 방법 중 하나를 이용해,\\n새 단말로 플레이 데이터를 인계할 수 있습니다.\\n\\n데이터 인계 전에 반드시 주의사항을 읽어주세요."
+
+msgid "popup_inh_sns_caution"
+msgstr "※앱과 연동하지 않은 상태에서 앱을 삭제하면 플레이 데이터가 사라집니다.\\n※게임 설정은 인계할 수 없습니다."
+
+msgid "popup_inh_confirm_title"
+msgstr "데이터 인계 확인"
+
+msgid "popup_inh_confirm_content_01"
+msgstr "새 단말로 플레이 데이터를 인계하면,\\n기존 단말에서는 플레이할 수 없게 됩니다.\\n인계하시겠습니까?"
+
+msgid "popup_inh_confirm_content_02"
+msgstr "현재 플레이 중인 플레이 데이터는 SNS와 연동되어 있지 않습니다.\\n이 상태에서 다른 플레이 데이터를 인계하면\\n현재 플레이 중인 플레이 데이터는 삭제됩니다.\\n진행하시겠습니까?"
+
+msgid "popup_inh_caution_title"
+msgstr "데이터 인계 주의사항"
+
+msgid "popup_inh_caution_content"
+msgstr "인계 준비를 하지 않고 앱을 삭제할 경우,\\n지금까지 플레이한 데이터는 사라집니다.\\n\\n 단말 분실 등 예상치 못한 상황이 발생하더라도\\n플레이 데이터를 인계할 수 있도록 미리 절차를 진행해주세요.\\n \\n기존 단말에서는 「홈 화면의 메뉴」\\n→「인계 준비」에서 미리 준비해주세요.\\n새 단말에서는 「타이틀 화면」\\n→「인계」에서 플레이 데이터를 인계해주세요.\\n \\n새 단말로 플레이 데이터를 인계하면 기존 단말에서는 플레이할 수 없게 됩니다.\\n\\n<color=#C8087E>※위 사양은 예고 없이 변경될 수 있으니 양해 바랍니다.</color>"
+
+msgid "popup_lb_already_received"
+msgstr "로그인 보너스는 이미 수령했습니다.\\n선물 BOX를 확인해주세요.\\n통신 환경이 좋지 않은 상태에서는 이 메시지가\\n표시될 수 있습니다."
+
+msgid "popup_ranking_ban_01"
+msgstr "이상이 감지되어,\\n이벤트에 참가할 수 없습니다.\\n짐작 가는 이유가 없다면\\n문의하기를 통해 연락해주세요."
+
+msgid "popup_ranking_ban_tilte"
+msgstr "경고"
+
+msgid "popup_inf_line_api_update_title"
+msgstr "LINE 연동 재설정 요청"
+
+msgid "popup_inf_line_api_update_content"
+msgstr "<size=20>LINE 연동 재설정이 필요한 고객에게 표시되는 메시지입니다.\\nLINE사의 사양 변경으로 인해,\\n2018/4/1 이후 현재 고객님들의 LINE 연동 설정은 무효화됩니다.\\n데이터 인계를 위해 LINE 연동 재설정을 부탁드립니다.\\n※자세한 내용은 아래 공지사항을 확인하시기 바랍니다.\\n「【중요】LINE 연동 재설정 안내」</size>"
+
+msgid "popup_twitter_release_check_title"
+msgstr "X 연동 해제 확인"
+
+msgid "popup_facebook_release_check_title"
+msgstr "Facebook 연동 해제 확인"
+
+msgid "popup_line_release_check_title"
+msgstr "LINE 연동 해제 확인"
+
+msgid "popup_apple_release_check_title"
+msgstr "Apple ID 연동 해제 확인"
+
+msgid "popup_twitter_release_check"
+msgstr "어떤 SNS와도 연동되지 않은 상태에서\\n우타 마크로스 앱을 삭제하면\\n플레이 데이터가 사라집니다.\\n\\nX와의 연동을 해제하시겠습니까?"
+
+msgid "popup_facebook_release_check"
+msgstr "어떤 SNS와도 연동되어 있지 않은 상태에서\\n우타 마크로스 앱을 삭제하면\\n플레이 데이터가 사라집니다.\\n\\nFacebook과의 연동을 해제하시겠습니까?"
+
+msgid "popup_line_release_check"
+msgstr "어떤 SNS와도 연동되지 않은 상태에서\\n우타 마크로스 앱을 삭제하면\\n플레이 데이터가 사라집니다.\\n\\nLINE과의 연동을 해제하시겠습니까?"
+
+msgid "popup_apple_release_ckeck"
+msgstr "어떤 SNS와도 연동되어 있지 않은 상태에서\\n우타 마크로스 앱을 삭제하면\\n플레이 데이터가 사라집니다.\\n\\nApple ID와의 연동을 해제하시겠습니까?"
+
+msgid "popup_twitter_release_success_title"
+msgstr "X 연동 해제 완료"
+
+msgid "popup_facebook_release_success_title"
+msgstr "Facebook 연동 해제 완료"
+
+msgid "popup_line_release_success_title"
+msgstr "LINE 연동 해제 완료"
+
+msgid "popup_apple_release_success_title"
+msgstr "Apple ID 연동 해제 완료"
+
+msgid "popup_twitter_release_success"
+msgstr "X와의 연동이 해제되었습니다.\\n단말기 분실, 단말기 고장 등 불의의 사태가 발생했을 때에도\\n플레이 데이터를 이어받을 수 있도록\\n사전 절차를 밟아 주시기 바랍니다."
+
+msgid "popup_facebook_release_success"
+msgstr "Facebook과의 연동을 해제했습니다.\\n단말 분실이나 고장 등 예기치 못한 상황이 발생하더라도\\n플레이 데이터를 인계할 수 있도록,\\n미리 절차를 진행해주세요."
+
+msgid "popup_line_release_success"
+msgstr "LINE과의 연동이 해제되었습니다.\\n단말기 분실, 단말기 고장 등 불의의 사태가 발생했을 때에도\\n플레이 데이터를 이어받을 수 있도록\\n사전 절차를 밟아 주시기 바랍니다."
+
+msgid "popup_apple_release_success"
+msgstr "Apple ID와의 연동을 해제했습니다.\\n단말 분실이나 고장 등 예기치 못한 상황이 발생하더라도\\n플레이 데이터를 인계할 수 있도록,\\n미리 절차를 진행해주세요."
+
+msgid "popup_error_storage_size"
+msgstr "스토리지에 충분한 여유 공간이 없습니다.\\n필요한 용량을 확보해주세요."
+
+msgid "first_present_item_name"
+msgstr "우타 마크로스 플레이 시작 기념 선물입니다."
+
+msgid "notify_comback_title_2"
+msgstr "복귀 보너스를 받아보세요!"
+
+msgid "notify_comback_text_2"
+msgstr "가정석을 복귀 보너스로 선물! 지금 바로 로그인하세요!"
+
+msgid "pop_subscription_confirmation_text"
+msgstr "이전에 사용하던 단말에서\\n우타마크 패스 또는 스페셜 패스가\\n유효기간 중이었습니까?"
+
+msgid "pop_subscription_data_confirmation_ios_text"
+msgstr "월간 패스의 남은 유효기간 동안은\\n새 단말에서도 월간 패스의 효과 및 특전이 유효합니다.\\n\\n<color=#8e0529>※기존 단말과 다른 Apple ID를 사용하거나\\n서로 다른 OS 간에 데이터를 인계하는 경우,\\n유효기간이 자동 갱신되지 않으므로\\n새 단말에서 월간 패스를 다시 구매해야 합니다.\\n\\n이 경우 기존 단말의 월간 패스는\\n기존 단말에서 해지해주세요.</color>"
+
+msgid "pop_subscription_data_confirmation_android_text"
+msgstr "월간 패스의 남은 유효기간 동안은\\n새 단말에서도 월간 패스의 효과 및 특전이 유효합니다.\\n\\n<color=#8e0529>※기존 단말과 다른 GoogleID를 사용하거나\\n서로 다른 OS 간에 데이터를 인계하는 경우,\\n유효기간 종료 후 계약이 자동 갱신되지 않으므로\\n새 단말에서 월간 패스를 다시 구매해야 합니다.\\n\\n이 경우 기존 단말의 월간 패스는\\n기존 단말에서 해지해주세요.</color>"
+
+msgid "popup_s_mas_title"
+msgstr "오류"
+
+msgid "popup_s_mas_text"
+msgstr "서버 데이터 수신에 실패했습니다."
+
+msgid "popup_internal_server_error_retry_text"
+msgstr "오류가 발생했습니다. 다시 시도하시겠습니까?\\n취소하면 타이틀 화면으로 돌아갑니다."
+
+msgid "popup_costumeselect_home"
+msgstr "대기실에 반영"
+
+msgid "profile_diva001_description_gakuya"
+msgstr "전술 음악 유닛 「왈큐레」를\\n동경해 고향을 뛰쳐나온 소녀.\\n천진난만한 성격으로 노래를 무척 좋아하지만\\n춤은 서툴다.\\n\\n감정이 고조되면 머리의 「룬」이 빛난다.\\n독특한 억양으로 말하며 「기운 팍팍」이 입버릇이다."
+
+msgid "profile_diva002_description_gakuya"
+msgstr "전술 음악 유닛 「왈큐레」의\\n에이스 보컬. 신원과 경력이 모두\\n수수께끼에 싸인 미스터리한 존재.\\n\\n노래에 강한 고집을 보이며,\\n어떤 위기에 닥치더라도 결코\\n노래하기를 포기하지 않는다."
+
+msgid "profile_diva003_description_gakuya"
+msgstr "전술 음악 유닛 「왈큐레」의\\n리더. 스케줄 관리를 비롯해,\\n팀 매니지먼트까지 해내는 야무진 성격.\\n\\n왈큐레에 가입하기 전에는,\\n솔로 아이돌로 활동했다."
+
+msgid "profile_diva004_description_gakuya"
+msgstr "전술 음악 유닛 「왈큐레」의\\n멤버. 대대로 메카닉을 해온 집안에서\\n태어났으며, 본인 역시 일류 실력을 지닌\\n메카닉이다.\\n\\n동료나 메카에 별명을 붙이는 버릇이 있다.\\n레이나와는 자매처럼 사이가 좋다."
+
+msgid "profile_diva005_description_gakuya"
+msgstr "전술 음악 유닛 「왈큐레」의\\n멤버. 독설가이며 감정을 좀처럼\\n겉으로 드러내지 않는다. 뛰어난 해커이기도 하며,\\n전자 기술자로도 활약하고 있다.\\n\\n마키나와는 한집에서 함께 살 정도로\\n사이가 좋다."
+
+msgid "profile_diva006_description_gakuya"
+msgstr "우연한 계기로 데뷔해,\\n단숨에 인기 아이돌이 된\\n「초시공 신데렐라」.\\n\\n마음씨가 착하고 무슨 일이든 열심히 하는 성격.\\n어릴 때부터 노래하는 것을 무척 좋아했으며,\\n셰릴을 동경하고 있다."
+
+msgid "profile_diva007_description_gakuya"
+msgstr "「이 은하에 살면서 셰릴의 노래를\\n듣지 않는 날은 없다」고 불리는\\n톱 싱어. 통칭 「은하의 요정」.\\n\\n프로인 자신에게 자부심을 가지고 있으며,\\n계속 일류로 남기 위한 노력을 아끼지 않는다."
+
+msgid "profile_diva008_description_gakuya"
+msgstr "록 밴드 「Fire Bomber」의\\n보컬／베이스 담당.\\n일곱 자매 중 막내딸.\\n주눅 들지 않는 솔직한 성격이며,\\n어린애 취급받는 것을 싫어한다.\\n보컬리스트로서도 파일럿으로서도,\\n바사라에게 뒤지지 않는 실력을 지녔다."
+
+msgid "profile_diva009_description_gakuya"
+msgstr "록 밴드 「Fire Bomber」의\\n보컬／기타 담당.\\n무엇보다 노래하는 것을 좋아하며,\\n싸움을 좋아하지 않는다.\\n입버릇은 「내 노래를 들어라!」.\\n어떤 일이든 노래가 있으면\\n서로 이해할 수 있다고 생각한다."
+
+msgid "profile_diva010_description_gakuya"
+msgstr "후세에도 전해지는 전설적인 아이돌.\\n밝고 구김살 없는 성격이지만,\\n조금 제멋대로인 면도 있다.\\n그녀의 매력과 노래는 인류와 전쟁 중이던\\n젠트라디마저 매료시켜,\\n그들이 문화를 되찾는 계기가\\n되었다."
+
+msgid "popup_purchase_351_01"
+msgstr "결제가 완료되지 않은 상품이 있습니다.\\n결제 후 앱을 재시작해주세요."
+
+msgid "popup_purchase_352_01"
+msgstr "이 상품은 결제가 완료되지 않았습니다.\\n결제 후 앱을 재시작해주세요."
+
+msgid "popup_playerdata_error"
+msgstr "서버에서 가져온 데이터에 이상이 있습니다."
+
+msgid "popup_account_management_text001"
+msgstr "계정 관리"
+
+msgid "popup_account_management_text002"
+msgstr "데이터 인계"
+
+msgid "popup_account_management_text003"
+msgstr "플레이 데이터 인계 준비를 합니다."
+
+msgid "popup_account_management_text004"
+msgstr "단말기 분실 등 불의의 사태가 발생했을 때\\n플레이 데이터가 인계될 수 있도록 준비합니다."
+
+msgid "popup_account_management_text005"
+msgstr "인계 준비"
+
+msgid "popup_account_management_text006"
+msgstr "계정 삭제"
+
+msgid "popup_account_management_text007"
+msgstr "플레이 데이터를 삭제합니다."
+
+msgid "popup_account_management_text008"
+msgstr "현재 플레이 중인 플레이 데이터를 삭제합니다.\\n<color=#C8087E>※삭제한 플레이 데이터는 완전히 사라집니다.</color>"
+
+msgid "popup_account_management_text009"
+msgstr "계정 삭제"
+
+msgid "popup_account_management_text010"
+msgstr "닫기"
+
+msgid "popup_account_management_text011"
+msgstr "계정 삭제"
+
+msgid "popup_account_management_text012"
+msgstr "현재 플레이 중인 이 계정을 삭제합니다.\\n\\n<color=#8e0529>・지금까지의 플레이 상황이나 보유 아이템, 가정석 등을 포함한 모든 정보에\\n　접근할 수 없게 됩니다.</color>\\n・계정 연동을 하고 있는 경우, 이 계정에 연결된 모든 계정 연동이\\n　해제되며 다시 접근할 수 없게 됩니다.\\n\\n<color=#8e0529>※사용하지 않은 가정석은 소멸하며 서비스 종료 시 환불받을 수 없게 됩니다.</color>\\n※정기 구매한 「우타마크 패스」「스페셜 패스」가 유효기간 중인 경우,\\n　각 월간 패스의　　　　　　을 반드시 실행 전에 확인해주세요.\\n※월간 패스를 해제하지 않고 계정을 삭제한 경우,\\n　해당 월간 패스는 삭제된 계정에 대해 계속 효과가 적용되며,\\n　갱신도 이루어집니다.\\n　또한 월간 패스를 별도로 해제하지 않는 한,\\n　새 계정에서 월간 패스를 구매할 수 없습니다.\\n　따라서 유효 중인 월간 패스가 있는 경우 반드시 해당 월간 패스를 해제한 뒤\\n　계정을 삭제해주세요.\\n"
+
+msgid "popup_account_management_text013"
+msgstr "위의 내용에 동의합니다."
+
+msgid "popup_account_management_text014"
+msgstr "취소"
+
+msgid "popup_account_management_text015"
+msgstr "계정 삭제"
+
+msgid "popup_account_management_text016"
+msgstr "최종 확인"
+
+msgid "popup_account_management_text017"
+msgstr "이 작업은 취소할 수 없습니다.\\n<color=#8e0529>아래 계정을 정말 삭제하시겠습니까?</color>\\n\\n■계정 정보\\n\\n　사용자 ID：{0}\\n　사용자명：{1} （RANK {2}）\\n　연동 중인 계정：{3}\\n　가정석 잔액：{4}개\\n　유료 구매 수：{5}개\\n　무료 지급 수：{6}개\\n　유효 중인 월간 패스：{7}\\n\\n<color=#8e0529>※계정 연동은 무효가 됩니다.\\n※월간 패스의 효과는 계약 시작일로부터 1개월 동안입니다.\\n　고객님이 위 기간 중 월간 패스를 해제하고 계정을 삭제하는 경우\\n　유효 중인 월간 패스에 상품명이 표시됩니다.\\n※유효 중인 월간 패스가 있는 경우 구독 계약 상태를 확인해주세요.</color>\\n"
+
+msgid "popup_account_management_text018"
+msgstr "취소"
+
+msgid "popup_account_management_text019"
+msgstr ""
+
+msgid "popup_account_linkaging_text_none"
+msgstr "없음"
+
+msgid "popup_account_linkaging_text_facebook"
+msgstr ""
+
+msgid "popup_account_linkaging_text_twitter"
+msgstr ""
+
+msgid "popup_account_linkaging_text_line"
+msgstr ""
+
+msgid "popup_account_linkaging_text_apple"
+msgstr ""
+
+msgid "popup_account_linkaging_text_separator"
+msgstr ""
+
+msgid "popup_account_remove_title"
+msgstr "계정 삭제"
+
+msgid "popup_account_remove_text001"
+msgstr "계정 삭제를 실행합니다.\\n처리가 완료될 때까지\\n우타 마크로스를 종료하지 마십시오."
+
+msgid "popup_account_remove_text002"
+msgstr "계정 삭제가 완료되었습니다.\\n우타 마크로스를 종료해 주세요."
+
+msgid "popup_account_remove_consent_button"
+msgstr "동의사항"
+
+msgid "popup_account_remove_pass_001"
+msgstr "없음"
+
+msgid "popup_account_remove_pass_002"
+msgstr "우타마크 패스"
+
+msgid "popup_account_remove_pass_003"
+msgstr "스페셜 패스"

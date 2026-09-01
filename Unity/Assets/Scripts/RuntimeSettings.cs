@@ -45,7 +45,11 @@ class RuntimeSettings : ScriptableObject
 				m_currentSettings.DumpStringUsed = UMO_PlayerPrefs.GetInt("DumpStringUsed", 0) == 1;
 				m_currentSettings.ShowStringUsed = UMO_PlayerPrefs.GetInt("ShowStringUsed", 0) == 1;
 				m_currentSettings.UseTmpLocalizationFiles = UMO_PlayerPrefs.GetInt("UseTmpLocalizationFiles", 0) == 1;
-				m_currentSettings.Language = UMO_PlayerPrefs.GetString("Language", "");
+				// Fresh installs of the Korean edition start in Korean. Existing users
+				// keep their explicit PlayerPrefs value, including an explicit Japanese selection.
+				m_currentSettings.Language = UMO_PlayerPrefs.HasString("Language")
+					? UMO_PlayerPrefs.GetString("Language", "")
+					: "ko";
 				m_currentSettings.WorkerThreadPriorityNormal = UMO_PlayerPrefs.GetInt("WorkerThreadPriorityNormal", 0) == 1;
 				m_currentSettings.WorkerThreadUseCoroutine = UMO_PlayerPrefs.GetInt("WorkerThreadUseCoroutine", 0) == 1;
 				m_currentSettings.EnableMusicSecondDisplay = UMO_PlayerPrefs.GetInt("EnableMusicSecondDisplay", 1) == 1;

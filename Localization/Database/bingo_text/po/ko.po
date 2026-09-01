@@ -1,0 +1,1084 @@
+msgid ""
+msgstr ""
+"Language: ko\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "bingo_0001_0001_0001_desc"
+msgstr "플레이어 랭크\\n8로 올리기"
+
+msgid "bingo_0001_0001_0001_cond"
+msgstr "플레이어 랭크 8로 올리기"
+
+msgid "bingo_0001_0001_0002_desc"
+msgstr "A스킬\\n「생명력 회복」\\n을 발동하여 클리어"
+
+msgid "bingo_0001_0001_0002_cond"
+msgstr "액티브 스킬 「생명력 회복」을 발동하고 클리어"
+
+msgid "bingo_0001_0001_0003_desc"
+msgstr "A스킬\\n「스코어 증가」\\n를 발동하고 클리어"
+
+msgid "bingo_0001_0001_0003_cond"
+msgstr "액티브 스킬 「스코어 증가」를 발동하고 클리어"
+
+msgid "bingo_0001_0001_0004_desc"
+msgstr "NORMAL 이상\\n으로 3회 클리어"
+
+msgid "bingo_0001_0001_0004_cond"
+msgstr "난이도 NORMAL 이상으로 3회 클리어"
+
+msgid "bingo_0001_0001_0005_desc"
+msgstr "요일 이벤트\\n1회 클리어"
+
+msgid "bingo_0001_0001_0005_cond"
+msgstr "요일 이벤트 1회 클리어"
+
+msgid "bingo_0001_0001_0006_desc"
+msgstr "노래 레이트\\n100 이상"
+
+msgid "bingo_0001_0001_0006_cond"
+msgstr "노래 레이트 100 이상"
+
+msgid "bingo_0001_0001_0007_desc"
+msgstr "스코어 10만\\n이상 달성"
+
+msgid "bingo_0001_0001_0007_cond"
+msgstr "스코어 100000 이상 달성"
+
+msgid "bingo_0001_0001_0008_desc"
+msgstr "초가희 모드로\\n돌입하여\\n3회 클리어"
+
+msgid "bingo_0001_0001_0008_cond"
+msgstr "초가희 모드에 돌입하여 3회 클리어"
+
+msgid "bingo_0001_0001_0009_desc"
+msgstr "가희 레벨\\n4로 올리기"
+
+msgid "bingo_0001_0001_0009_cond"
+msgstr "가희 중 하나를 레벨 4로 만들기"
+
+msgid "bingo_0001_0001_0010_desc"
+msgstr "플레이어 랭크\\n12 달성"
+
+msgid "bingo_0001_0001_0010_cond"
+msgstr "플레이어 랭크 12 달성"
+
+msgid "bingo_0001_0001_0011_desc"
+msgstr "NORMAL 이상\\n스코어 랭크 S\\n10회 달성"
+
+msgid "bingo_0001_0001_0011_cond"
+msgstr "난이도 NORMAL 이상\\n스코어 랭크 S 10회 달성"
+
+msgid "bingo_0001_0001_0012_desc"
+msgstr "L스킬\\n「스코어 증가」\\n발동하고 클리어"
+
+msgid "bingo_0001_0001_0012_cond"
+msgstr "라이브 스킬 「스코어 증가」를 발동하고 클리어"
+
+msgid "bingo_0001_0001_0013_desc"
+msgstr "가희 레벨\\n8로 올리기"
+
+msgid "bingo_0001_0001_0013_cond"
+msgstr "가희 중 한 명의 레벨을 8로 올리기"
+
+msgid "bingo_0001_0001_0014_desc"
+msgstr "스코어 랭크 SS\\n1회 달성"
+
+msgid "bingo_0001_0001_0014_cond"
+msgstr "스코어 랭크 SS 1회 달성"
+
+msgid "bingo_0001_0001_0015_desc"
+msgstr "가희에게\\n선물하기"
+
+msgid "bingo_0001_0001_0015_cond"
+msgstr "가희 중 한 명에게 선물하기"
+
+msgid "bingo_0001_0001_0016_desc"
+msgstr "스코어 30만\\n이상 달성"
+
+msgid "bingo_0001_0001_0016_cond"
+msgstr "스코어 300000 이상 달성"
+
+msgid "bingo_0001_0001_0017_desc"
+msgstr "가희\\n오퍼레이션\\n파워업"
+
+msgid "bingo_0001_0001_0017_cond"
+msgstr "가희 오퍼레이션 중 하나를 파워업하기"
+
+msgid "bingo_0001_0001_0018_desc"
+msgstr "가희\\n오퍼레이션\\n출현"
+
+msgid "bingo_0001_0001_0018_cond"
+msgstr "악곡을 클리어해서 가희 중 하나의\\n오퍼레이션을 출현시킴"
+
+msgid "bingo_0001_0001_0019_desc"
+msgstr "플레이어 랭크\\n20 달성"
+
+msgid "bingo_0001_0001_0019_cond"
+msgstr "플레이어 랭크 20 달성"
+
+msgid "bingo_0001_0001_0020_desc"
+msgstr "플레이트 한 종류\\n레벨 70 달성"
+
+msgid "bingo_0001_0001_0020_cond"
+msgstr "에피소드 플레이트 한 종류 레벨 70 달성"
+
+msgid "bingo_0001_0001_0021_desc"
+msgstr "의상 강화에서\\n캬와와 랭크\\n2 달성"
+
+msgid "bingo_0001_0001_0021_cond"
+msgstr "의상 강화에서 의상 중 하나의\\n캬와와 랭크 2 달성"
+
+msgid "bingo_0001_0001_0022_desc"
+msgstr "시크릿 보드\\n해방하기"
+
+msgid "bingo_0001_0001_0022_cond"
+msgstr "시크릿 보드 해방하기"
+
+msgid "bingo_0001_0001_0023_desc"
+msgstr "우타 마크로스에 누적\\n7일 로그인하기"
+
+msgid "bingo_0001_0001_0023_cond"
+msgstr "우타 마크로스에 누적 7일 로그인하기"
+
+msgid "bingo_0001_0001_0024_desc"
+msgstr "가희의\\n친밀도 레벨\\n10 달성"
+
+msgid "bingo_0001_0001_0024_cond"
+msgstr "가희 중 하나의 친밀도 레벨 10 이상 달성"
+
+msgid "bingo_0001_0001_0025_desc"
+msgstr "노래 등급\\n일등병 ★1 달성"
+
+msgid "bingo_0001_0001_0025_cond"
+msgstr "노래 레이트 500을 달성하고\\n노래 등급 【일등병★1】 달성"
+
+msgid "bingo_0001_0001_0026_desc"
+msgstr "VOP\\n10회 달성"
+
+msgid "bingo_0001_0001_0026_cond"
+msgstr "발키리 오퍼레이션 10회 달성하기"
+
+msgid "bingo_0001_0001_0027_desc"
+msgstr "플레이트의\\nLUCK을 1 상승"
+
+msgid "bingo_0001_0001_0027_cond"
+msgstr "에피소드 플레이트의 LUCK을 1 상승"
+
+msgid "bingo_0002_0002_0001_desc"
+msgstr "플레이어 랭크\\n8로 올리기"
+
+msgid "bingo_0002_0002_0001_cond"
+msgstr "플레이어 랭크 8로 올리기"
+
+msgid "bingo_0002_0002_0002_desc"
+msgstr "이벤트 악곡\\n총 10회 이상\\n플레이"
+
+msgid "bingo_0002_0002_0002_cond"
+msgstr "이벤트 악곡 총 10회 이상 플레이"
+
+msgid "bingo_0002_0002_0003_desc"
+msgstr "요일 악곡\\n10회 클리어"
+
+msgid "bingo_0002_0002_0003_cond"
+msgstr "요일 악곡 10회 클리어"
+
+msgid "bingo_0002_0002_0004_desc"
+msgstr "가챠 총 5회 진행\\n※10연속 가챠도\\n1회로 카운트"
+
+msgid "bingo_0002_0002_0004_cond"
+msgstr "가챠 총 5회 진행\\n※10연속 가챠도 1회로 카운트"
+
+msgid "bingo_0002_0002_0005_desc"
+msgstr "스코어 50만점\\n이상 달성"
+
+msgid "bingo_0002_0002_0005_cond"
+msgstr "점수 50만점 이상 달성"
+
+msgid "bingo_0002_0002_0006_desc"
+msgstr "별자리 메달\\n1000장 획득"
+
+msgid "bingo_0002_0002_0006_cond"
+msgstr "별자리 메달을 1000장 입수"
+
+msgid "bingo_0002_0002_0007_desc"
+msgstr "초가희 모드에\\n돌입하여\\n10회 클리어"
+
+msgid "bingo_0002_0002_0007_cond"
+msgstr "초가희 모드에 돌입하여 10회 클리어"
+
+msgid "bingo_0002_0002_0008_desc"
+msgstr "플레이트 30장\\n획득하기"
+
+msgid "bingo_0002_0002_0008_cond"
+msgstr "플레이트 30장 획득하기"
+
+msgid "bingo_0002_0002_0009_desc"
+msgstr "우타 마크로스에\\n총 3일\\n로그인하기"
+
+msgid "bingo_0002_0002_0009_cond"
+msgstr "우타 마크로스에\\n총 3일간 로그인하기"
+
+msgid "bingo_0002_0002_0010_desc"
+msgstr "EP 플레이트\\n【신춘의 단란】\\nLv70 달성"
+
+msgid "bingo_0002_0002_0010_cond"
+msgstr "EP 플레이트【신춘의 단란】의\\nLv을 70으로 만든다"
+
+msgid "bingo_0002_0002_0011_desc"
+msgstr "가희 오퍼레이\\n션을 4회 파워\\n업한다"
+
+msgid "bingo_0002_0002_0011_cond"
+msgstr "가희 오퍼레이션을 4회 파워업한다"
+
+msgid "bingo_0002_0002_0012_desc"
+msgstr "가챠 총 5회 진행\\n※10연속 가챠도\\n1회로 카운트"
+
+msgid "bingo_0002_0002_0012_cond"
+msgstr "가챠 총 5회 진행\\n※10연속 가챠도 1회로 카운트"
+
+msgid "bingo_0002_0002_0013_desc"
+msgstr "이벤트 악곡\\n총 20회 이상\\n플레이"
+
+msgid "bingo_0002_0002_0013_cond"
+msgstr "이벤트 악곡 총 20회 이상 플레이"
+
+msgid "bingo_0002_0002_0014_desc"
+msgstr "별자리 메달 교환소에서\\n1회 교환하기"
+
+msgid "bingo_0002_0002_0014_cond"
+msgstr "별자리 메달 교환소에서 1회 교환하기"
+
+msgid "bingo_0002_0002_0015_desc"
+msgstr "스코어 80만점\\n이상 달성"
+
+msgid "bingo_0002_0002_0015_cond"
+msgstr "스코어 80만점 이상 달성"
+
+msgid "bingo_0002_0002_0016_desc"
+msgstr "우타 마크로스에\\n총 3일\\n로그인하기"
+
+msgid "bingo_0002_0002_0016_cond"
+msgstr "우타 마크로스에\\n총 3일간 로그인하기"
+
+msgid "bingo_0002_0002_0017_desc"
+msgstr "가희 오퍼레이\\n션을 1회\\n발생시킨다"
+
+msgid "bingo_0002_0002_0017_cond"
+msgstr "가희 오퍼레이션을 1회 발생시킨다"
+
+msgid "bingo_0002_0002_0018_desc"
+msgstr "발키리\\n오퍼레이션\\n10회 달성"
+
+msgid "bingo_0002_0002_0018_cond"
+msgstr "발키리 오퍼레이션 10회 달성하기"
+
+msgid "bingo_0002_0002_0019_desc"
+msgstr "노래 레이트를\\n1000으로 만든다"
+
+msgid "bingo_0002_0002_0019_cond"
+msgstr "노래 레이트 1000 달성"
+
+msgid "bingo_0002_0002_0020_desc"
+msgstr "이벤트 악곡\\n총 50회 이상\\n플레이"
+
+msgid "bingo_0002_0002_0020_cond"
+msgstr "이벤트 악곡 총 50회 이상 플레이"
+
+msgid "bingo_0002_0002_0021_desc"
+msgstr "풀콤보\\n10회 달성"
+
+msgid "bingo_0002_0002_0021_cond"
+msgstr "풀콤보 10회 달성"
+
+msgid "bingo_0002_0002_0022_desc"
+msgstr "가챠 총 5회 진행\\n※10연속 가챠도\\n1회로 카운트"
+
+msgid "bingo_0002_0002_0022_cond"
+msgstr "가챠 총 5회 진행\\n※10연속 가챠도 1회로 카운트"
+
+msgid "bingo_0002_0002_0023_desc"
+msgstr "우타 마크로스에\\n총 3일\\n로그인하기"
+
+msgid "bingo_0002_0002_0023_cond"
+msgstr "우타 마크로스에\\n총 3일간 로그인하기"
+
+msgid "bingo_0002_0002_0024_desc"
+msgstr "스코어 100만점\\n이상 달성"
+
+msgid "bingo_0002_0002_0024_cond"
+msgstr "스코어 100만점 이상 달성"
+
+msgid "bingo_0002_0002_0025_desc"
+msgstr "의상의\\n캬와와 랭크\\n3 달성"
+
+msgid "bingo_0002_0002_0025_cond"
+msgstr "의상의 캬와와 랭크\\n3 달성"
+
+msgid "bingo_0002_0002_0026_desc"
+msgstr "가희 오퍼레이션\\n10회\\n발생시키기"
+
+msgid "bingo_0002_0002_0026_cond"
+msgstr "가희 오퍼레이션 10회 발생시키기"
+
+msgid "bingo_0002_0002_0027_desc"
+msgstr "발키리\\n오퍼레이션\\n20회 달성"
+
+msgid "bingo_0002_0002_0027_cond"
+msgstr "발키리 오퍼레이션 20회 달성하기"
+
+msgid "bingo_0003_0003_0001_desc"
+msgstr "【기억의 시공】에서\\n지정 곡을 해방"
+
+msgid "bingo_0003_0003_0001_cond"
+msgstr "기억의 시공에서\\n「아이모」를 해방한다"
+
+msgid "bingo_0003_0003_0002_desc"
+msgstr "플레이트를\\n2종류 Lv90으로 만든다"
+
+msgid "bingo_0003_0003_0002_cond"
+msgstr "에피소드 플레이트를 2종류 Lv90으로 만든다"
+
+msgid "bingo_0003_0003_0003_desc"
+msgstr "A스킬「스코어\\n업」을 발동\\n하고 2회 클리어"
+
+msgid "bingo_0003_0003_0003_cond"
+msgstr "액티브 스킬「스코어 업」을\\n발동하고 2회 클리어"
+
+msgid "bingo_0003_0003_0004_desc"
+msgstr "A스킬「라이프\\n회복」을 발동\\n하고 2회 클리어"
+
+msgid "bingo_0003_0003_0004_cond"
+msgstr "액티브 스킬「라이프 회복」을\\n발동하고 2회 클리어"
+
+msgid "bingo_0003_0003_0005_desc"
+msgstr "A스킬\\n「데미지 경감」\\n을 발동하고 클리어"
+
+msgid "bingo_0003_0003_0005_cond"
+msgstr "액티브 스킬「데미지 경감」을 발동하고 클리어"
+
+msgid "bingo_0003_0003_0006_desc"
+msgstr "A스킬\\n「판정 완화」\\n를 발동하고 클리어"
+
+msgid "bingo_0003_0003_0006_cond"
+msgstr "액티브 스킬「판정 완화」를 발동하고 클리어"
+
+msgid "bingo_0003_0003_0007_desc"
+msgstr "A스킬\\n「콤보 유지」\\n를 발동하고 클리어"
+
+msgid "bingo_0003_0003_0007_cond"
+msgstr "액티브 스킬「콤보 유지」를 발동하고 클리어"
+
+msgid "bingo_0003_0003_0008_desc"
+msgstr "L스킬「스코어\\n업」을 발동\\n하고 2회 클리어"
+
+msgid "bingo_0003_0003_0008_cond"
+msgstr "라이브 스킬「스코어 업」을\\n발동하고 2회 클리어"
+
+msgid "bingo_0003_0003_0009_desc"
+msgstr "L스킬\\n「라이프 회복」\\n을 발동하고 클리어"
+
+msgid "bingo_0003_0003_0009_cond"
+msgstr "라이브 스킬「라이프 회복」을 발동하고 클리어"
+
+msgid "bingo_0003_0003_0010_desc"
+msgstr "L스킬\\n「데미지 경감」\\n을 발동하고 클리어"
+
+msgid "bingo_0003_0003_0010_cond"
+msgstr "라이브 스킬「데미지 경감」을 발동하고 클리어"
+
+msgid "bingo_0003_0003_0011_desc"
+msgstr "L스킬\\n「판정 완화」\\n를 발동하고 클리어"
+
+msgid "bingo_0003_0003_0011_cond"
+msgstr "라이브 스킬「판정 완화」를 발동하고 클리어"
+
+msgid "bingo_0003_0003_0012_desc"
+msgstr "L스킬\\n「콤보 유지」\\n를 발동하고 클리어"
+
+msgid "bingo_0003_0003_0012_cond"
+msgstr "라이브 스킬「콤보 유지」를 발동하고 클리어"
+
+msgid "bingo_0003_0003_0013_desc"
+msgstr "프레이아의 의상을\\n2회 해방한다"
+
+msgid "bingo_0003_0003_0013_cond"
+msgstr "슈트랄 이외의 프레이아 의상을 2회 해방한다"
+
+msgid "bingo_0003_0003_0014_desc"
+msgstr "미쿠모의\\n의상을 해방한다"
+
+msgid "bingo_0003_0003_0014_cond"
+msgstr "미쿠모의 의상을 해방한다"
+
+msgid "bingo_0003_0003_0015_desc"
+msgstr "카나메의\\n의상을 해방한다"
+
+msgid "bingo_0003_0003_0015_cond"
+msgstr "카나메의 의상을 해방한다"
+
+msgid "bingo_0003_0003_0016_desc"
+msgstr "마키나의\\n의상을 해방한다"
+
+msgid "bingo_0003_0003_0016_cond"
+msgstr "마키나의 의상을 해방한다"
+
+msgid "bingo_0003_0003_0017_desc"
+msgstr "레이나의\\n의상을 해방한다"
+
+msgid "bingo_0003_0003_0017_cond"
+msgstr "레이나의 의상을 해방한다"
+
+msgid "bingo_0003_0003_0018_desc"
+msgstr "란카의\\n의상을 해방한다"
+
+msgid "bingo_0003_0003_0018_cond"
+msgstr "란카의 의상을 해방한다"
+
+msgid "bingo_0003_0003_0019_desc"
+msgstr "셰릴의\\n의상을 해방한다"
+
+msgid "bingo_0003_0003_0019_cond"
+msgstr "셰릴의 의상을 해방한다"
+
+msgid "bingo_0003_0003_0020_desc"
+msgstr "밀레느의\\n의상을 해방한다"
+
+msgid "bingo_0003_0003_0020_cond"
+msgstr "밀레느의 의상을 해방한다"
+
+msgid "bingo_0003_0003_0021_desc"
+msgstr "바사라의\\n의상을 해방한다"
+
+msgid "bingo_0003_0003_0021_cond"
+msgstr "바사라의 의상을 해방한다"
+
+msgid "bingo_0003_0003_0022_desc"
+msgstr "민메이의\\n의상을 해방한다"
+
+msgid "bingo_0003_0003_0022_cond"
+msgstr "민메이의 의상을 해방한다"
+
+msgid "bingo_0003_0003_0023_desc"
+msgstr "프레이아의 의상을\\n2회 갈아입힌다"
+
+msgid "bingo_0003_0003_0023_cond"
+msgstr "프레이아의 의상을 2회 갈아입힌다"
+
+msgid "bingo_0003_0003_0024_desc"
+msgstr "미쿠모의\\n의상을 갈아입힌다"
+
+msgid "bingo_0003_0003_0024_cond"
+msgstr "미쿠모의 의상을 갈아입힌다"
+
+msgid "bingo_0003_0003_0025_desc"
+msgstr "카나메의\\n의상을 갈아입힌다"
+
+msgid "bingo_0003_0003_0025_cond"
+msgstr "카나메의 의상을 갈아입힌다"
+
+msgid "bingo_0003_0003_0026_desc"
+msgstr "마키나의\\n의상을 갈아입힌다"
+
+msgid "bingo_0003_0003_0026_cond"
+msgstr "마키나의 의상을 갈아입힌다"
+
+msgid "bingo_0003_0003_0027_desc"
+msgstr "레이나의\\n의상을 갈아입힌다"
+
+msgid "bingo_0003_0003_0027_cond"
+msgstr "레이나의 의상을 갈아입힌다"
+
+msgid "bingo_0003_0003_0028_desc"
+msgstr "란카의\\n의상을 갈아입힌다"
+
+msgid "bingo_0003_0003_0028_cond"
+msgstr "란카의 의상을 갈아입힌다"
+
+msgid "bingo_0003_0003_0029_desc"
+msgstr "셰릴의\\n의상을 갈아입힌다"
+
+msgid "bingo_0003_0003_0029_cond"
+msgstr "셰릴의 의상을 갈아입힌다"
+
+msgid "bingo_0003_0003_0030_desc"
+msgstr "밀레느의\\n의상을 갈아입힌다"
+
+msgid "bingo_0003_0003_0030_cond"
+msgstr "밀레느의 의상을 갈아입힌다"
+
+msgid "bingo_0003_0003_0031_desc"
+msgstr "바사라의\\n의상을 갈아입힌다"
+
+msgid "bingo_0003_0003_0031_cond"
+msgstr "바사라의 의상을 갈아입힌다"
+
+msgid "bingo_0003_0003_0032_desc"
+msgstr "민메이의\\n의상을 갈아입힌다"
+
+msgid "bingo_0003_0003_0032_cond"
+msgstr "민메이의 의상을 갈아입힌다"
+
+msgid "bingo_0003_0003_0033_desc"
+msgstr "프레이아에게 기프트\\n를 2회 선물\\n한다"
+
+msgid "bingo_0003_0003_0033_cond"
+msgstr "프레이아에게 기프트를 2회 선물한다"
+
+msgid "bingo_0003_0003_0034_desc"
+msgstr "미쿠모에게 기프트\\n를 선물한다"
+
+msgid "bingo_0003_0003_0034_cond"
+msgstr "미쿠모에게 기프트를 선물한다"
+
+msgid "bingo_0003_0003_0035_desc"
+msgstr "카나메에게 기프트\\n를 선물한다"
+
+msgid "bingo_0003_0003_0035_cond"
+msgstr "카나메에게 기프트를 선물한다"
+
+msgid "bingo_0003_0003_0036_desc"
+msgstr "마키나에게 기프트\\n를 선물한다"
+
+msgid "bingo_0003_0003_0036_cond"
+msgstr "마키나에게 기프트를 선물한다"
+
+msgid "bingo_0003_0003_0037_desc"
+msgstr "레이나에게 기프트\\n를 선물한다"
+
+msgid "bingo_0003_0003_0037_cond"
+msgstr "레이나에게 기프트를 선물한다"
+
+msgid "bingo_0003_0003_0038_desc"
+msgstr "란카에게 기프트\\n를 선물한다"
+
+msgid "bingo_0003_0003_0038_cond"
+msgstr "란카에게 기프트를 선물한다"
+
+msgid "bingo_0003_0003_0039_desc"
+msgstr "셰릴에게 기프트\\n를 선물한다"
+
+msgid "bingo_0003_0003_0039_cond"
+msgstr "셰릴에게 기프트를 선물한다"
+
+msgid "bingo_0003_0003_0040_desc"
+msgstr "밀레느에게 기프트\\n를 선물한다"
+
+msgid "bingo_0003_0003_0040_cond"
+msgstr "밀레느에게 기프트를 선물한다"
+
+msgid "bingo_0003_0003_0041_desc"
+msgstr "바사라에게 기프트\\n를 선물한다"
+
+msgid "bingo_0003_0003_0041_cond"
+msgstr "바사라에게 기프트를 선물한다"
+
+msgid "bingo_0003_0003_0042_desc"
+msgstr "민메이에게 기프트\\n를 선물한다"
+
+msgid "bingo_0003_0003_0042_cond"
+msgstr "민메이에게 기프트를 선물한다"
+
+msgid "bingo_0003_0003_0043_desc"
+msgstr "프레이아의 가희\\n오퍼레이션을\\n2회 발생시킨다"
+
+msgid "bingo_0003_0003_0043_cond"
+msgstr "프레이아의 가희 오퍼레이션을\\n2회 발생시킨다"
+
+msgid "bingo_0003_0003_0044_desc"
+msgstr "미쿠모의 가희\\n오퍼레이션을\\n발생시킨다"
+
+msgid "bingo_0003_0003_0044_cond"
+msgstr "미쿠모의 가희 오퍼레이션을 발생시킨다"
+
+msgid "bingo_0003_0003_0045_desc"
+msgstr "카나메의 가희\\n오퍼레이션을\\n발생시킨다"
+
+msgid "bingo_0003_0003_0045_cond"
+msgstr "카나메의 가희 오퍼레이션을 발생시킨다"
+
+msgid "bingo_0003_0003_0046_desc"
+msgstr "마키나의 가희\\n오퍼레이션을\\n발생시킨다"
+
+msgid "bingo_0003_0003_0046_cond"
+msgstr "마키나의 가희 오퍼레이션을 발생시킨다"
+
+msgid "bingo_0003_0003_0047_desc"
+msgstr "레이나의 가희\\n오퍼레이션을\\n발생시킨다"
+
+msgid "bingo_0003_0003_0047_cond"
+msgstr "레이나의 가희 오퍼레이션을 발생시킨다"
+
+msgid "bingo_0003_0003_0048_desc"
+msgstr "란카의 가희\\n오퍼레이션을\\n발생시킨다"
+
+msgid "bingo_0003_0003_0048_cond"
+msgstr "란카의 가희 오퍼레이션을 발생시킨다"
+
+msgid "bingo_0003_0003_0049_desc"
+msgstr "셰릴의 가희\\n오퍼레이션을\\n발생시킨다"
+
+msgid "bingo_0003_0003_0049_cond"
+msgstr "셰릴의 가희 오퍼레이션을 발생시킨다"
+
+msgid "bingo_0003_0003_0050_desc"
+msgstr "밀레느의 가희\\n오퍼레이션을\\n발생시킨다"
+
+msgid "bingo_0003_0003_0050_cond"
+msgstr "밀레느의 가희 오퍼레이션을 발생시킨다"
+
+msgid "bingo_0003_0003_0051_desc"
+msgstr "바사라의 가희\\n오퍼레이션을\\n발생시킨다"
+
+msgid "bingo_0003_0003_0051_cond"
+msgstr "바사라의 가희 오퍼레이션을 발생시킨다"
+
+msgid "bingo_0003_0003_0052_desc"
+msgstr "민메이의 가희\\n오퍼레이션을\\n발생시킨다"
+
+msgid "bingo_0003_0003_0052_cond"
+msgstr "민메이의 가희 오퍼레이션을 발생시킨다"
+
+msgid "bingo_0003_0003_0053_desc"
+msgstr "프레이아의 가희\\n오퍼레이션을\\n2회 파워업"
+
+msgid "bingo_0003_0003_0053_cond"
+msgstr "프레이아의 가희 오퍼레이션을\\n2회 파워업한다"
+
+msgid "bingo_0003_0003_0054_desc"
+msgstr "미쿠모의 가희\\n오퍼레이션을\\n파워업"
+
+msgid "bingo_0003_0003_0054_cond"
+msgstr "미쿠모의 가희 오퍼레이션을 파워업한다"
+
+msgid "bingo_0003_0003_0055_desc"
+msgstr "카나메의 가희\\n오퍼레이션을\\n파워업"
+
+msgid "bingo_0003_0003_0055_cond"
+msgstr "카나메의 가희 오퍼레이션을 파워업한다"
+
+msgid "bingo_0003_0003_0056_desc"
+msgstr "마키나의 가희\\n오퍼레이션을\\n파워업"
+
+msgid "bingo_0003_0003_0056_cond"
+msgstr "마키나의 가희 오퍼레이션을 파워업한다"
+
+msgid "bingo_0003_0003_0057_desc"
+msgstr "레이나의 가희\\n오퍼레이션을\\n파워업"
+
+msgid "bingo_0003_0003_0057_cond"
+msgstr "레이나의 가희 오퍼레이션을 파워업한다"
+
+msgid "bingo_0003_0003_0058_desc"
+msgstr "란카의 가희\\n오퍼레이션을\\n파워업"
+
+msgid "bingo_0003_0003_0058_cond"
+msgstr "란카의 가희 오퍼레이션을 파워업한다"
+
+msgid "bingo_0003_0003_0059_desc"
+msgstr "셰릴의 가희\\n오퍼레이션을\\n파워업"
+
+msgid "bingo_0003_0003_0059_cond"
+msgstr "셰릴의 가희 오퍼레이션을 파워업한다"
+
+msgid "bingo_0003_0003_0060_desc"
+msgstr "밀레느의 가희\\n오퍼레이션을\\n파워업"
+
+msgid "bingo_0003_0003_0060_cond"
+msgstr "밀레느의 가희 오퍼레이션을 파워업한다"
+
+msgid "bingo_0003_0003_0061_desc"
+msgstr "바사라의 가희\\n오퍼레이션을\\n파워업"
+
+msgid "bingo_0003_0003_0061_cond"
+msgstr "바사라의 가희 오퍼레이션을 파워업한다"
+
+msgid "bingo_0003_0003_0062_desc"
+msgstr "민메이의 가희\\n오퍼레이션을\\n파워업"
+
+msgid "bingo_0003_0003_0062_cond"
+msgstr "민메이의 가희 오퍼레이션을 파워업한다"
+
+msgid "bingo_0003_0003_0063_desc"
+msgstr "프레이아 의상의\\n귀여움 랭크를\\n3으로 만든다"
+
+msgid "bingo_0003_0003_0063_cond"
+msgstr "의상 강화로 프레이아 의상의\\n귀여움 랭크를 3으로 만든다"
+
+msgid "bingo_0003_0003_0064_desc"
+msgstr "미쿠모 의상의\\n귀여움 랭크를\\n2로 만든다"
+
+msgid "bingo_0003_0003_0064_cond"
+msgstr "의상 강화로 미쿠모 의상의\\n귀여움 랭크를 2로 만든다"
+
+msgid "bingo_0003_0003_0065_desc"
+msgstr "카나메 의상의\\n귀여움 랭크를\\n2로 만든다"
+
+msgid "bingo_0003_0003_0065_cond"
+msgstr "의상 강화로 카나메 의상의\\n귀여움 랭크를 2로 만든다"
+
+msgid "bingo_0003_0003_0066_desc"
+msgstr "마키나 의상의\\n귀여움 랭크를\\n2로 만든다"
+
+msgid "bingo_0003_0003_0066_cond"
+msgstr "의상 강화로 마키나 의상의\\n귀여움 랭크를 2로 만든다"
+
+msgid "bingo_0003_0003_0067_desc"
+msgstr "레이나 의상의\\n귀여움 랭크를\\n2로 만든다"
+
+msgid "bingo_0003_0003_0067_cond"
+msgstr "의상 강화로 레이나 의상의\\n귀여움 랭크를 2로 만든다"
+
+msgid "bingo_0003_0003_0068_desc"
+msgstr "란카 의상의\\n귀여움 랭크를\\n2로 만든다"
+
+msgid "bingo_0003_0003_0068_cond"
+msgstr "의상 강화로 란카 의상의\\n귀여움 랭크를 2로 만든다"
+
+msgid "bingo_0003_0003_0069_desc"
+msgstr "셰릴 의상의\\n귀여움 랭크를\\n2로 만든다"
+
+msgid "bingo_0003_0003_0069_cond"
+msgstr "의상 강화로 셰릴 의상의\\n귀여움 랭크를 2로 만든다"
+
+msgid "bingo_0003_0003_0070_desc"
+msgstr "밀레느 의상의\\n귀여움 랭크를\\n2로 만든다"
+
+msgid "bingo_0003_0003_0070_cond"
+msgstr "의상 강화로 밀레느 의상의\\n귀여움 랭크를 2로 만든다"
+
+msgid "bingo_0003_0003_0071_desc"
+msgstr "바사라 의상의\\n귀여움 랭크를\\n2로 만든다"
+
+msgid "bingo_0003_0003_0071_cond"
+msgstr "의상 강화로 바사라 의상의\\n귀여움 랭크를 2로 만든다"
+
+msgid "bingo_0003_0003_0072_desc"
+msgstr "민메이 의상의\\n귀여움 랭크를\\n2로 만든다"
+
+msgid "bingo_0003_0003_0072_cond"
+msgstr "의상 강화로 민메이 의상의\\n귀여움 랭크를 2로 만든다"
+
+msgid "bingo_0004_0004_0001_desc"
+msgstr "플레이어 랭크\\n8로 올리기"
+
+msgid "bingo_0004_0004_0001_cond"
+msgstr "플레이어 랭크 8로 올리기"
+
+msgid "bingo_0004_0004_0002_desc"
+msgstr "이벤트 곡을\\n합계 1회 이상\\n플레이"
+
+msgid "bingo_0004_0004_0002_cond"
+msgstr "이벤트 곡을 합계 1회 이상 플레이"
+
+msgid "bingo_0004_0004_0003_desc"
+msgstr "요일 곡을\\n1회 클리어"
+
+msgid "bingo_0004_0004_0003_cond"
+msgstr "요일 곡을 1회 클리어"
+
+msgid "bingo_0004_0004_0004_desc"
+msgstr "가챠 총 5회 진행\\n※10연속 가챠도\\n1회로 카운트"
+
+msgid "bingo_0004_0004_0004_cond"
+msgstr "가챠 총 5회 진행\\n※10연속 가챠도 1회로 카운트"
+
+msgid "bingo_0004_0004_0005_desc"
+msgstr "스코어 30만점\\n이상 달성"
+
+msgid "bingo_0004_0004_0005_cond"
+msgstr "스코어 30만점 이상 달성"
+
+msgid "bingo_0004_0004_0006_desc"
+msgstr "별자리 메달을\\n500개 획득"
+
+msgid "bingo_0004_0004_0006_cond"
+msgstr "별자리 메달을 500개 획득"
+
+msgid "bingo_0004_0004_0007_desc"
+msgstr "초가희 모드에\\n돌입하여\\n1회 클리어"
+
+msgid "bingo_0004_0004_0007_cond"
+msgstr "초가희 모드에 돌입하여 1회 클리어"
+
+msgid "bingo_0004_0004_0008_desc"
+msgstr "플레이트 30장\\n획득하기"
+
+msgid "bingo_0004_0004_0008_cond"
+msgstr "플레이트 30장 획득하기"
+
+msgid "bingo_0004_0004_0009_desc"
+msgstr "우타 마크로스에\\n총 2일\\n로그인하기"
+
+msgid "bingo_0004_0004_0009_cond"
+msgstr "우타 마크로스에\\n총 2일 로그인하기"
+
+msgid "bingo_0004_0004_0010_desc"
+msgstr "S-LIIVE를\\n1회 플레이"
+
+msgid "bingo_0004_0004_0010_cond"
+msgstr "S-LIVE를 1회 플레이"
+
+msgid "bingo_0004_0004_0011_desc"
+msgstr "가희 오퍼레이\\n션을 1회 파워\\n업한다"
+
+msgid "bingo_0004_0004_0011_cond"
+msgstr "가희 오퍼레이션을 1회 파워업한다"
+
+msgid "bingo_0004_0004_0012_desc"
+msgstr "가챠 총 5회 진행\\n※10연속 가챠도\\n1회로 카운트"
+
+msgid "bingo_0004_0004_0012_cond"
+msgstr "가챠 총 5회 진행\\n※10연속 가챠도 1회로 카운트"
+
+msgid "bingo_0004_0004_0013_desc"
+msgstr "이벤트 악곡\\n총 10회 이상\\n플레이"
+
+msgid "bingo_0004_0004_0013_cond"
+msgstr "이벤트 악곡 총 10회 이상 플레이"
+
+msgid "bingo_0004_0004_0014_desc"
+msgstr "별자리 메달 교환소\\n에서 1회 교환하기"
+
+msgid "bingo_0004_0004_0014_cond"
+msgstr "별자리 메달 교환소에서 1회 교환하기"
+
+msgid "bingo_0004_0004_0015_desc"
+msgstr "스코어 60만점\\n이상 달성"
+
+msgid "bingo_0004_0004_0015_cond"
+msgstr "스코어 60만점 이상 달성"
+
+msgid "bingo_0004_0004_0016_desc"
+msgstr "우타 마크로스에\\n총 3일\\n로그인하기"
+
+msgid "bingo_0004_0004_0016_cond"
+msgstr "우타 마크로스에\\n총 3일간 로그인하기"
+
+msgid "bingo_0004_0004_0017_desc"
+msgstr "가희 오퍼레이\\n션을 1회\\n발생시킨다"
+
+msgid "bingo_0004_0004_0017_cond"
+msgstr "가희 오퍼레이션을 1회 발생시킨다"
+
+msgid "bingo_0004_0004_0018_desc"
+msgstr "발키리\\n오퍼레이션\\n5회 달성하기"
+
+msgid "bingo_0004_0004_0018_cond"
+msgstr "발키리 오퍼레이션 5회 달성하기"
+
+msgid "bingo_0004_0004_0019_desc"
+msgstr "노래 레이트를\\n1000으로 만든다"
+
+msgid "bingo_0004_0004_0019_cond"
+msgstr "노래 레이트를 1000으로 만든다"
+
+msgid "bingo_0004_0004_0020_desc"
+msgstr "이벤트 악곡\\n총 20회 이상\\n플레이"
+
+msgid "bingo_0004_0004_0020_cond"
+msgstr "이벤트 악곡 총 20회 이상 플레이"
+
+msgid "bingo_0004_0004_0021_desc"
+msgstr "풀콤보\\n3회 달성"
+
+msgid "bingo_0004_0004_0021_cond"
+msgstr "풀콤보 3회 달성"
+
+msgid "bingo_0004_0004_0022_desc"
+msgstr "가챠 총 5회 진행\\n※10연속 가챠도\\n1회로 카운트"
+
+msgid "bingo_0004_0004_0022_cond"
+msgstr "가챠 총 5회 진행\\n※10연속 가챠도 1회로 카운트"
+
+msgid "bingo_0004_0004_0023_desc"
+msgstr "우타 마크로스에\\n총 3일\\n로그인하기"
+
+msgid "bingo_0004_0004_0023_cond"
+msgstr "우타 마크로스에\\n총 3일간 로그인하기"
+
+msgid "bingo_0004_0004_0024_desc"
+msgstr "스코어 100만점\\n이상 달성"
+
+msgid "bingo_0004_0004_0024_cond"
+msgstr "스코어 100만점 이상 달성"
+
+msgid "bingo_0004_0004_0025_desc"
+msgstr "의상의\\n캬와와 랭크\\n3 달성"
+
+msgid "bingo_0004_0004_0025_cond"
+msgstr "의상의 캬와와 랭크\\n3 달성"
+
+msgid "bingo_0004_0004_0026_desc"
+msgstr "가희 오퍼레이\\n션을 5회\\n발생시킨다"
+
+msgid "bingo_0004_0004_0026_cond"
+msgstr "가희 오퍼레이션을 5회 발생시킨다"
+
+msgid "bingo_0004_0004_0027_desc"
+msgstr "발키리\\n오퍼레이션\\n10회 달성"
+
+msgid "bingo_0004_0004_0027_cond"
+msgstr "발키리 오퍼레이션 10회 달성하기"
+
+msgid "bingo_0005_0005_0001_desc"
+msgstr "플레이어 랭크\\n8로 올리기"
+
+msgid "bingo_0005_0005_0001_cond"
+msgstr "플레이어 랭크 8로 올리기"
+
+msgid "bingo_0005_0005_0002_desc"
+msgstr "이벤트에서 악곡\\n1회 플레이"
+
+msgid "bingo_0005_0005_0002_cond"
+msgstr "이벤트에서 악곡 1회 플레이하기"
+
+msgid "bingo_0005_0005_0003_desc"
+msgstr "요일 악곡\\n3회 클리어"
+
+msgid "bingo_0005_0005_0003_cond"
+msgstr "요일 악곡 3회 클리어하기"
+
+msgid "bingo_0005_0005_0004_desc"
+msgstr "가챠를 합계 5회\\n뽑는다※10연 가챠\\n도 1회로 계산"
+
+msgid "bingo_0005_0005_0004_cond"
+msgstr "가챠를 합계 5회 뽑는다\\n※10연 가챠도 1회로 계산"
+
+msgid "bingo_0005_0005_0005_desc"
+msgstr "스코어 50만점\\n이상 달성"
+
+msgid "bingo_0005_0005_0005_cond"
+msgstr "스코어 50만점 이상 달성하기"
+
+msgid "bingo_0005_0005_0006_desc"
+msgstr "스코어 랭크 SS\\n1회 달성"
+
+msgid "bingo_0005_0005_0006_cond"
+msgstr "스코어 랭크 SS 1회 달성하기"
+
+msgid "bingo_0005_0005_0007_desc"
+msgstr "초가희 모드에\\n돌입하여\\n1회 클리어"
+
+msgid "bingo_0005_0005_0007_cond"
+msgstr "초가희 모드에 돌입하여 1회 클리어하기"
+
+msgid "bingo_0005_0005_0008_desc"
+msgstr "플레이트를\\n10장 획득"
+
+msgid "bingo_0005_0005_0008_cond"
+msgstr "에피소드 플레이트를 10장 획득한다"
+
+msgid "bingo_0005_0005_0009_desc"
+msgstr "우타 마크로스에\\n합계 2일 로그인"
+
+msgid "bingo_0005_0005_0009_cond"
+msgstr "우타 마크로스에\\n총 2일 로그인하기"
+
+msgid "bingo_0005_0005_0010_desc"
+msgstr "EP 플레이트\\n【신춘의 단란】\\nLv70 달성"
+
+msgid "bingo_0005_0005_0010_cond"
+msgstr "에피소드 플레이트【신춘의 단란】\\n의 레벨을 70으로 만든다"
+
+msgid "bingo_0005_0005_0011_desc"
+msgstr "플레이트를\\n10장 획득"
+
+msgid "bingo_0005_0005_0011_cond"
+msgstr "에피소드 플레이트를 10장 획득한다"
+
+msgid "bingo_0005_0005_0012_desc"
+msgstr "가챠를 합계 5회\\n뽑는다※10연 가챠\\n도 1회로 계산"
+
+msgid "bingo_0005_0005_0012_cond"
+msgstr "가챠를 합계 5회 뽑는다\\n※10연 가챠도 1회로 계산"
+
+msgid "bingo_0005_0005_0013_desc"
+msgstr "이벤트에서 곡을\\n5회 플레이"
+
+msgid "bingo_0005_0005_0013_cond"
+msgstr "이벤트에서 곡을 5회 플레이한다"
+
+msgid "bingo_0005_0005_0014_desc"
+msgstr "스코어 80만점\\n이상 달성"
+
+msgid "bingo_0005_0005_0014_cond"
+msgstr "스코어 80만점 이상 달성하기"
+
+msgid "bingo_0005_0005_0015_desc"
+msgstr "우타 마크로스에\\n총 3일간\\n로그인"
+
+msgid "bingo_0005_0005_0015_cond"
+msgstr "우타 마크로스에\\n총 3일간 로그인하기"
+
+msgid "bingo_0005_0005_0016_desc"
+msgstr "스코어 랭크 SS\\n5회 달성"
+
+msgid "bingo_0005_0005_0016_cond"
+msgstr "스코어 랭크 SS 5회 달성하기"
+
+msgid "bingo_0005_0005_0017_desc"
+msgstr "초가희 모드에\\n돌입하여\\n5회 클리어"
+
+msgid "bingo_0005_0005_0017_cond"
+msgstr "초가희 모드에 돌입하여 5회 클리어하기"
+
+msgid "bingo_0005_0005_0018_desc"
+msgstr "아무 가희의\\n레벨을 3으로 만든다"
+
+msgid "bingo_0005_0005_0018_cond"
+msgstr "아무 가희의 레벨을 3으로 만든다"
+
+msgid "bingo_0005_0005_0019_desc"
+msgstr "노래 레이트를\\n1500으로 만든다"
+
+msgid "bingo_0005_0005_0019_cond"
+msgstr "노래 레이트를 1500으로 만든다"
+
+msgid "bingo_0005_0005_0020_desc"
+msgstr "이벤트에서 곡을\\n10회 플레이"
+
+msgid "bingo_0005_0005_0020_cond"
+msgstr "이벤트에서 곡을 10회 플레이한다"
+
+msgid "bingo_0005_0005_0021_desc"
+msgstr "풀콤보\\n5회 달성"
+
+msgid "bingo_0005_0005_0021_cond"
+msgstr "풀콤보 5회 달성하기"
+
+msgid "bingo_0005_0005_0022_desc"
+msgstr "초가희 모드에\\n돌입하여\\n5회 클리어"
+
+msgid "bingo_0005_0005_0022_cond"
+msgstr "초가희 모드에 돌입하여 5회 클리어하기"
+
+msgid "bingo_0005_0005_0023_desc"
+msgstr "스코어 200만점\\n이상 달성"
+
+msgid "bingo_0005_0005_0023_cond"
+msgstr "스코어 200만점 이상 달성하기"
+
+msgid "bingo_0005_0005_0024_desc"
+msgstr "스코어 100만점\\n이상 달성"
+
+msgid "bingo_0005_0005_0024_cond"
+msgstr "스코어 100만점 이상 달성하기"
+
+msgid "bingo_0005_0005_0025_desc"
+msgstr "스코어 랭크 SS\\n10회 달성"
+
+msgid "bingo_0005_0005_0025_cond"
+msgstr "스코어 랭크 SS 10회 달성하기"
+
+msgid "bingo_0005_0005_0026_desc"
+msgstr "가희 중 한 명의 레벨\\n5로 올리기"
+
+msgid "bingo_0005_0005_0026_cond"
+msgstr "가희 중 한 명의 레벨 5로 올리기"
+
+msgid "bingo_0005_0005_0027_desc"
+msgstr "요일 악곡\\n5회 클리어"
+
+msgid "bingo_0005_0005_0027_cond"
+msgstr "요일 악곡 5회 클리어하기"

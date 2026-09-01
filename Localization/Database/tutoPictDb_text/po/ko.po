@@ -1,0 +1,2431 @@
+msgid ""
+msgstr ""
+"Language: ko\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "tutopict_0000_0000_title"
+msgstr "기억의 시공와 노래의 기억에 대하여"
+
+msgid "tutopict_0000_0000_msg"
+msgstr "【노래의 기억】과 【가희의 기억】을\\n새롭게 해방하기 위해서는 악곡과 가희마다\\n설정된 조건을 충족시켜야 돼."
+
+msgid "tutopict_0000_0001_msg"
+msgstr "해방된 악곡을 플레이하면\\n그 곡이 【라이브】에 추가돼."
+
+msgid "tutopict_0001_0000_title"
+msgstr "가희의 기억에 대하여"
+
+msgid "tutopict_0001_0000_msg"
+msgstr "【가희의 기억】을 발견했다면\\n【노래의 기억】과 마찬가지로\\n먼저 해방 조건을 확인하자."
+
+msgid "tutopict_0002_0000_title"
+msgstr "우타 마크로스의 악곡들에 대하여"
+
+msgid "tutopict_0002_0000_msg"
+msgstr "시리즈의 명곡들을 【라이브】로 즐겨봐.\\n선택할 수 있는 악곡은 앞으로 점점 더 늘어날 거야."
+
+msgid "tutopict_0002_0001_msg"
+msgstr "라이브는 2D 모드에서도 플레이할 수 있어.\\n변경하려면 【메뉴】의 【게임 설정】에서\\n【동작 설정】을 선택하면 돼."
+
+msgid "tutopict_0003_0000_title"
+msgstr "어시스트 플레이트에 대하여"
+
+msgid "tutopict_0003_0000_msg"
+msgstr "어시스트 플레이트는 스테이터스와 센터 스킬로\\n유닛을 강하게 만들어 줘."
+
+msgid "tutopict_0004_0000_title"
+msgstr "유닛 세트에 대하여"
+
+msgid "tutopict_0004_0000_msg"
+msgstr "목적에 맞게 다양한 유닛을\\n조합해 보자!"
+
+msgid "tutopict_0004_0001_msg"
+msgstr "【유닛 세트】는 속성별, 스코어 중심,\\n라이프 중심 등 목적별로 저장해두면 편리해."
+
+msgid "tutopict_0005_0000_title"
+msgstr "플레이로그에 대하여"
+
+msgid "tutopict_0005_0000_msg"
+msgstr "악곡에서 내가 실수한 부분,\\n스킬이 발동된 타이밍 등의\\n정보를 알 수 있어."
+
+msgid "tutopict_0006_0000_title"
+msgstr "플레이어 랭크에 대하여"
+
+msgid "tutopict_0006_0000_msg"
+msgstr "플레이어 랭크를 올리기 위해서는\\n라이브를 많이 해서 경험치를 획득해야 해."
+
+msgid "tutopict_0007_0000_title"
+msgstr "친구 신청에 대하여"
+
+msgid "tutopict_0007_0000_msg"
+msgstr "친구 신청을 해봐.\\n의지할 수 있는 동료를 점점 늘려가 보자."
+
+msgid "tutopict_0008_0000_title"
+msgstr "스킬에 대하여"
+
+msgid "tutopict_0008_0000_msg"
+msgstr "센터 스킬, 액티브 스킬, 라이브 스킬\\n각각의 특징이 있어."
+
+msgid "tutopict_0008_0001_msg"
+msgstr "메인 플레이트는 액티브 스킬과 센터 스킬,\\n서브 플레이트는 라이브 스킬을 발동할 수 있어.\\n세 가지 스킬을 조합해 라이브에 유리하게 활용하자!"
+
+msgid "tutopict_0008_0002_msg"
+msgstr "라이브 스킬은 에피소드 플레이트와\\n가희의 상성에 따라 발동 여부가 결정돼.\\n파란색 마이크 아이콘이 표시되어 있어."
+
+msgid "tutopict_0009_0000_title"
+msgstr "능력 해방에 대하여"
+
+msgid "tutopict_0009_0000_msg"
+msgstr "에피소드 플레이트는 【능력 해방】으로 강화하면\\n본래의 능력을 발휘할 수 있게 돼."
+
+msgid "tutopict_0009_0001_msg"
+msgstr "능력 해방에 필요한 아이템과 유니온 크레딧(UC)은\\n라이브와 미션을 통해 획득하면 돼."
+
+msgid "tutopict_0010_0000_title"
+msgstr "선물상자에 대하여"
+
+msgid "tutopict_0010_0000_msg"
+msgstr "선물상자는 이미 확인했어?\\n획득한 아이템은 선물상자에서 받을 수 있어."
+
+msgid "tutopict_0011_0000_title"
+msgstr "의상에 대하여"
+
+msgid "tutopict_0011_0000_msg"
+msgstr "의상을 준비했으면 이제 옷을 갈아입어보자!\\n【의상 선택】에서 선택할 수 있어.\\n의상에는 약간의 효과도 있어."
+
+msgid "tutopict_0012_0000_title"
+msgstr "가희의 편성에 대하여"
+
+msgid "tutopict_0012_0000_msg"
+msgstr "새로운 가희가 【유닛】에 참여할 수 있게 되었어.\\n유닛 편성으로 참여시켜 보자!"
+
+msgid "tutopict_0013_0000_title"
+msgstr "숙련도에 대하여"
+
+msgid "tutopict_0013_0000_msg"
+msgstr "숙련도가 오르면 가희 경험치를 획득할 수 있어.\\n악곡마다 숙련도가 있으니\\n다양한 악곡에 도전해봐."
+
+msgid "tutopict_0013_0001_msg"
+msgstr "가희 경험치를 획득해서 가희 레벨을 올려 줘.\\n우리도 여기서부터 계속 성장해 나갈 거야."
+
+msgid "tutopict_0014_0000_title"
+msgstr "프로필에 대하여"
+
+msgid "tutopict_0014_0000_msg"
+msgstr "프로필에서는 너의 정보를 확인할 수 있어.\\n플레이어 이름, 소개문, 칭호는 여기서 변경할 수 있어.\\n네가 메인으로 설정한 플레이트도 확인할 수 있어."
+
+msgid "tutopict_0014_0001_msg"
+msgstr "【마크로스 리포트】는 너의 활동 기록이야.\\n열심히 기록을 갱신해 나가자!"
+
+msgid "tutopict_0015_0000_title"
+msgstr "승인 대기 목록에 대해"
+
+msgid "tutopict_0015_0000_msg"
+msgstr "다른 플레이어가 친구 신청을 하면\\n친구 메뉴의【승인 대기 목록】에서\\n승인해 줘."
+
+msgid "tutopict_0016_0000_title"
+msgstr "에피소드 해방에 대하여"
+
+msgid "tutopict_0016_0000_msg"
+msgstr "에피소드 플레이트를 획득하면\\n그 플레이트와 관련된 에피소드가 추가돼."
+
+msgid "tutopict_0016_0001_msg"
+msgstr "에피소드는 포인트를 모아서 완전 해방하면\\n의상과 발키리를 획득할 수 있어.\\n완전 해방하는 과정에도 보상이 준비되어 있어."
+
+msgid "tutopict_0016_0002_msg"
+msgstr "에피소드 플레이트의 레어도가 높을수록\\n획득할 수 있는 에피소드 포인트도 높아져."
+
+msgid "tutopict_0017_0000_title"
+msgstr "드롭 아이템에 대하여"
+
+msgid "tutopict_0017_0000_msg"
+msgstr "라이브 중에 탭한 아이템은 라이브가 성공하면\\n획득할 수 있으니 마지막까지 긴장을 늦추면 안돼."
+
+msgid "tutopict_0018_0000_title"
+msgstr "레어도 상승에 대하여"
+
+msgid "tutopict_0018_0000_msg"
+msgstr "가챠 등에서 같은 에피소드 플레이트를 획득하면\\n레어도가 올라가고, 플레이트를 더욱\\n성장시킬 수 있어."
+
+msgid "tutopict_0019_0000_title"
+msgstr "발키리 편성에 대하여"
+
+msgid "tutopict_0019_0000_msg"
+msgstr "발키리 버튼은 눌러 봤어?\\n출격 가능한 발키리를 자세히 볼 수 있어."
+
+msgid "tutopict_0020_0000_title"
+msgstr "발키리 편성에 대하여"
+
+msgid "tutopict_0020_0000_msg"
+msgstr "발키리 편성 화면에서는\\n출격할 발키리를 선택하거나\\n발키리의 정보를 확인할 수 있어."
+
+msgid "tutopict_0021_0000_title"
+msgstr "시크릿 보드에 대하여"
+
+msgid "tutopict_0021_0000_msg"
+msgstr "시크릿 보드는 플레이트를 3장 이상 모으거나\\n시크릿 스톤을 사용하면 해제할 수 있어."
+
+msgid "tutopict_0021_0001_msg"
+msgstr "【LUCK】이 높아지면\\n레어 아이템 노트가 등장하기 쉬워져."
+
+msgid "tutopict_0021_0002_msg"
+msgstr "★5~★7 플레이트에서는 시크릿 보드에\\n능력 칸이 추가돼.\\n플레이트를 성장시켜서 하이스코어를 노려보자."
+
+msgid "tutopict_0022_0000_title"
+msgstr "악곡의 속성에 대하여"
+
+msgid "tutopict_0022_0000_msg"
+msgstr "에피소드 플레이트와 곡의 속성이 같으면\\n속성 보너스가 발생해."
+
+msgid "tutopict_0022_0001_msg"
+msgstr "목표로 하는 결정이 있을 때는 악곡의 속성을 의식해봐.\\n예를 들어, 사랑 속성의 악곡에서는 사랑의 결정을 얻기 쉬워."
+
+msgid "tutopict_0023_0000_title"
+msgstr "서비스 가챠에 대하여"
+
+msgid "tutopict_0023_0000_msg"
+msgstr "【서비스 가챠】는 아침, 낮, 밤 하루 3번\\n노래 크리스탈 없이 뽑을 수 있으니까 잊지 마.\\n이런 서비스는 좀처럼 받을 수 없다고!"
+
+msgid "tutopict_0024_0000_title"
+msgstr "에피소드에 대하여"
+
+msgid "tutopict_0024_0000_msg"
+msgstr "에피소드 플레이트를 획득하면\\n해당 플레이트와 관련된 에피소드가 추가돼."
+
+msgid "tutopict_0024_0001_msg"
+msgstr "추가된 에피소드는\\n에피소드 목록에서 확인할 수 있어."
+
+msgid "tutopict_0025_0000_title"
+msgstr "요일 한정 이벤트에 대하"
+
+msgid "tutopict_0025_0000_msg"
+msgstr "요일마다 다른 곡이 선곡돼.\\n원하는 아이템이 있다면 꼭 확인해 봐!"
+
+msgid "tutopict_0026_0000_title"
+msgstr "초가희 모드에 대하여"
+
+msgid "tutopict_0026_0001_title"
+msgstr "유닛 편성에 대하여"
+
+msgid "tutopict_0026_0000_msg"
+msgstr "적의 라이프를 0으로 만들면 추격 모드로 전환돼.\\n추격 모드 중에 많은 피해를 주면\\n【초가희 모드】에 돌입해!"
+
+msgid "tutopict_0026_0001_msg"
+msgstr "초가희 모드에서는 아이템 노트가 잔뜩 나와!\\n아이템이 필요할 때는 열심히 노려 보자."
+
+msgid "tutopict_0027_0000_title"
+msgstr "하이스코어를 얻으려면"
+
+msgid "tutopict_0027_0000_msg"
+msgstr "최대 3명의 가희가 유닛에 참여할 수 있어!\\n라이브에 등장시키고 싶은 가희를 센터로 설정해."
+
+msgid "tutopict_0028_0000_title"
+msgstr "하이스코어를 얻으려면"
+
+msgid "tutopict_0028_0000_msg"
+msgstr "【TOTAL】은 【소울】【보이스】【참】의 합계야.\\n라이브를 하이스코어로 성공하고 싶을 때는\\n【TOTAL】을 신경써야 돼."
+
+msgid "tutopict_0029_0000_title"
+msgstr "생체 폴드파를 모으려면"
+
+msgid "tutopict_0029_0000_msg"
+msgstr "【생체 폴드파】는 유닛의 【생체 폴드파】\\n값이 높을수록 쌓이기 쉬워져."
+
+msgid "tutopict_0030_0000_title"
+msgstr "발키리 모드에서 적을 물리치려면"
+
+msgid "tutopict_0030_0000_msg"
+msgstr "【서포트】를 올려서 파일럿의 능력을\\n끌어올리면 적을 쓰러뜨리기 쉬워져.\\n가희와 파일럿은 서로에게 도움이 되는 관계야."
+
+msgid "tutopict_0031_0000_title"
+msgstr "에피소드 보너스에 대하여"
+
+msgid "tutopict_0031_0000_msg"
+msgstr "플레이트를 선택할 때\\n에피소드 보너스를 받을 수 있는\\n플레이트만 표시할 수도 있어."
+
+msgid "tutopict_0032_0000_title"
+msgstr "럭키 리프에 대하여"
+
+msgid "tutopict_0032_0000_msg"
+msgstr "플레이트의 LUCK을 높이면 럭키 리프가\\n등장해. 이게 해방된 플레이트를 편성하면\\n라이브 중 다양한 특수 효과를 얻을 수 있어."
+
+msgid "tutopict_0032_0001_msg"
+msgstr "럭키 리프를 해방할 수 있는 것은, 레어도 상승 후\\n★5, ★6, ★7 플레이트 뿐이야. 대상 플레이트의 LUCK에\\n따라 해방할 수 있는 럭키 리프의 개수가 늘어나."
+
+msgid "tutopict_0032_0002_msg"
+msgstr "럭키 리프를 해방하려면 【행운의 휘석】과\\n【행운의 황석】이 필요해! 이벤트 보상이나\\n미션 등을 통해 획득할 수 있어."
+
+msgid "tutopict_0032_0003_msg"
+msgstr "해방한 리프의 수에 따라\\n럭키 리프의 효과가 강해져.\\n이를 이용해 하이스코어를 노려보자!"
+
+msgid "tutopict_0032_0004_msg"
+msgstr "프리미어화하면 플레이트가 무지갯빛으로 빛나.\\n데코르챠 룸에 포스터로 붙여서\\n모두에게 자랑하자!"
+
+msgid "tutopict_0033_0000_title"
+msgstr "시뮬레이션 라이브에 대해"
+
+msgid "tutopict_0033_0000_msg"
+msgstr "【시뮬레이션 라이브】가 해금됐어!\\n오토 플레이로 라이브를 감상할 수 있으니까\\n댄스나 배틀을 천천히 보고 싶을 때 추천해."
+
+msgid "tutopict_0033_0001_msg"
+msgstr "화면 오른쪽 아래의 S-LIVE 버튼을 누르면\\n시뮬레이션 라이브를 플레이할 수 있어."
+
+msgid "tutopict_0034_0000_title"
+msgstr "시뮬레이션 라이브 플레이 방법"
+
+msgid "tutopict_0034_0000_msg"
+msgstr "시뮬레이션 라이브 중 등장하는\\n가희, 의상, 발키리를 곡마다 설정할 수 있어."
+
+msgid "tutopict_0034_0001_msg"
+msgstr "난이도에 맞는 노트 터치음이 나와서\\nPERFECT 터치 타이밍을 확인할 수 있어."
+
+msgid "tutopict_0035_0000_title"
+msgstr "초시공 프리즘에 대하여"
+
+msgid "tutopict_0035_0000_msg"
+msgstr "【초시공 프리즘】이 해방됐어!\\n악곡별로 라이브 중의 외형을 변경할 수 있어."
+
+msgid "tutopict_0036_0000_title"
+msgstr "12별자리 메달에 대해"
+
+msgid "tutopict_0036_0000_msg"
+msgstr "【12별자리 메달】은 카오스 교환소에서\\n아이템과 교환할 수 있어.\\n메달마다 교환 기한이 있으니 주의해!"
+
+msgid "tutopict_0037_0000_title"
+msgstr "노래 레이트에 대해"
+
+msgid "tutopict_0037_0000_msg"
+msgstr "노래 그레이드는 실력의 기준이 돼.\\n열심히 해서 그레이드 업을 노려 보자!"
+
+msgid "tutopict_0037_0001_msg"
+msgstr "노래 레이트를 올리면 노래 그레이드가 상승해.\\n다음 노래 그레이드가 올랐을 때 받을 보상을\\n확인할 수 있어."
+
+msgid "tutopict_0037_0002_msg"
+msgstr "노래 그레이드를 올리면 노멀 미션 보상으로도\\n플레이트 등의 아이템을 받을 수 있어."
+
+msgid "tutopict_0038_0000_title"
+msgstr "카오스 교환소에 대해"
+
+msgid "tutopict_0038_0000_msg"
+msgstr "【[케이오스 교환소】에서는\\r\\nUC, 메달, 스피어 등으로 아이템을 교환할 수 있어.\\r\\n부족한 아이템을 획득하는 데 활용해 보자!"
+
+msgid "tutopict_0039_0000_title"
+msgstr "시즌 스피어에 대해"
+
+msgid "tutopict_0039_0000_msg"
+msgstr "노래 크리스탈을 구매하면,\\n보너스로 【시즌 스피어】가 함께 들어와.\\n스피어는 카오스 교환소에서 아이템과 교환할 수 있어."
+
+msgid "tutopict_0040_0000_title"
+msgstr "노래 마크로스 1st Anniversary 냥냥 축제에 대해"
+
+msgid "tutopict_0040_0000_msg"
+msgstr "노래 마크로스 1주년을 기념해서,\\n기간 한정으로 【냥냥 축제】가 개최돼.\\n【냥냥 축제】의 핵심은 【냥쿠지☆】야."
+
+msgid "tutopict_0040_0001_msg"
+msgstr "【냥쿠지☆ 추첨권】으로 【냥쿠지☆】를 뽑을 수 있어.\\n추첨권은 냥냥 서비스 미션이나 이벤트 보상에서\\n받을 수 있어."
+
+msgid "tutopict_0040_0002_msg"
+msgstr "냥쿠지☆ 추첨권 1장으로 1번 뽑을 수 있어.\\n【냥쿠지☆】를 뽑으면 보상을 얻을 수 있어.\\n엄청난 보상도 있으니까 계속 뽑아 보자!"
+
+msgid "tutopict_0041_0000_title"
+msgstr "어니스트 함장 보상에 대해"
+
+msgid "tutopict_0041_0000_msg"
+msgstr "【훈장】을 모으면 어니스트 함장에게서\\n보상을 받을 수 있어.\\n훈장은 이벤트 곡을 플레이하면 얻을 수 있어!"
+
+msgid "tutopict_0042_0000_title"
+msgstr "친밀도에 대해"
+
+msgid "tutopict_0042_0000_msg"
+msgstr "가희를 길게 터치하면 【친밀도】를 올릴 수 있어.\\n친밀도는 【교감 카운터】 횟수만큼 올릴 수 있어.\\n교감 카운터는 시간이 지나면 회복돼."
+
+msgid "tutopict_0042_0001_msg"
+msgstr "【친밀도 레벨】이 오르면 칭호를 받거나\\n가희의 새로운 모습을 볼 수 있게 되는 등\\n좋은 일이 많이 생겨."
+
+msgid "tutopict_0042_0002_msg"
+msgstr "가희에게 【선물】을 보내 보자!\\n【선물】을 보내면 친밀도가 크게 올라가.\\n【선물】은 대기실에서 보낼 수 있어."
+
+msgid "tutopict_0043_0000_title"
+msgstr "선물에 대해"
+
+msgid "tutopict_0043_0000_msg"
+msgstr "선물은 하루에 한 번 보낼 수 있어.\\n가희에게 보낼 【선물】을 선택해서 눌러 보자!\\n원하는 것을 보내면 더 기뻐할 거야!"
+
+msgid "tutopict_0043_0001_msg"
+msgstr "선물은 카오스 교환소에서 획득할 수 있어.\\n그 밖에도 얻을 기회가 있을지도 몰라."
+
+msgid "tutopict_0044_0000_title"
+msgstr "라이브를 성공시키려면"
+
+msgid "tutopict_0044_0000_msg"
+msgstr "【라이프】가 높으면 라이브에 실패할 확률이 낮아져.\\n【생명력 회복】 액티브 스킬을 사용하는 것도\\n효과적이야!"
+
+msgid "tutopict_0045_0000_title"
+msgstr "유닛 라이브에 대하여"
+
+msgid "tutopict_0045_0000_msg"
+msgstr "【유닛 라이브】는 2명 이상이 함께 하는 라이브야.\\n유닛 라이브를 선택한 경우,\\n유닛 편성에 아이콘이 표시돼."
+
+msgid "tutopict_0046_0000_title"
+msgstr "달성 보상에 대하여"
+
+msgid "tutopict_0046_0000_msg"
+msgstr "라이브에서 받을 수 있는 보상은 악곡별, 난이도별로\\n준비되어 있으니 모두 획득하는 것을\\n목표로 해보자!"
+
+msgid "tutopict_0047_0000_title"
+msgstr "의상 강화에 대해"
+
+msgid "tutopict_0047_0000_msg"
+msgstr "특정 의상을 획득한 후,\\n그 의상을 더욱 강화할 수 있게 되었어!"
+
+msgid "tutopict_0047_0001_msg"
+msgstr "오퍼레이션에서 얻을 수 있는 【크로스 스톤】을 사용해\\n【해방치】를 올리면 의상의 【카와와 랭크】가 상승!\\n랭크를 점점 올려서 보상을 획득해 보자!"
+
+msgid "tutopict_0047_0002_msg"
+msgstr "보상으로는【지원 플레이트 슬롯】과 가희의 스테이터스\\n상승이 있어. 유닛에 추가로 플레이트를 장착할 수 있는\\n【지원 플레이트 슬롯】은 유닛을 더욱 강화할 수 있어!"
+
+msgid "tutopict_0048_0000_title"
+msgstr "팔레트 체인지에 대해"
+
+msgid "tutopict_0048_0000_msg"
+msgstr "【팔레트 체인지 의상】을 얻으면,\\n의상의 색상을 변경할 수 있게 돼!\\n스테이지에 맞춰 원하는 색으로 라이브를 즐겨 보자!"
+
+msgid "tutopict_0049_0000_title"
+msgstr "지원 플레이트에 대하여"
+
+msgid "tutopict_0049_0000_msg"
+msgstr "【지원 플레이트】에는 편성하지 않은 플레이트\\n중에서 가장 효과가 좋은 플레이트가 자동으로 설정돼.\\n다양한 플레이트를 육성해 보자!"
+
+msgid "tutopict_0049_0001_msg"
+msgstr "【지원 플레이트】에 설정된 플레이트의\\n능력의 일부가 유닛에 추가되서\\n하이스코어를 노리기 쉬워져!"
+
+msgid "tutopict_0050_0000_title"
+msgstr "발키리 오퍼레이션에 대해"
+
+msgid "tutopict_0050_0000_msg"
+msgstr "보상에는 확정 보상과 랜덤으로 얻을 수 있는 보상이\\n있어. 자신에게 필요한 보상이 무엇인지 잘 선택해서\\n오퍼레이션을 주문하자!"
+
+msgid "tutopict_0050_0001_msg"
+msgstr "소대는 3기의 발키리로 편성되어 있어.\\n발키리를 선택할 때는 추천 수치를 확인해 줘!\\n공격력과 명중치가 추천 수치보다 높으면 시간을 단축할 수 있어."
+
+msgid "tutopict_0050_0002_msg"
+msgstr "소대를 편성했다면 다음은 발키리의 형태를 선택해 줘.\\n형태에 따라 특화된 작전이 달라지니까,\\n작전에 맞춰 유리한 형태를 선택하자!"
+
+msgid "tutopict_0050_0003_msg"
+msgstr "발키리 형태를 선택하면 출격 준비 완료!\\n이제 파일럿들의\\n오퍼레이션 완료 보고를 기다리자!"
+
+msgid "tutopict_0051_0000_title"
+msgstr "발키리 오퍼레이션 해금에 대해"
+
+msgid "tutopict_0051_0000_msg"
+msgstr "발키리 오퍼레이션에는\\n【데일리 오퍼레이션】과\\n【위클리 오퍼레이션】이 있어."
+
+msgid "tutopict_0051_0001_msg"
+msgstr "발키리를 획득하면 오퍼레이션에\\n참가할 수 있는 소대 수가 늘어나.\\n한 번에 받을 수 있는 오퍼레이션 수를 늘려 효율적으로 도전하자!"
+
+msgid "tutopict_0052_0000_title"
+msgstr "가희 오퍼레이션에 대해"
+
+msgid "tutopict_0052_0000_msg"
+msgstr "곡을 클리어하면 【가희 오퍼레이션】이\\n도착할 때가 있어. 가희 오퍼레이션에서 획득하는\\n【캬와와 돌】은 의상 강화에 사용할 수 있어."
+
+msgid "tutopict_0052_0001_msg"
+msgstr "가희 오퍼레이션 등장 중에 곡을 클리어하면\\n오퍼레이션이 강화될 때가 있어.\\n보상도 점점 호화로워져!"
+
+msgid "tutopict_0052_0002_msg"
+msgstr "가희와의 친밀도가 올라가면 더 어려운\\n가희 오퍼레이션에 도전할 수 있게 돼.\\n게다가 가희 오퍼레이션 출현율도 올라가."
+
+msgid "tutopict_0052_0003_msg"
+msgstr "난이도 높은 데일리 오퍼레이션은 강화한\\n의상 수가 늘어나면 해금돼.\\n의상을 강화해서 새로운 오퍼레이션에 도전하자!"
+
+msgid "tutopict_0053_0000_title"
+msgstr "6레인 게임에 대해"
+
+msgid "tutopict_0053_0000_msg"
+msgstr "4레인 게임보다 난이도가 높은 【6레인 게임】으로\\n전환해서 플레이해 보자!\\nEXTREME+는 최고 난이도인 것 같으니 도전해 봐!"
+
+msgid "tutopict_0053_0001_msg"
+msgstr "6레인 게임도 난이도별로 달성 보상이 있어.\\n다양한 난이도에 도전하여\\n보상을 획득해 보자!"
+
+msgid "tutopict_0054_0000_title"
+msgstr "6레인 게임 조작에 대해"
+
+msgid "tutopict_0054_0000_msg"
+msgstr "6레인 게임은 말 그대로 6개의 레인에\\n노트가 내려와.\\n방심하지 말고 집중해서 플레이하자!"
+
+msgid "tutopict_0054_0001_msg"
+msgstr "슬라이드 노트가 내려오면 터치한 상태로 떼지 말고\\n끝 지점의 레인까지 손가락을 움직여 줘. 마지막 노트가\\n내려오면 타이밍에 맞춰 손가락을 떼자!"
+
+msgid "tutopict_0055_0000_title"
+msgstr "레어업 스타에 대하여"
+
+msgid "tutopict_0055_0000_msg"
+msgstr "레어도 상승 전 플레이트에 아이템을 사용해서\\n레어도를 올릴 수 있어!\\n아이템에는 사용 기한이 있으니 주의해."
+
+msgid "tutopict_0056_0000_title"
+msgstr "럭키 리프 효과 보너스에 대하여"
+
+msgid "tutopict_0056_0000_msg"
+msgstr "럭키 리프 효과의 보너스를 활용하자.\\nEXCELLENT나 센터 라이브 스킬 노트가\\n발생하기 쉬워져 점수 상승으로 이어져!"
+
+msgid "tutopict_0057_0000_title"
+msgstr "스코어 예측 게이지에 대하여"
+
+msgid "tutopict_0057_0000_msg"
+msgstr "현재 설정으로 플레이했을 때의 점수 예측\\n게이지가 표시돼.\\n참고하면서 유닛을 구성해 보자."
+
+msgid "tutopict_0058_0000_title"
+msgstr "총력 LIVE 준비에 대해"
+
+msgid "tutopict_0058_0000_msg"
+msgstr "총력 LIVE에서는 다양한 아이템이 필요해.\\n미리 모아서 준비해 두자."
+
+msgid "tutopict_0058_0001_msg"
+msgstr "마크로스 로비가 개최되면\\n초은하 총력 LIVE에 사용하는 중요한 아이템을 획득할 수 있어.\\n협력 미션이나 곡 플레이로 미리 모아 두자."
+
+msgid "tutopict_0058_0002_msg"
+msgstr "부대 동료와는 마크로스 로비에서 교류할 수 있어.\\n채팅으로 친하게 이야기를 나누거나,\\n총력 LIVE를 위한 공략 정보를 공유할 수도 있어."
+
+msgid "tutopict_0058_0003_msg"
+msgstr "총력 LIVE에서는 ★6 플레이트와 교환할 수 있는 초은하 메달이나\\n발키리 강화 아이템, 데코 포인트를 GET할 수 있어.\\n랭킹 보상으로 트로피도 GET할 수 있어."
+
+msgid "tutopict_0059_0000_title"
+msgstr "마크로스 로비에 대하여"
+
+msgid "tutopict_0059_0000_msg"
+msgstr "부대 목록에서는 그 부대에 소속된 사람을 볼 수 있어.\\n관심 있는 사람을 팬 등록해 두면,\\n마크로스 로비 개최 시 같은 부대에 들어갈 수도 있을 거야."
+
+msgid "tutopict_0059_0001_msg"
+msgstr "부대원 중 누군가가 활약하면 배틀 로그에 표시돼.\\n썸네일을 탭하면 영상이 재생돼.\\n게다가 마크로스 캐논 실황에는 스탬프를 보낼 수 있어!"
+
+msgid "tutopict_0059_0002_msg"
+msgstr "전투 기록에 올라온 정보는 채팅 투고로\\n채팅에 공유할 수 있어.\\n자랑하고 싶은 것 또는 대단하다고 생각한 것은 공유해 봐."
+
+msgid "tutopict_0059_0003_msg"
+msgstr "마크로스 캐논 로그 중에서도 특히 활약한 것은\\n자동으로 채팅에 투고되어 NEWS 속보가 나가."
+
+msgid "tutopict_0059_0004_msg"
+msgstr "푸시 알림이 도착하는 시간을 조정할 수 있어.\\nON으로 설정된 항목도 시간 외에는 도착하지 않도록 할 수 있어.\\n자신의 플레이 스타일에 맞춰 조정해 봐."
+
+msgid "tutopict_0060_0000_title"
+msgstr "행동 선택에 대하여"
+
+msgid "tutopict_0060_0000_msg"
+msgstr "지원 요청에 바로 응답하고 싶을 때는 지원을,\\nMVP를 노리고 한 번에 큰 임팩트를 주고 싶다면\\n전력 열창을 선택하는 게 좋아."
+
+msgid "tutopict_0060_0001_msg"
+msgstr "직접 참전하거나 구조를 받으면\\n마크로스 캐논 게이지가 쌓여."
+
+msgid "tutopict_0061_0000_title"
+msgstr "마크로스 캐논에 대하여"
+
+msgid "tutopict_0061_0000_msg"
+msgstr "마크로스 캐논 게이지가 차면,\\n마크로스 캐논으로 강력한 타격을 줄 수 있어.\\n꽤 강력하니까, 사용할 때는 타이밍을 잘 맞춰야 해."
+
+msgid "tutopict_0061_0001_msg"
+msgstr "마크로스 캐논의 위력에는\\n소지한 플레이트 중 최대 100장이 반영돼.\\n사전 준비가 중요해."
+
+msgid "tutopict_0062_0000_title"
+msgstr "구조 요청에 대해"
+
+msgid "tutopict_0062_0000_msg"
+msgstr "폭주 에너미는 무리해서 혼자 무력화할 필요 없어.\\n동료와 협력해서 대응하면 문제없어.\\n대신 구조 요청을 받으면 도와줘."
+
+msgid "tutopict_0063_0000_title"
+msgstr "엑스트라 아이템에 대하여"
+
+msgid "tutopict_0063_0000_msg"
+msgstr "엑스트라 아이템을 배치하면 데코 포인트와\\n12별자리 메달을 받을 수 있어!\\n정말 유용하니까 활용해 봐!"
+
+msgid "tutopict_0064_0000_title"
+msgstr "엑스트라 아이템에 대하여"
+
+msgid "tutopict_0064_0000_msg"
+msgstr "엑스트라 아이템을 배치하면 데코포인트나\\n열두 별자리 메달을 받을 수 있고,\\n마크로스 캐논을 충전할 수도 있어!"
+
+msgid "tutopict_0065_0000_title"
+msgstr "채팅에 대하여"
+
+msgid "tutopict_0065_0000_msg"
+msgstr "채팅에서는 댓글이나 스탬프로\\n다른 사람과 대화할 수 있어.\\n관심 가는 사람이 있다면 프로필에서 방문해 보자."
+
+msgid "tutopict_0066_0000_title"
+msgstr "스탬프에 대하여"
+
+msgid "tutopict_0066_0000_msg"
+msgstr "스탬프는 스탬프 편집에서 만들 수 있어.\\n캐릭터와 대사를 조합해서\\n최대 30개까지 저장할 수 있어."
+
+msgid "tutopict_0066_0001_msg"
+msgstr "스탬프는 누르면 바로 게시할 수 있어.\\n많이 눌러서 다 함께 분위기를 띄워 보자."
+
+msgid "tutopict_0067_0000_title"
+msgstr "초은하 총력 LIVE 시작!"
+
+msgid "tutopict_0067_0000_msg"
+msgstr "초은하 총력 LIVE가 개최됐어!\\n마크로스 로비로 이동해서 총력 LIVE 회장으로 가자!"
+
+msgid "tutopict_0068_0000_title"
+msgstr "조각에 대하여"
+
+msgid "tutopict_0068_0000_msg"
+msgstr "조각은 일정 수를 모으면\\n케이오스 교환소에서 특정 아이템과 교환할 수 있게 돼."
+
+msgid "tutopict_0068_0001_msg"
+msgstr "조각은 이벤트 등에서 획득할 수 있어.\\n조각의 필요 개수는 케이오스 교환소에서 확인할 수 있어."
+
+msgid "tutopict_0068_0002_msg"
+msgstr "레어업 스타와 시크릿 스톤은\\n메인 보드에서 사용할 수 있어."
+
+msgid "tutopict_0069_0000_title"
+msgstr "라이브 스킵에 대하여"
+
+msgid "tutopict_0069_0000_msg"
+msgstr "리듬 게임을 건너뛰면 드롭 아이템이나\\n이벤트 보상을 모으기 쉬워져."
+
+msgid "tutopict_0069_0001_msg"
+msgstr "스코어 랭크 SS를 획득한 악곡이라면\\n각 이벤트에서도 스킵할 수 있어.\\n이제 이벤트 포인트를 더 쉽게 얻을 수 있겠네."
+
+msgid "tutopict_0070_0000_title"
+msgstr "새로운 기능에 대하여"
+
+msgid "tutopict_0070_0000_msg"
+msgstr "★5~★7 플레이트에서는 시크릿 보드에\\n능력 칸이 추가돼.\\n플레이트를 성장시켜서 하이스코어를 노려보자."
+
+msgid "tutopict_0070_0001_msg"
+msgstr "시크릿 보드는 플레이트를 3장 이상 모으거나\\n시크릿 스톤을 사용하면 해제할 수 있어."
+
+msgid "tutopict_0070_0002_msg"
+msgstr "프리미어화하면 플레이트가 무지갯빛으로 빛나.\\n데코르챠 룸에 포스터로 붙여서\\n모두에게 자랑하자!"
+
+msgid "tutopict_0071_0000_title"
+msgstr "노래 그레이드에 대해"
+
+msgid "tutopict_0071_0000_msg"
+msgstr "노래 그레이드를 올리면,\\n여기서만 받을 수 있는 신규 일러스트 플레이트를 비롯해\\n유용한 아이템을 받을 수 있어."
+
+msgid "tutopict_0071_0001_msg"
+msgstr "노래 레이트를 올리면 노래 그레이드가 상승해.\\n다음 노래 그레이드 상승 시 받을 보상을\\n확인할 수 있어."
+
+msgid "tutopict_0071_0002_msg"
+msgstr "노래 레이트 랭킹이 추가됐어.\\n노래 레이트를 올리면 순위를\\n올릴 수 있어."
+
+msgid "tutopict_0072_0000_title"
+msgstr "럭키 리프에 대하여"
+
+msgid "tutopict_0072_0000_msg"
+msgstr "럭키 리프 목록 버튼을 누르면 럭키 리프가\\n해방할 수 있는 플레이트를 확인할 수 있어.\\n해방할 수 있는 플레이트가 있으면 계속 해방하자."
+
+msgid "tutopict_0073_0000_title"
+msgstr "행동 선택에 대하여"
+
+msgid "tutopict_0073_0000_msg"
+msgstr "지원 요청에 바로 응답하고 싶을 때는 지원을,\\nMVP를 노리고 한 번에 큰 임팩트를 주고 싶다면\\n전력 열창을 선택하는 게 좋아."
+
+msgid "tutopict_0073_0001_msg"
+msgstr "직접 참전하거나 구조를 받으면\\n마크로스 캐논 게이지가 쌓여."
+
+msgid "tutopict_0074_0000_title"
+msgstr "구조 요청에 대해"
+
+msgid "tutopict_0074_0000_msg"
+msgstr "폭주 에너미는 무리해서 혼자 무력화할 필요 없어.\\n동료와 협력해서 대응하면 문제없어.\\n대신 구조 요청을 받으면 도와줘."
+
+msgid "tutopict_0075_0000_title"
+msgstr "신규 레어도 플레이트에 대해"
+
+msgid "tutopict_0075_0000_msg"
+msgstr "새로운 레어도의 플레이트가 등장했어!\\nGET하면 호화로운 특전을 받을 수 있어."
+
+msgid "tutopict_0075_0001_msg"
+msgstr "새 플레이트 획득으로\\n더 높은 노래 그레이드 업을 노려 보자!"
+
+msgid "tutopict_0075_0002_msg"
+msgstr "새로운 플레이트를 획득했다면, 반드시 유닛 편성으로\\n세팅하고 이벤트를 플레이해 보도록 하자."
+
+msgid "tutopict_0075_0003_msg"
+msgstr "신규 레어도 플레이트에서만 들을 수 있는\\n보이스가 가득해.\\n가희들의 메시지를 꼭 들어 봐."
+
+msgid "tutopict_0076_0000_title"
+msgstr "어시스트 설정에 대하여"
+
+msgid "tutopict_0076_0000_msg"
+msgstr "내가 어시스트 설정한 플레이트가\\n다른 플레이어가 어시스트를 선택할 때\\n표시되게 되었어."
+
+msgid "tutopict_0077_0000_title"
+msgstr "홈 배경 변경에 대해"
+
+msgid "tutopict_0077_0000_msg"
+msgstr "홈 배경은 ★4 이상의 플레이트와\\n배경 일러스트 중에서 원하는 것을 골라 줘.\\n홈 배경을 화려하게 꾸며 보자!"
+
+msgid "tutopict_0078_0000_title"
+msgstr "홈 화면 가희 의상 선택에 대해"
+
+msgid "tutopict_0078_0000_msg"
+msgstr "홈 화면의 가희 의상만 변경할 수 있어.\\n유닛 의상은 가희 스테이터스에서 선택해 줘!"
+
+msgid "tutopict_0079_0000_title"
+msgstr "능력 칸 일괄 해방에 대하여"
+
+msgid "tutopict_0079_0000_msg"
+msgstr "능력 칸은 한 번에 해방할 수도 있어.\\n이걸로 효율적으로 플레이트를 성장시킬 수 있어."
+
+msgid "tutopict_0080_0000_title"
+msgstr "가희 랭킹에 대해"
+
+msgid "tutopict_0080_0001_title"
+msgstr "가희 랭킹에 대해"
+
+msgid "tutopict_0080_0000_msg"
+msgstr "토탈 랭킹은 가희마다 존재해.\\n네가 좋아하는 가희는 얼마나\\n성장했을까?"
+
+msgid "tutopict_0080_0001_msg"
+msgstr "가희 토탈을 올릴 수 있는 요소는 3가지가 있어.\\n열심히 성장시켜 보자."
+
+msgid "tutopict_0081_0000_title"
+msgstr "획득 에일에 대해"
+
+msgid "tutopict_0081_0001_title"
+msgstr "획득 에일에 대해"
+
+msgid "tutopict_0081_0000_msg"
+msgstr "어필이 상승하면 에일 종류에 따라\\n스테이터스가 상승해.\\n더 많은 에일 획득을 목표로 하자!"
+
+msgid "tutopict_0081_0001_msg"
+msgstr "하루 최대 3회까지 평소보다 많은 에일을 획득할 수 있어.\\n스페셜 라이브가 발생한 속성의 에일을\\n많이 획득할 수 있어."
+
+msgid "tutopict_0082_0000_title"
+msgstr "펜라이트에 대해"
+
+msgid "tutopict_0082_0000_msg"
+msgstr "펜라이트를 사용하면 피버 타임이 돼.\\n피버 타임 중에는 스페셜 라이브\\n출현 확률이 올라가."
+
+msgid "tutopict_0083_0000_title"
+msgstr "라이브 볼티지 올리는 방법에 대해"
+
+msgid "tutopict_0083_0000_msg"
+msgstr "곡을 반복 플레이하면 볼티지가 상승해.\\n많은 라이브를 성공시켜\\n스페셜 라이브 개최를 노려 보자!"
+
+msgid "tutopict_0084_0000_title"
+msgstr "스탠다드 편성에 대해"
+
+msgid "tutopict_0084_0000_msg"
+msgstr "스탠다드 편성 버튼은 곡에 딱 맞는 가희를\\n자동으로 선택해 주는 기능이야.\\n라이브 연출을 더욱 즐겨 보자!"
+
+msgid "tutopict_0085_0000_title"
+msgstr "라이브 플레이 방법에 대하여"
+
+msgid "tutopict_0085_0000_msg"
+msgstr "라이브 중에는 화면 위에서 【노트】가 흘러나와.\\n【리듬 버튼】과 겹치는 타이밍에 탭해."
+
+msgid "tutopict_0085_0001_msg"
+msgstr "흘러나오는 【노트】에는 몇 가지 종류가 있어.\\n간단하게 탭할 수 있는 것은 【노멀 노트】야."
+
+msgid "tutopict_0085_0002_msg"
+msgstr "라인으로 연결된 【더블 노트】는\\n동시에 탭해야 돼."
+
+msgid "tutopict_0085_0003_msg"
+msgstr "같은 연결된 노트라도 【롱노트】는\\n길게 눌러야 해. 마지막에 놓는 것을 잊지 마."
+
+msgid "tutopict_0085_0004_msg"
+msgstr "【플릭 노트】의 화살표 방향은\\n왼쪽, 오른쪽, 위 3가지 패턴이 있으니 주의해."
+
+msgid "tutopict_0085_0005_msg"
+msgstr "노트가 리듬 버튼에 겹쳤을 때\\n터치하면 PERFECT가 돼."
+
+msgid "tutopict_0086_0000_title"
+msgstr "유닛 편성에 대하여"
+
+msgid "tutopict_0086_0000_msg"
+msgstr "최대 3명의 가희가 유닛에 참여할 수 있어!\\n라이브에 등장시키고 싶은 가희를 센터로 설정해."
+
+msgid "tutopict_0087_0000_title"
+msgstr "생체 폴드파와 액티브 스킬에 대해"
+
+msgid "tutopict_0087_0000_msg"
+msgstr "자, 드디어 라이브가 시작돼!\\n【생체 폴드파】가 100%가 되면 무언가 일어나.\\n무슨 일이 일어나는지는 직접 확인해 봐!"
+
+msgid "tutopict_0087_0001_msg"
+msgstr "【액티브 스킬】을 사용하는 것도 잊지 마.\\n그럼, 가자!"
+
+msgid "tutopict_0088_0000_title"
+msgstr "라이브의 흐름에 대하여"
+
+msgid "tutopict_0088_0000_msg"
+msgstr "【생체 폴드파】를 100% 이상으로 만들어\\n【발키리 모드】【가희 모드】로\\n돌입하는 흐름을 의식해 봐."
+
+msgid "tutopict_0088_0001_msg"
+msgstr "【발키리 모드】중 발키리는\\n4콤보 이상 연결하면 적에게 공격을 가할 수 있어."
+
+msgid "tutopict_0088_0002_msg"
+msgstr "【가희 모드】에서 스코어 업 노트를\\n터치해서 하이스코어를 노려 보자.\\n익숙해지면 풀 콤보도 목표로 해 봐!"
+
+msgid "tutopict_0089_0000_title"
+msgstr "초시공 SNS에 대하여"
+
+msgid "tutopict_0089_0000_msg"
+msgstr "시공을 넘어 대화할 수 있다니 꿈만 같네.\\n이 초시공 SNS를 사용해서 많은 대화를 즐겨 보자."
+
+msgid "tutopict_0090_0000_title"
+msgstr "초시공 SNS에 대하여"
+
+msgid "tutopict_0090_0000_msg"
+msgstr "초시공 SNS를 보고 싶을 때는 SNS 아이콘을 눌러 줘.\\n토크는 조건을 달성하면 추가돼."
+
+msgid "tutopict_0090_0001_msg"
+msgstr "시공을 넘어 대화할 수 있다니 꿈만 같네.\\n이 초시공 SNS를 사용해서 많은 대화를 즐겨 보자."
+
+msgid "tutopict_0091_0000_title"
+msgstr "데카르 가챠에 대하여"
+
+msgid "tutopict_0091_0000_msg"
+msgstr "【데카르 가챠】는 가정석을 소모하여\\n에피소드 플레이트를 획득할 수 있어."
+
+msgid "tutopict_0092_0000_title"
+msgstr "서비스 가챠에 대하여"
+
+msgid "tutopict_0092_0000_msg"
+msgstr "【서비스 가챠】는 아침, 낮, 밤 하루 3번\\n노래 크리스탈 없이 뽑을 수 있으니까 잊지 마.\\n이런 서비스는 좀처럼 받을 수 없다고!"
+
+msgid "tutopict_0093_0000_title"
+msgstr "우타 마크로스의 악곡들에 대하여"
+
+msgid "tutopict_0093_0000_msg"
+msgstr "시리즈의 명곡들을 【라이브】로 즐겨봐.\\n선택할 수 있는 악곡은 앞으로 점점 더 늘어날 거야."
+
+msgid "tutopict_0093_0001_msg"
+msgstr "라이브는 2D 모드에서도 플레이할 수 있어.\\n변경하려면 【메뉴】의 【게임 설정】에서\\n【동작 설정】을 선택하면 돼."
+
+msgid "tutopict_0094_0000_title"
+msgstr "라이브 진행 방식"
+
+msgid "tutopict_0094_0000_msg"
+msgstr "일정 시간 안에 【생체 폴드파】를 100% 이상으로\\n만들면 【발키리 모드】에 돌입해."
+
+msgid "tutopict_0094_0001_msg"
+msgstr "【발키리 모드】중 발키리는\\n4콤보 이상 연결하면 적에게 공격을 가할 수 있어."
+
+msgid "tutopict_0094_0002_msg"
+msgstr "【발키리 모드】에서 제한 시간 내에 적을\\n쓰러뜨리면 【가희 모드】로 진입할 수 있어!"
+
+msgid "tutopict_0095_0000_title"
+msgstr "라이브 플레이 방법에 대하여"
+
+msgid "tutopict_0095_0000_msg"
+msgstr "라이브 중에는 화면 위에서 【노트】가 흘러나와.\\n【리듬 버튼】과 겹치는 타이밍에 탭해."
+
+msgid "tutopict_0095_0001_msg"
+msgstr "흘러나오는 【노트】에는 몇 가지 종류가 있어.\\n간단하게 탭할 수 있는 것은 【노멀 노트】야."
+
+msgid "tutopict_0095_0002_msg"
+msgstr "라인으로 연결된 【더블 노트】는\\n동시에 탭해야 돼."
+
+msgid "tutopict_0095_0003_msg"
+msgstr "같은 연결된 노트라도 【롱노트】는\\n길게 눌러야 해. 마지막에 놓는 것을 잊지 마."
+
+msgid "tutopict_0095_0004_msg"
+msgstr "【플릭 노트】의 화살표 방향은\\n왼쪽, 오른쪽, 위 3가지 패턴이 있으니 주의해."
+
+msgid "tutopict_0096_0000_title"
+msgstr "라이브를 성공시키려면"
+
+msgid "tutopict_0096_0000_msg"
+msgstr "【라이프】가 높으면 라이브에 실패할 확률이 낮아져.\\n【생명력 회복】 액티브 스킬을 사용하는 것도\\n효과적이야!"
+
+msgid "tutopict_0097_0000_title"
+msgstr "발키리 모드에 대하여"
+
+msgid "tutopict_0097_0000_msg"
+msgstr "타이밍에 맞춰 노트를 탭하면\\n【생체 폴드 웨이브】가 쌓여."
+
+msgid "tutopict_0097_0001_msg"
+msgstr "【발키리 모드】중 발키리는\\n4콤보 이상 연결하면 적에게 공격을 가할 수 있어."
+
+msgid "tutopict_0098_0000_title"
+msgstr "가희 모드에 대해"
+
+msgid "tutopict_0098_0000_msg"
+msgstr "【가희 모드】에서 스코어 업 노트를\\n터치해서 하이스코어를 노려 보자.\\n익숙해지면 풀 콤보도 목표로 해 봐!"
+
+msgid "tutopict_0098_0001_msg"
+msgstr "적의 라이프를 0으로 만들면 추격 모드로 전환돼.\\n추격 모드 중에 많은 피해를 주면\\n【초가희 모드】에 돌입해!"
+
+msgid "tutopict_0098_0002_msg"
+msgstr "초가희 모드에서는 아이템 노트가 잔뜩 나와!\\n아이템이 필요할 때는 열심히 노려 보자."
+
+msgid "tutopict_0099_0000_title"
+msgstr "드롭 아이템에 대하여"
+
+msgid "tutopict_0099_0000_msg"
+msgstr "라이브 중에 탭한 아이템은 라이브가 성공하면\\n획득할 수 있으니 마지막까지 긴장을 늦추면 안돼."
+
+msgid "tutopict_0100_0000_title"
+msgstr "어시스트 플레이트에 대하여"
+
+msgid "tutopict_0100_0000_msg"
+msgstr "어시스트 플레이트는 스테이터스와 센터 스킬로\\n유닛을 강하게 만들어 줘."
+
+msgid "tutopict_0101_0000_title"
+msgstr "플레이로그에 대하여"
+
+msgid "tutopict_0101_0000_msg"
+msgstr "악곡에서 내가 실수한 부분,\\n스킬이 발동된 타이밍 등의\\n정보를 알 수 있어."
+
+msgid "tutopict_0102_0000_title"
+msgstr "유닛 편성에 대하여"
+
+msgid "tutopict_0102_0000_msg"
+msgstr "최대 3명의 가희가 유닛에 참여할 수 있어!\\n라이브에 등장시키고 싶은 가희를 센터로 설정해."
+
+msgid "tutopict_0103_0000_title"
+msgstr "스테이터스에 대하여"
+
+msgid "tutopict_0103_0000_msg"
+msgstr "【TOTAL】은 【소울】【보이스】【참】의 합계야.\\n라이브를 하이스코어로 성공하고 싶을 때는\\n【TOTAL】을 신경써야 돼."
+
+msgid "tutopict_0103_0001_msg"
+msgstr "【생체 폴드파】는 유닛의 【생체 폴드파】\\n값이 높을수록 쌓이기 쉬워져."
+
+msgid "tutopict_0103_0002_msg"
+msgstr "【서포트】의 값을 올려 파일럿의 능력을\\n끌어내면 적을 쓰러뜨리기 쉬워져."
+
+msgid "tutopict_0103_0003_msg"
+msgstr "【LUCK】이 높아질수록\\n레어 아이템을 얻기 쉬워져."
+
+msgid "tutopict_0104_0000_title"
+msgstr "스킬에 대하여"
+
+msgid "tutopict_0104_0000_msg"
+msgstr "센터 스킬, 액티브 스킬, 라이브 스킬\\n각각의 특징이 있어."
+
+msgid "tutopict_0104_0001_msg"
+msgstr "메인 플레이트는 액티브 스킬과 센터 스킬,\\n서브 플레이트는 라이브 스킬을 발동할 수 있어.\\n세 가지 스킬을 조합해 라이브에 유리하게 활용하자!"
+
+msgid "tutopict_0104_0002_msg"
+msgstr "라이브 스킬은 에피소드 플레이트와\\n가희의 상성에 따라 발동 여부가 결정돼.\\n파란색 마이크 아이콘이 표시되어 있어."
+
+msgid "tutopict_0105_0000_title"
+msgstr "악곡의 속성에 대하여"
+
+msgid "tutopict_0105_0000_msg"
+msgstr "에피소드 플레이트와 곡의 속성이 같으면\\n속성 보너스가 발생해."
+
+msgid "tutopict_0105_0001_msg"
+msgstr "목표로 하는 결정이 있을 때는 악곡의 속성을 의식해봐.\\n예를 들어, 사랑 속성의 악곡에서는 사랑의 결정을 얻기 쉬워."
+
+msgid "tutopict_0106_0000_title"
+msgstr "발키리 편성에 대하여"
+
+msgid "tutopict_0106_0000_msg"
+msgstr "발키리 편성 화면에서는\\n출격할 발키리를 선택하거나\\n발키리의 정보를 확인할 수 있어."
+
+msgid "tutopict_0107_0000_title"
+msgstr "유닛 세트에 대하여"
+
+msgid "tutopict_0107_0000_msg"
+msgstr "목적에 맞게 다양한 유닛을\\n조합해 보자!"
+
+msgid "tutopict_0107_0001_msg"
+msgstr "【유닛 세트】는 속성별, 스코어 중심,\\n라이프 중심 등 목적별로 저장해두면 편리해."
+
+msgid "tutopict_0108_0000_title"
+msgstr "기억의 시공와 노래의 기억에 대하여"
+
+msgid "tutopict_0108_0000_msg"
+msgstr "【노래의 기억】과 【가희의 기억】을\\n새롭게 해방하기 위해서는 악곡과 가희마다\\n설정된 조건을 충족시켜야 돼."
+
+msgid "tutopict_0108_0001_msg"
+msgstr "해방된 악곡을 플레이하면\\n그 곡이 【라이브】에 추가돼."
+
+msgid "tutopict_0109_0000_title"
+msgstr "가희의 기억에 대하여"
+
+msgid "tutopict_0109_0000_msg"
+msgstr "【가희의 기억】을 발견했다면\\n【노래의 기억】과 마찬가지로\\n먼저 해방 조건을 확인하자."
+
+msgid "tutopict_0110_0000_title"
+msgstr "에피소드에 대하여"
+
+msgid "tutopict_0110_0000_msg"
+msgstr "에피소드 플레이트를 획득하면\\n그 플레이트와 관련된 에피소드가 추가돼."
+
+msgid "tutopict_0110_0001_msg"
+msgstr "추가된 에피소드는\\n에피소드 목록에서 확인할 수 있어."
+
+msgid "tutopict_0111_0000_title"
+msgstr "능력 해방에 대하여"
+
+msgid "tutopict_0111_0000_msg"
+msgstr "에피소드 플레이트는 【능력 해방】으로 강화하면\\n본래의 능력을 발휘할 수 있게 돼."
+
+msgid "tutopict_0111_0001_msg"
+msgstr "능력 해방에 필요한 아이템과 유니온 크레딧(UC)은\\n라이브와 미션을 통해 획득하면 돼."
+
+msgid "tutopict_0112_0000_title"
+msgstr "시크릿 보드에 대하여"
+
+msgid "tutopict_0112_0000_msg"
+msgstr "시크릿 보드는 플레이트를 3장 이상 모으거나\\n시크릿 스톤을 사용하면 해제할 수 있어."
+
+msgid "tutopict_0112_0001_msg"
+msgstr "【LUCK】이 높아지면\\n레어 아이템 노트가 나오기 쉬워져."
+
+msgid "tutopict_0112_0002_msg"
+msgstr "★5~★7 플레이트에서는 시크릿 보드에\\n능력 칸이 추가돼.\\n플레이트를 성장시켜서 하이스코어를 노려보자."
+
+msgid "tutopict_0113_0000_title"
+msgstr "레어도 상승에 대하여"
+
+msgid "tutopict_0113_0000_msg"
+msgstr "가챠 등을 통해 같은 종류의 에피소드\\n플레이트를 획득하면 레어도가 올라가고\\n다양한 보너스를 얻을 수 있어."
+
+msgid "tutopict_0114_0000_title"
+msgstr "숙련도에 대하여"
+
+msgid "tutopict_0114_0000_msg"
+msgstr "숙련도가 올라가면 가희 경험치를 획득할 수 있어.\\n곡마다 숙련도가 있으니 도전해 봐."
+
+msgid "tutopict_0114_0001_msg"
+msgstr "가희 경험치를 획득해서 가희 레벨을 올려 줘.\\n우리도 여기서부터 계속 성장해 나갈 거야."
+
+msgid "tutopict_0115_0000_title"
+msgstr "의상에 대하여"
+
+msgid "tutopict_0115_0000_msg"
+msgstr "의상을 준비했으면 이제 옷을 갈아입어보자!\\n【의상 선택】에서 선택할 수 있어.\\n의상에는 약간의 효과도 있어."
+
+msgid "tutopict_0116_0000_title"
+msgstr "선물상자에 대하여"
+
+msgid "tutopict_0116_0000_msg"
+msgstr "획득한 아이템은 선물상자에서 받을 수 있어.\\n기한이 정해져 있으니 자주 확인해서 받아가."
+
+msgid "tutopict_0117_0000_title"
+msgstr "플레이어 랭크에 대하여"
+
+msgid "tutopict_0117_0000_msg"
+msgstr "플레이어 랭크를 올리기 위해서는\\n라이브를 많이 해서 경험치를 획득해야 해."
+
+msgid "tutopict_0118_0000_title"
+msgstr "친구에 대하여"
+
+msgid "tutopict_0118_0000_msg"
+msgstr "다른 플레이어가 친구 신청을 하면\\n친구 메뉴의【승인 대기 목록】에서\\n승인해 줘."
+
+msgid "tutopict_0118_0001_msg"
+msgstr "친구가 되면 라이브 전 어시스트 선택 화면에서\\n표시되기 쉬워져.\\n도움이 되는 동료를 계속 늘려 가자."
+
+msgid "tutopict_0119_0000_title"
+msgstr "프로필에 대하여"
+
+msgid "tutopict_0119_0000_msg"
+msgstr "프로필에서는 너의 정보를 확인할 수 있어.\\n플레이어 이름, 소개문, 칭호는 여기서 변경할 수 있어.\\n네가 메인으로 설정한 플레이트도 확인할 수 있어."
+
+msgid "tutopict_0119_0001_msg"
+msgstr "【마크로스 리포트】는 너의 활동 기록이야.\\n열심히 기록을 갱신해 나가자!"
+
+msgid "tutopict_0120_0000_title"
+msgstr "서비스 가챠에 대하여"
+
+msgid "tutopict_0120_0000_msg"
+msgstr "【서비스 가챠】는 아침, 낮, 밤 하루 3번\\n노래 크리스탈 없이 뽑을 수 있으니까 잊지 마.\\n이런 서비스는 좀처럼 받을 수 없다고!"
+
+msgid "tutopict_0121_0000_title"
+msgstr "요일 이벤트에 대해"
+
+msgid "tutopict_0121_0000_msg"
+msgstr "요일마다 다른 곡이 선곡돼.\\n원하는 아이템이 있다면 꼭 확인해 봐!"
+
+msgid "tutopict_0122_0000_title"
+msgstr "에피소드 해방에 대하여"
+
+msgid "tutopict_0122_0000_msg"
+msgstr "에피소드는 포인트를 모아서 완전 해방하면\\n의상과 발키리를 획득할 수 있어.\\n완전 해방하는 과정에도 보상이 준비되어 있어."
+
+msgid "tutopict_0122_0001_msg"
+msgstr "에피소드 플레이트의 레어도가 높을수록\\n획득할 수 있는 에피소드 포인트도 높아져."
+
+msgid "tutopict_0123_0000_title"
+msgstr "데뷔 미션에 대하여"
+
+msgid "tutopict_0123_0000_msg"
+msgstr "데뷔 미션을 진행하여 획득한 가정석으로\\n데뷔 가챠를 뽑자!\\n그 외에도 다양한 보상을 받을 수 있어."
+
+msgid "tutopict_0124_0000_title"
+msgstr "데카르 가챠에 대하여"
+
+msgid "tutopict_0124_0000_msg"
+msgstr "【데카르 가챠】는 가정석을 소모하여\\n에피소드 플레이트를 획득할 수 있어."
+
+msgid "tutopict_0125_0000_title"
+msgstr "달성 보상에 대하여"
+
+msgid "tutopict_0125_0000_msg"
+msgstr "라이브에서 받을 수 있는 보상은 악곡별, 난이도별로\\n준비되어 있으니 모두 획득하는 것을\\n목표로 해보자!"
+
+msgid "tutopict_0126_0000_title"
+msgstr "노래 마크로스 1st Anniversary 냥냥 축제에 대해"
+
+msgid "tutopict_0126_0000_msg"
+msgstr "【냥쿠지☆ 추첨권】으로 【냥쿠지☆】를 뽑을 수 있어.\\n추첨권은 냥냥 서비스 미션이나 이벤트 보상에서\\n받을 수 있어."
+
+msgid "tutopict_0126_0001_msg"
+msgstr "냥쿠지☆ 추첨권 1장으로 1번 뽑을 수 있어.\\n【냥쿠지☆】를 뽑으면 보상을 얻을 수 있어.\\n엄청난 보상도 있으니까 계속 뽑아 보자!"
+
+msgid "tutopict_0127_0000_title"
+msgstr "시뮬레이션 라이브에 대해"
+
+msgid "tutopict_0127_0000_msg"
+msgstr "【시뮬레이션 라이브】에서는\\n오토 플레이로 라이브를 즐길 수 있어.\\n라이브를 천천히 감상하고 싶을 때 추천해."
+
+msgid "tutopict_0127_0001_msg"
+msgstr "화면 오른쪽 아래의 S-LIVE 버튼을 누르면\\n시뮬레이션 라이브를 플레이할 수 있어."
+
+msgid "tutopict_0128_0000_title"
+msgstr "초시공 프리즘에 대하여"
+
+msgid "tutopict_0128_0000_msg"
+msgstr "【초시공 프리즘】을 활성화하면\\n곡마다 라이브 중 외형만 변경할 수 있어."
+
+msgid "tutopict_0129_0000_title"
+msgstr "빙고 미션에 대해"
+
+msgid "tutopict_0129_0000_msg"
+msgstr "특별한 에피소드 플레이트를 받을 수 있는\\n빙고 미션이 등장했어!\\n홈 아이콘이나 미션에서 도전해 봐."
+
+msgid "tutopict_0130_0000_title"
+msgstr "빙고 미션 보상에 대해"
+
+msgid "tutopict_0130_0000_msg"
+msgstr "빙고 미션에서는 네가 선택한 의상을\\n해금하기 쉬워지는 【의상 해금 플레이트】를\\n보상으로 받을 수 있어."
+
+msgid "tutopict_0130_0001_msg"
+msgstr "빙고 미션 보상으로 받은\\n의상 해방 플레이트의 모든 에피소드 칸을\\n해방하면 의상을 획득할 수 있어!"
+
+msgid "tutopict_0131_0000_title"
+msgstr "빙고 미션 플레이 방법에 대해"
+
+msgid "tutopict_0131_0000_msg"
+msgstr "패널에 적힌 미션 내용을 달성하여\\n빙고를 목표로 하자!\\n빙고 보상 내용은 빙고 보상 버튼을 통해 확인할 수 있어."
+
+msgid "tutopict_0132_0000_title"
+msgstr "발키리 강화에 대해"
+
+msgid "tutopict_0132_0000_msg"
+msgstr "발키리를 강화하면 새로운 능력을 해방할 수 있어.\\n강화에는 전용 강화 아이템이 필요해.\\n강화 아이템은 이벤트나 VOP에서 얻을 수 있어."
+
+msgid "tutopict_0132_0001_msg"
+msgstr "발키리를 해방하면,\\n획득한 발키리를 강화해서\\n확장 기능을 해방할 수 있게 돼!"
+
+msgid "tutopict_0132_0002_msg"
+msgstr "강화 아이템은 이벤트나 VOP에서 얻을 수 있어.\\n아이템을 모아 강화하면\\n레벨에 따라 능력이 상승해."
+
+msgid "tutopict_0132_0003_msg"
+msgstr "확장 성능에는 라이브 중 효과가 있는 것과\\nVOP에서 효과가 있는 것이 있어.\\n구분해서 사용하기 위해서라도 여러 가지를 강화해 봐!"
+
+msgid "tutopict_0133_0000_title"
+msgstr "부대 선택에 대해"
+
+msgid "tutopict_0133_0000_msg"
+msgstr "긴급 사태 발생이야!\\n새 인간의 영향으로 폭주한 적이 다수 확인됐어.\\n모두 힘을 합쳐 준비를 진행하자!"
+
+msgid "tutopict_0133_0001_msg"
+msgstr "초은하 총력 LIVE에 대비해\\n동료가 될 부대에 소속하자!\\n부대에 소속되면 이벤트 종료까지 변경할 수 없어."
+
+msgid "tutopict_0134_0000_title"
+msgstr "데코르차 모드에 대해"
+
+msgid "tutopict_0134_0000_msg"
+msgstr "데코르차 모드에서는 자유롭게 아이템을 배치해서\\n나만의 방 【데코룸】을 만들 수 있어.\\n멋진 룸을 만들어 다른 플레이어에게 자랑해 보자!"
+
+msgid "tutopict_0134_0001_msg"
+msgstr "편집 메뉴에서 캐릭터나 인테리어 등의\\n【데코 아이템】을 배치할 수 있어.\\n아이디어에 따라 다양한 활용이 가능해."
+
+msgid "tutopict_0134_0002_msg"
+msgstr "데코 아이템은 놓는 장소에 맞춰 좌우를 반전할 수 있어.\\n벽에 배치하는 아이템, 포스터나 깔개는 표시\\n우선순위도 변경할 수 있어."
+
+msgid "tutopict_0134_0003_msg"
+msgstr "데코 포인트는 미션 보상이나\\n다른 플레이어에게 선물을 보내서 획득할 수 있어.\\n얻을 수 있는 기회는 또 있을지도 몰라."
+
+msgid "tutopict_0134_0004_msg"
+msgstr "마음에 드는 플레이어를 찾았다면 데코룸을 방문해 봐!\\n팬 등록을 하면 언제든 방문할 수 있게 돼.\\n선물을 보내는 것도 좋겠네, 분명 기뻐할 거야."
+
+msgid "tutopict_0135_0000_title"
+msgstr "부대 선택에 대해"
+
+msgid "tutopict_0135_0000_msg"
+msgstr "초은하 총력 LIVE에 대비해서 부대에 소속하자!\\n부대에 소속되면 이벤트 종료까지 변경할 수 없어."
+
+msgid "tutopict_0136_0000_title"
+msgstr "총력 LIVE 준비에 대해"
+
+msgid "tutopict_0136_0000_msg"
+msgstr "총력 LIVE에서는 다양한 아이템이 필요해.\\n미리 모아서 준비해 두자."
+
+msgid "tutopict_0136_0001_msg"
+msgstr "마크로스 로비가 개최되면\\n초은하 총력 LIVE에 사용하는 중요한 아이템을 획득할 수 있어.\\n협력 미션이나 곡 플레이로 미리 모아 두자."
+
+msgid "tutopict_0136_0002_msg"
+msgstr "부대 동료와는 마크로스 로비에서 교류할 수 있어.\\n채팅으로 친하게 이야기를 나누거나,\\n총력 LIVE를 위한 공략 정보를 공유할 수도 있어."
+
+msgid "tutopict_0136_0003_msg"
+msgstr "총력 LIVE에서는 ★6 플레이트와 교환할 수 있는 초은하 메달이나\\n발키리 강화 아이템, 데코 포인트를 GET할 수 있어.\\n랭킹 보상으로 트로피도 GET할 수 있어."
+
+msgid "tutopict_0136_0004_msg"
+msgstr "마크로스 로비가 개최되면, 악곡 클리어 후\\n폴드 레이더를 발견할 수 있어. 협동 미션은 매일 추가되고,\\n모든 플레이어가 보상을 받을 수 있어."
+
+msgid "tutopict_0136_0005_msg"
+msgstr "데코르차 모드에는 마크로스 캐논 게이지를\\n충전할 수 있는 아이템이 있어.\\n마크로스 캐논은 총력 LIVE에서 강력한 효과를 발휘해!"
+
+msgid "tutopict_0137_0000_title"
+msgstr "마크로스 로비에 대하여"
+
+msgid "tutopict_0137_0000_msg"
+msgstr "부대 목록에서는 그 부대에 소속된 사람을 볼 수 있어.\\n관심 있는 사람을 팬 등록해 두면,\\n마크로스 로비 개최 시 같은 부대에 들어갈 수도 있을 거야."
+
+msgid "tutopict_0137_0001_msg"
+msgstr "부대원 중 누군가가 활약하면 배틀 로그에 표시돼.\\n썸네일을 탭하면 영상이 재생돼.\\n게다가 마크로스 캐논 실황에는 스탬프를 보낼 수 있어!"
+
+msgid "tutopict_0137_0002_msg"
+msgstr "전투 기록에 올라온 정보는 채팅 투고로\\n채팅에 공유할 수 있어.\\n자랑하고 싶은 것 또는 대단하다고 생각한 것은 공유해 봐."
+
+msgid "tutopict_0137_0003_msg"
+msgstr "마크로스 캐논 로그 중에서도 특히 활약한 것은\\n자동으로 채팅에 투고되어 NEWS 속보가 나가."
+
+msgid "tutopict_0137_0004_msg"
+msgstr "푸시 알림이 도착하는 시간을 조정할 수 있어.\\nON으로 설정된 항목도 시간 외에는 도착하지 않도록 할 수 있어.\\n자신의 플레이 스타일에 맞춰 조정해 봐."
+
+msgid "tutopict_0137_0005_msg"
+msgstr "마크로스 캐논 중계에 보낼 수 있는 스탬프는\\n스탬프 편집에서 만든 것을 사용할 수 있어.\\n모두 스탬프를 눌러 분위기를 띄워 보자!"
+
+msgid "tutopict_0138_0000_title"
+msgstr "스탬프에 대하여"
+
+msgid "tutopict_0138_0000_msg"
+msgstr "스탬프는 스탬프 편집에서 만들 수 있어.\\n캐릭터와 대사를 조합해서\\n최대 30개까지 저장할 수 있어."
+
+msgid "tutopict_0138_0001_msg"
+msgstr "스탬프는 누르면 바로 게시할 수 있어.\\n스탬프는 데코르차 모드와 공통으로 사용할 수 있어."
+
+msgid "tutopict_0139_0000_title"
+msgstr "배틀 로그에 대해"
+
+msgid "tutopict_0139_0000_msg"
+msgstr "부대 누군가가 활약하면 배틀 로그에 표시돼.\\n특히 마크로스 캐논 중계에는 스탬프를 보낼 수 있어.\\n모두 스탬프를 눌러 분위기를 띄워 보자!"
+
+msgid "tutopict_0139_0001_msg"
+msgstr "전투 기록에 올라온 정보는 채팅 투고로\\n채팅에 공유할 수 있어.\\n자랑하고 싶은 것 또는 대단하다고 생각한 것은 공유해 봐."
+
+msgid "tutopict_0140_0000_title"
+msgstr "뉴스 속보에 대하여"
+
+msgid "tutopict_0140_0000_msg"
+msgstr "마크로스 캐논 로그 중에서도 특히 활약한 것은\\n자동으로 채팅에 투고되어 NEWS 속보가 나가."
+
+msgid "tutopict_0141_0000_title"
+msgstr "노트 기능에 대해"
+
+msgid "tutopict_0141_0000_msg"
+msgstr "노트 기능은 사용자 게시 전용 채팅이야.\\n중요한 정보를 공유하거나, 조언을 남기거나,\\n부대 동료와 유용하게 활용해 줘."
+
+msgid "tutopict_0142_0000_title"
+msgstr "아이콘 전환에 대해"
+
+msgid "tutopict_0142_0000_msg"
+msgstr "채팅에서는 외형을 가희와 칭호로 전환할 수 있어.\\n전환은 자신에게만 적용되니 주의해."
+
+msgid "tutopict_0143_0000_title"
+msgstr "푸시 알림 설정에 대해"
+
+msgid "tutopict_0143_0000_msg"
+msgstr "푸시 알림이 도착하는 시간을 조정할 수 있어.\\nON으로 설정된 항목도 시간 외에는 도착하지 않도록 할 수 있어.\\n자신의 플레이 스타일에 맞춰 조정해 봐."
+
+msgid "tutopict_0144_0000_title"
+msgstr "캐릭터에 대하여"
+
+msgid "tutopict_0144_0000_msg"
+msgstr "데코룸에 배치한 캐릭터는, 대사를 선택하면\\n그 말을 하게 돼."
+
+msgid "tutopict_0144_0001_msg"
+msgstr "선택할 수 있는 대사와 말풍선의 종류도 다양해.\\n마음에 드는 문구를 좋아하는 캐릭터에게 말하게 해 봐!"
+
+msgid "tutopict_0144_0002_msg"
+msgstr "룸 안의 캐릭터를 터치하면 터치한 횟수에 따라\\n반응을 보여 줘.\\n하지만 너무 많이 만지면 화낼지도……!?"
+
+msgid "tutopict_0144_0003_msg"
+msgstr "룸 안의 캐릭터를 길게 누르면 친밀도가 올라가.\\n친밀도는 화면 왼쪽 아래의 『교감 카운터』에\\n표시된 횟수만큼 올릴 수 있어."
+
+msgid "tutopict_0145_0000_title"
+msgstr "플레이어 차단에 대해"
+
+msgid "tutopict_0145_0000_msg"
+msgstr "차단 기능에 대해 설명할게."
+
+msgid "tutopict_0145_0001_msg"
+msgstr "차단 기능에 대해 설명할게."
+
+msgid "tutopict_0145_0002_msg"
+msgstr "차단 기능에 대해 설명할게."
+
+msgid "tutopict_0146_0000_title"
+msgstr "발키리 강화에 대해"
+
+msgid "tutopict_0146_0000_msg"
+msgstr "발키리를 강화하면 새로운 능력을 해방할 수 있어.\\n강화에는 전용 강화 아이템이 필요해.\\n강화 아이템은 VOP에서 얻을 수 있어."
+
+msgid "tutopict_0146_0001_msg"
+msgstr "발키리를 해방하면,\\n획득한 발키리를 강화해서\\n확장 기능을 해방할 수 있게 돼!"
+
+msgid "tutopict_0146_0002_msg"
+msgstr "VOP에서 아이템을 모아\\n발키리의 확장 성능을 강화하자!"
+
+msgid "tutopict_0146_0003_msg"
+msgstr "확장 성능에는 라이브 중 효과가 있는 것과\\nVOP에서 효과가 있는 것이 있어.\\n구분해서 사용하기 위해서라도 여러 가지를 강화해 봐!"
+
+msgid "tutopict_0147_0000_title"
+msgstr "스탬프란?"
+
+msgid "tutopict_0147_0002_title"
+msgstr "엑스트라 아이템에 대하여"
+
+msgid "tutopict_0147_0000_msg"
+msgstr "NG:ID=132\\n스탬프는 누르면 바로 게시할 수 있어.\\n스탬프는 데코르차 모드와 공통으로 사용할 수 있어."
+
+msgid "tutopict_0147_0001_msg"
+msgstr "스탬프는 스탬프 편집에서 만들 수 있어.\\n캐릭터와 대사를 조합해서\\n최대 30개까지 저장할 수 있어."
+
+msgid "tutopict_0147_0002_msg"
+msgstr "엑스트라 아이템을 배치하면 데코 포인트와\\n12별자리 메달을 받을 수 있어!\\n정말 유용하니까 활용해 봐!"
+
+msgid "tutopict_0148_0000_title"
+msgstr "엑스트라 아이템에 대하여"
+
+msgid "tutopict_0148_0000_msg"
+msgstr "엑스트라 아이템을 배치하면 데코포인트나\\n열두 별자리 메달을 받을 수 있고,\\n마크로스 캐논을 충전할 수도 있어!"
+
+msgid "tutopict_0149_0000_title"
+msgstr "라이브 스킵에 대하여"
+
+msgid "tutopict_0149_0000_msg"
+msgstr "리듬 게임을 건너뛰면 드롭 아이템이나\\n이벤트 보상을 모으기 쉬워져."
+
+msgid "tutopict_0149_0001_msg"
+msgstr "스코어 랭크 SS를 획득한 악곡이라면\\n각 이벤트에서도 스킵할 수 있어.\\n이제 이벤트 포인트를 더 쉽게 얻을 수 있겠네."
+
+msgid "tutopict_0150_0000_title"
+msgstr "조각에 대하여"
+
+msgid "tutopict_0150_0000_msg"
+msgstr "조각은 일정 수를 모으면\\n케이오스 교환소에서 특정 아이템과 교환할 수 있게 돼."
+
+msgid "tutopict_0150_0001_msg"
+msgstr "조각은 이벤트 등에서 획득할 수 있어.\\n조각의 필요 개수는 케이오스 교환소에서 확인할 수 있어."
+
+msgid "tutopict_0150_0002_msg"
+msgstr "레어업 스타와 시크릿 스톤은\\n메인 보드에서 사용할 수 있어."
+
+msgid "tutopict_0151_0000_title"
+msgstr "노래 등급에 대하여"
+
+msgid "tutopict_0151_0000_msg"
+msgstr "노래 그레이드를 올리면,\\n여기서만 받을 수 있는 신규 일러스트 플레이트를 비롯해\\n유용한 아이템을 받을 수 있어."
+
+msgid "tutopict_0151_0001_msg"
+msgstr "노래 레이트를 올리면 노래 그레이드가 상승해.\\n다음 노래 그레이드 상승 시 받을 보상을\\n확인할 수 있어."
+
+msgid "tutopict_0151_0002_msg"
+msgstr "노래 레이트 랭킹이 추가됐어.\\n노래 레이트를 올리면 순위를\\n올릴 수 있어."
+
+msgid "tutopict_0152_0000_title"
+msgstr "럭키 리프에 대하여"
+
+msgid "tutopict_0152_0000_msg"
+msgstr "플레이트의 LUCK을 높이면 럭키 리프가\\n등장해. 이게 해방된 플레이트를 편성하면\\n라이브 중 다양한 특수 효과를 얻을 수 있어."
+
+msgid "tutopict_0152_0001_msg"
+msgstr "럭키 리프를 해방할 수 있는 것은, 레어도 상승 후\\n★5, ★6, ★7 플레이트 뿐이야. 대상 플레이트의 LUCK에\\n따라 해방할 수 있는 럭키 리프의 개수가 늘어나."
+
+msgid "tutopict_0152_0002_msg"
+msgstr "럭키 리프를 해방하려면 【행운의 휘석】과\\n【행운의 황석】이 필요해! 이벤트 보상이나\\n미션 등을 통해 획득할 수 있어."
+
+msgid "tutopict_0152_0003_msg"
+msgstr "해방한 리프의 수에 따라\\n럭키 리프의 효과가 강해져.\\n이를 이용해 하이스코어를 노려보자!"
+
+msgid "tutopict_0152_0004_msg"
+msgstr "프리미어화하면 플레이트가 무지갯빛으로 빛나.\\n데코르챠 룸에 포스터로 붙여서\\n모두에게 자랑하자!"
+
+msgid "tutopict_0152_0005_msg"
+msgstr "럭키 리프 목록 버튼을 누르면 럭키 리프가\\n해방할 수 있는 플레이트를 확인할 수 있어.\\n해방할 수 있는 플레이트가 있으면 계속 해방하자."
+
+msgid "tutopict_0153_0000_title"
+msgstr "어시스트 설정에 대하여"
+
+msgid "tutopict_0153_0000_msg"
+msgstr "내가 어시스트 설정한 플레이트가\\n다른 플레이어가 어시스트를 선택할 때\\n표시되게 되었어."
+
+msgid "tutopict_0154_0000_title"
+msgstr "홈 배경 변경에 대해"
+
+msgid "tutopict_0154_0000_msg"
+msgstr "홈 배경은 ★4 이상의 플레이트와\\n배경 일러스트 중에서 원하는 것을 골라 줘.\\n홈 배경을 화려하게 꾸며 보자!"
+
+msgid "tutopict_0155_0000_title"
+msgstr "홈 화면 가희 의상 선택에 대해"
+
+msgid "tutopict_0155_0000_msg"
+msgstr "홈 화면의 가희 의상만 변경할 수 있어.\\n유닛 의상은 가희 스테이터스에서 선택해 줘!"
+
+msgid "tutopict_0156_0000_title"
+msgstr "능력 칸 일괄 해방에 대하여"
+
+msgid "tutopict_0156_0000_msg"
+msgstr "능력 칸은 한 번에 해방할 수도 있어.\\n이걸로 효율적으로 플레이트를 성장시킬 수 있어."
+
+msgid "tutopict_0157_0000_title"
+msgstr "슈팅 게임에 대해"
+
+msgid "tutopict_0157_0000_msg"
+msgstr "노래 에너지를 날려\\n다가오는 적을 무효화하자!\\n많이 무효화할수록 높은 점수를 얻을 수 있어."
+
+msgid "tutopict_0157_0001_msg"
+msgstr "아무래도 그 밖에도 숨겨진 기능이 있는 것 같아.\\n발견되는 대로 정보를 알려 줄 테니\\n자주 노래 마크로스 정보를 확인해 봐."
+
+msgid "tutopict_0158_0000_title"
+msgstr "즐겨찾기에 대해"
+
+msgid "tutopict_0158_0000_msg"
+msgstr "자주 플레이하는 곡은\\n즐겨찾기에 등록해 두면 편리해.\\n목적에 맞게 구분해서 사용해 봐."
+
+msgid "tutopict_0158_0001_msg"
+msgstr "즐겨찾기에 등록한 곡은 정렬 메뉴에서\\n언제든 불러올 수 있어."
+
+msgid "tutopict_0159_0000_title"
+msgstr "초시공 파이널 Live ～Act.1～에 대해"
+
+msgid "tutopict_0159_0001_title"
+msgstr "이벤트 보상에 대해"
+
+msgid "tutopict_0159_0002_title"
+msgstr "보너스 대상에 대해"
+
+msgid "tutopict_0159_0003_title"
+msgstr "수집 이벤트 플레이 방법에 대해"
+
+msgid "tutopict_0159_0000_msg"
+msgstr "새 인간의 영향이 강해지고 있어…\\n작전을 성공시키려면 네 힘이 필요해.\\n우선 기억의 조각을 모으자!"
+
+msgid "tutopict_0159_0001_msg"
+msgstr "이벤트 보상으로 에피소드 플레이트 교환권을\\n대량으로 GET할 수 있어!\\n많이 모아서 원하는 플레이트와 교환해 줘."
+
+msgid "tutopict_0159_0002_msg"
+msgstr "여러 에피소드를 편성해서 더욱 편하게 보상을 GET하자!\\n에피소드에 따라 레어도 상승 후 보너스가\\n더 높은 것도 있으니 주의해야 해."
+
+msgid "tutopict_0159_0003_msg"
+msgstr "수집 이벤트는\\n티켓을 사용해 곡을 플레이하는 이벤트야.\\n티켓은 이벤트 홈에서도 하루 1번 받을 수 있어!"
+
+msgid "tutopict_0159_0004_msg"
+msgstr "이벤트 아이템은\\n종류에 따라 포인트로 변환돼.\\n많이 모아서 포인트를 쌓아 가자."
+
+msgid "tutopict_0159_0005_msg"
+msgstr "포인트를 많이 모으면 더 좋은 보상을 받을 수 있어.\\n이벤트를 플레이해서 모든 보상 GET을 목표로 하자!"
+
+msgid "tutopict_0159_0006_msg"
+msgstr "먼저 티켓을 몇 장이나 소비할 것인지 선택하자!\\n선택한 배율에 따라 받을 수 있는 포인트가 늘어나.\\n잘 활용해서 이벤트 공략에 도움이 되도록 하자!"
+
+msgid "tutopict_0159_0007_msg"
+msgstr "이벤트 악곡 랭킹에서는 이벤트 스코어 순위에 따라\\n대상 곡의 칭호를 받을 수 있어. 악곡 칭호에 대해서는\\n달성 보상 버튼에서 확인할 수 있어."
+
+msgid "tutopict_0159_0008_msg"
+msgstr "이벤트 미션을 달성하면 열두 별자리 메달을\\n획득할 수 있어. 메달이 모이면 교환소에서\\n아이템으로 교환할 수 있어!"
+
+msgid "tutopict_0160_0000_title"
+msgstr "이벤트 보상에 대해"
+
+msgid "tutopict_0160_0001_title"
+msgstr "보너스 대상에 대해"
+
+msgid "tutopict_0160_0002_title"
+msgstr "수집 이벤트 플레이 방법에 대해"
+
+msgid "tutopict_0160_0000_msg"
+msgstr "이벤트에 참가하면 여기서만 얻을 수 있는\\n에피소드 플레이트를 GET할 수 있어.\\n열심히 도전해 보자!"
+
+msgid "tutopict_0160_0001_msg"
+msgstr "여러 에피소드를 편성해서 더욱 편하게 보상을 GET하자!\\n에피소드에 따라 레어도 상승 후 보너스가\\n더 높은 것도 있으니 주의해야 해."
+
+msgid "tutopict_0160_0002_msg"
+msgstr "수집 이벤트는\\n티켓을 사용해 곡을 플레이하는 이벤트야.\\n티켓은 이벤트 홈에서도 하루 1번 받을 수 있어!"
+
+msgid "tutopict_0160_0003_msg"
+msgstr "이벤트 아이템은\\n종류에 따라 포인트로 변환돼.\\n많이 모아서 포인트를 쌓아 가자."
+
+msgid "tutopict_0160_0004_msg"
+msgstr "포인트를 많이 모으면 더 좋은 보상을 받을 수 있어.\\n이벤트를 플레이해서 모든 보상 GET을 목표로 하자!"
+
+msgid "tutopict_0160_0005_msg"
+msgstr "먼저 티켓을 몇 장이나 소비할 것인지 선택하자!\\n선택한 배율에 따라 받을 수 있는 포인트가 늘어나.\\n잘 활용해서 이벤트 공략에 도움이 되도록 하자!"
+
+msgid "tutopict_0160_0006_msg"
+msgstr "이벤트 악곡 랭킹에서는 이벤트 스코어 순위에 따라\\n대상 곡의 칭호를 받을 수 있어.\\n악곡 칭호에 대해서는 달성 보상 버튼에서 확인할 수 있어."
+
+msgid "tutopict_0160_0007_msg"
+msgstr "이벤트 미션을 달성하면 열두 별자리 메달을\\n획득할 수 있어. 메달이 모이면 교환소에서\\n아이템으로 교환할 수 있어!"
+
+msgid "tutopict_0161_0000_title"
+msgstr "초시공 파이널 Live ～Act.1～에 대해"
+
+msgid "tutopict_0161_0001_title"
+msgstr "이벤트 보상에 대해"
+
+msgid "tutopict_0161_0002_title"
+msgstr "수집 이벤트 플레이 방법에 대해"
+
+msgid "tutopict_0161_0000_msg"
+msgstr "새 인간의 영향이 강해지고 있어…\\n작전을 성공시키려면 네 힘이 필요해.\\n우선 기억의 조각을 모으자!"
+
+msgid "tutopict_0161_0001_msg"
+msgstr "이벤트 보상으로 에피소드 플레이트 교환권을\\n대량으로 GET할 수 있어!\\n많이 모아서 원하는 플레이트와 교환해 줘."
+
+msgid "tutopict_0161_0002_msg"
+msgstr "수집 이벤트는\\n티켓을 사용해 곡을 플레이하는 이벤트야.\\n티켓은 이벤트 홈에서도 하루 1번 받을 수 있어!"
+
+msgid "tutopict_0161_0003_msg"
+msgstr "이벤트 아이템은\\n종류에 따라 포인트로 변환돼.\\n많이 모아서 포인트를 쌓아 가자."
+
+msgid "tutopict_0161_0004_msg"
+msgstr "포인트를 많이 모으면 더 좋은 보상을 받을 수 있어.\\n이벤트를 플레이해서 모든 보상 GET을 목표로 하자!"
+
+msgid "tutopict_0161_0005_msg"
+msgstr "이벤트 악곡 랭킹에서는 이벤트 스코어 순위에 따라\\n대상 곡의 칭호를 받을 수 있어.\\n악곡 칭호에 대해서는 달성 보상 버튼에서 확인할 수 있어."
+
+msgid "tutopict_0161_0006_msg"
+msgstr "이벤트 미션을 달성하면 열두 별자리 메달을\\n획득할 수 있어. 메달이 모이면 교환소에서\\n아이템으로 교환할 수 있어!"
+
+msgid "tutopict_0162_0000_title"
+msgstr "에피소드 보너스에 대하여"
+
+msgid "tutopict_0162_0000_msg"
+msgstr "여러 에피소드를 편성해서 더욱 편하게 보상을 GET하자!\\n에피소드에 따라 레어도 상승 후 보너스가\\n더 높은 것도 있으니 주의해야 해."
+
+msgid "tutopict_0162_0001_msg"
+msgstr "플레이트를 선택할 때\\n에피소드 보너스를 받을 수 있는\\n플레이트만 표시할 수도 있어."
+
+msgid "tutopict_0163_0000_title"
+msgstr "에피소드 보너스에 대하여"
+
+msgid "tutopict_0163_0000_msg"
+msgstr "여러 에피소드를 편성해서 더욱 편하게 보상을 GET하자!\\n에피소드에 따라 레어도 상승 후 보너스가\\n더 높은 것도 있으니 주의해야 해."
+
+msgid "tutopict_0163_0001_msg"
+msgstr "플레이트를 선택할 때\\n에피소드 보너스를 받을 수 있는\\n플레이트만 표시할 수도 있어."
+
+msgid "tutopict_0164_0000_title"
+msgstr "대상 에피소드 추가에 대해"
+
+msgid "tutopict_0164_0000_msg"
+msgstr "대상 에피소드가 추가됐어.\\n지금까지보다 더 많은 이벤트 포인트를 얻을 기회야."
+
+msgid "tutopict_0165_0000_title"
+msgstr "이벤트 보상에 대해"
+
+msgid "tutopict_0165_0001_title"
+msgstr "보너스 대상에 대해"
+
+msgid "tutopict_0165_0002_title"
+msgstr "미션 이벤트 플레이 방법에 대해"
+
+msgid "tutopict_0165_0000_msg"
+msgstr "에피소드 플레이트 교환권을 대량으로 GET할 기회야!\\n미션 이벤트에서는 12별자리 메달도\\n다른 이벤트보다 많이 GET할 수 있으니 힘내자."
+
+msgid "tutopict_0165_0001_msg"
+msgstr "여러 에피소드를 편성해서 더욱 편하게 보상을 GET하자!\\n에피소드에 따라 레어도 상승 후 보너스가\\n더 높은 것도 있으니 주의해야 해."
+
+msgid "tutopict_0165_0002_msg"
+msgstr "미션 이벤트는 지령서의 미션을 달성해\\n포인트를 모으는 이벤트야.\\n선택한 미션을 달성하면 보너스가 발생해."
+
+msgid "tutopict_0165_0003_msg"
+msgstr "어려운 미션일수록 미션 보너스가 높아져.\\n고난이도 곡에서 레벨 높은 미션에\\n도전하면 효율적으로 포인트를 모을 수 있어."
+
+msgid "tutopict_0165_0004_msg"
+msgstr "멸망의 노래의 영향을 받는 미션은 달성하기\\n어려운 만큼 미션 보너스도 높아.\\n유닛 구성을 잘 생각해서 도전해 보자!"
+
+msgid "tutopict_0165_0005_msg"
+msgstr "보너스 곡은 일정 기간마다 변경돼!\\nEVENT 보너스 곡 아이콘으로\\n보너스 곡을 확인하고 적극적으로 도전하자."
+
+msgid "tutopict_0165_0006_msg"
+msgstr "포인트를 많이 모으면 더 좋은 보상을 받을 수 있어.\\n이벤트를 플레이해서 모든 보상 GET을 목표로 하자!"
+
+msgid "tutopict_0165_0007_msg"
+msgstr "먼저 에너지 소비량을 선택하자!\\n선택한 배율에 따라 받을 포인트가 증가해.\\n잘 활용해서 이벤트 공략에 도움을 받자!"
+
+msgid "tutopict_0165_0008_msg"
+msgstr "이벤트 미션을 달성하면 열두 별자리 메달을\\n획득할 수 있어. 메달이 모이면 교환소에서\\n아이템으로 교환할 수 있어!"
+
+msgid "tutopict_0166_0000_title"
+msgstr "이벤트 보상에 대해"
+
+msgid "tutopict_0166_0001_title"
+msgstr "보너스 대상에 대해"
+
+msgid "tutopict_0166_0002_title"
+msgstr "미션 이벤트 플레이 방법에 대해"
+
+msgid "tutopict_0166_0000_msg"
+msgstr "에피소드 플레이트 교환권을 대량으로 GET할 기회야!\\n미션 이벤트에서는 12별자리 메달도\\n다른 이벤트보다 많이 GET할 수 있으니 힘내자."
+
+msgid "tutopict_0166_0001_msg"
+msgstr "여러 에피소드를 편성해서 더욱 편하게 보상을 GET하자!\\n에피소드에 따라 레어도 상승 후 보너스가\\n더 높은 것도 있으니 주의해야 해."
+
+msgid "tutopict_0166_0002_msg"
+msgstr "미션 이벤트는 지령서의 미션을 달성해\\n포인트를 모으는 이벤트야.\\n선택한 미션을 달성하면 보너스가 발생해."
+
+msgid "tutopict_0166_0003_msg"
+msgstr "어려운 미션일수록 미션 보너스가 높아져.\\n고난이도 곡에서 레벨 높은 미션에\\n도전하면 효율적으로 포인트를 모을 수 있어."
+
+msgid "tutopict_0166_0004_msg"
+msgstr "멸망의 노래의 영향을 받는 미션은 달성하기\\n어려운 만큼 미션 보너스도 높아.\\n유닛 구성을 잘 생각해서 도전해 보자!"
+
+msgid "tutopict_0166_0005_msg"
+msgstr "보너스 곡은 일정 기간마다 변경돼!\\nEVENT 보너스 곡 아이콘으로\\n보너스 곡을 확인하고 적극적으로 도전하자."
+
+msgid "tutopict_0166_0006_msg"
+msgstr "포인트를 많이 모으면 더 좋은 보상을 받을 수 있어.\\n이벤트를 플레이해서 모든 보상 GET을 목표로 하자!"
+
+msgid "tutopict_0166_0007_msg"
+msgstr "먼저 에너지 소비량을 선택하자!\\n선택한 배율에 따라 받을 포인트가 증가해.\\n잘 활용해서 이벤트 공략에 도움을 받자!"
+
+msgid "tutopict_0166_0008_msg"
+msgstr "이벤트 미션을 달성하면 열두 별자리 메달을\\n획득할 수 있어. 메달이 모이면 교환소에서\\n아이템으로 교환할 수 있어!"
+
+msgid "tutopict_0167_0000_title"
+msgstr "이벤트 보상에 대해"
+
+msgid "tutopict_0167_0001_title"
+msgstr "미션 이벤트 플레이 방법에 대해"
+
+msgid "tutopict_0167_0000_msg"
+msgstr "에피소드 플레이트 교환권을 대량으로 GET할 기회야!\\n미션 이벤트에서는 12별자리 메달도\\n다른 이벤트보다 많이 GET할 수 있으니 힘내자."
+
+msgid "tutopict_0167_0001_msg"
+msgstr "미션 이벤트는 지령서의 미션을 달성해\\n포인트를 모으는 이벤트야.\\n선택한 미션을 달성하면 보너스가 발생해."
+
+msgid "tutopict_0167_0002_msg"
+msgstr "어려운 미션일수록 미션 보너스가 높아져.\\n고난이도 곡에서 레벨 높은 미션에\\n도전하면 효율적으로 포인트를 모을 수 있어."
+
+msgid "tutopict_0167_0003_msg"
+msgstr "멸망의 노래의 영향을 받는 미션은 달성하기\\n어려운 만큼 미션 보너스도 높아.\\n유닛 구성을 잘 생각해서 도전해 보자!"
+
+msgid "tutopict_0167_0004_msg"
+msgstr "보너스 곡은 일정 기간마다 변경돼!\\nEVENT 보너스 곡 아이콘으로\\n보너스 곡을 확인하고 적극적으로 도전하자."
+
+msgid "tutopict_0167_0005_msg"
+msgstr "포인트를 많이 모으면 더 좋은 보상을 받을 수 있어.\\n이벤트를 플레이해서 모든 보상 GET을 목표로 하자!"
+
+msgid "tutopict_0167_0006_msg"
+msgstr "이벤트 미션을 달성하면 열두 별자리 메달을\\n획득할 수 있어. 메달이 모이면 교환소에서\\n아이템으로 교환할 수 있어!"
+
+msgid "tutopict_0168_0000_title"
+msgstr "에피소드 보너스에 대하여"
+
+msgid "tutopict_0168_0000_msg"
+msgstr "여러 에피소드를 편성해서 더욱 편하게 보상을 GET하자!\\n에피소드에 따라 레어도 상승 후 보너스가\\n더 높은 것도 있으니 주의해야 해."
+
+msgid "tutopict_0168_0001_msg"
+msgstr "플레이트를 선택할 때\\n에피소드 보너스를 받을 수 있는\\n플레이트만 표시할 수도 있어."
+
+msgid "tutopict_0169_0000_title"
+msgstr "에피소드 보너스에 대하여"
+
+msgid "tutopict_0169_0000_msg"
+msgstr "여러 에피소드를 편성해서 더욱 편하게 보상을 GET하자!\\n에피소드에 따라 레어도 상승 후 보너스가\\n더 높은 것도 있으니 주의해야 해."
+
+msgid "tutopict_0169_0001_msg"
+msgstr "플레이트를 선택할 때\\n에피소드 보너스를 받을 수 있는\\n플레이트만 표시할 수도 있어."
+
+msgid "tutopict_0170_0000_title"
+msgstr "대상 에피소드 추가에 대해"
+
+msgid "tutopict_0170_0000_msg"
+msgstr "대상 에피소드가 추가됐어.\\n지금까지보다 더 많은 이벤트 포인트를 얻을 기회야."
+
+msgid "tutopict_0171_0000_title"
+msgstr "이벤트 기간 중 보너스 곡에 대해"
+
+msgid "tutopict_0171_0000_msg"
+msgstr "보너스 곡은 일정 기간마다 변경돼!\\n항상 최신 정보에 주의해 줘."
+
+msgid "tutopict_0172_0000_title"
+msgstr "이벤트 보상에 대해"
+
+msgid "tutopict_0172_0001_title"
+msgstr "보너스 대상에 대해"
+
+msgid "tutopict_0172_0002_title"
+msgstr "배틀 이벤트 플레이 방법에 대해"
+
+msgid "tutopict_0172_0000_msg"
+msgstr "이벤트 보상으로 에피소드 플레이트 교환권을\\n대량으로 GET할 수 있어!\\n많이 모아서 원하는 플레이트와 교환해 줘."
+
+msgid "tutopict_0172_0001_msg"
+msgstr "여러 에피소드를 편성해서 더욱 편하게 보상을 GET하자!\\n에피소드에 따라 레어도 상승 후 보너스가\\n더 높은 것도 있으니 주의해야 해."
+
+msgid "tutopict_0172_0002_msg"
+msgstr "배틀 이벤트에서는 상대와 점수로 승부해.\\n자신 있는 곡으로 상대를 고르는 것도 요령이야!"
+
+msgid "tutopict_0172_0003_msg"
+msgstr "더 높은 랭크의 상대에게 도전해 보자!\\n승리하면 받을 수 있는 포인트가 증가해!"
+
+msgid "tutopict_0172_0004_msg"
+msgstr "EX 배틀 악곡의 스코어 합산으로 랭킹이 결정돼.\\n강적에게 승리하여 하이스코어를 목표로 하자!\\n또한, 멸망의 노래의 영향을 받기 때문에 주의가 필요해."
+
+msgid "tutopict_0172_0005_msg"
+msgstr "높은 클래스일수록 더 많은 포인트를 획득할 수 있어.\\n클래스 해방 상태는 다음 배틀 이벤트에도 이어지니,\\n계속해서 더 높은 클래스를 목표로 하자!"
+
+msgid "tutopict_0172_0006_msg"
+msgstr "EX 배틀 하이스코어를 갱신하거나 포인트를\\n많이 모으면 더 좋은 보상을 받을 수 있어.\\n모든 보상 GET을 목표로 하자!"
+
+msgid "tutopict_0172_0007_msg"
+msgstr "이벤트 미션을 달성하면 열두 별자리 메달을\\n획득할 수 있어. 메달이 모이면 교환소에서\\n아이템으로 교환할 수 있어!"
+
+msgid "tutopict_0173_0000_title"
+msgstr "이벤트 보상에 대해"
+
+msgid "tutopict_0173_0001_title"
+msgstr "보너스 대상에 대해"
+
+msgid "tutopict_0173_0002_title"
+msgstr "배틀 이벤트 플레이 방법에 대해"
+
+msgid "tutopict_0173_0000_msg"
+msgstr "이벤트 보상으로 에피소드 플레이트 교환권을\\n대량으로 GET할 수 있어!\\n많이 모아서 원하는 플레이트와 교환해 줘."
+
+msgid "tutopict_0173_0001_msg"
+msgstr "여러 에피소드를 편성해서 더욱 편하게 보상을 GET하자!\\n에피소드에 따라 레어도 상승 후 보너스가\\n더 높은 것도 있으니 주의해야 해."
+
+msgid "tutopict_0173_0002_msg"
+msgstr "배틀 이벤트에서는 상대와 점수로 승부해.\\n자신 있는 곡으로 상대를 고르는 것도 요령이야!"
+
+msgid "tutopict_0173_0003_msg"
+msgstr "더 높은 랭크의 상대에게 도전해 보자!\\n승리하면 받을 수 있는 포인트가 증가해!"
+
+msgid "tutopict_0173_0004_msg"
+msgstr "EX 배틀 악곡의 스코어 합산으로 랭킹이 결정돼.\\n강적에게 승리하여 하이스코어를 목표로 하자!\\n또한, 멸망의 노래의 영향을 받기 때문에 주의가 필요해."
+
+msgid "tutopict_0173_0005_msg"
+msgstr "높은 클래스일수록 더 많은 포인트를 획득할 수 있어.\\n클래스 해방 상태는 다음 배틀 이벤트에도 이어지니,\\n계속해서 더 높은 클래스를 목표로 하자!"
+
+msgid "tutopict_0173_0006_msg"
+msgstr "EX 배틀 하이스코어를 갱신하거나 포인트를\\n많이 모으면 더 좋은 보상을 받을 수 있어.\\n모든 보상 GET을 목표로 하자!"
+
+msgid "tutopict_0173_0007_msg"
+msgstr "이벤트 미션을 달성하면 열두 별자리 메달을\\n획득할 수 있어. 메달이 모이면 교환소에서\\n아이템으로 교환할 수 있어!"
+
+msgid "tutopict_0174_0000_title"
+msgstr "이벤트 보상에 대해"
+
+msgid "tutopict_0174_0001_title"
+msgstr "배틀 이벤트 플레이 방법에 대해"
+
+msgid "tutopict_0174_0000_msg"
+msgstr "이벤트 보상으로 에피소드 플레이트 교환권을\\n대량으로 GET할 수 있어!\\n많이 모아서 원하는 플레이트와 교환해 줘."
+
+msgid "tutopict_0174_0001_msg"
+msgstr "배틀 이벤트에서는 상대와 점수로 승부해.\\n자신 있는 곡으로 상대를 고르는 것도 요령이야!"
+
+msgid "tutopict_0174_0002_msg"
+msgstr "더 높은 랭크의 상대에게 도전해 보자!\\n승리하면 받을 수 있는 포인트가 증가해!"
+
+msgid "tutopict_0174_0003_msg"
+msgstr "EX 배틀 악곡의 스코어 합산으로 랭킹이 결정돼.\\n강적에게 승리하여 하이스코어를 목표로 하자!\\n또한, 멸망의 노래의 영향을 받기 때문에 주의가 필요해."
+
+msgid "tutopict_0174_0004_msg"
+msgstr "높은 클래스일수록 더 많은 포인트를 획득할 수 있어.\\n클래스 해방 상태는 다음 배틀 이벤트에도 이어지니,\\n계속해서 더 높은 클래스를 목표로 하자!"
+
+msgid "tutopict_0174_0005_msg"
+msgstr "EX 배틀 하이스코어를 갱신하거나 포인트를\\n많이 모으면 더 좋은 보상을 받을 수 있어.\\n모든 보상 GET을 목표로 하자!"
+
+msgid "tutopict_0174_0006_msg"
+msgstr "이벤트 미션을 달성하면 열두 별자리 메달을\\n획득할 수 있어. 메달이 모이면 교환소에서\\n아이템으로 교환할 수 있어!"
+
+msgid "tutopict_0175_0000_title"
+msgstr "에피소드 보너스에 대하여"
+
+msgid "tutopict_0175_0000_msg"
+msgstr "여러 에피소드를 편성해서 더욱 편하게 보상을 GET하자!\\n에피소드에 따라 레어도 상승 후 보너스가\\n더 높은 것도 있으니 주의해야 해."
+
+msgid "tutopict_0175_0001_msg"
+msgstr "플레이트를 선택할 때\\n에피소드 보너스를 받을 수 있는\\n플레이트만 표시할 수도 있어."
+
+msgid "tutopict_0176_0000_title"
+msgstr "에피소드 보너스에 대하여"
+
+msgid "tutopict_0176_0000_msg"
+msgstr "여러 에피소드를 편성해서 더욱 편하게 보상을 GET하자!\\n에피소드에 따라 레어도 상승 후 보너스가\\n더 높은 것도 있으니 주의해야 해."
+
+msgid "tutopict_0176_0001_msg"
+msgstr "플레이트를 선택할 때\\n에피소드 보너스를 받을 수 있는\\n플레이트만 표시할 수도 있어."
+
+msgid "tutopict_0177_0000_title"
+msgstr "대상 에피소드 추가에 대해"
+
+msgid "tutopict_0177_0000_msg"
+msgstr "대상 에피소드가 추가됐어.\\n지금까지보다 더 많은 이벤트 포인트를 얻을 기회야."
+
+msgid "tutopict_0178_0000_title"
+msgstr "랭킹 입상 요령에 대해"
+
+msgid "tutopict_0178_0000_msg"
+msgstr "EX 배틀 하이스코어는 EX 배틀 곡의\\n하이스코어를 갱신하면 올라가.\\n모든 EX 배틀 곡을 플레이하는 것을 추천해."
+
+msgid "tutopict_0179_0000_title"
+msgstr "이벤트를 즐기는 방법에 대하여"
+
+msgid "tutopict_0179_0001_title"
+msgstr "이벤트 보상에 대해"
+
+msgid "tutopict_0179_0002_title"
+msgstr "멸망의 노래 영향에 대해"
+
+msgid "tutopict_0179_0003_title"
+msgstr "보너스 대상에 대해"
+
+msgid "tutopict_0179_0004_title"
+msgstr "가희 이벤트 플레이 방법에 대해"
+
+msgid "tutopict_0179_0000_msg"
+msgstr "스페셜 라이브에서 라이브 보너스 15배가\\n추첨될 확률이 올라갔어!\\n어필을 올릴 기회야!"
+
+msgid "tutopict_0179_0001_msg"
+msgstr "이벤트에 참가하면 여기서만 얻을 수 있는\\n에피소드 플레이트를 GET할 수 있어.\\n너도 도전해 봐!"
+
+msgid "tutopict_0179_0002_msg"
+msgstr "대상 곡에서는 멸망의 노래의 영향을 받게 돼.\\n멸망의 노래는 매번 다른 영향을 주니까\\n반드시 확인해 줘!"
+
+msgid "tutopict_0179_0003_msg"
+msgstr "여러 에피소드를 편성해서 더욱 편하게 보상을 GET하자!\\n에피소드에 따라 레어도 상승 후 보너스가\\n더 높은 것도 있으니 주의해야 해."
+
+msgid "tutopict_0179_0004_msg"
+msgstr "어필이 올라가면 가희의 스테이터스도 상승해.\\n이벤트 종료 후에도 성장한 능력은 계속 남아."
+
+msgid "tutopict_0179_0005_msg"
+msgstr "스페셜 라이브 점수로 랭킹이 결정돼.\\n더 높은 하이스코어를 목표로 하자!"
+
+msgid "tutopict_0179_0006_msg"
+msgstr "스페셜 라이브에서 랭킹 상위에 입상하거나\\n포인트를 많이 모으면 더 좋은 보상을 받을 수 있어.\\n모든 보상 GET을 목표로 하자!"
+
+msgid "tutopict_0179_0007_msg"
+msgstr "이벤트 미션을 달성하면 열두 별자리 메달을\\n획득할 수 있어. 메달이 모이면 교환소에서\\n아이템으로 교환할 수 있어!"
+
+msgid "tutopict_0180_0000_title"
+msgstr "이벤트를 즐기는 방법에 대하여"
+
+msgid "tutopict_0180_0001_title"
+msgstr "이벤트 보상에 대해"
+
+msgid "tutopict_0180_0002_title"
+msgstr "멸망의 노래 영향에 대해"
+
+msgid "tutopict_0180_0003_title"
+msgstr "보너스 대상에 대해"
+
+msgid "tutopict_0180_0004_title"
+msgstr "가희 이벤트 플레이 방법에 대해"
+
+msgid "tutopict_0180_0000_msg"
+msgstr "스페셜 라이브에서 라이브 보너스 15배가\\n추첨될 확률이 올라갔어!\\n어필을 올릴 기회야!"
+
+msgid "tutopict_0180_0001_msg"
+msgstr "이벤트에 참가하면 여기서만 얻을 수 있는\\n에피소드 플레이트를 GET할 수 있어.\\n너도 도전해 봐!"
+
+msgid "tutopict_0180_0002_msg"
+msgstr "대상 곡에서는 멸망의 노래의 영향을 받게 돼.\\n멸망의 노래는 매번 다른 영향을 주니까\\n반드시 확인해 줘!"
+
+msgid "tutopict_0180_0003_msg"
+msgstr "여러 에피소드를 편성해서 더욱 편하게 보상을 GET하자!\\n에피소드에 따라 레어도 상승 후 보너스가\\n더 높은 것도 있으니 주의해야 해."
+
+msgid "tutopict_0180_0004_msg"
+msgstr "어필이 올라가면 가희의 스테이터스도 상승해.\\n이벤트 종료 후에도 성장한 능력은 계속 남아."
+
+msgid "tutopict_0180_0005_msg"
+msgstr "스페셜 라이브 점수로 랭킹이 결정돼.\\n더 높은 하이스코어를 목표로 하자!"
+
+msgid "tutopict_0180_0006_msg"
+msgstr "스페셜 라이브에서 랭킹 상위에 입상하거나\\n포인트를 많이 모으면 더 좋은 보상을 받을 수 있어.\\n모든 보상 GET을 목표로 하자!"
+
+msgid "tutopict_0180_0007_msg"
+msgstr "이벤트 미션을 달성하면 열두 별자리 메달을\\n획득할 수 있어. 메달이 모이면 교환소에서\\n아이템으로 교환할 수 있어!"
+
+msgid "tutopict_0181_0000_title"
+msgstr "이벤트를 즐기는 방법에 대하여"
+
+msgid "tutopict_0181_0001_title"
+msgstr "이벤트 보상에 대해"
+
+msgid "tutopict_0181_0002_title"
+msgstr "멸망의 노래 영향에 대해"
+
+msgid "tutopict_0181_0003_title"
+msgstr "가희 이벤트 플레이 방법에 대해"
+
+msgid "tutopict_0181_0000_msg"
+msgstr "스페셜 라이브에서 라이브 보너스 15배가\\n추첨될 확률이 올라갔어!\\n어필을 올릴 기회야!"
+
+msgid "tutopict_0181_0001_msg"
+msgstr "이벤트에 참가하면 여기서만 얻을 수 있는\\n에피소드 플레이트를 GET할 수 있어.\\n너도 도전해 봐!"
+
+msgid "tutopict_0181_0002_msg"
+msgstr "대상 곡에서는 멸망의 노래의 영향을 받게 돼.\\n멸망의 노래는 매번 다른 영향을 주니까\\n반드시 확인해 줘!"
+
+msgid "tutopict_0181_0003_msg"
+msgstr "어필이 올라가면 가희의 스테이터스도 상승해.\\n이벤트 종료 후에도 성장한 능력은 계속 남아."
+
+msgid "tutopict_0181_0004_msg"
+msgstr "스페셜 라이브 점수로 랭킹이 결정돼.\\n더 높은 하이스코어를 목표로 하자!"
+
+msgid "tutopict_0181_0005_msg"
+msgstr "스페셜 라이브에서 랭킹 상위에 입상하거나\\n포인트를 많이 모으면 더 좋은 보상을 받을 수 있어.\\n모든 보상 GET을 목표로 하자!"
+
+msgid "tutopict_0181_0006_msg"
+msgstr "이벤트 미션을 달성하면 열두 별자리 메달을\\n획득할 수 있어. 메달이 모이면 교환소에서\\n아이템으로 교환할 수 있어!"
+
+msgid "tutopict_0182_0000_title"
+msgstr "에피소드 보너스에 대하여"
+
+msgid "tutopict_0182_0000_msg"
+msgstr "여러 에피소드를 조합해서 보상을 더 편리하게 GET하자!\\n에피소드에 따라 레어도 상승 후 보너스가\\n더 높은 것도 있으니 주의해야 해."
+
+msgid "tutopict_0182_0001_msg"
+msgstr "플레이트를 선택할 때\\n에피소드 보너스를 받을 수 있는\\n플레이트만 표시할 수도 있어."
+
+msgid "tutopict_0183_0000_title"
+msgstr "에피소드 보너스에 대하여"
+
+msgid "tutopict_0183_0000_msg"
+msgstr "여러 에피소드를 편성해서 더욱 편하게 보상을 GET하자!\\n에피소드에 따라 레어도 상승 후 보너스가\\n더 높은 것도 있으니 주의해야 해."
+
+msgid "tutopict_0183_0001_msg"
+msgstr "플레이트를 선택할 때\\n에피소드 보너스를 받을 수 있는\\n플레이트만 표시할 수도 있어."
+
+msgid "tutopict_0184_0000_title"
+msgstr "대상 에피소드 추가에 대해"
+
+msgid "tutopict_0184_0000_msg"
+msgstr "대상 에피소드가 추가됐어.\\n지금까지보다 더 많은 이벤트 포인트를 얻을 기회야."
+
+msgid "tutopict_0185_0000_title"
+msgstr "초은하 총력 LIVE에 대해"
+
+msgid "tutopict_0185_0000_msg"
+msgstr "새 인간이 전투 지역에 나타났어!\\n이것이 마지막 싸움이 될 거야.\\n새 인간의 폭주를 막기 위해…전력을 다하자!"
+
+msgid "tutopict_0185_0001_msg"
+msgstr "이벤트 보상으로 에피소드 플레이트 교환권을\\n대량으로 GET할 수 있어!\\n많이 모아서 원하는 플레이트와 교환해 줘."
+
+msgid "tutopict_0185_0002_msg"
+msgstr "에피소드는 각 에피소드의 플레이트를 1장 편성하고,\\n발키리와 의상은 대상 중 1개를 편성하면\\n보너스가 발생해."
+
+msgid "tutopict_0185_0003_msg"
+msgstr "폴드 레이더로 불안정한 폴드파를 감지해서\\n폭주한 에너미를 찾을 수 있어.\\n가끔 강력한 에너미가 나타나기도 해."
+
+msgid "tutopict_0185_0004_msg"
+msgstr "노래 레이트를 올리면\\n더 높은 랭크의 폭주 에너미를 탐색할 수 있게 돼.\\n랭크가 높아지면 강해지지만 보상도 많이 받을 수 있어."
+
+msgid "tutopict_0185_0005_msg"
+msgstr "보상은 기여 방식에 따라 더 많이 받을 수 있어.\\n각각 얻을 수 있는 아이템도 다르니까\\n적극적으로 참여해서 다양한 보상을 받아가자!"
+
+msgid "tutopict_0185_0006_msg"
+msgstr "적 탐색을 하면, 낮은 확률로 EX 폭주 에너미를 발견할 수 있어.\\nEX 폭주 에너미는 강적이지만, 무력화시키면\\n그만큼 보상을 많이 받을 수 있어!"
+
+msgid "tutopict_0185_0007_msg"
+msgstr "폭주 에너미들은 각각 라이브 어필을 달성하면\\n임팩트 수에 노래 보너스가 추가돼. 달성할 수\\n있을 것 같은 조건을 선택하는 것도 하나의 방법이지."
+
+msgid "tutopict_0186_0000_title"
+msgstr "행동 선택에 대하여"
+
+msgid "tutopict_0186_0000_msg"
+msgstr "지원 요청에 바로 응답하고 싶을 때는 지원을, MVP를 노리고\\n한 번에 임팩트를 주고 싶다면 전력 열창을 선택하면 좋아."
+
+msgid "tutopict_0186_0001_msg"
+msgstr "직접 참전하거나, 구조를 받으면\\n마크로스 캐논 게이지가 쌓여."
+
+msgid "tutopict_0187_0000_title"
+msgstr "보너스에 대해"
+
+msgid "tutopict_0187_0000_msg"
+msgstr "폭주 에너미들은 각각 라이브 어필을 달성하면\\n임팩트 수에 노래 보너스가 추가돼. 달성할 수\\n있을 것 같은 조건으로 선택하는 것도 하나의 방법이지."
+
+msgid "tutopict_0187_0001_msg"
+msgstr "전력으로 상대에게 전달하고 싶다면 전력 열창,\\n모두를 지원하고 싶다면 지원을 선택하면 좋아.\\n곡은 변경해서 원하는 곡으로 플레이해 줘."
+
+msgid "tutopict_0187_0002_msg"
+msgstr "에피소드는 각 에피소드의 플레이트를 1장 편성하고,\\n발키리와 의상은 대상 중 1개를 편성하면\\n보너스가 발생해."
+
+msgid "tutopict_0188_0000_title"
+msgstr "구조 요청에 대해"
+
+msgid "tutopict_0188_0000_msg"
+msgstr "폭주 에너미는 무리해서 혼자 무력화하지 않아도 돼.\\n동료와 협력해서 대응하면 문제없어.\\n대신 구조 요청을 받으면 도와줘."
+
+msgid "tutopict_0189_0000_title"
+msgstr "마크로스 캐논에 대하여"
+
+msgid "tutopict_0189_0000_msg"
+msgstr "마크로스 캐논 게이지가 차면,\\n마크로스 캐논으로 강력한 타격을 줄 수 있어.\\n꽤 강력하니까, 사용할 때는 타이밍을 잘 맞춰야 해."
+
+msgid "tutopict_0189_0001_msg"
+msgstr "마크로스 캐논의 위력에는\\n소지한 플레이트 중 최대 100장이 반영돼.\\n사전 준비가 중요해."
+
+msgid "tutopict_0190_0000_title"
+msgstr "보상에 대하여"
+
+msgid "tutopict_0190_0000_msg"
+msgstr "이벤트에 참여하면,\\n초은하 메달이나 발키리 강화 아이템을 얻을 수 있어.\\n초은하 메달은 특별한 플레이트로 교환할 수 있어!"
+
+msgid "tutopict_0190_0001_msg"
+msgstr "보상은 기여 방식에 따라 더 많이 받을 수 있어.\\n각각 얻을 수 있는 아이템도 다르니까\\n적극적으로 참여해서 다양한 보상을 받아가자!"
+
+msgid "tutopict_0191_0000_title"
+msgstr "부스트 기능에 대하여"
+
+msgid "tutopict_0191_0000_msg"
+msgstr "먼저 티켓을 몇 장이나 소비할 것인지 선택하자!\\n선택한 배율에 따라 받을 수 있는 포인트가 늘어나.\\n잘 활용해서 이벤트 공략에 도움이 되도록 하자!"
+
+msgid "tutopict_0192_0000_title"
+msgstr "부스트 기능에 대하여"
+
+msgid "tutopict_0192_0000_msg"
+msgstr "먼저 에너지 소비량을 선택하자!\\n선택한 배율에 따라 받을 포인트가 증가해.\\n잘 활용해서 이벤트 공략에 도움을 받자!"
+
+msgid "tutopict_0193_0000_title"
+msgstr "부스트 기능에 대하여"
+
+msgid "tutopict_0193_0000_msg"
+msgstr "먼저 에너지 소비량을 선택하자!\\n선택한 배율에 따라 받을 포인트가 증가해.\\n잘 활용해서 이벤트 공략에 도움을 받자!"
+
+msgid "tutopict_0194_0000_title"
+msgstr "우타 마크로스 은하 신년☆냥냥 축제에 대하여"
+
+msgid "tutopict_0194_0000_msg"
+msgstr "올해 연말연시에도 기간 한정 【냥냥제】가 개최돼.\\n【냥냥제】의 핵심은 【냥냥 뽑기☆】야."
+
+msgid "tutopict_0194_0001_msg"
+msgstr "【냥쿠지☆ 추첨권】으로 【냥쿠지☆】룰 뽑을 수 있어.\\n추첨권은 가정석 세트의 덤이나\\n냥냥 서비스 미션 등을 통해 얻을 수 있어."
+
+msgid "tutopict_0194_0002_msg"
+msgstr "1월 1일부터 냥쿠지☆에 참여할 수 있어.\\n지금 미리 냥쿠지☆ 추첨권을 모아두자!"
+
+msgid "tutopict_0194_0003_msg"
+msgstr "초은하 메달 교환소, 열두 별자리 메달 교환소에 등장한\\n★6, ★5 플레이트와 교환할 수 있는 티켓이야.\\n레어도에 따라 필요한 개수가 다르니 주의해."
+
+msgid "tutopict_0195_0000_title"
+msgstr "우타 마크로스 은하 신년☆냥냥 축제에 대하여"
+
+msgid "tutopict_0195_0000_msg"
+msgstr "올해 연말연시에도 기간 한정 【냥냥제】가 개최돼.\\n【냥냥제】의 핵심은 【냥냥 뽑기☆】야."
+
+msgid "tutopict_0195_0001_msg"
+msgstr "【냥쿠지☆ 추첨권】으로 【냥쿠지☆】룰 뽑을 수 있어.\\n추첨권은 가정석 세트의 덤이나\\n냥냥 서비스 미션 등을 통해 얻을 수 있어."
+
+msgid "tutopict_0195_0002_msg"
+msgstr "냥쿠지☆ 추첨권 1장으로 1회 뽑을 수 있어.\\n두 번째 이후의 BOX에도 ★5 플레이트가 들어있으니까\\n프리미엄 아이템으로 만들 수도 있어!"
+
+msgid "tutopict_0195_0003_msg"
+msgstr "초은하 메달 교환소, 열두 별자리 메달 교환소에 등장한\\n★6, ★5 플레이트와 교환할 수 있는 티켓이야.\\n레어도에 따라 필요한 개수가 다르니 주의해."
+
+msgid "tutopict_0196_0000_title"
+msgstr "냥냥 서비스 미션 보상에 대해"
+
+msgid "tutopict_0196_0000_msg"
+msgstr "이미 셰릴의 퍼플 갤럭시를\\n획득한 경우, 의상을 받을 수 있는 미션의\\n보상이 냥쿠지☆ 추첨권으로 바뀌어 있어."
+
+msgid "tutopict_0197_0000_title"
+msgstr "우타 마크로스 은하 신년☆냥냥 축제에 대하여"
+
+msgid "tutopict_0197_0000_msg"
+msgstr "올해 연말연시에도 기간 한정 【냥냥제】가 개최돼.\\n【냥냥제】의 핵심은 【냥냥 뽑기☆】야."
+
+msgid "tutopict_0197_0001_msg"
+msgstr "【냥쿠지☆ 추첨권】으로 【냥쿠지☆】룰 뽑을 수 있어.\\n추첨권은 가정석 세트의 덤이나\\n냥냥 서비스 미션 등을 통해 얻을 수 있어."
+
+msgid "tutopict_0197_0002_msg"
+msgstr "초은하 메달 교환소, 열두 별자리 메달 교환소에 등장한\\n★6, ★5 플레이트와 교환할 수 있는 티켓이야.\\n레어도에 따라 필요한 개수가 다르니 주의해."
+
+msgid "tutopict_0198_0000_title"
+msgstr "우타 마크로스 은하 신년☆냥냥 축제에 대하여"
+
+msgid "tutopict_0198_0000_msg"
+msgstr "1월 1일부터 냥쿠지☆에 참여할 수 있어.\\n지금 미리 냥쿠지☆ 추첨권을 모아두자!"
+
+msgid "tutopict_0199_0000_title"
+msgstr "우타 마크로스 은하 신년☆냥냥 축제에 대하여"
+
+msgid "tutopict_0199_0000_msg"
+msgstr "냥쿠지☆ 추첨권 1장으로 1회 뽑을 수 있어.\\n두 번째 이후의 BOX에도 ★5 플레이트가 들어있으니까\\n프리미엄 아이템으로 만들 수도 있어!"
+
+msgid "tutopict_0200_0000_title"
+msgstr "냥쿠지☆에 대하여"
+
+msgid "tutopict_0200_0000_msg"
+msgstr "【냥쿠지☆ 추첨권】으로 【냥쿠지☆】룰 뽑을 수 있어.\\n추첨권은 가정석 세트의 덤이나\\n냥냥 서비스 미션 등을 통해 얻을 수 있어."
+
+msgid "tutopict_0200_0001_msg"
+msgstr "1월 1일부터 냥냥 뽑기☆를 진행할 수 있어.\\n지금부터 냥냥 뽑기☆ 추첨권을 모아두자!"
+
+msgid "tutopict_0200_0002_msg"
+msgstr "초은하 메달 교환소, 열두 별자리 메달 교환소에 등장한\\n★6, ★5 플레이트와 교환할 수 있는 티켓이야.\\n레어도에 따라 필요한 개수가 다르니 주의해."
+
+msgid "tutopict_0201_0000_title"
+msgstr "냥냥서비스 미션 II의 보상에 대하여"
+
+msgid "tutopict_0201_0000_msg"
+msgstr "이미 셰릴의 슈가 베리 베이비를\\n획득한 경우, 의상을 받을 수 있는 미션의\\n보상이 ‘냥쿠지☆ 추첨권’으로 바뀌어 있어."
+
+msgid "tutopict_0202_0000_title"
+msgstr "냥쿠지☆에 대하여"
+
+msgid "tutopict_0202_0000_msg"
+msgstr "【냥쿠지☆ 추첨권】으로 【냥쿠지☆】룰 뽑을 수 있어.\\n추첨권은 가정석 세트의 덤이나\\n냥냥 서비스 미션 등을 통해 얻을 수 있어."
+
+msgid "tutopict_0202_0001_msg"
+msgstr "냥쿠지☆ 추첨권 1장으로 1회 뽑을 수 있어.\\n두 번째 이후의 BOX에도 ★5 플레이트가 들어있으니까\\n프리미엄 아이템으로 만들 수도 있어!"
+
+msgid "tutopict_0202_0002_msg"
+msgstr "초은하 메달 교환소, 열두 별자리 메달 교환소에 등장한\\n★6, ★5 플레이트와 교환할 수 있는 티켓이야.\\n레어도에 따라 필요한 개수가 다르니 주의해."
+
+msgid "tutopict_0203_0000_title"
+msgstr "우타 마크로스 4th Anniversary 전야제에 대하여"
+
+msgid "tutopict_0203_0000_msg"
+msgstr "곧 우타 마크로스도 4주년!\\n올해도 【전야제】를 개최! 4주년 전야제 역시 활기를 띌 거야!\\n【전야제】의 하이라이트는 【전야제 냥쿠지☆】야."
+
+msgid "tutopict_0203_0001_msg"
+msgstr "올해의 냥냥제에서도 두 가지 냥쿠지☆가 개최될 거야.\\n각각 【냥쿠지☆ 추첨권】의 획득 기간과\\n주요 보상이 다르니까 잊지 말고 확인해 줘."
+
+msgid "tutopict_0203_0002_msg"
+msgstr "【2021년 7월 30일】까지 획득한 냥쿠지☆ 추첨권은\\n【전야제 냥쿠지☆추첨 장소】에서 사용할 수 있어.\\n획득 기한에 주의해야 해."
+
+msgid "tutopict_0203_0003_msg"
+msgstr "전야제 냥쿠지☆ 추첨권 1장으로 1회를 뽑을 수 있어요.\\n두 번째 이후의 BOX에도 ★5 플레이트가 들어있으니\\n프리미어화시킬 수도 있어요!"
+
+msgid "tutopict_0203_0004_msg"
+msgstr "8월 3일은 드디어 우타 마크로스 4주년!\\n7월 31일부터는 한층 더 업그레이드된 【냥냥제】가 열려.\\n정말 기대되네!"
+
+msgid "tutopict_0204_0000_title"
+msgstr "우타 마크로스 4th Anniversary 냥냥제에 대하여"
+
+msgid "tutopict_0204_0000_msg"
+msgstr "드디어 우타 마크로스 4주년!\\n지금까지 응원해 준 모두에게 감사의 마음을 담아\\n올해도 【냥쿠지☆】가 특별 개최될 거야."
+
+msgid "tutopict_0204_0001_msg"
+msgstr "올해의 냥냥제에서도 두 가지 냥쿠지☆가 개최될 거야.\\n각각 【냥쿠지☆ 추첨권】의 획득 기간과\\n주요 보상이 다르니까 잊지 말고 확인해 줘."
+
+msgid "tutopict_0204_0002_msg"
+msgstr "【2021년 7월 31일】 이후에 획득한 냥냥 뽑기☆ 추첨권은\\n【4주년 냥냥 뽑기☆ 추첨장】에서 사용할 수 있어.\\n전야제 냥냥 뽑기☆ 추첨장도 계속 개최 중이야!"
+
+msgid "tutopict_0204_0003_msg"
+msgstr "과거 냥쿠지☆에서 등장한 플레이트와 교환 가능한\\n「우타 마크 SP 메달」이 핵심 아이템이야!\\n4주년 냥쿠지☆ 추첨권 1장으로 1회 뽑을 수 있어."
+
+msgid "tutopict_0205_0000_title"
+msgstr "냥쿠지☆에 대하여"
+
+msgid "tutopict_0205_0000_msg"
+msgstr "올해의 냥냥제에서도 두 가지 냥쿠지☆가 개최될 거야.\\n각각 【냥쿠지☆ 추첨권】의 획득 기간과\\n주요 보상이 다르니까 잊지 말고 확인해 줘."
+
+msgid "tutopict_0205_0001_msg"
+msgstr "【2021년 7월 30일】까지 획득한 냥쿠지☆ 추첨권은\\n【전야제 냥쿠지☆추첨 장소】에서 사용할 수 있어.\\n획득 기한에 주의해야 해."
+
+msgid "tutopict_0205_0002_msg"
+msgstr "전야제 냥쿠지☆ 추첨권 1장으로 1회를 뽑을 수 있어요.\\n두 번째 이후의 BOX에도 ★5 플레이트가 들어있으니\\n프리미어화시킬 수도 있어요!"
+
+msgid "tutopict_0206_0000_title"
+msgstr "냥쿠지☆에 대하여"
+
+msgid "tutopict_0206_0000_msg"
+msgstr "올해의 냥냥제에서도 두 가지 냥쿠지☆가 개최될 거야.\\n각각 【냥쿠지☆ 추첨권】의 획득 기간과\\n주요 보상이 다르니까 잊지 말고 확인해 줘."
+
+msgid "tutopict_0206_0001_msg"
+msgstr "【2021년 7월 31일】 이후에 획득한 냥냥 뽑기☆ 추첨권은\\n【4주년 냥냥 뽑기☆ 추첨장】에서 사용할 수 있어.\\n전야제 냥냥 뽑기☆ 추첨장도 계속 개최 중이야!"
+
+msgid "tutopict_0206_0002_msg"
+msgstr "과거 냥쿠지☆에서 등장한 플레이트와 교환 가능한\\n「우타 마크 SP 메달」이 핵심 아이템이야!\\n4주년 냥쿠지☆ 추첨권 1장으로 1회 뽑을 수 있어."
+
+msgid "tutopict_0207_0000_title"
+msgstr "이벤트를 즐기는 방법에 대하여"
+
+msgid "tutopict_0207_0000_msg"
+msgstr "자, 새해까지 이제 얼마 남지 않았어!\\n초시공 카운트다운 라이브의 시작이야!"
+
+msgid "tutopict_0207_0001_msg"
+msgstr "마크로스 시리즈의 악곡이 매일 바뀌어 갈 거야.\\n악곡마다 드롭되는 플레이트가 다르니까\\n놓친 이벤트 보상 플레이트를 얻을 기회야!"
+
+msgid "tutopict_0207_0002_msg"
+msgstr "초시공 LIVE 티켓은 레어 아이템 노트에서\\n출현해. 그리고 티켓은 하루에 한 번\\n선물해줄 테니까 이벤트 홈에서 받아가."
+
+msgid "tutopict_0207_0003_msg"
+msgstr "이벤트 아이템은 종류에 따라\\n포인트로 변환돼.\\n많이 모아 포인트를 쌓아 나가자."
+
+msgid "tutopict_0207_0004_msg"
+msgstr "이번에는 보상으로 냥쿠지☆ 추첨권을 받을 수 있어.\\n새해를 향해 힘내서 달려보자!"
+
+msgid "tutopict_0207_0005_msg"
+msgstr "같은 에피소드의 플레이트를 여러 개 편성해도\\n1에피소드 만큼의 보너스만 받을 수 있으니 주의해."
+
+msgid "tutopict_0207_0006_msg"
+msgstr "먼저 티켓을 몇 장이나 소비할 것인지 선택하자!\\n선택한 배율에 따라 받을 수 있는 포인트가 늘어나.\\n잘 활용해서 이벤트 공략에 도움이 되도록 하자!"
+
+msgid "tutopict_0207_0007_msg"
+msgstr "이벤트 미션을 달성하면 열두 별자리 메달을\\n획득할 수 있어. 메달이 모이면 교환소에서\\n아이템으로 교환할 수 있어!"
+
+msgid "tutopict_0207_0008_msg"
+msgstr "이벤트 악곡 랭킹에서는 이벤트 스코어에 주목해야 해!\\n랭킹에 따라 악곡 칭호를 받을 수 있어.\\n악곡 칭호는 달성 보상 버튼에서 확인할 수 있어."
+
+msgid "tutopict_0208_0000_title"
+msgstr "이벤트를 즐기는 방법에 대하여"
+
+msgid "tutopict_0208_0000_msg"
+msgstr "자, 새해까지 이제 얼마 남지 않았어!\\n초시공 카운트다운 라이브의 시작이야!"
+
+msgid "tutopict_0208_0001_msg"
+msgstr "마크로스 시리즈의 악곡이 매일 바뀌어 갈 거야.\\n악곡마다 드롭되는 플레이트가 다르니까\\n놓친 이벤트 보상 플레이트를 얻을 기회야!"
+
+msgid "tutopict_0208_0002_msg"
+msgstr "초시공 LIVE 티켓은 레어 아이템 노트에서\\n출현해. 그리고 티켓은 하루에 한 번\\n선물해줄 테니까 이벤트 홈에서 받아가."
+
+msgid "tutopict_0208_0003_msg"
+msgstr "이벤트 아이템은 종류에 따라\\n포인트로 변환돼.\\n많이 모아 포인트를 쌓아 나가자."
+
+msgid "tutopict_0208_0004_msg"
+msgstr "이번에는 보상으로 냥쿠지☆ 추첨권을 받을 수 있어.\\n새해를 향해 힘내서 달려보자!"
+
+msgid "tutopict_0208_0005_msg"
+msgstr "이벤트 미션을 달성하면 열두 별자리 메달을\\n획득할 수 있어. 메달이 모이면 교환소에서\\n아이템으로 교환할 수 있어!"
+
+msgid "tutopict_0208_0006_msg"
+msgstr "이벤트 악곡 랭킹에서는 이벤트 스코어에 주목해야 해!\\n랭킹에 따라 악곡 칭호를 받을 수 있어.\\n악곡 칭호는 달성 보상 버튼에서 확인할 수 있어."
+
+msgid "tutopict_0209_0000_title"
+msgstr "에피소드 보너스에 대하여"
+
+msgid "tutopict_0209_0000_msg"
+msgstr "같은 에피소드의 플레이트를 여러 개 편성해도\\n1에피소드 만큼의 보너스만 받을 수 있으니 주의해."
+
+msgid "tutopict_0209_0001_msg"
+msgstr "플레이트를 선택할 때\\n에피소드 보너스를 받을 수 있는\\n플레이트만 표시할 수도 있어."
+
+msgid "tutopict_0210_0000_title"
+msgstr "부스트 기능에 대하여"
+
+msgid "tutopict_0210_0000_msg"
+msgstr "먼저 티켓을 몇 장이나 소비할 것인지 선택하자!\\n선택한 배율에 따라 받을 수 있는 포인트가 늘어나.\\n잘 활용해서 이벤트 공략에 도움이 되도록 하자!"
+
+msgid "tutopict_0211_0000_title"
+msgstr "어시스트 플레이트에 대하여"
+
+msgid "tutopict_0211_0000_msg"
+msgstr "어시스트 플레이트는 스테이터스와 센터 스킬로\\n유닛을 강하게 만들어 줘."
+
+msgid "tutopict_0212_0000_title"
+msgstr "유닛 세트에 대하여"
+
+msgid "tutopict_0212_0000_msg"
+msgstr "목적에 맞게 다양한 유닛을\\n조합해 보자!"
+
+msgid "tutopict_0212_0001_msg"
+msgstr "【유닛 세트】는 속성별, 스코어 중심,\\n라이프 중심 등 목적별로 저장해두면 편리해."
+
+msgid "tutopict_0213_0000_title"
+msgstr "스킬에 대하여"
+
+msgid "tutopict_0213_0000_msg"
+msgstr "센터 스킬, 액티브 스킬, 라이브 스킬\\n각각의 특징이 있어."
+
+msgid "tutopict_0213_0001_msg"
+msgstr "메인 플레이트는 액티브 스킬과 센터 스킬,\\n서브 플레이트는 라이브 스킬을 발동할 수 있어.\\n세 가지 스킬을 조합해 라이브에 유리하게 활용하자!"
+
+msgid "tutopict_0213_0002_msg"
+msgstr "라이브 스킬은 에피소드 플레이트와\\n가희의 상성에 따라 발동 여부가 결정돼.\\n파란색 마이크 아이콘이 표시되어 있어."
+
+msgid "tutopict_0214_0000_title"
+msgstr "가희의 편성에 대하여"
+
+msgid "tutopict_0214_0000_msg"
+msgstr "새로운 가희가 【유닛】에 참여할 수 있게 되었어.\\n유닛 편성으로 참여시켜 보자!"
+
+msgid "tutopict_0215_0000_title"
+msgstr "악곡의 속성에 대하여"
+
+msgid "tutopict_0215_0000_msg"
+msgstr "에피소드 플레이트와 곡의 속성이 같으면\\n속성 보너스가 발생해."
+
+msgid "tutopict_0215_0001_msg"
+msgstr "목표로 하는 결정이 있을 때는 악곡의 속성을 의식해봐.\\n예를 들어, 사랑 속성의 악곡에서는 사랑의 결정을 얻기 쉬워."
+
+msgid "tutopict_0216_0000_title"
+msgstr "하이스코어를 얻으려면"
+
+msgid "tutopict_0216_0000_msg"
+msgstr "최대 3명의 가희가 유닛에 참여할 수 있어!\\n라이브에 등장시키고 싶은 가희를 센터로 설정해."
+
+msgid "tutopict_0217_0000_title"
+msgstr "생체 폴드파를 모으려면"
+
+msgid "tutopict_0217_0000_msg"
+msgstr "【생체 폴드파】는 유닛의 【생체 폴드파】\\n값이 높을수록 쌓이기 쉬워져."
+
+msgid "tutopict_0218_0000_title"
+msgstr "발키리 모드에서 적을 물리치려면"
+
+msgid "tutopict_0218_0000_msg"
+msgstr "【서포트】를 올려서 파일럿의 능력을\\n끌어올리면 적을 쓰러뜨리기 쉬워져.\\n가희와 파일럿은 서로에게 도움이 되는 관계야."
+
+msgid "tutopict_0219_0000_title"
+msgstr "시뮬레이션 라이브 플레이 방법"
+
+msgid "tutopict_0219_0000_msg"
+msgstr "시뮬레이션 라이브 중 등장하는\\n가희, 의상, 발키리를 곡마다 설정할 수 있어."
+
+msgid "tutopict_0219_0001_msg"
+msgstr "난이도에 맞는 노트 터치음이 울리기 때문에\\nPERFECT 터치 타이밍을 확인할 수 있어."
+
+msgid "tutopict_0220_0000_title"
+msgstr "초시공 프리즘에 대하여"
+
+msgid "tutopict_0220_0000_msg"
+msgstr "【초시공 프리즘】이 해방됐어!\\n악곡별로 라이브 중의 외형을 변경할 수 있어."
+
+msgid "tutopict_0221_0000_title"
+msgstr "라이브를 성공시키려면"
+
+msgid "tutopict_0221_0000_msg"
+msgstr "【라이프】가 높으면 라이브에 실패할 확률이 낮아져.\\n【생명력 회복】 액티브 스킬을 사용하는 것도\\n효과적이야!"
+
+msgid "tutopict_0222_0000_title"
+msgstr "유닛 라이브에 대하여"
+
+msgid "tutopict_0222_0000_msg"
+msgstr "【유닛 라이브】는 2명 이상이 함께하는 라이브를 말해.\\n유닛 라이브를 선택한 경우,\\n유닛 편성에 아이콘이 표시돼."
+
+msgid "tutopict_0223_0000_title"
+msgstr "의상 강화에 대하여"
+
+msgid "tutopict_0223_0000_msg"
+msgstr "특정 의상을 획득한 후,\\n그 의상을 더욱 강화할 수 있게 되었어!"
+
+msgid "tutopict_0223_0001_msg"
+msgstr "오퍼레이션에서 얻을 수 있는 【크로스 스톤】을 사용해\\n【해방치】를 올리면 의상의 【카와와 랭크】가 상승!\\n랭크를 점점 올려서 보상을 획득해 보자!"
+
+msgid "tutopict_0223_0002_msg"
+msgstr "보상으로는【지원 플레이트 슬롯】과 가희의 스테이터스\\n상승이 있어. 유닛에 추가로 플레이트를 장착할 수 있는\\n【지원 플레이트 슬롯】은 유닛을 더욱 강화할 수 있어!"
+
+msgid "tutopict_0224_0000_title"
+msgstr "지원 플레이트에 대하여"
+
+msgid "tutopict_0224_0000_msg"
+msgstr "【지원 플레이트】에는 편성하지 않은 플레이트\\n중에서 가장 효과가 좋은 플레이트가 자동으로 설정돼.\\n다양한 플레이트를 육성해 보자!"
+
+msgid "tutopict_0224_0001_msg"
+msgstr "【지원 플레이트】에 설정된 플레이트의\\n능력의 일부가 유닛에 추가되서\\n하이스코어를 노리기 쉬워져!"
+
+msgid "tutopict_0225_0000_title"
+msgstr "스코어 예측 게이지에 대하여"
+
+msgid "tutopict_0225_0000_msg"
+msgstr "현재 설정으로 플레이했을 때의 점수 예측\\n게이지가 표시돼.\\n참고하면서 유닛을 구성해 보자."
+
+msgid "tutopict_0226_0000_title"
+msgstr "라이브 스킵에 대하여"
+
+msgid "tutopict_0226_0000_msg"
+msgstr "리듬 게임을 건너뛰면 드롭 아이템이나\\n이벤트 보상을 모으기 쉬워져."
+
+msgid "tutopict_0226_0001_msg"
+msgstr "스코어 랭크 SS를 획득한 악곡이라면\\n각 이벤트에서도 스킵할 수 있어.\\n이제 이벤트 포인트를 더 쉽게 얻을 수 있겠네."
+
+msgid "tutopict_0227_0000_title"
+msgstr "어시스트 편성에 대하여"
+
+msgid "tutopict_0227_0000_msg"
+msgstr "내가 어시스트 설정한 플레이트가\\n다른 플레이어가 어시스트를 선택할 때\\n표시되게 되었어."
+
+msgid "tutopict_0228_0000_title"
+msgstr "라이브를 성공시키려면"
+
+msgid "tutopict_0228_0000_msg"
+msgstr "【라이프】가 높으면 라이브에 실패할 확률이 낮아져.\\n【생명력 회복】 액티브 스킬을 사용하는 것도\\n효과적이야!"
+
+msgid "tutopict_0229_0000_title"
+msgstr "어시스트 플레이트에 대하여"
+
+msgid "tutopict_0229_0000_msg"
+msgstr "어시스트 플레이트는 스테이터스와 센터 스킬로\\n유닛을 강하게 만들어 줘."
+
+msgid "tutopict_0230_0000_title"
+msgstr "유닛 편성에 대하여"
+
+msgid "tutopict_0230_0000_msg"
+msgstr "최대 3명의 가희가 유닛에 참여할 수 있어!\\n라이브에 등장시키고 싶은 가희를 센터로 설정해."
+
+msgid "tutopict_0231_0000_title"
+msgstr "스테이터스에 대하여"
+
+msgid "tutopict_0231_0000_msg"
+msgstr "【TOTAL】은 【소울】【보이스】【참】의 합계야.\\n라이브를 하이스코어로 성공하고 싶을 때는\\n【TOTAL】을 신경써야 돼."
+
+msgid "tutopict_0231_0001_msg"
+msgstr "【생체 폴드파】는 유닛의 【생체 폴드파】\\n값이 높을수록 쌓이기 쉬워져."
+
+msgid "tutopict_0231_0002_msg"
+msgstr "【서포트】의 값을 올려 파일럿의 능력을\\n끌어내면 적을 쓰러뜨리기 쉬워져."
+
+msgid "tutopict_0231_0003_msg"
+msgstr "【LUCK】이 높아질수록\\n레어 아이템을 얻기 쉬워져."
+
+msgid "tutopict_0232_0000_title"
+msgstr "스킬에 대하여"
+
+msgid "tutopict_0232_0000_msg"
+msgstr "센터 스킬, 액티브 스킬, 라이브 스킬\\n각각의 특징이 있어."
+
+msgid "tutopict_0232_0001_msg"
+msgstr "메인 플레이트는 액티브 스킬과 센터 스킬,\\n서브 플레이트는 라이브 스킬을 발동할 수 있어.\\n세 가지 스킬을 조합해 라이브에 유리하게 활용하자!"
+
+msgid "tutopict_0232_0002_msg"
+msgstr "라이브 스킬은 에피소드 플레이트와\\n가희의 상성에 따라 발동 여부가 결정돼.\\n파란색 마이크 아이콘이 표시되어 있어."
+
+msgid "tutopict_0233_0000_title"
+msgstr "악곡의 속성에 대하여"
+
+msgid "tutopict_0233_0000_msg"
+msgstr "에피소드 플레이트와 곡의 속성이 같으면\\n속성 보너스가 발생해."
+
+msgid "tutopict_0233_0001_msg"
+msgstr "목표로 하는 결정이 있을 때는 악곡의 속성을 의식해봐.\\n예를 들어, 사랑 속성의 악곡에서는 사랑의 결정을 얻기 쉬워."
+
+msgid "tutopict_0234_0000_title"
+msgstr "유닛 세트에 대하여"
+
+msgid "tutopict_0234_0000_msg"
+msgstr "목적에 맞게 다양한 유닛을\\n조합해 보자!"
+
+msgid "tutopict_0234_0001_msg"
+msgstr "【유닛 세트】는 속성별, 스코어 중심,\\n라이프 중심 등 목적별로 저장해두면 편리해."
+
+msgid "tutopict_0235_0000_title"
+msgstr "초시공 프리즘에 대하여"
+
+msgid "tutopict_0235_0000_msg"
+msgstr "【초시공 프리즘】을 활성화하면\\n곡마다 라이브 중 외형만 변경할 수 있어."
+
+msgid "tutopict_0236_0000_title"
+msgstr "라이브 스킵에 대하여"
+
+msgid "tutopict_0236_0000_msg"
+msgstr "리듬 게임을 건너뛰면 드롭 아이템이나\\n이벤트 보상을 모으기 쉬워져."
+
+msgid "tutopict_0236_0001_msg"
+msgstr "스코어 랭크 SS를 획득한 악곡이라면\\n각 이벤트에서도 스킵할 수 있어.\\n이제 이벤트 포인트를 더 쉽게 얻을 수 있겠네."
+
+msgid "tutopict_0237_0000_title"
+msgstr "어시스트 편성에 대하여"
+
+msgid "tutopict_0237_0000_msg"
+msgstr "내가 어시스트 설정한 플레이트가\\n다른 플레이어가 어시스트를 선택할 때\\n표시되게 되었어."

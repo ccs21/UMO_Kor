@@ -1,0 +1,307 @@
+msgid ""
+msgstr ""
+"Language: ko\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "talk_time_01"
+msgstr "가끔은 휴식도 중요해.\\n함께 차 한 잔 하지 않을래?"
+
+msgid "talk_time_02"
+msgstr "오늘도 라이브랑 레슨,\\n열심히 할게요!"
+
+msgid "talk_time_03"
+msgstr "항상 응원해줘서 고마워!\\n나도 모두를 응원하고 있어!"
+
+msgid "talk_time_04"
+msgstr "왠지 오랜만에\\n냥냥에서 밥 먹고 싶다"
+
+msgid "talk_time_05"
+msgstr "내 노래로 많은 사람들이\\n웃을 수 있으면 좋겠어요"
+
+msgid "talk_time_06"
+msgstr "어라? 아무도 없네...\\n어디로 간 걸까?"
+
+msgid "talk_time_07"
+msgstr ""
+
+msgid "talk_time_08"
+msgstr "다시 일하러 가기 전에\\n잠시 휴식을 취해볼까"
+
+msgid "talk_login_01"
+msgstr "좋은 아침!\\n오늘도 같이 힘내자!"
+
+msgid "talk_login_02"
+msgstr "배고프다~. 그렇지,\\n점심 먹으러 데려다 줄래?"
+
+msgid "talk_login_03"
+msgstr "아름다운 석양...\\n다들 건강하게 잘 지내고 있으려나…"
+
+msgid "talk_login_04"
+msgstr "밤의 도시는 정말 흥미진진하네.\\n저기, 밖에 나가볼래?"
+
+msgid "talk_login_05"
+msgstr "아직 깨어 있어?\\n후아아~... 졸리다"
+
+msgid "talk_comeback_01"
+msgstr "역시,\\n돌아올 줄 알았어"
+
+msgid "talk_comeback_02"
+msgstr "오늘도 같이 힘내보자"
+
+msgid "talk_birthday_01"
+msgstr "저기, 선물 기대해도 될까?\\n...농담이야!"
+
+msgid "talk_event_01"
+msgstr "설날이네...\\n나중에 초시공 네트워크의 모두에게\\n새해 인사 해야지!"
+
+msgid "talk_event_02"
+msgstr "발렌타인데이는 멋진 날이네!\\n왜냐면 다들 행복해 보이잖아!"
+
+msgid "talk_event_03"
+msgstr "오늘은 절분이네!\\n올해는 콩 뿌리기, 어떻게 할까...?"
+
+msgid "talk_event_04"
+msgstr "히나인형을 장식하려고 하는데...\\n어디에 장식할까?"
+
+msgid "talk_event_05"
+msgstr "와아, 발렌타인데이의\\n답례품을 주는 거야? 고마워!"
+
+msgid "talk_event_06"
+msgstr "오늘은 만우절!\\n벌써 레이나에게 속아\\n넘어가 버렸어"
+
+msgid "talk_event_07"
+msgstr "스튜디오에서 몰래\\n빠져나갈까?\\n놀러 가고 싶어"
+
+msgid "talk_event_08"
+msgstr "예쁜 웨딩드레스...\\n언젠가 나도 입을 날이 올까?"
+
+msgid "talk_event_09"
+msgstr "칠석이라니...\\n좋아하는 사람을 만나지 못하는 건\\n정말 힘든 일이지…"
+
+msgid "talk_event_10"
+msgstr "더운 여름에는, 냥냥으로!\\n맛있는 중화요리로 여름을 이겨내자!"
+
+msgid "talk_event_11"
+msgstr "큰 불꽃놀이가 보였어!\\n어디선가\\n축제라도 하는 걸까...?"
+
+msgid "talk_event_12"
+msgstr "달맞이 당고, 토란, 에다마메...\\n달님은 식탐이 많으시네"
+
+msgid "talk_event_13"
+msgstr "오늘은 할로윈!\\n무슨 장난을 칠까?"
+
+msgid "talk_event_14"
+msgstr "나, 축제 좋아해!\\n저기, 같이 구경하러 가자!"
+
+msgid "talk_event_15"
+msgstr "크리스마스라...\\n로맨틱한\\n라이브를 하고 싶어!"
+
+msgid "talk_event_16"
+msgstr "벌써 섣달 그믐인가... 내년에도\\n아주 멋진 한 해가 되기를"
+
+msgid "talk_event_17"
+msgstr "기뻐!\\n이렇게 많은 사람이\\n내 노래를 들어준다니!"
+
+msgid "talk_event_18"
+msgstr "100만 명이라니 대단해!\\n나, 감사한 마음을\\n담아 노래할게!"
+
+msgid "talk_event_19"
+msgstr "200만 다운로드 달성!\\n감사합니다!"
+
+msgid "talk_event_20"
+msgstr "1주년이네요!\\n앞으로도 같이 노래해 주실래요?"
+
+msgid "touch_reaction_01"
+msgstr "왜, 나한테 무슨 볼일 있어?"
+
+msgid "touch_reaction_02"
+msgstr "싫어어, 너무 콕콕 찌르지 마!"
+
+msgid "touch_reaction_03"
+msgstr "정말, 그렇게 만지면\\n머리가 흐트러지잖아"
+
+msgid "touch_reaction_04"
+msgstr "가끔은 쉬는 것도 중요해.\\n같이 차 마시지 않을래?"
+
+msgid "touch_reaction_05"
+msgstr "오늘도 라이브에 레슨,\\n열심히 할 거야!"
+
+msgid "touch_reaction_06"
+msgstr "항상 응원해줘서 고마워!\\n나도 모두를 응원하고 있어!"
+
+msgid "touch_reaction_07"
+msgstr "후훗! 간지러워!"
+
+msgid "touch_reaction_08"
+msgstr "…어머, 쓰다듬어주는 거야?\\n후훗, 고마워"
+
+msgid "login_reaction_01"
+msgstr "이걸 너한테 주고 싶었어"
+
+msgid "login_reaction_02"
+msgstr "제대로 전해줘서 다행이야"
+
+msgid "simulation_result_01"
+msgstr "시뮬레이션은 대단하네.\\n평소 라이브에 지지 않을 만큼,\\n마음을 담아 노래할 수 있었어"
+
+msgid "go_diva_result_01"
+msgstr "나, 더더욱\\n열심히 노래할게!"
+
+msgid "go_diva_result_02"
+msgstr "어때? 성장했다고 생각하지 않아?"
+
+msgid "go_diva_result_03"
+msgstr "다음 라이브에서 만날 날을\\n기대하고 있을게"
+
+msgid "intimacy_pointup_01"
+msgstr "와아!"
+
+msgid "intimacy_pointup_02"
+msgstr "기뻐!"
+
+msgid "intimacy_pointup_03"
+msgstr "해냈다!"
+
+msgid "present_01"
+msgstr "고마워"
+
+msgid "present_02"
+msgstr "슬슬 쉬지 않을래?\\n같이 냥냥에 가자!"
+
+msgid "present_03"
+msgstr "맛있는 걸 먹으려면\\n냥냥으로 결정이지!"
+
+msgid "present_04"
+msgstr "왠지 좋은 냄새가 나기 시작했어…\\n벌써 그런 시간이구나!"
+
+msgid "present_05"
+msgstr "어쩌지…\\n왠지 컨디션이 안 좋네…"
+
+msgid "present_06"
+msgstr "두근두근할 만큼\\n즐거운 일을 하고 싶어!"
+
+msgid "present_07"
+msgstr "기분 전환이 될 만한\\n즐거운 일은 없을까?"
+
+msgid "present_08"
+msgstr "몸단장은 중요해!\\n나도 신경 쓰고 있어"
+
+msgid "present_09"
+msgstr "방을 꾸미는 것도,\\n꽤 신경 쓰는 편이라고?"
+
+msgid "present_10"
+msgstr "멋진 물건은 좋지!\\n행복한 기분이 들잖아!"
+
+msgid "present_11"
+msgstr "해냈다!"
+
+msgid "cs_touch_reaction_01"
+msgstr "후훗, 왜 그래?"
+
+msgid "cs_touch_reaction_02"
+msgstr "오늘 내 라이브,\\n어땠어?"
+
+msgid "cs_touch_reaction_03"
+msgstr "왜? 나라면 괜찮으니까\\n이야기 들어줄게!"
+
+msgid "cs_touch_reaction_04"
+msgstr "있잖아, 너,\\n히카루 못 봤어?"
+
+msgid "cs_touch_reaction_05"
+msgstr "어서 오세요, 냥냥에!\\n후훗, 농담이야"
+
+msgid "cs_touch_reaction_06"
+msgstr "오늘 의상, 넌 어떻게 생각해?"
+
+msgid "cs_touch_reaction_07"
+msgstr "오늘 헤어스타일,\\n정말 멋지지?"
+
+msgid "cs_touch_reaction_08"
+msgstr "있잖아, 지금부터 잠깐\\n빠져나가지 않을래?"
+
+msgid "cs_touch_reaction_09"
+msgstr "후훗,\\n말 걸어줘서 기뻐.\\n진짜야?"
+
+msgid "cs_touch_reaction_10"
+msgstr "너와 이야기할 수 있어서 기뻐!"
+
+msgid "talk_event_21"
+msgstr "오늘은 프레이아 생일!\\n어떻게 축하해줄까!"
+
+msgid "talk_event_22"
+msgstr "오늘은 미쿠모 씨 생일이라고\\r\\n들었는데… 나중에 축하하러\\n가야겠어!"
+
+msgid "talk_event_23"
+msgstr "카나메 씨,\\n생일 축하드립니다!\\n오늘 하루 즐겁게 보내세요!"
+
+msgid "talk_event_24"
+msgstr "마키나, 생일\\n축하해! 선물,\\n받아줄래?"
+
+msgid "talk_event_25"
+msgstr "오늘은 레이나 생일!\\r\\n왈큐레 모두가 함께\\n축하해준대!"
+
+msgid "talk_event_26"
+msgstr "란카, 생일 축하해!\\n선물, 좋아해주려나"
+
+msgid "talk_event_27"
+msgstr "셰릴 씨,\\n오늘은 란카와 함께\\n생일 파티를 한대!"
+
+msgid "talk_event_28"
+msgstr "오늘은 밀레느 생일!\\r\\n어떻게 보내려나…?"
+
+msgid "talk_event_29"
+msgstr "오늘은 바사라 씨 생일…\\r\\n어떤 선물을 줄지 고민하고 있어…"
+
+msgid "talk_event_30"
+msgstr "민메이"
+
+msgid "talk_event_31"
+msgstr "하야테"
+
+msgid "talk_event_32"
+msgstr "미라쥬"
+
+msgid "talk_event_33"
+msgstr "메서"
+
+msgid "talk_event_34"
+msgstr "아라드"
+
+msgid "talk_event_35"
+msgstr "척"
+
+msgid "talk_event_36"
+msgstr "알토"
+
+msgid "talk_event_37"
+msgstr "오즈마"
+
+msgid "talk_event_38"
+msgstr "레이"
+
+msgid "talk_event_39"
+msgstr "히카루! 생일 축하해!　\\n선물, 기대하고 있어!"
+
+msgid "talk_event_40"
+msgstr "감린"
+
+msgid "talk_event_41"
+msgstr "오늘은 미사 씨 생일!　\\n선물, 좋아해주면\\n좋겠는데…"
+
+msgid "talk_event_42"
+msgstr "우리 영화가\\n공개되는 모양이야…"
+
+msgid "talk_event_43"
+msgstr "모두와 많이 노래해서 정말\\n즐거웠어! 너도 함께 노래해\\n줘서 고마워, 정말 멋졌어!"
+
+msgid "talk_event_44"
+msgstr "작별은 역시 쓸쓸하지만,\\n마지막에는 웃으면서 헤어지고 싶어.\\n물론, 평화로워진 시공에서!"
+
+msgid "talk_event_45"
+msgstr "모두의 라이브, 또 보고 싶다.\\n나, 언젠가 다시 볼 수 있는 날을\\n기대하며 기다릴게!"
+
+msgid "talk_event_46"
+msgstr "셰릴 씨와 란카, 정말\\n멋진 관계였어. 나도\\n그런 사람을 만날 수 있으려나?"
+
+msgid "talk_event_47"
+msgstr "머지않은 미래에, 내 시공에서도\\n바사라 씨와 밀레느를 만날 수\\n있으려나? 그렇다면 기쁠 텐데!"

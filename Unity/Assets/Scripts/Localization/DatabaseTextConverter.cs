@@ -803,6 +803,13 @@ public static class DatabaseTextConverter
             }
             else
             {
+				byte[] embeddedArchive;
+				if(EmbeddedKoreanLocalization.TryGetArchive(out embeddedArchive))
+				{
+					OnDone(embeddedArchive);
+				}
+				else
+				{
                 string dlcName = "game-translation-"+RuntimeSettings.CurrentSettings.Language;
                 if(DlcManager.Instance.IsEnabled(dlcName))
                 {
@@ -824,6 +831,7 @@ public static class DatabaseTextConverter
                     RuntimeSettings.CurrentSettings.Language = "";
                     yield break;
                 }
+				}
             }
             while(!isDone)
                 yield return null;

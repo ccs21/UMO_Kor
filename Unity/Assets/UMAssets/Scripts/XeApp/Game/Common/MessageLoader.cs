@@ -68,6 +68,15 @@ namespace XeApp.Game.Common
 				}
 				else
 				{
+					byte[] embeddedArchive;
+					if(EmbeddedKoreanLocalization.TryGetArchive(out embeddedArchive))
+					{
+						FileResultObject fro = new FileResultObject("embedded-ko", dic, 0);
+						fro.bytes = embeddedArchive;
+						LoadCallbackStorage2(fro);
+					}
+					else
+					{
 					StringBuilder str = new StringBuilder(64);
 					/*str.AppendFormat("Localizations/Database/{0}", RuntimeSettings.CurrentSettings.Language);
 					ResourcesManager.Instance.Request(str.ToString(), this.LoadCallbackStorage2, dic, 0);
@@ -94,6 +103,7 @@ namespace XeApp.Game.Common
 						UnityEngine.Debug.LogError("Unable to use language dlc "+dlcName);
 						RuntimeSettings.CurrentSettings.Language = "";
 						loadJp = true;
+					}
 					}
 				}
 			}
@@ -174,6 +184,14 @@ namespace XeApp.Game.Common
 				}
 				else
 				{
+					byte[] embeddedArchive;
+					if(EmbeddedKoreanLocalization.TryGetArchive(out embeddedArchive))
+					{
+						FileResultObject fro = new FileResultObject("embedded-ko", dic, 0);
+						fro.bytes = embeddedArchive;
+						LoadCallbackStorage2(fro);
+						return true;
+					}
 					StringBuilder str = new StringBuilder(64);
 					/*str.AppendFormat("Localizations/Database/{0}", RuntimeSettings.CurrentSettings.Language);
 					ResourcesManager.Instance.Request(str.ToString(), this.LoadCallbackStorage2, dic, 0);

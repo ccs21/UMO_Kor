@@ -1,0 +1,1282 @@
+msgid ""
+msgstr ""
+"Language: ko\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "category_0000_name"
+msgstr "라이브"
+
+msgid "category_0001_name"
+msgstr "라이브"
+
+msgid "category_0002_name"
+msgstr "유닛 편성"
+
+msgid "category_0003_name"
+msgstr "유닛 편성"
+
+msgid "category_0004_name"
+msgstr "기억의 시공"
+
+msgid "category_0006_name"
+msgstr "에피소드"
+
+msgid "category_0007_name"
+msgstr "에피소드 플레이트"
+
+msgid "category_0008_name"
+msgstr "에피소드 플레이트"
+
+msgid "category_0010_name"
+msgstr "가희"
+
+msgid "category_0012_name"
+msgstr "홈"
+
+msgid "category_0013_name"
+msgstr "발키리 오퍼레이션"
+
+msgid "category_0014_name"
+msgstr "데코르챠 모드"
+
+msgid "category_0015_name"
+msgstr "가챠"
+
+msgid "category_0016_name"
+msgstr "마크로스 로비"
+
+msgid "category_0017_name"
+msgstr "마크로스 로비"
+
+msgid "category_0019_name"
+msgstr "기타"
+
+msgid "category_0055_name"
+msgstr "라이브"
+
+msgid "help_0000_0000_name"
+msgstr "라이브에 대하여"
+
+msgid "help_0000_0001_name"
+msgstr "기본 조작에 대하여"
+
+msgid "help_0000_0002_name"
+msgstr "라이브 실패에 대하여"
+
+msgid "help_0000_0003_name"
+msgstr "발키리 모드에 대하여"
+
+msgid "help_0000_0004_name"
+msgstr "가희 모드에 대하여"
+
+msgid "help_0000_0005_name"
+msgstr "드롭 아이템에 대하여"
+
+msgid "help_0000_0006_name"
+msgstr "어시스트 플레이트에 대하여"
+
+msgid "help_0000_0007_name"
+msgstr "플레이로그에 대하여"
+
+msgid "help_0000_0008_name"
+msgstr "요일 이벤트에 대하여"
+
+msgid "help_0000_0009_name"
+msgstr "시뮬레이션 라이브에 대하여"
+
+msgid "help_0000_0010_name"
+msgstr "시뮬레이션 라이브 설정에 대하여"
+
+msgid "help_0000_0011_name"
+msgstr "유닛 라이브에 대하여"
+
+msgid "help_0000_0012_name"
+msgstr "열두 별자리 메달에 대하여"
+
+msgid "help_0000_0013_name"
+msgstr "노래 등급에 대하여"
+
+msgid "help_0000_0014_name"
+msgstr "달성 보상에 대하여"
+
+msgid "help_0000_0015_name"
+msgstr "라이브 스킵에 대하여"
+
+msgid "help_0000_0016_name"
+msgstr "6레인에 대하여"
+
+msgid "help_0000_0017_name"
+msgstr "6레인 조작에 대하여"
+
+msgid "wiki_0000_0000_name"
+msgstr "악곡 해방 조건"
+
+msgid "wiki_0000_0001_name"
+msgstr "어시스트 플레이트 선택 요령"
+
+msgid "wiki_0000_0002_name"
+msgstr "효율적인 재료 수집 요령"
+
+msgid "wiki_0000_0003_name"
+msgstr "플레이로그의 효과적인 사용법"
+
+msgid "wiki_0000_0004_name"
+msgstr "이벤트 정보"
+
+msgid "help_0001_0000_name"
+msgstr "유닛 편성에 대하여"
+
+msgid "help_0001_0001_name"
+msgstr "스테이터스에 대하여"
+
+msgid "help_0001_0002_name"
+msgstr "스킬에 대하여"
+
+msgid "help_0001_0003_name"
+msgstr "악곡 속성에 대하여"
+
+msgid "help_0001_0004_name"
+msgstr "발키리 편성에 대하여"
+
+msgid "help_0001_0005_name"
+msgstr "어시스트 설정에 대하여"
+
+msgid "help_0001_0006_name"
+msgstr "유닛 세트에 대하여"
+
+msgid "help_0001_0007_name"
+msgstr "초시공 프리즘에 대하여"
+
+msgid "help_0001_0008_name"
+msgstr "지원 플레이트에 대하여"
+
+msgid "help_0001_0009_name"
+msgstr "스코어 예측 게이지에 대하여"
+
+msgid "wiki_0001_0000_name"
+msgstr "유닛 편성 요령"
+
+msgid "wiki_0001_0001_name"
+msgstr "스킬 목록"
+
+msgid "wiki_0001_0002_name"
+msgstr "플레이트 목록"
+
+msgid "wiki_0001_0003_name"
+msgstr "발키리 목록"
+
+msgid "help_0002_0000_name"
+msgstr "악곡 해방에 대하여"
+
+msgid "help_0002_0001_name"
+msgstr "가희 해방에 대하여"
+
+msgid "wiki_0002_0000_name"
+msgstr "악곡 해방 조건"
+
+msgid "help_0003_0000_name"
+msgstr "각종 미션에 대하여"
+
+msgid "help_0004_0000_name"
+msgstr "에피소드에 대하여"
+
+msgid "help_0004_0001_name"
+msgstr "에피소드 해방에 대하여"
+
+msgid "wiki_0004_0000_name"
+msgstr "에피소드 목록"
+
+msgid "help_0005_0000_name"
+msgstr "능력 해방에 대하여"
+
+msgid "help_0005_0001_name"
+msgstr "시크릿 보드에 대하여"
+
+msgid "help_0005_0002_name"
+msgstr "레어도 상승에 대하여"
+
+msgid "help_0005_0003_name"
+msgstr "레어업 스타에 대하여"
+
+msgid "help_0005_0004_name"
+msgstr "럭키 리프에 대하여"
+
+msgid "help_0005_0005_name"
+msgstr "럭키 리프 효과 보너스에 대하여"
+
+msgid "help_0005_0006_name"
+msgstr "능력 칸 일괄 해제에 대하여"
+
+msgid "wiki_0005_0000_name"
+msgstr "에피소드 플레이트 목록"
+
+msgid "help_0006_0000_name"
+msgstr "숙련도에 대하여"
+
+msgid "help_0006_0001_name"
+msgstr "의상에 대하여"
+
+msgid "help_0006_0002_name"
+msgstr "친밀도에 대하여"
+
+msgid "help_0006_0003_name"
+msgstr "선물에 대하여"
+
+msgid "help_0006_0004_name"
+msgstr "의상 강화에 대하여"
+
+msgid "help_0006_0005_name"
+msgstr "파레트 체인지에 대하여"
+
+msgid "help_0006_0006_name"
+msgstr "발키리 강화에 대하여"
+
+msgid "wiki_0006_0000_name"
+msgstr "가희의 레벨을 올리는 요령"
+
+msgid "wiki_0006_0001_name"
+msgstr "의상 목록"
+
+msgid "help_0007_0000_name"
+msgstr "숙련도에 대하여"
+
+msgid "help_0007_0001_name"
+msgstr "의상에 대하여"
+
+msgid "help_0007_0002_name"
+msgstr "친밀도에 대하여"
+
+msgid "help_0007_0003_name"
+msgstr "선물에 대하여"
+
+msgid "help_0007_0004_name"
+msgstr "의상 강화에 대하여"
+
+msgid "help_0007_0005_name"
+msgstr "파레트 체인지에 대하여"
+
+msgid "help_0007_0006_name"
+msgstr "발키리 강화에 대하여"
+
+msgid "wiki_0007_0000_name"
+msgstr "가희의 레벨을 올리는 요령"
+
+msgid "wiki_0007_0001_name"
+msgstr "의상 목록"
+
+msgid "help_0008_0000_name"
+msgstr "선물상자에 대하여"
+
+msgid "help_0008_0001_name"
+msgstr "친구에 대하여"
+
+msgid "help_0008_0002_name"
+msgstr "플레이어 랭크에 대하여"
+
+msgid "help_0008_0003_name"
+msgstr "초시공 SNS에 대하여"
+
+msgid "help_0008_0004_name"
+msgstr "홈 화면 가희 의상 선택에 대하여"
+
+msgid "help_0008_0005_name"
+msgstr "홈 배경 변경에 대하여"
+
+msgid "wiki_0008_0000_name"
+msgstr "친구를 늘리자"
+
+msgid "wiki_0008_0001_name"
+msgstr "플레이어 랭크를 올리는 방법"
+
+msgid "wiki_0008_0002_name"
+msgstr "초시공 SNS 해방 조건"
+
+msgid "wiki_0008_0003_name"
+msgstr "의상 목록"
+
+msgid "help_0009_0000_name"
+msgstr "발키리 오퍼레이션에 대하여"
+
+msgid "help_0009_0001_name"
+msgstr "발키리 오퍼레이션 해방에 대하여"
+
+msgid "help_0009_0002_name"
+msgstr "가희 오퍼레이션에 대하여"
+
+msgid "help_0010_0000_name"
+msgstr "데카르 가챠에 대하여"
+
+msgid "help_0010_0001_name"
+msgstr "서비스 가챠에 대하여"
+
+msgid "wiki_0010_0000_name"
+msgstr "최신 가챠 정보"
+
+msgid "help_0012_0000_name"
+msgstr "프로필에 대하여"
+
+msgid "help_0012_0001_name"
+msgstr "케이오스 교환소에 대하여"
+
+msgid "help_0012_0002_name"
+msgstr "조각에 대하여"
+
+msgid "help_0012_0003_name"
+msgstr "시즌 스피어에 대하여"
+
+msgid "help_0012_0004_name"
+msgstr "푸시 알림 설정에 대하여"
+
+msgid "help_0012_0005_name"
+msgstr "가희 랭크에 대하여"
+
+msgid "wiki_0012_0000_name"
+msgstr "초심자 가이드"
+
+msgid "wiki_0012_0001_name"
+msgstr "데이터 인계인수에 대하여"
+
+msgid "wiki_0012_0002_name"
+msgstr "게시판"
+
+msgid "help_0013_0000_name"
+msgstr "데코르챠 모드에 대하여"
+
+msgid "help_0013_0001_name"
+msgstr "엑스트라 아이템에 대하여"
+
+msgid "help_0013_0002_name"
+msgstr "캐릭터에 대하여"
+
+msgid "help_0013_0003_name"
+msgstr "플레이어 차단에 대하여"
+
+msgid "help_0014_0000_name"
+msgstr "총력 LIVE 준비에 대하여"
+
+msgid "help_0014_0001_name"
+msgstr "마크로스 로비에 대하여"
+
+msgid "help_0014_0002_name"
+msgstr "스탬프 기능에 대하여"
+
+msgid "help_0014_0003_name"
+msgstr "노트 기능에 대하여"
+
+msgid "help_0014_0004_name"
+msgstr "아이콘 전환에 대하여"
+
+msgid "help_0015_0000_name"
+msgstr "총력 LIVE 준비에 대하여"
+
+msgid "help_0015_0001_name"
+msgstr "마크로스 로비에 대하여"
+
+msgid "help_0015_0002_name"
+msgstr "스탬프 기능에 대하여"
+
+msgid "help_0015_0003_name"
+msgstr "노트 기능에 대하여"
+
+msgid "help_0015_0004_name"
+msgstr "아이콘 전환에 대하여"
+
+msgid "help_0016_0000_name"
+msgstr "라이브에 대하여"
+
+msgid "help_0016_0001_name"
+msgstr "기본 조작에 대하여"
+
+msgid "help_0016_0002_name"
+msgstr "라이브 실패에 대하여"
+
+msgid "help_0016_0003_name"
+msgstr "발키리 모드에 대하여"
+
+msgid "help_0016_0004_name"
+msgstr "가희 모드에 대하여"
+
+msgid "help_0016_0005_name"
+msgstr "드롭 아이템에 대하여"
+
+msgid "help_0016_0006_name"
+msgstr "어시스트 플레이트에 대하여"
+
+msgid "help_0016_0007_name"
+msgstr "플레이로그에 대하여"
+
+msgid "help_0016_0008_name"
+msgstr "요일 이벤트에 대하여"
+
+msgid "help_0016_0009_name"
+msgstr "시뮬레이션 라이브에 대하여"
+
+msgid "help_0016_0010_name"
+msgstr "시뮬레이션 라이브 설정에 대하여"
+
+msgid "help_0016_0011_name"
+msgstr "열두 별자리 메달에 대하여"
+
+msgid "help_0016_0012_name"
+msgstr "노래 레이트에 대하여"
+
+msgid "help_0016_0013_name"
+msgstr "달성 보상에 대하여"
+
+msgid "wiki_0016_0000_name"
+msgstr "악곡 해방 조건"
+
+msgid "wiki_0016_0001_name"
+msgstr "어시스트 플레이트 선택 요령"
+
+msgid "wiki_0016_0002_name"
+msgstr "효율적인 재료 수집 요령"
+
+msgid "wiki_0016_0003_name"
+msgstr "플레이로그의 효과적인 사용법"
+
+msgid "wiki_0016_0004_name"
+msgstr "이벤트 정보"
+
+msgid "help_0017_0000_name"
+msgstr "능력 해방에 대하여"
+
+msgid "help_0017_0001_name"
+msgstr "시크릿 보드에 대하여"
+
+msgid "help_0017_0002_name"
+msgstr "레어도 상승에 대하여"
+
+msgid "wiki_0017_0000_name"
+msgstr "에피소드 플레이트 목록"
+
+msgid "help_0018_0000_name"
+msgstr "악곡 해방에 대하여"
+
+msgid "help_0018_0001_name"
+msgstr "가희 해방에 대하여"
+
+msgid "wiki_0018_0000_name"
+msgstr "악곡 해방 조건"
+
+msgid "help_0019_0000_name"
+msgstr "라이브에 대하여"
+
+msgid "help_0019_0001_name"
+msgstr "요일 이벤트에 대하여"
+
+msgid "help_0019_0002_name"
+msgstr "유닛 라이브에 대하여"
+
+msgid "help_0019_0003_name"
+msgstr "라이브 스킵에 대하여"
+
+msgid "help_0019_0004_name"
+msgstr "시뮬레이션 라이브에 대하여"
+
+msgid "help_0019_0005_name"
+msgstr "6레인에 대하여"
+
+msgid "help_0019_0006_name"
+msgstr "6레인 조작에 대하여"
+
+msgid "wiki_0019_0000_name"
+msgstr "악곡 해방 조건"
+
+msgid "wiki_0019_0001_name"
+msgstr "효율적인 재료 수집 요령"
+
+msgid "wiki_0019_0002_name"
+msgstr "이벤트 정보"
+
+msgid "help_0020_0000_name"
+msgstr "어시스트 플레이트에 대하여"
+
+msgid "wiki_0020_0000_name"
+msgstr "어시스트 플레이트 선택 요령"
+
+msgid "help_0021_0000_name"
+msgstr "유닛 편성에 대하여"
+
+msgid "help_0021_0001_name"
+msgstr "스테이터스에 대하여"
+
+msgid "help_0021_0002_name"
+msgstr "스킬에 대하여"
+
+msgid "help_0021_0003_name"
+msgstr "악곡 속성에 대하여"
+
+msgid "help_0021_0004_name"
+msgstr "유닛 세트에 대하여"
+
+msgid "help_0021_0005_name"
+msgstr "초시공 프리즘에 대하여"
+
+msgid "help_0021_0006_name"
+msgstr "지원 플레이트에 대하여"
+
+msgid "help_0021_0007_name"
+msgstr "럭키 리프에 대하여"
+
+msgid "help_0021_0008_name"
+msgstr "럭키 리프 효과 보너스에 대하여"
+
+msgid "help_0021_0009_name"
+msgstr "스코어 예측 게이지에 대하여"
+
+msgid "help_0021_0010_name"
+msgstr "어시스트 설정에 대하여"
+
+msgid "wiki_0021_0000_name"
+msgstr "유닛 편성 요령"
+
+msgid "wiki_0021_0001_name"
+msgstr "스킬 목록"
+
+msgid "wiki_0021_0002_name"
+msgstr "플레이트 목록"
+
+msgid "help_0022_0000_name"
+msgstr "발키리 편성에 대하여"
+
+msgid "wiki_0022_0000_name"
+msgstr "발키리 목록"
+
+msgid "help_0023_0000_name"
+msgstr "플레이어 랭크에 대하여"
+
+msgid "help_0023_0001_name"
+msgstr "플레이로그에 대하여"
+
+msgid "help_0023_0002_name"
+msgstr "달성 보상에 대하여"
+
+msgid "help_0023_0003_name"
+msgstr "숙련도에 대하여"
+
+msgid "help_0023_0004_name"
+msgstr "드롭 아이템에 대하여"
+
+msgid "help_0023_0005_name"
+msgstr "열두 별자리 메달에 대하여"
+
+msgid "help_0023_0006_name"
+msgstr "노래 등급에 대하여"
+
+msgid "wiki_0023_0000_name"
+msgstr "플레이어 랭크를 올리는 방법"
+
+msgid "wiki_0023_0001_name"
+msgstr "플레이로그의 효과적인 사용법"
+
+msgid "wiki_0023_0002_name"
+msgstr "가희의 레벨을 올리는 요령"
+
+msgid "wiki_0023_0003_name"
+msgstr "효율적인 재료 수집 요령"
+
+msgid "help_0024_0000_name"
+msgstr "능력 해방에 대하여"
+
+msgid "help_0024_0001_name"
+msgstr "시크릿 보드에 대하여"
+
+msgid "help_0024_0002_name"
+msgstr "레어도 상승에 대하여"
+
+msgid "help_0024_0003_name"
+msgstr "레어업 스타에 대하여"
+
+msgid "help_0024_0004_name"
+msgstr "럭키 리프에 대하여"
+
+msgid "help_0024_0005_name"
+msgstr "럭키 리프 효과 보너스에 대하여"
+
+msgid "help_0024_0006_name"
+msgstr "능력 칸 일괄 해제에 대하여"
+
+msgid "help_0025_0000_name"
+msgstr "의상에 대하여"
+
+msgid "help_0025_0001_name"
+msgstr "파레트 체인지에 대하여"
+
+msgid "wiki_0025_0000_name"
+msgstr "의상 목록"
+
+msgid "help_0026_0000_name"
+msgstr "에피소드에 대하여"
+
+msgid "wiki_0026_0000_name"
+msgstr "에피소드 목록"
+
+msgid "wiki_0026_0001_name"
+msgstr "에피소드 플레이트 목록"
+
+msgid "help_0027_0000_name"
+msgstr "시뮬레이션 라이브 설정에 대하여"
+
+msgid "help_0028_0000_name"
+msgstr "발키리 오퍼레이션에 대하여"
+
+msgid "help_0028_0001_name"
+msgstr "발키리 오퍼레이션 해방에 대하여"
+
+msgid "help_0028_0002_name"
+msgstr "가희 오퍼레이션에 대하여"
+
+msgid "help_0029_0000_name"
+msgstr "의상 강화에 대하여"
+
+msgid "help_0029_0001_name"
+msgstr "파레트 체인지에 대하여"
+
+msgid "help_0029_0002_name"
+msgstr "지원 플레이트에 대하여"
+
+msgid "help_0030_0000_name"
+msgstr "럭키 리프에 대하여"
+
+msgid "help_0030_0001_name"
+msgstr "럭키 리프 효과 보너스에 대하여"
+
+msgid "help_0031_0000_name"
+msgstr "빙고 미션 보상에 대하여"
+
+msgid "help_0032_0000_name"
+msgstr "우타 마크로스 은하 신년☆냥냥 축제에 대하여"
+
+msgid "help_0033_0000_name"
+msgstr "냥냥제 전반전에 대하여"
+
+msgid "help_0033_0001_name"
+msgstr "냥냥제 후반전에 대하여"
+
+msgid "help_0034_0000_name"
+msgstr "유닛 편성에 대하여"
+
+msgid "help_0034_0001_name"
+msgstr "스테이터스에 대하여"
+
+msgid "help_0034_0002_name"
+msgstr "스킬에 대하여"
+
+msgid "help_0034_0003_name"
+msgstr "악곡 속성에 대하여"
+
+msgid "help_0034_0004_name"
+msgstr "유닛 세트에 대하여"
+
+msgid "help_0034_0005_name"
+msgstr "초시공 프리즘에 대하여"
+
+msgid "help_0034_0006_name"
+msgstr "지원 플레이트에 대하여"
+
+msgid "help_0034_0007_name"
+msgstr "럭키 리프에 대하여"
+
+msgid "help_0034_0008_name"
+msgstr "럭키 리프 효과 보너스에 대하여"
+
+msgid "wiki_0034_0000_name"
+msgstr "유닛 편성 요령"
+
+msgid "wiki_0034_0001_name"
+msgstr "스킬 목록"
+
+msgid "wiki_0034_0002_name"
+msgstr "플레이트 목록"
+
+msgid "help_0035_0000_name"
+msgstr "빙고 미션 플레이 방법에 대하여"
+
+msgid "help_0036_0000_name"
+msgstr "노래 등급에 대하여"
+
+msgid "help_0037_0000_name"
+msgstr "발키리 강화에 대하여"
+
+msgid "help_0038_0000_name"
+msgstr "발키리 강화에 대하여"
+
+msgid "help_0039_0000_name"
+msgstr "총력 LIVE 준비에 대하여"
+
+msgid "help_0039_0001_name"
+msgstr "부대 목록에 대하여"
+
+msgid "help_0039_0002_name"
+msgstr "스탬프에 대하여"
+
+msgid "help_0039_0003_name"
+msgstr "노트에 대하여"
+
+msgid "help_0039_0004_name"
+msgstr "아이콘 전환에 대하여"
+
+msgid "help_0039_0005_name"
+msgstr "푸시 알림 설정에 대하여"
+
+msgid "help_0040_0000_name"
+msgstr "총력 LIVE 준비에 대하여"
+
+msgid "help_0040_0001_name"
+msgstr "마크로스 로비에 대하여"
+
+msgid "help_0040_0002_name"
+msgstr "스탬프 기능에 대하여"
+
+msgid "help_0040_0003_name"
+msgstr "노트 기능에 대하여"
+
+msgid "help_0040_0004_name"
+msgstr "아이콘 전환에 대하여"
+
+msgid "help_0041_0000_name"
+msgstr "부대 목록에 대하여"
+
+msgid "help_0042_0000_name"
+msgstr "데코르챠 모드에 대하여"
+
+msgid "help_0042_0001_name"
+msgstr "엑스트라 아이템에 대하여"
+
+msgid "help_0042_0002_name"
+msgstr "캐릭터에 대하여"
+
+msgid "help_0042_0003_name"
+msgstr "플레이어 차단에 대하여"
+
+msgid "help_0043_0000_name"
+msgstr "초은하 총력 LIVE에 대하여"
+
+msgid "help_0043_0001_name"
+msgstr "행동 선택에 대하여"
+
+msgid "help_0043_0002_name"
+msgstr "마크로스 캐논에 대하여"
+
+msgid "help_0043_0003_name"
+msgstr "구조 요청에 대하여"
+
+msgid "help_0044_0000_name"
+msgstr "채팅에 대하여"
+
+msgid "help_0044_0001_name"
+msgstr "스탬프에 대하여"
+
+msgid "help_0045_0000_name"
+msgstr "초은하 총력 LIVE에 대하여"
+
+msgid "help_0045_0001_name"
+msgstr "행동 선택에 대하여"
+
+msgid "help_0045_0002_name"
+msgstr "마크로스 캐논에 대하여"
+
+msgid "help_0045_0003_name"
+msgstr "구조 요청에 대하여"
+
+msgid "help_0046_0000_name"
+msgstr "홈 화면 가희 의상 선택에 대하여"
+
+msgid "wiki_0046_0000_name"
+msgstr "의상 목록"
+
+msgid "help_0047_0000_name"
+msgstr "라이브에 대하여"
+
+msgid "help_0047_0001_name"
+msgstr "요일 이벤트에 대하여"
+
+msgid "help_0047_0002_name"
+msgstr "시뮬레이션 라이브에 대하여"
+
+msgid "wiki_0047_0000_name"
+msgstr "악곡 해방 조건"
+
+msgid "wiki_0047_0001_name"
+msgstr "효율적인 재료 수집 요령"
+
+msgid "wiki_0047_0002_name"
+msgstr "이벤트 정보"
+
+msgid "help_0048_0000_name"
+msgstr "능력 해방에 대하여"
+
+msgid "help_0048_0001_name"
+msgstr "시크릿 보드에 대하여"
+
+msgid "help_0048_0002_name"
+msgstr "레어도 상승에 대하여"
+
+msgid "help_0049_0000_name"
+msgstr "룰에 대하여"
+
+msgid "help_0049_0001_name"
+msgstr "부스트 기능에 대하여"
+
+msgid "help_0049_0002_name"
+msgstr "에피소드 보너스에 대하여"
+
+msgid "wiki_0049_0000_name"
+msgstr "이벤트 정보"
+
+msgid "help_0050_0000_name"
+msgstr "룰에 대하여"
+
+msgid "help_0050_0001_name"
+msgstr "부스트 기능에 대하여"
+
+msgid "help_0050_0002_name"
+msgstr "에피소드 보너스에 대하여"
+
+msgid "wiki_0050_0000_name"
+msgstr "이벤트 정보"
+
+msgid "help_0051_0000_name"
+msgstr "룰에 대하여"
+
+msgid "help_0051_0001_name"
+msgstr "EX 배틀 하이스코어에 대하여"
+
+msgid "help_0051_0002_name"
+msgstr "에피소드 보너스에 대하여"
+
+msgid "wiki_0051_0000_name"
+msgstr "이벤트 정보"
+
+msgid "help_0052_0000_name"
+msgstr "룰에 대하여"
+
+msgid "help_0052_0001_name"
+msgstr "부스트 기능에 대하여"
+
+msgid "help_0052_0002_name"
+msgstr "에피소드 보너스에 대하여"
+
+msgid "wiki_0052_0000_name"
+msgstr "이벤트 정보"
+
+msgid "help_0053_0000_name"
+msgstr "룰에 대하여"
+
+msgid "help_0053_0001_name"
+msgstr "부스트 기능에 대하여"
+
+msgid "help_0053_0002_name"
+msgstr "에피소드 보너스에 대하여"
+
+msgid "wiki_0053_0000_name"
+msgstr "이벤트 정보"
+
+msgid "help_0054_0000_name"
+msgstr "룰에 대하여"
+
+msgid "help_0054_0001_name"
+msgstr "EX 배틀 하이스코어에 대하여"
+
+msgid "help_0054_0002_name"
+msgstr "에피소드 보너스에 대하여"
+
+msgid "wiki_0054_0000_name"
+msgstr "이벤트 정보"
+
+msgid "help_0055_0000_name"
+msgstr "룰에 대하여"
+
+msgid "help_0055_0001_name"
+msgstr "유닛 라이브에 대하여"
+
+msgid "help_0055_0002_name"
+msgstr "부스트 기능에 대하여"
+
+msgid "help_0055_0003_name"
+msgstr "에피소드 보너스에 대하여"
+
+msgid "wiki_0055_0000_name"
+msgstr "이벤트 정보"
+
+msgid "help_0056_0000_name"
+msgstr "룰에 대하여"
+
+msgid "help_0056_0001_name"
+msgstr "유닛 라이브에 대하여"
+
+msgid "help_0056_0002_name"
+msgstr "부스트 기능에 대하여"
+
+msgid "help_0056_0003_name"
+msgstr "에피소드 보너스에 대하여"
+
+msgid "wiki_0056_0000_name"
+msgstr "이벤트 정보"
+
+msgid "help_0057_0000_name"
+msgstr "룰에 대하여"
+
+msgid "help_0057_0001_name"
+msgstr "부스트 기능에 대하여"
+
+msgid "help_0057_0002_name"
+msgstr "에피소드 보너스에 대하여"
+
+msgid "wiki_0057_0000_name"
+msgstr "이벤트 정보"
+
+msgid "help_0058_0000_name"
+msgstr "룰에 대하여"
+
+msgid "help_0058_0001_name"
+msgstr "EX 배틀 하이스코어에 대하여"
+
+msgid "help_0058_0002_name"
+msgstr "부스트 기능에 대하여"
+
+msgid "help_0058_0003_name"
+msgstr "에피소드 보너스에 대하여"
+
+msgid "wiki_0058_0000_name"
+msgstr "이벤트 정보"
+
+msgid "help_0059_0000_name"
+msgstr "어네스트 함장의 보상에 대하여"
+
+msgid "help_0060_0000_name"
+msgstr "냥쿠지☆에 대하여"
+
+msgid "help_0061_0000_name"
+msgstr "룰에 대하여"
+
+msgid "help_0061_0001_name"
+msgstr "부스트 기능에 대하여"
+
+msgid "help_0061_0002_name"
+msgstr "에피소드 보너스에 대하여"
+
+msgid "wiki_0061_0000_name"
+msgstr "이벤트 정보"
+
+msgid "help_0062_0000_name"
+msgstr "냥쿠지☆에 대하여"
+
+msgid "help_0063_0000_name"
+msgstr "우타 마크로스 은하 신년☆냥냥 축제에 대하여"
+
+msgid "help_0064_0000_name"
+msgstr "우타 마크로스 4th Anniversary 전야제에 대하여"
+
+msgid "help_0065_0000_name"
+msgstr "우타 마크로스 4th Anniversary 냥냥제에 대하여"
+
+msgid "help_0066_0000_name"
+msgstr "냥쿠지☆에 대하여"
+
+msgid "help_0067_0000_name"
+msgstr "냥쿠지☆에 대하여"
+
+msgid "help_0068_0000_name"
+msgstr "룰에 대하여"
+
+msgid "help_0068_0001_name"
+msgstr "획득 옐에 대하여"
+
+msgid "help_0068_0002_name"
+msgstr "에피소드 보너스에 대하여"
+
+msgid "help_0068_0003_name"
+msgstr "라이브 볼티지를 올리는 방법에 대하여"
+
+msgid "wiki_0068_0000_name"
+msgstr "이벤트 정보"
+
+msgid "help_0069_0000_name"
+msgstr "룰에 대하여"
+
+msgid "help_0069_0001_name"
+msgstr "획득 옐에 대하여"
+
+msgid "help_0069_0002_name"
+msgstr "에피소드 보너스에 대하여"
+
+msgid "help_0069_0003_name"
+msgstr "라이브 볼티지를 올리는 방법에 대하여"
+
+msgid "wiki_0069_0000_name"
+msgstr "이벤트 정보"
+
+msgid "help_0070_0000_name"
+msgstr "라이브에 대하여"
+
+msgid "help_0070_0001_name"
+msgstr "기본 조작에 대하여"
+
+msgid "help_0070_0002_name"
+msgstr "라이브 실패에 대하여"
+
+msgid "help_0070_0003_name"
+msgstr "발키리 모드에 대하여"
+
+msgid "help_0070_0004_name"
+msgstr "가희 모드에 대하여"
+
+msgid "help_0070_0005_name"
+msgstr "드롭 아이템에 대하여"
+
+msgid "help_0070_0006_name"
+msgstr "어시스트 플레이트에 대하여"
+
+msgid "help_0070_0007_name"
+msgstr "플레이로그에 대하여"
+
+msgid "help_0070_0008_name"
+msgstr "요일 이벤트에 대하여"
+
+msgid "help_0070_0009_name"
+msgstr "시뮬레이션 라이브에 대하여"
+
+msgid "help_0070_0010_name"
+msgstr "시뮬레이션 라이브 설정에 대하여"
+
+msgid "help_0070_0011_name"
+msgstr "유닛 라이브에 대하여"
+
+msgid "help_0070_0012_name"
+msgstr "열두 별자리 메달에 대하여"
+
+msgid "help_0070_0013_name"
+msgstr "노래 등급에 대하여"
+
+msgid "help_0070_0014_name"
+msgstr "달성 보상에 대하여"
+
+msgid "help_0070_0015_name"
+msgstr "라이브 스킵에 대하여"
+
+msgid "help_0070_0016_name"
+msgstr "6레인에 대하여"
+
+msgid "help_0070_0017_name"
+msgstr "6레인 조작에 대하여"
+
+msgid "help_0070_0018_name"
+msgstr "즐겨찾기에 대하여"
+
+msgid "wiki_0070_0000_name"
+msgstr "악곡 해방 조건"
+
+msgid "wiki_0070_0001_name"
+msgstr "어시스트 플레이트 선택 요령"
+
+msgid "wiki_0070_0002_name"
+msgstr "효율적인 재료 수집 요령"
+
+msgid "wiki_0070_0003_name"
+msgstr "플레이로그의 효과적인 사용법"
+
+msgid "wiki_0070_0004_name"
+msgstr "이벤트 정보"
+
+msgid "help_0071_0000_name"
+msgstr "유닛 편성에 대하여"
+
+msgid "help_0071_0001_name"
+msgstr "스테이터스에 대하여"
+
+msgid "help_0071_0002_name"
+msgstr "스킬에 대하여"
+
+msgid "help_0071_0003_name"
+msgstr "악곡 속성에 대하여"
+
+msgid "help_0071_0004_name"
+msgstr "발키리 편성에 대하여"
+
+msgid "help_0071_0005_name"
+msgstr "유닛 세트에 대하여"
+
+msgid "help_0071_0006_name"
+msgstr "초시공 프리즘에 대하여"
+
+msgid "help_0071_0007_name"
+msgstr "지원 플레이트에 대하여"
+
+msgid "help_0071_0008_name"
+msgstr "스코어 예측 게이지에 대하여"
+
+msgid "wiki_0071_0000_name"
+msgstr "유닛 편성 요령"
+
+msgid "wiki_0071_0001_name"
+msgstr "스킬 목록"
+
+msgid "wiki_0071_0002_name"
+msgstr "플레이트 목록"
+
+msgid "wiki_0071_0003_name"
+msgstr "발키리 목록"
+
+msgid "help_0072_0000_name"
+msgstr "숙련도에 대하여"
+
+msgid "help_0072_0001_name"
+msgstr "의상에 대하여"
+
+msgid "help_0072_0002_name"
+msgstr "친밀도에 대하여"
+
+msgid "help_0072_0003_name"
+msgstr "선물에 대하여"
+
+msgid "help_0072_0004_name"
+msgstr "의상 강화에 대하여"
+
+msgid "help_0072_0005_name"
+msgstr "파레트 체인지에 대하여"
+
+msgid "help_0072_0006_name"
+msgstr "발키리 강화에 대하여"
+
+msgid "wiki_0072_0000_name"
+msgstr "가희의 레벨을 올리는 요령"
+
+msgid "wiki_0072_0001_name"
+msgstr "의상 목록"
+
+msgid "help_0073_0000_name"
+msgstr "라이브에 대하여"
+
+msgid "help_0073_0001_name"
+msgstr "요일 이벤트에 대하여"
+
+msgid "help_0073_0002_name"
+msgstr "유닛 라이브에 대하여"
+
+msgid "help_0073_0003_name"
+msgstr "라이브 스킵에 대하여"
+
+msgid "help_0073_0004_name"
+msgstr "시뮬레이션 라이브에 대하여"
+
+msgid "help_0073_0005_name"
+msgstr "6레인에 대하여"
+
+msgid "help_0073_0006_name"
+msgstr "6레인 조작에 대하여"
+
+msgid "help_0073_0007_name"
+msgstr "즐겨찾기에 대하여"
+
+msgid "wiki_0073_0000_name"
+msgstr "악곡 해방 조건"
+
+msgid "wiki_0073_0001_name"
+msgstr "효율적인 재료 수집 요령"
+
+msgid "wiki_0073_0002_name"
+msgstr "이벤트 정보"
+
+msgid "help_0074_0000_name"
+msgstr "어시스트 플레이트에 대하여"
+
+msgid "help_0074_0001_name"
+msgstr "어시스트 편성에 대하여"
+
+msgid "wiki_0074_0000_name"
+msgstr "어시스트 플레이트 선택 요령"
+
+msgid "help_0075_0000_name"
+msgstr "유닛 편성에 대하여"
+
+msgid "help_0075_0001_name"
+msgstr "스테이터스에 대하여"
+
+msgid "help_0075_0002_name"
+msgstr "스킬에 대하여"
+
+msgid "help_0075_0003_name"
+msgstr "악곡 속성에 대하여"
+
+msgid "help_0075_0004_name"
+msgstr "유닛 세트에 대하여"
+
+msgid "help_0075_0005_name"
+msgstr "초시공 프리즘에 대하여"
+
+msgid "help_0075_0006_name"
+msgstr "지원 플레이트에 대하여"
+
+msgid "help_0075_0007_name"
+msgstr "럭키 리프에 대하여"
+
+msgid "help_0075_0008_name"
+msgstr "럭키 리프 효과 보너스에 대하여"
+
+msgid "help_0075_0009_name"
+msgstr "스코어 예측 게이지에 대하여"
+
+msgid "help_0075_0010_name"
+msgstr "스탠다드 편성에 대하여"
+
+msgid "wiki_0075_0000_name"
+msgstr "유닛 편성 요령"
+
+msgid "wiki_0075_0001_name"
+msgstr "스킬 목록"
+
+msgid "wiki_0075_0002_name"
+msgstr "플레이트 목록"
+
+msgid "help_0076_0000_name"
+msgstr "시뮬레이션 라이브 설정에 대하여"
+
+msgid "help_0076_0001_name"
+msgstr "스탠다드 편성에 대하여"
+
+msgid "help_0077_0000_name"
+msgstr "의상 강화에 대하여"
+
+msgid "help_0077_0001_name"
+msgstr "파레트 체인지에 대하여"
+
+msgid "help_0077_0002_name"
+msgstr "지원 플레이트에 대하여"
+
+msgid "help_0078_0000_name"
+msgstr "유닛 편성에 대하여"
+
+msgid "help_0078_0001_name"
+msgstr "스테이터스에 대하여"
+
+msgid "help_0078_0002_name"
+msgstr "스킬에 대하여"
+
+msgid "help_0078_0003_name"
+msgstr "악곡 속성에 대하여"
+
+msgid "help_0078_0004_name"
+msgstr "유닛 세트에 대하여"
+
+msgid "help_0078_0005_name"
+msgstr "초시공 프리즘에 대하여"
+
+msgid "help_0078_0006_name"
+msgstr "지원 플레이트에 대하여"
+
+msgid "help_0078_0007_name"
+msgstr "럭키 리프에 대하여"
+
+msgid "help_0078_0008_name"
+msgstr "럭키 리프 효과 보너스에 대하여"
+
+msgid "wiki_0078_0000_name"
+msgstr "유닛 편성 요령"
+
+msgid "wiki_0078_0001_name"
+msgstr "스킬 목록"
+
+msgid "wiki_0078_0002_name"
+msgstr "플레이트 목록"

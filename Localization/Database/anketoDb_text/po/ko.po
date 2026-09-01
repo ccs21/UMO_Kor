@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Language: ko\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "anketo_0000_question"
+msgstr "마크로스 시리즈를 얼마나 좋아하세요?"
+
+msgid "anketo_0000_0000_choice"
+msgstr "굉장히 좋아함"
+
+msgid "anketo_0000_0001_choice"
+msgstr "그럭저럭 좋아함"
+
+msgid "anketo_0000_0002_choice"
+msgstr "별로 좋아하지 않음"
+
+msgid "anketo_0000_0003_choice"
+msgstr "잘 모름"
+
+msgid "anketo_0001_question"
+msgstr "지금까지 다른 리듬게임을 해본 적이 있나요?"
+
+msgid "anketo_0001_0000_choice"
+msgstr "꽤 즐기고 있음"
+
+msgid "anketo_0001_0001_choice"
+msgstr "그럭저럭 즐기고 있음"
+
+msgid "anketo_0001_0002_choice"
+msgstr "별로 즐기고 있지 않음"
+
+msgid "anketo_0001_0003_choice"
+msgstr "우타 마크로스가 처음"
+
+msgid "anketo_0002_question"
+msgstr "우타 마크로스에 기대하는 요소는 무엇입니까?"
+
+msgid "anketo_0002_0000_choice"
+msgstr "캐릭터"
+
+msgid "anketo_0002_0001_choice"
+msgstr "스토리"
+
+msgid "anketo_0002_0002_choice"
+msgstr "노래"
+
+msgid "anketo_0002_0003_choice"
+msgstr "댄스"
+
+msgid "anketo_0002_0004_choice"
+msgstr "발키리"
+
+msgid "anketo_0002_0005_choice"
+msgstr "리듬 게임"
