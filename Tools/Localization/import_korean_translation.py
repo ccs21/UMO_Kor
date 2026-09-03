@@ -10,6 +10,7 @@ from __future__ import annotations
 import argparse
 import ast
 import io
+import re
 import shutil
 import struct
 from collections import OrderedDict, defaultdict
@@ -36,6 +37,16 @@ SPECIAL_FILES = {
     )
 }
 ARCHIVE_FILE = {**SHEET_FILES, **SPECIAL_FILES}
+
+
+def normalize_translated_text(value: str) -> str:
+    """Turn translator-authored escaped line breaks into real line breaks.
+
+    Spreadsheet translation tools may return either ``\\n`` or a doubly escaped
+    variant such as ``\\\\n``.  Neither form should be stored literally in the
+    game's message banks.
+    """
+    return re.sub(r"\\+r\\+n|\\+n|\\+r", "\n", value)
 
 
 def unquote(value: str) -> str:
@@ -166,7 +177,7 @@ def main() -> None:
 
     by_component: dict[str, dict[str, str]] = defaultdict(dict)
     for row in df.to_dict(orient="records"):
-        by_component[row["component"]][row["key"]] = row["new_korean"]
+        by_component[row["component"]][row["key"]] = normalize_translated_text(row["new_korean"])
 
     po_root = args.output_dir / "Localization"
     for component, values in by_component.items():

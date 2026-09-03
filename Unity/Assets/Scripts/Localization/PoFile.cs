@@ -10,6 +10,26 @@ public class PoFile
 
     public string KeyPrefix = "";
 
+    public static string UnescapeTranslatedText(string value)
+    {
+        if(string.IsNullOrEmpty(value))
+            return value;
+
+        // Spreadsheet translators may escape an already escaped PO newline.
+        while(value.Contains("\\\\r\\\\n") || value.Contains("\\\\n") || value.Contains("\\\\r"))
+        {
+            value = value.Replace("\\\\r\\\\n", "\\r\\n")
+                         .Replace("\\\\n", "\\n")
+                         .Replace("\\\\r", "\\r");
+        }
+        return value.Replace("\\\"", "\"")
+                    .Replace("\\r\\n", "\n")
+                    .Replace("\\n", "\n")
+                    .Replace("\\r", "\n")
+                    .Replace("\r\n", "\n")
+                    .Replace("\r", "\n");
+    }
+
     public void SaveFile(string filePath, bool isTemplate = false, bool stripEmpty = false)
     {
         using(StreamWriter writer = new StreamWriter(filePath, false))
@@ -54,7 +74,7 @@ public class PoFile
                     if(msgStr != null && msgId != null && msgId != "")
                     {
                         //UnityEngine.Debug.LogError("A Msg "+msgId+":"+msgStr);
-                        msgStr = msgStr.Replace("\\\"", "\"").Replace("\\n", "\n").Replace("\\r", "\r");
+                        msgStr = UnescapeTranslatedText(msgStr);
                         if(translationData.ContainsKey(msgId))
                         {
                             if(!string.IsNullOrEmpty(msgStr))

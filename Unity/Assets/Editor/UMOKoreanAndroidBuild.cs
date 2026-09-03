@@ -11,6 +11,9 @@ public static class UMOKoreanAndroidBuild
     private const string DefaultOutput = "Build/Android/UMO_Kor-debug.apk";
     private const string ParallelTestOutput = "Build/Android/UMO_Kor-parallel-test.apk";
     private const string ParallelTestPackage = "com.ccs21.UMOKorTest";
+    public const string ReleasePackage = "com.ccs21.umokor";
+    public const string ReleaseVersion = "1.1.16-ko-beta.1";
+    public const int ReleaseVersionCode = 10001;
     private const string KoreanProductName = "\uC6B0\uD0C0\uB9C8\uD06C\uB85C\uC2A4";
 
     public static void BuildAndroid()
@@ -23,7 +26,43 @@ public static class UMOKoreanAndroidBuild
         Build(ParallelTestOutput, ParallelTestPackage, KoreanProductName);
     }
 
-    private static void Build(string defaultOutput, string temporaryPackage, string temporaryProductName)
+    // Never use a debug certificate for a public beta. Keep this identity and
+    // the private signing key for all future in-place Korean edition updates.
+    public static void BuildRelease()
+    {
+        string keyStore = RequireEnvironment("UMO_RELEASE_KEYSTORE");
+        RequirePath(keyStore);
+        string storePass = Environment.GetEnvironmentVariable("UMO_RELEASE_STORE_PASS");
+        string keyPass = Environment.GetEnvironmentVariable("UMO_RELEASE_KEY_PASS");
+        string alias = Environment.GetEnvironmentVariable("UMO_RELEASE_KEY_ALIAS");
+        if(string.IsNullOrEmpty(storePass) || string.IsNullOrEmpty(keyPass) || string.IsNullOrEmpty(alias))
+            throw new Exception("Release signing credentials are required; debug signing is forbidden.");
+        string oldStore = PlayerSettings.Android.keystoreName;
+        string oldAlias = PlayerSettings.Android.keyaliasName;
+        string oldVersion = PlayerSettings.bundleVersion;
+        int oldCode = PlayerSettings.Android.bundleVersionCode;
+        try
+        {
+            PlayerSettings.Android.keystoreName = keyStore;
+            PlayerSettings.Android.keystorePass = storePass;
+            PlayerSettings.Android.keyaliasName = alias;
+            PlayerSettings.Android.keyaliasPass = keyPass;
+            PlayerSettings.bundleVersion = ReleaseVersion;
+            PlayerSettings.Android.bundleVersionCode = ReleaseVersionCode;
+            Build("Build/Android/UMO_Kor-" + ReleaseVersion + ".apk", ReleasePackage, KoreanProductName, BuildOptions.None);
+        }
+        finally
+        {
+            PlayerSettings.Android.keystoreName = oldStore;
+            PlayerSettings.Android.keyaliasName = oldAlias;
+            PlayerSettings.Android.keystorePass = "";
+            PlayerSettings.Android.keyaliasPass = "";
+            PlayerSettings.bundleVersion = oldVersion;
+            PlayerSettings.Android.bundleVersionCode = oldCode;
+        }
+    }
+
+    private static void Build(string defaultOutput, string temporaryPackage, string temporaryProductName, BuildOptions buildOptions = BuildOptions.Development)
     {
         ConfigureToolchain();
 
@@ -50,18 +89,21 @@ public static class UMOKoreanAndroidBuild
             locationPathName = output,
             target = BuildTarget.Android,
             targetGroup = BuildTargetGroup.Android,
-            options = BuildOptions.Development,
+            options = buildOptions,
         };
 
         string originalPackage = PlayerSettings.GetApplicationIdentifier(BuildTargetGroup.Android);
         string originalProductName = PlayerSettings.productName;
         try
         {
+            // A Windows build may have moved the stock TMP resources away.
+            UMOKoreanWindowsBuild.RestoreResources();
             if (!string.IsNullOrEmpty(temporaryPackage))
                 PlayerSettings.SetApplicationIdentifier(BuildTargetGroup.Android, temporaryPackage);
             if (!string.IsNullOrEmpty(temporaryProductName))
                 PlayerSettings.productName = temporaryProductName;
 
+            Resources.Load<ShaderList>("ShaderList").ReloadAssetList();
             BuildReport report = BuildPipeline.BuildPlayer(options);
             BuildSummary summary = report.summary;
             Debug.LogFormat("UMO Korean Android build: result={0}, errors={1}, warnings={2}, bytes={3}, output={4}",

@@ -4,136 +4,136 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "talk_time_01"
-msgstr "마요네즈 라이스는\\n사실은 맛있는 거 아냐?"
+msgstr "마요네즈 라이스는\n사실은 맛있는 거 아냐?"
 
 msgid "talk_time_02"
-msgstr "피곤한 거 아니야!\\n아직 할 수 있으니까!"
+msgstr "피곤한 거 아니야!\n아직 할 수 있으니까!"
 
 msgid "talk_time_03"
-msgstr "구바바는 나랑 가장 친한 친구...\\n아니, 내 분신이야!"
+msgstr "구바바는 나랑 가장 친한 친구...\n아니, 내 분신이야!"
 
 msgid "talk_time_04"
-msgstr "슬슬 연습할 시간이야.\\n열심히 할게!"
+msgstr "슬슬 연습할 시간이야.\n열심히 할게!"
 
 msgid "talk_time_05"
-msgstr "Fire Bomber의 베이스는\\n내가 연주하고 있어"
+msgstr "Fire Bomber의 베이스는\n내가 연주하고 있어"
 
 msgid "talk_time_06"
-msgstr "어라~?\\n어디로 간 거야...?"
+msgstr "어라~?\n어디로 간 거야...?"
 
 msgid "talk_time_07"
 msgstr "...바사라라도 찾으러 갈까"
 
 msgid "talk_time_08"
-msgstr "음, 다음에는\\n어떤 일을 해볼까?"
+msgstr "음, 다음에는\n어떤 일을 해볼까?"
 
 msgid "talk_login_01"
-msgstr "좋은 아침!\\n오늘도 일 가져왔어!"
+msgstr "좋은 아침!\n오늘도 일 가져왔어!"
 
 msgid "talk_login_02"
-msgstr "낮도 됐겠다,\\n드라이브 같이 가자!"
+msgstr "낮도 됐겠다,\n드라이브 같이 가자!"
 
 msgid "talk_login_03"
-msgstr "석양에는 플라스차카야의\\n「그곳에 있는 게 미래니까」지"
+msgstr "석양에는 플라스차카야의\n「그곳에 있는 게 미래니까」지"
 
 msgid "talk_login_04"
-msgstr "큰 소리로 록 음악도 좋지만,\\n조용한 밤도 좋아"
+msgstr "큰 소리로 록 음악도 좋지만,\n조용한 밤도 좋아"
 
 msgid "talk_login_05"
-msgstr "아직도 깨어 있어?\\n열심이네~"
+msgstr "아직도 깨어 있어?\n열심이네~"
 
 msgid "talk_comeback_01"
-msgstr "정말,\\n가끔은 얼굴 좀 보여줘!"
+msgstr "정말,\n가끔은 얼굴 좀 보여줘!"
 
 msgid "talk_comeback_02"
 msgstr "오늘도 기합 넣고 가자!"
 
 msgid "talk_birthday_01"
-msgstr "어린애 취급하지 마!\\n오늘로 나,\\n한 살 더 어른이 됐으니까!"
+msgstr "어린애 취급하지 마!\n오늘로 나,\n한 살 더 어른이 됐으니까!"
 
 msgid "talk_event_01"
-msgstr "모처럼 새해니까,\\n기모노 입고 새해 참배도 가고 싶어.\\n너도 같이 갈래?"
+msgstr "모처럼 새해니까,\n기모노 입고 새해 참배도 가고 싶어.\n너도 같이 갈래?"
 
 msgid "talk_event_02"
-msgstr "비히다한테 초콜릿을\\n받았어…!\\n놀랐지만, 정말 기뻐!"
+msgstr "비히다한테 초콜릿을\n받았어…!\n놀랐지만, 정말 기뻐!"
 
 msgid "talk_event_03"
-msgstr "바사라~! 콩 뿌리기 할 거야!\\n정말, 어디로 간 거야~…"
+msgstr "바사라~! 콩 뿌리기 할 거야!\n정말, 어디로 간 거야~…"
 
 msgid "talk_event_04"
-msgstr "히나아라레는 맛있지~.\\n구바바도 정말 좋아해!\\n둘이 사이좋게 나눠 먹었어!"
+msgstr "히나아라레는 맛있지~.\n구바바도 정말 좋아해!\n둘이 사이좋게 나눠 먹었어!"
 
 msgid "talk_event_05"
-msgstr "있잖아, 화이트데이\\n답례 아직이야? 기대하고 있어!"
+msgstr "있잖아, 화이트데이\n답례 아직이야? 기대하고 있어!"
 
 msgid "talk_event_06"
-msgstr "오늘은 만우절!\\n누굴 깜짝 놀라게 해볼까!"
+msgstr "오늘은 만우절!\n누굴 깜짝 놀라게 해볼까!"
 
 msgid "talk_event_07"
-msgstr "연휴라고,\\n빈둥빈둥거리면 안 돼!"
+msgstr "연휴라고,\n빈둥빈둥거리면 안 돼!"
 
 msgid "talk_event_08"
-msgstr "결혼식을 한다면 작은\\n채플이 좋겠다. 피로연은\\n가든 파티로… 우후훗!"
+msgstr "결혼식을 한다면 작은\n채플이 좋겠다. 피로연은\n가든 파티로… 우후훗!"
 
 msgid "talk_event_09"
-msgstr "별이 아름다워… 이런 밤에는,\\n로맨틱한 노래를\\n부르고 싶어지네…"
+msgstr "별이 아름다워… 이런 밤에는,\n로맨틱한 노래를\n부르고 싶어지네…"
 
 msgid "talk_event_10"
-msgstr "구바바가 더워 보이네…\\n물놀이시켜줘야겠어!"
+msgstr "구바바가 더워 보이네…\n물놀이시켜줘야겠어!"
 
 msgid "talk_event_11"
-msgstr "축제 노점이라고 하면 뭐가 좋아?\\n사격? 금붕어 뜨기?\\n나는 전~부 좋아해!"
+msgstr "축제 노점이라고 하면 뭐가 좋아?\n사격? 금붕어 뜨기?\n나는 전~부 좋아해!"
 
 msgid "talk_event_12"
-msgstr "언젠가 진짜 달 위에서\\n라이브를 해보고 싶어!"
+msgstr "언젠가 진짜 달 위에서\n라이브를 해보고 싶어!"
 
 msgid "talk_event_13"
-msgstr "구바바가 여러 사람한테 과자를\\n받아오곤 해. 후훗, 구바바가\\n귀여움받으면 나도 기뻐!"
+msgstr "구바바가 여러 사람한테 과자를\n받아오곤 해. 후훗, 구바바가\n귀여움받으면 나도 기뻐!"
 
 msgid "talk_event_14"
-msgstr "문화의 축제라면,\\nFire Bomber의 라이브가\\n빠질 수 없지!"
+msgstr "문화의 축제라면,\nFire Bomber의 라이브가\n빠질 수 없지!"
 
 msgid "talk_event_15"
-msgstr "바사라에게 크리스마스 계획을 물었더니\\n'평소처럼 노래할 뿐이야'라고 하시네.\\n정말 색기가 부족하다니까, 진짜"
+msgstr "바사라에게 크리스마스 계획을 물었더니\n'평소처럼 노래할 뿐이야'라고 하시네.\n정말 색기가 부족하다니까, 진짜"
 
 msgid "talk_event_16"
-msgstr "내년 목표는 벌써 정했어?\\n나는 말이지… 『Fire Bomber를\\n은하 제일의 밴드로 만든다!』려나?"
+msgstr "내년 목표는 벌써 정했어?\n나는 말이지… 『Fire Bomber를\n은하 제일의 밴드로 만든다!』려나?"
 
 msgid "talk_event_17"
-msgstr "얘들아, 언제나 고마워!\\n앞으로도 열심히 할게~!"
+msgstr "얘들아, 언제나 고마워!\n앞으로도 열심히 할게~!"
 
 msgid "talk_event_18"
-msgstr "해냈다~!\\n100만 명이야, 100만 명!"
+msgstr "해냈다~!\n100만 명이야, 100만 명!"
 
 msgid "talk_event_19"
-msgstr "200만 다운로드 달성!\\n해냈네!"
+msgstr "200만 다운로드 달성!\n해냈네!"
 
 msgid "talk_event_20"
-msgstr "자유분방한 사람이 많지만,\\n앞으로도 잘 부탁해!"
+msgstr "자유분방한 사람이 많지만,\n앞으로도 잘 부탁해!"
 
 msgid "touch_reaction_01"
-msgstr "왜?\\n노래해줬으면 해?"
+msgstr "왜?\n노래해줬으면 해?"
 
 msgid "touch_reaction_02"
-msgstr "정말,\\n아무리 그래도 부끄럽다고!"
+msgstr "정말,\n아무리 그래도 부끄럽다고!"
 
 msgid "touch_reaction_03"
-msgstr "시, 싫어!\\n너무 만지작거리잖아!"
+msgstr "시, 싫어!\n너무 만지작거리잖아!"
 
 msgid "touch_reaction_04"
-msgstr "마요네즈 라이스는\\n사실은 맛있는 거 아냐?"
+msgstr "마요네즈 라이스는\n사실은 맛있는 거 아냐?"
 
 msgid "touch_reaction_05"
-msgstr "피곤한 거 아니야!\\n아직 할 수 있으니까!"
+msgstr "피곤한 거 아니야!\n아직 할 수 있으니까!"
 
 msgid "touch_reaction_06"
-msgstr "구바바는 나랑 가장 친한 친구...\\n아니, 내 분신이야!"
+msgstr "구바바는 나랑 가장 친한 친구...\n아니, 내 분신이야!"
 
 msgid "touch_reaction_07"
-msgstr "이봐!\\n너무 많이 만지면 화낼 거야!"
+msgstr "이봐!\n너무 많이 만지면 화낼 거야!"
 
 msgid "touch_reaction_08"
-msgstr "쓰다듬고 싶으면,\\n뭐, 쓰다듬어도 괜찮아…?"
+msgstr "쓰다듬고 싶으면,\n뭐, 쓰다듬어도 괜찮아…?"
 
 msgid "login_reaction_01"
 msgstr "자, 이거! 오늘도 잘 부탁해♪"
@@ -142,16 +142,16 @@ msgid "login_reaction_02"
 msgstr "내일도 기대해줘!"
 
 msgid "simulation_result_01"
-msgstr "내 노래, 어땠어?\\n시뮬레이션이라는 것도 잊고,\\n진심으로 즐겁게 노래했어!"
+msgstr "내 노래, 어땠어?\n시뮬레이션이라는 것도 잊고,\n진심으로 즐겁게 노래했어!"
 
 msgid "go_diva_result_01"
-msgstr "연습은 제대~로 할 거야!\\n본무대에서 기분 좋게 노래하고 싶으니까!"
+msgstr "연습은 제대~로 할 거야!\n본무대에서 기분 좋게 노래하고 싶으니까!"
 
 msgid "go_diva_result_02"
-msgstr "…조금은\\n어른스러워졌으려나?"
+msgstr "…조금은\n어른스러워졌으려나?"
 
 msgid "go_diva_result_03"
-msgstr "있잖아! 한 곡 더 연주\\n하자~!"
+msgstr "있잖아! 한 곡 더 연주\n하자~!"
 
 msgid "intimacy_pointup_01"
 msgstr "아하하"
@@ -166,31 +166,31 @@ msgid "present_01"
 msgstr "고마워!"
 
 msgid "present_02"
-msgstr "뭔가 먹고 싶다…\\n있잖아, 피자라도\\n먹으러 가자!"
+msgstr "뭔가 먹고 싶다…\n있잖아, 피자라도\n먹으러 가자!"
 
 msgid "present_03"
-msgstr "간이 센 음식은 꽤 좋아해!\\n나도 모르게 너무 먹게 되지만…"
+msgstr "간이 센 음식은 꽤 좋아해!\n나도 모르게 너무 먹게 되지만…"
 
 msgid "present_04"
-msgstr "슬슬 딱 좋은 시간이네!\\n엄청 맛있는 걸\\n먹고 싶어!"
+msgstr "슬슬 딱 좋은 시간이네!\n엄청 맛있는 걸\n먹고 싶어!"
 
 msgid "present_05"
-msgstr "으음…\\n왠지 컨디션이 안 나네…\\n빨리 어떻게든 해야겠어…"
+msgstr "으음…\n왠지 컨디션이 안 나네…\n빨리 어떻게든 해야겠어…"
 
 msgid "present_06"
-msgstr "조금 심심한 것 같아.\\n뭔가 재미있는 일 없을까?"
+msgstr "조금 심심한 것 같아.\n뭔가 재미있는 일 없을까?"
 
 msgid "present_07"
-msgstr "마음껏 즐거운 일을 하면서\\n기분 전환하고 싶어~!"
+msgstr "마음껏 즐거운 일을 하면서\n기분 전환하고 싶어~!"
 
 msgid "present_08"
-msgstr "자주 보거나 만지는 물건은,\\n가끔 바꾸고 싶어지지 않아?"
+msgstr "자주 보거나 만지는 물건은,\n가끔 바꾸고 싶어지지 않아?"
 
 msgid "present_09"
-msgstr "장식품으로 운세가 바뀐다는데…\\n그거, 정말일까?"
+msgstr "장식품으로 운세가 바뀐다는데…\n그거, 정말일까?"
 
 msgid "present_10"
-msgstr "방 장식 같은 것도,\\n조금 바꿔볼까~?"
+msgstr "방 장식 같은 것도,\n조금 바꿔볼까~?"
 
 msgid "present_11"
 msgstr "예~이!"
@@ -199,67 +199,67 @@ msgid "cs_touch_reaction_01"
 msgstr "야호~! 잘 지내?"
 
 msgid "cs_touch_reaction_02"
-msgstr "난 구바바가 아니니까,\\n너무 콕콕 찌르지 마~!"
+msgstr "난 구바바가 아니니까,\n너무 콕콕 찌르지 마~!"
 
 msgid "cs_touch_reaction_03"
-msgstr "나랑 이야기하고 싶어?\\n물론, 좋아!"
+msgstr "나랑 이야기하고 싶어?\n물론, 좋아!"
 
 msgid "cs_touch_reaction_04"
-msgstr "아앙, 정말! 이제 곧 리허설\\n시간인데, 바사라는 아무리 기다려도\\n안 오잖아~!"
+msgstr "아앙, 정말! 이제 곧 리허설\n시간인데, 바사라는 아무리 기다려도\n안 오잖아~!"
 
 msgid "cs_touch_reaction_05"
-msgstr "기분 전환으로 드라이브 가고 싶다…\\n너도 같이 갈래?"
+msgstr "기분 전환으로 드라이브 가고 싶다…\n너도 같이 갈래?"
 
 msgid "cs_touch_reaction_06"
-msgstr "베이스 튜닝이나 해야지.\\n최고의 컨디션으로 무대에\\n올라야 하니까!"
+msgstr "베이스 튜닝이나 해야지.\n최고의 컨디션으로 무대에\n올라야 하니까!"
 
 msgid "cs_touch_reaction_07"
-msgstr "밴드맨은 외모도 중요해!\\n멋진 의상으로 제대로 차려입고\\n가야지!"
+msgstr "밴드맨은 외모도 중요해!\n멋진 의상으로 제대로 차려입고\n가야지!"
 
 msgid "cs_touch_reaction_08"
-msgstr "너는 Fire Bomber의 어떤 곡을\\n좋아해? 괜찮으면 같이 노래하자!"
+msgstr "너는 Fire Bomber의 어떤 곡을\n좋아해? 괜찮으면 같이 노래하자!"
 
 msgid "cs_touch_reaction_09"
-msgstr "쓰다듬어주는 거야?\\n나, 이제 어린애도 아닌데.\\n…그래도 기뻐!"
+msgstr "쓰다듬어주는 거야?\n나, 이제 어린애도 아닌데.\n…그래도 기뻐!"
 
 msgid "cs_touch_reaction_10"
-msgstr "잘 봐! 오늘은 내 인생 최고의,\\n최고의 노래를 들려줄 테니까!"
+msgstr "잘 봐! 오늘은 내 인생 최고의,\n최고의 노래를 들려줄 테니까!"
 
 msgid "talk_event_21"
-msgstr "왈큐레뿐만 아니라,\\n카오스 사람들도 프레이아를 축하\\n해주는 모양이야. 정말 사랑받네!"
+msgstr "왈큐레뿐만 아니라,\n카오스 사람들도 프레이아를 축하\n해주는 모양이야. 정말 사랑받네!"
 
 msgid "talk_event_22"
-msgstr "미쿠모 생일에 생일 축하 노래를\\n부르게 됐어.\\n조금 긴장되네…"
+msgstr "미쿠모 생일에 생일 축하 노래를\n부르게 됐어.\n조금 긴장되네…"
 
 msgid "talk_event_23"
-msgstr "카나메, 생일 축하해~!\\n오늘은 왈큐레 모두와\\n즐겁게 보내!"
+msgstr "카나메, 생일 축하해~!\n오늘은 왈큐레 모두와\n즐겁게 보내!"
 
 msgid "talk_event_24"
-msgstr "마키나, 생일 축하해~!\\n언제나 너무 귀여운 마키나가\\n정말 좋아!"
+msgstr "마키나, 생일 축하해~!\n언제나 너무 귀여운 마키나가\n정말 좋아!"
 
 msgid "talk_event_25"
-msgstr "오늘은 레이나 생일이라서,\\n마키나도 엄청 기뻐 보여!\\n정말 사이좋네, 저 둘!"
+msgstr "오늘은 레이나 생일이라서,\n마키나도 엄청 기뻐 보여!\n정말 사이좋네, 저 둘!"
 
 msgid "talk_event_26"
-msgstr "란카, 생일 축하해~!\\n파티 즐겁게 보내!"
+msgstr "란카, 생일 축하해~!\n파티 즐겁게 보내!"
 
 msgid "talk_event_27"
-msgstr "셰릴의 생일 라이브는,\\n화려하고 성대하게 하는 모양이야!\\n나도 보러 가고 싶어~!"
+msgstr "셰릴의 생일 라이브는,\n화려하고 성대하게 하는 모양이야!\n나도 보러 가고 싶어~!"
 
 msgid "talk_event_28"
 msgstr "밀레느"
 
 msgid "talk_event_29"
-msgstr "이것저것 고민했지만… 응!\\n역시 바사라에게 줄 생일\\n선물은 노래밖에 없겠지!"
+msgstr "이것저것 고민했지만… 응!\n역시 바사라에게 줄 생일\n선물은 노래밖에 없겠지!"
 
 msgid "talk_event_30"
-msgstr "민메이 씨, 어떤 생일을 보내고\\n있으려나… 어떤 선물을\\n받았는지 궁금해~!"
+msgstr "민메이 씨, 어떤 생일을 보내고\n있으려나… 어떤 선물을\n받았는지 궁금해~!"
 
 msgid "talk_event_31"
 msgstr "하야테"
 
 msgid "talk_event_32"
-msgstr "미라쥬도 참 부끄럼쟁이라니까.\\n생일 축하한다고 했을 뿐인데,\\n얼굴이 빨개져서는… 귀엽다니까!"
+msgstr "미라쥬도 참 부끄럼쟁이라니까.\n생일 축하한다고 했을 뿐인데,\n얼굴이 빨개져서는… 귀엽다니까!"
 
 msgid "talk_event_33"
 msgstr "메서"
@@ -277,7 +277,7 @@ msgid "talk_event_37"
 msgstr "오즈마"
 
 msgid "talk_event_38"
-msgstr "레이의 생일을 위해,\\n비히다와 열심히 준비를\\n하고 있어!"
+msgstr "레이의 생일을 위해,\n비히다와 열심히 준비를\n하고 있어!"
 
 msgid "talk_event_39"
 msgstr "히카루"
@@ -289,19 +289,19 @@ msgid "talk_event_41"
 msgstr "미사"
 
 msgid "talk_event_42"
-msgstr "우리 영화가 나온대~!\\n정말 기대돼!"
+msgstr "우리 영화가 나온대~!\n정말 기대돼!"
 
 msgid "talk_event_43"
-msgstr "지금까지 정말 고마워~! 네\\n덕분에 라이브도 대성공이었어!\\n언젠가 또 같이 노래하자!"
+msgstr "지금까지 정말 고마워~! 네\n덕분에 라이브도 대성공이었어!\n언젠가 또 같이 노래하자!"
 
 msgid "talk_event_44"
-msgstr "너라면 앞으로도 분명 괜찮을 거야.\\n하지만 바사라는 별개야! 또 멋대로 어디\\n가버리지는 않는지 지켜봐야 해…!"
+msgstr "너라면 앞으로도 분명 괜찮을 거야.\n하지만 바사라는 별개야! 또 멋대로 어디\n가버리지는 않는지 지켜봐야 해…!"
 
 msgid "talk_event_45"
-msgstr "우리 시공에서도 아직\\n해야 할 일이 잔뜩 있어!\\n앞으로도 힘내야지!"
+msgstr "우리 시공에서도 아직\n해야 할 일이 잔뜩 있어!\n앞으로도 힘내야지!"
 
 msgid "talk_event_46"
-msgstr "다른 시공에서는 우리 밴드가\\n여러 사람에게 영향을 줬구나.\\n앞으로도 더 열심히 해야겠어!"
+msgstr "다른 시공에서는 우리 밴드가\n여러 사람에게 영향을 줬구나.\n앞으로도 더 열심히 해야겠어!"
 
 msgid "talk_event_47"
-msgstr "아빠랑 엄마는 언제든 만날 수 있지만,\\n민메이 씨와는 다시 만날 수 있으려나…\\n역시 한 번 더 인사하러 가야지!"
+msgstr "아빠랑 엄마는 언제든 만날 수 있지만,\n민메이 씨와는 다시 만날 수 있으려나…\n역시 한 번 더 인사하러 가야지!"

@@ -48,6 +48,23 @@ public class ShaderList : ScriptableObject
 			info.shader = shader;
 			shaderList.Add(info);
 		}
+		if(EditorUserBuildSettings.activeBuildTarget == BuildTarget.StandaloneWindows64 ||
+			EditorUserBuildSettings.activeBuildTarget == BuildTarget.StandaloneWindows)
+		{
+			// Built-in shaders aren't returned by FindAssets. Explicit references
+			// keep their Windows variants and avoid Shader.Find selecting an
+			// identically named Android shader after an asset bundle is loaded.
+			foreach(string name in new[] { "Unlit/Texture", "Unlit/Transparent", "UI/Default",
+				"Mobile/Particles/Additive",
+				"Legacy Shaders/Particles/VertexLit Blended",
+				"Legacy Shaders/Particles/Alpha Blended Premultiply" })
+			{
+				Shader builtin = Shader.Find(name);
+				if(builtin == null)
+					throw new InvalidOperationException("Windows built-in shader not found: " + name);
+				shaderList.Add(new ShaderInfo { internalName = name, fileName = name, shader = builtin });
+			}
+		}
 		EditorUtility.SetDirty(this);
 		AssetDatabase.SaveAssets();
 	}

@@ -1,2 +1,22 @@
 __pycache__
 Unity/Build/
+
+# Local content, generated caches and private release signing material
+UtaMacrossDataArchive*.zip
+**/WindowsCache/
+/Data/db/
+/Data/mx/
+/Tools/Data/
+/outputs/
+/Logs/
+*.apk
+*.aab
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.password.dpapi
+.env
+.env.*
+!.env.example
+.venv/

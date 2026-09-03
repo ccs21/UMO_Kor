@@ -22,25 +22,25 @@ msgid "cmn_tuto02/cmn_tuto02_fnt_02"
 msgstr "수없이 반복된 성간 전쟁으로 인해,"
 
 msgid "cmn_tuto02/cmn_tuto02_fnt_03"
-msgstr "드디어 초 선사시대 인류 프로토 컬쳐가\\n남긴 시스템 「새인간」이 깨어났다."
+msgstr "드디어 초 선사시대 인류 프로토 컬쳐가\n남긴 시스템 「새인간」이 깨어났다."
 
 msgid "cmn_tuto02/cmn_tuto02_fnt_04"
-msgstr "새인간은 우주를 뒤덮고 있는 모든 문명을\\n파괴 대상으로 삼고, 다른 시공에서 공명을 시작한다."
+msgstr "새인간은 우주를 뒤덮고 있는 모든 문명을\n파괴 대상으로 삼고, 다른 시공에서 공명을 시작한다."
 
 msgid "cmn_tuto02/cmn_tuto02_fnt_07"
-msgstr "기억이 파괴된 사람들은 하나둘씩 사라져갔고,\\n문명은 조용히 멸망을 맞이하고 있었다."
+msgstr "기억이 파괴된 사람들은 하나둘씩 사라져갔고,\n문명은 조용히 멸망을 맞이하고 있었다."
 
 msgid "cmn_tuto02/cmn_tuto02_fnt_09"
-msgstr "노래로 사람의 마음을 움직이는 가희와\\n그것을 지키는 사람들이다."
+msgstr "노래로 사람의 마음을 움직이는 가희와\n그것을 지키는 사람들이다."
 
 msgid "cmn_tuto02/cmn_tuto02_fnt_11"
-msgstr "서로 다른 시공에 존재하면서도\\n새인간의 힘을 매개로 한 초시공 네트워크를 형성."
+msgstr "서로 다른 시공에 존재하면서도\n새인간의 힘을 매개로 한 초시공 네트워크를 형성."
 
 msgid "cmn_tuto02/cmn_tuto02_fnt_13"
 msgstr "은하의 스테이지에 선 가희들,"
 
 msgid "sel_note_adjust/sel_note_adjust_fnt_btn_l_01"
-msgstr "문제 없으니\\n이대로 진행"
+msgstr "문제 없으니\n이대로 진행"
 
 msgid "sel_note_adjust/sel_note_adjust_fnt_btn_01"
 msgstr "확인 모드"
@@ -52,7 +52,7 @@ msgid "cmn_pop01/cmn_pop01_fnt_01_49"
 msgstr "확인 모드로"
 
 msgid "cmn_tuto02/cmn_tuto02_fnt_05"
-msgstr "무한히 펼쳐지는 그 힘은 시공을 초월한 곳에 있는\\n생명의 기억 집적지 「기억의 시공」까지 도달."
+msgstr "무한히 펼쳐지는 그 힘은 시공을 초월한 곳에 있는\n생명의 기억 집적지 「기억의 시공」까지 도달."
 
 msgid "cmn_tuto02/cmn_tuto02_fnt_06"
 msgstr "그곳에 새겨진 사람들의 기억을 파괴하기 시작했다."
@@ -61,16 +61,16 @@ msgid "cmn_tuto02/cmn_tuto02_fnt_08"
 msgstr "하지만 그 멸망에 맞서는 이들이 있었다."
 
 msgid "cmn_tuto02/cmn_tuto02_fnt_10"
-msgstr "강력한 생체 폴드파로\\n기억상실증에서 벗어난 그녀들은,"
+msgstr "강력한 생체 폴드파로\n기억상실증에서 벗어난 그녀들은,"
 
 msgid "cmn_tuto02/cmn_tuto02_fnt_12"
-msgstr "노래의 힘으로 사라져가는 세상을\\n되찾겠다고 다짐한다."
+msgstr "노래의 힘으로 사라져가는 세상을\n되찾겠다고 다짐한다."
 
 msgid "cmn_tuto02/cmn_tuto02_fnt_14"
 msgstr "노래로 사람들의 기억을 되찾기 위한 싸움이 지금, 막을 올린다."
 
 msgid "sel_note_adjust/sel_note_adjust_fnt_btn_l_02"
-msgstr "어긋남이 느껴져\\n조정한다"
+msgstr "어긋남이 느껴져\n조정한다"
 
 msgid "sel_note_adjust/sel_note_adjust_fnt_title"
 msgstr "타이밍 조정"

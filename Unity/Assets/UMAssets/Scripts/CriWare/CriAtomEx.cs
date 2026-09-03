@@ -325,7 +325,8 @@ namespace CriWare
 		{
 			public int id; // 0x0
 			public CriAtomEx.CueType type; // 0x4
-#if UNITY_EDITOR
+#if UNITY_EDITOR || !UNITY_ANDROID
+			// The managed PC audio backend fills this field without native marshalling.
 			public string name; // 0x8
 #else
 			[MarshalAs(UnmanagedType.LPStr)]

@@ -105,6 +105,25 @@ public class BundleShaderInfo : SingletonMonoBehaviour<BundleShaderInfo>
 
 	public void FixMaterialShaderMat(Material mat)
 	{
+		if(mat == null || mat.shader == null)
+			return;
+#if UNITY_STANDALONE && !UNITY_EDITOR
+		// Shader.Find can return the identically named Android shader from a
+		// loaded bundle. Prefer the explicitly referenced Windows-built shader.
+		if(shaderListResource != null)
+		{
+			foreach(var candidate in shaderListResource.shaderList)
+			{
+				if(candidate.shader != null && candidate.shader.isSupported &&
+					candidate.internalName == mat.shader.name)
+				{
+					UMOStandaloneMaterialRepair.ReplaceShader(mat, candidate.shader);
+					usedShaderList.Add(candidate.shader.GetInstanceID());
+					return;
+				}
+			}
+		}
+#endif
 		TodoLogger.Log(TodoLogger.Shader, "Checking shader for mat "+mat.name+" with shader "+mat.shader.GetInstanceID()+" "+mat.shader.name);
 //#if UNITY_EDITOR
 		if(usedShaderList.Contains(mat.shader.GetInstanceID()))

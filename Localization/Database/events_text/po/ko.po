@@ -13,46 +13,46 @@ msgid "mission_desc_event_april_fool_a_0003"
 msgstr "미션 45개 클리어"
 
 msgid "mission_desc_event_april_fool_a_0004"
-msgstr "난이도 VERY HARD의 악곡을\\n스코어 랭크 SS로 10회 클리어"
+msgstr "난이도 VERY HARD의 악곡을\n스코어 랭크 SS로 10회 클리어"
 
 msgid "mission_desc_event_april_fool_a_0005"
-msgstr "난이도 VERY HARD의 악곡을\\n스코어 랭크 SS로 20회 클리어"
+msgstr "난이도 VERY HARD의 악곡을\n스코어 랭크 SS로 20회 클리어"
 
 msgid "mission_desc_event_april_fool_a_0006"
-msgstr "난이도 VERY HARD의 악곡을\\n스코어 랭크 SS로 50회 클리어"
+msgstr "난이도 VERY HARD의 악곡을\n스코어 랭크 SS로 50회 클리어"
 
 msgid "mission_desc_event_april_fool_a_0007"
-msgstr "난이도 EXTREME의 악곡을\\n스코어 랭크 SS로 20회 클리어"
+msgstr "난이도 EXTREME의 악곡을\n스코어 랭크 SS로 20회 클리어"
 
 msgid "mission_desc_event_april_fool_a_0008"
-msgstr "난이도 EXTREME의 악곡을\\n스코어 랭크 SS로 30회 클리어"
+msgstr "난이도 EXTREME의 악곡을\n스코어 랭크 SS로 30회 클리어"
 
 msgid "mission_desc_event_april_fool_a_0009"
-msgstr "난이도 EXTREME의 악곡을\\n스코어 랭크 SS로 50회 클리어"
+msgstr "난이도 EXTREME의 악곡을\n스코어 랭크 SS로 50회 클리어"
 
 msgid "mission_desc_event_april_fool_a_0010"
-msgstr "난이도 EXTREME의 악곡을\\n스코어 랭크 SS로 100회 클리어"
+msgstr "난이도 EXTREME의 악곡을\n스코어 랭크 SS로 100회 클리어"
 
 msgid "mission_desc_event_april_fool_a_0011"
-msgstr "어느 악곡이든 난이도 HARD 이상을\\n풀콤보로 10회 클리어"
+msgstr "어느 악곡이든 난이도 HARD 이상을\n풀콤보로 10회 클리어"
 
 msgid "mission_desc_event_april_fool_a_0012"
-msgstr "어느 악곡이든 난이도 HARD 이상을\\n풀콤보로 20회 클리어"
+msgstr "어느 악곡이든 난이도 HARD 이상을\n풀콤보로 20회 클리어"
 
 msgid "mission_desc_event_april_fool_a_0013"
-msgstr "어느 악곡이든 난이도 HARD 이상을\\n풀콤보로 30회 클리어"
+msgstr "어느 악곡이든 난이도 HARD 이상을\n풀콤보로 30회 클리어"
 
 msgid "mission_desc_event_april_fool_a_0014"
-msgstr "어느 악곡이든 난이도 VERY HARD 이상을\\n풀콤보로 10회 클리어"
+msgstr "어느 악곡이든 난이도 VERY HARD 이상을\n풀콤보로 10회 클리어"
 
 msgid "mission_desc_event_april_fool_a_0015"
-msgstr "어느 악곡이든 난이도 VERY HARD 이상을\\n풀콤보로 20회 클리어"
+msgstr "어느 악곡이든 난이도 VERY HARD 이상을\n풀콤보로 20회 클리어"
 
 msgid "mission_desc_event_april_fool_a_0016"
-msgstr "악곡 「Glow in the dark」의 난이도 EXTREMR을\\n스코어 랭크 SS로 10회 클리어"
+msgstr "악곡 「Glow in the dark」의 난이도 EXTREMR을\n스코어 랭크 SS로 10회 클리어"
 
 msgid "mission_desc_event_april_fool_a_0017"
-msgstr "악곡 「Glow in the dark」의 난이도 EXTREMR을\\n풀콤보로 5회 클리어"
+msgstr "악곡 「Glow in the dark」의 난이도 EXTREMR을\n풀콤보로 5회 클리어"
 
 msgid "mission_desc_event_april_fool_a_0018"
 msgstr "스코어 300만 이상으로 1회 클리어"
@@ -76,73 +76,73 @@ msgid "mission_desc_event_april_fool_a_0024"
 msgstr "스코어 900만 이상으로 1회 클리어"
 
 msgid "mission_desc_event_april_fool_a_0025"
-msgstr "생명 속성의 악곡을\\n스코어 200만 점 이상으로 클리어"
+msgstr "생명 속성의 악곡을\n스코어 200만 점 이상으로 클리어"
 
 msgid "mission_desc_event_april_fool_a_0026"
-msgstr "생명 속성의 악곡을\\n스코어 300만 점 이상으로 클리어"
+msgstr "생명 속성의 악곡을\n스코어 300만 점 이상으로 클리어"
 
 msgid "mission_desc_event_april_fool_a_0027"
-msgstr "생명 속성의 악곡을\\n스코어 400만 점 이상으로 클리어"
+msgstr "생명 속성의 악곡을\n스코어 400만 점 이상으로 클리어"
 
 msgid "mission_desc_event_april_fool_a_0028"
-msgstr "생명 속성의 악곡을\\n스코어 500만 점 이상으로 클리어"
+msgstr "생명 속성의 악곡을\n스코어 500만 점 이상으로 클리어"
 
 msgid "mission_desc_event_april_fool_a_0029"
-msgstr "별 속성의 악곡을\\n스코어 200만 점 이상으로 클리어"
+msgstr "별 속성의 악곡을\n스코어 200만 점 이상으로 클리어"
 
 msgid "mission_desc_event_april_fool_a_0030"
-msgstr "별 속성의 악곡을\\n스코어 300만 점 이상으로 클리어"
+msgstr "별 속성의 악곡을\n스코어 300만 점 이상으로 클리어"
 
 msgid "mission_desc_event_april_fool_a_0031"
-msgstr "별 속성의 악곡을\\n스코어 400만 점 이상으로 클리어"
+msgstr "별 속성의 악곡을\n스코어 400만 점 이상으로 클리어"
 
 msgid "mission_desc_event_april_fool_a_0032"
-msgstr "별 속성의 악곡을\\n스코어 500만 점 이상으로 클리어"
+msgstr "별 속성의 악곡을\n스코어 500만 점 이상으로 클리어"
 
 msgid "mission_desc_event_april_fool_a_0033"
-msgstr "사랑 속성의 악곡을\\n스코어 200만 점 이상으로 클리어"
+msgstr "사랑 속성의 악곡을\n스코어 200만 점 이상으로 클리어"
 
 msgid "mission_desc_event_april_fool_a_0034"
-msgstr "사랑 속성의 악곡을\\n스코어 300만 점 이상으로 클리어"
+msgstr "사랑 속성의 악곡을\n스코어 300만 점 이상으로 클리어"
 
 msgid "mission_desc_event_april_fool_a_0035"
-msgstr "사랑 속성의 악곡을\\n스코어 400만 점 이상으로 클리어"
+msgstr "사랑 속성의 악곡을\n스코어 400만 점 이상으로 클리어"
 
 msgid "mission_desc_event_april_fool_a_0036"
-msgstr "사랑 속성의 악곡을\\n스코어 500만 점 이상으로 클리어"
+msgstr "사랑 속성의 악곡을\n스코어 500만 점 이상으로 클리어"
 
 msgid "mission_desc_event_april_fool_a_0037"
-msgstr "악곡 「Glow in the dark(고난이도 ver.)」\\n1회 플레이"
+msgstr "악곡 「Glow in the dark(고난이도 ver.)」\n1회 플레이"
 
 msgid "mission_desc_event_april_fool_a_0038"
-msgstr "악곡 「Glow in the dark(고난이도 ver.)」\\n1회 클리어"
+msgstr "악곡 「Glow in the dark(고난이도 ver.)」\n1회 클리어"
 
 msgid "mission_desc_event_april_fool_a_0039"
-msgstr "악곡 「Glow in the dark(고난이도 ver.)」\\n풀콤보로 1회 클리어"
+msgstr "악곡 「Glow in the dark(고난이도 ver.)」\n풀콤보로 1회 클리어"
 
 msgid "mission_desc_event_april_fool_a_0040"
-msgstr "어느 악곡이든 난이도 EXTREME 이상을\\n풀콤보로 10회 클리어"
+msgstr "어느 악곡이든 난이도 EXTREME 이상을\n풀콤보로 10회 클리어"
 
 msgid "mission_desc_event_april_fool_a_0041"
-msgstr "어느 악곡이든 난이도 EXTREME 이상을\\n풀콤보로 20회 클리어"
+msgstr "어느 악곡이든 난이도 EXTREME 이상을\n풀콤보로 20회 클리어"
 
 msgid "mission_desc_event_april_fool_a_0042"
-msgstr "생명 속성의 악곡을\\n스코어 600만 점 이상으로 클리어"
+msgstr "생명 속성의 악곡을\n스코어 600만 점 이상으로 클리어"
 
 msgid "mission_desc_event_april_fool_a_0043"
-msgstr "생명 속성의 악곡을\\n스코어 700만 점 이상으로 클리어"
+msgstr "생명 속성의 악곡을\n스코어 700만 점 이상으로 클리어"
 
 msgid "mission_desc_event_april_fool_a_0044"
-msgstr "별 속성의 악곡을\\n스코어 600만 점 이상으로 클리어"
+msgstr "별 속성의 악곡을\n스코어 600만 점 이상으로 클리어"
 
 msgid "mission_desc_event_april_fool_a_0045"
-msgstr "별 속성의 악곡을\\n스코어 700만 점 이상으로 클리어"
+msgstr "별 속성의 악곡을\n스코어 700만 점 이상으로 클리어"
 
 msgid "mission_desc_event_april_fool_a_0046"
-msgstr "사랑 속성의 악곡을\\n스코어 600만 점 이상으로 클리어"
+msgstr "사랑 속성의 악곡을\n스코어 600만 점 이상으로 클리어"
 
 msgid "mission_desc_event_april_fool_a_0047"
-msgstr "사랑 속성의 악곡을\\n스코어 700만 점 이상으로 클리어"
+msgstr "사랑 속성의 악곡을\n스코어 700만 점 이상으로 클리어"
 
 msgid "mission_desc_event_april_fool_a_0048"
 msgstr "스코어 1000만 이상으로 1회 클리어"
@@ -154,124 +154,124 @@ msgid "mission_desc_event_april_fool_a_0050"
 msgstr "스코어 1200만 이상으로 클리어"
 
 msgid "mission_desc_event_april_fool_b_0001"
-msgstr "【데일리】카나메를 센터로 설정하고\\n「울상폭발음」 1회 플레이"
+msgstr "【데일리】카나메를 센터로 설정하고\n「울상폭발음」 1회 플레이"
 
 msgid "mission_desc_event_april_fool_b_0002"
-msgstr "【데일리】카나메를 센터로 설정하고\\n「울상폭발음」 1회 플레이"
+msgstr "【데일리】카나메를 센터로 설정하고\n「울상폭발음」 1회 플레이"
 
 msgid "mission_desc_event_april_fool_b_0003"
-msgstr "【데일리】카나메를 센터로 설정하고\\n「울상폭발음」 1회 플레이"
+msgstr "【데일리】카나메를 센터로 설정하고\n「울상폭발음」 1회 플레이"
 
 msgid "mission_desc_event_april_fool_b_0004"
-msgstr "【데일리】카나메를 센터로 설정하고\\n「울상폭발음」 1회 플레이"
+msgstr "【데일리】카나메를 센터로 설정하고\n「울상폭발음」 1회 플레이"
 
 msgid "mission_desc_event_april_fool_b_0005"
-msgstr "【데일리】카나메를 센터로 설정하고\\n「울상폭발음」 1회 플레이"
+msgstr "【데일리】카나메를 센터로 설정하고\n「울상폭발음」 1회 플레이"
 
 msgid "mission_desc_event_april_fool_b_0006"
-msgstr "카나메를 센터로 설정하고\\n악곡 중 하나 5회 플레이"
+msgstr "카나메를 센터로 설정하고\n악곡 중 하나 5회 플레이"
 
 msgid "mission_desc_event_april_fool_b_0007"
-msgstr "왈큐레가 부르는 「사요나라노 츠바사 〜 the end of triangle」\\n의 난이도 NORMAL 이상을 10회 풀콤보로 클리어"
+msgstr "왈큐레가 부르는 「사요나라노 츠바사 〜 the end of triangle」\n의 난이도 NORMAL 이상을 10회 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_b_0008"
-msgstr "【데일리】프레이아를 센터로 설정하고 왈큐레가 노래한\\n「이별의 날개 ~ the end of triangle」 1회 클리어"
+msgstr "【데일리】프레이아를 센터로 설정하고 왈큐레가 노래한\n「이별의 날개 ~ the end of triangle」 1회 클리어"
 
 msgid "mission_desc_event_april_fool_b_0009"
-msgstr "【데일리】왈큐레가 부르는 「사요나라노 츠바사 〜 the end of triangle」\\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
+msgstr "【데일리】왈큐레가 부르는 「사요나라노 츠바사 〜 the end of triangle」\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_b_0010"
-msgstr "【데일리】미쿠모를 센터로 설정하고 왈큐레가 노래한\\n「이별의 날개 ~ the end of triangle」 1회 클리어"
+msgstr "【데일리】미쿠모를 센터로 설정하고 왈큐레가 노래한\n「이별의 날개 ~ the end of triangle」 1회 클리어"
 
 msgid "mission_desc_event_april_fool_b_0011"
-msgstr "【데일리】왈큐레가 부르는 「사요나라노 츠바사 〜 the end of triangle」\\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
+msgstr "【데일리】왈큐레가 부르는 「사요나라노 츠바사 〜 the end of triangle」\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_b_0012"
-msgstr "【데일리】카나메를 센터로 설정하고 왈큐레가 노래한\\n「이별의 날개 ~ the end of triangle」 1회 클리어"
+msgstr "【데일리】카나메를 센터로 설정하고 왈큐레가 노래한\n「이별의 날개 ~ the end of triangle」 1회 클리어"
 
 msgid "mission_desc_event_april_fool_b_0013"
-msgstr "【데일리】왈큐레가 부르는 「사요나라노 츠바사 〜 the end of triangle」\\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
+msgstr "【데일리】왈큐레가 부르는 「사요나라노 츠바사 〜 the end of triangle」\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_b_0014"
-msgstr "【데일리】마키나를 센터로 설정하고 왈큐레가 노래한\\n「이별의 날개 ~ the end of triangle」 1회 클리어"
+msgstr "【데일리】마키나를 센터로 설정하고 왈큐레가 노래한\n「이별의 날개 ~ the end of triangle」 1회 클리어"
 
 msgid "mission_desc_event_april_fool_b_0015"
-msgstr "【데일리】왈큐레가 부르는 「사요나라노 츠바사 〜 the end of triangle」\\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
+msgstr "【데일리】왈큐레가 부르는 「사요나라노 츠바사 〜 the end of triangle」\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_b_0016"
-msgstr "【데일리】레이나를 센터로 설정하고 왈큐레가 노래한\\n「이별의 날개 ~ the end of triangle」 1회 클리어"
+msgstr "【데일리】레이나를 센터로 설정하고 왈큐레가 노래한\n「이별의 날개 ~ the end of triangle」 1회 클리어"
 
 msgid "mission_desc_event_april_fool_b_0017"
-msgstr "【데일리】왈큐레가 부르는 「사요나라노 츠바사 〜 the end of triangle」\\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
+msgstr "【데일리】왈큐레가 부르는 「사요나라노 츠바사 〜 the end of triangle」\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_b_0018"
-msgstr "【데일리】프레이아를 센터로 설정하고 왈큐레가 노래한\\n「이별의 날개 ~ the end of triangle」 1회 클리어"
+msgstr "【데일리】프레이아를 센터로 설정하고 왈큐레가 노래한\n「이별의 날개 ~ the end of triangle」 1회 클리어"
 
 msgid "mission_desc_event_april_fool_b_0019"
-msgstr "【데일리】왈큐레가 부르는 「사요나라노 츠바사 〜 the end of triangle」\\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
+msgstr "【데일리】왈큐레가 부르는 「사요나라노 츠바사 〜 the end of triangle」\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_b_0020"
-msgstr "【데일리】미쿠모를 센터로 설정하고 왈큐레가 노래한\\n「이별의 날개 ~ the end of triangle」 1회 클리어"
+msgstr "【데일리】미쿠모를 센터로 설정하고 왈큐레가 노래한\n「이별의 날개 ~ the end of triangle」 1회 클리어"
 
 msgid "mission_desc_event_april_fool_b_0021"
-msgstr "【데일리】왈큐레가 부르는 「사요나라노 츠바사 〜 the end of triangle」\\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
+msgstr "【데일리】왈큐레가 부르는 「사요나라노 츠바사 〜 the end of triangle」\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_b_0022"
-msgstr "【데일리】카나메를 센터로 설정하고 왈큐레가 노래한\\n「이별의 날개 ~ the end of triangle」 1회 클리어"
+msgstr "【데일리】카나메를 센터로 설정하고 왈큐레가 노래한\n「이별의 날개 ~ the end of triangle」 1회 클리어"
 
 msgid "mission_desc_event_april_fool_b_0023"
-msgstr "【데일리】왈큐레가 부르는 「사요나라노 츠바사 〜 the end of triangle」\\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
+msgstr "【데일리】왈큐레가 부르는 「사요나라노 츠바사 〜 the end of triangle」\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_b_0024"
-msgstr "【데일리】마키나를 센터로 설정하고 왈큐레가 노래한\\n「이별의 날개 ~ the end of triangle」 1회 클리어"
+msgstr "【데일리】마키나를 센터로 설정하고 왈큐레가 노래한\n「이별의 날개 ~ the end of triangle」 1회 클리어"
 
 msgid "mission_desc_event_april_fool_b_0025"
-msgstr "【데일리】왈큐레가 부르는 「사요나라노 츠바사 〜 the end of triangle」\\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
+msgstr "【데일리】왈큐레가 부르는 「사요나라노 츠바사 〜 the end of triangle」\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_b_0026"
-msgstr "【데일리】레이나를 센터로 설정하고 왈큐레가 노래한\\n「이별의 날개 ~ the end of triangle」 1회 클리어"
+msgstr "【데일리】레이나를 센터로 설정하고 왈큐레가 노래한\n「이별의 날개 ~ the end of triangle」 1회 클리어"
 
 msgid "mission_desc_event_april_fool_b_0027"
-msgstr "【데일리】왈큐레가 부르는 「사요나라노 츠바사 〜 the end of triangle」\\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
+msgstr "【데일리】왈큐레가 부르는 「사요나라노 츠바사 〜 the end of triangle」\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_b_0028"
-msgstr "【데일리】왈큐레가 부르는 「사요나라노 츠바사 〜 the end of triangle」\\n의 난이도 NORMAL 이상을 1회 클리어한다"
+msgstr "【데일리】왈큐레가 부르는 「사요나라노 츠바사 〜 the end of triangle」\n의 난이도 NORMAL 이상을 1회 클리어한다"
 
 msgid "mission_desc_event_april_fool_b_0029"
-msgstr "【데일리】왈큐레가 부르는 「사요나라노 츠바사 〜 the end of triangle」\\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
+msgstr "【데일리】왈큐레가 부르는 「사요나라노 츠바사 〜 the end of triangle」\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_b_0030"
-msgstr "【데일리】왈큐레가 부르는 「사요나라노 츠바사 〜 the end of triangle」\\n의 난이도 NORMAL 이상을 1회 클리어한다"
+msgstr "【데일리】왈큐레가 부르는 「사요나라노 츠바사 〜 the end of triangle」\n의 난이도 NORMAL 이상을 1회 클리어한다"
 
 msgid "mission_desc_event_april_fool_b_0031"
-msgstr "【데일리】왈큐레가 부르는 「사요나라노 츠바사 〜 the end of triangle」\\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
+msgstr "【데일리】왈큐레가 부르는 「사요나라노 츠바사 〜 the end of triangle」\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_b_0032"
-msgstr "【데일리】왈큐레가 부르는 「사요나라노 츠바사 〜 the end of triangle」\\n의 난이도 NORMAL 이상을 1회 클리어한다"
+msgstr "【데일리】왈큐레가 부르는 「사요나라노 츠바사 〜 the end of triangle」\n의 난이도 NORMAL 이상을 1회 클리어한다"
 
 msgid "mission_desc_event_april_fool_b_0033"
-msgstr "【데일리】왈큐레가 부르는 「사요나라노 츠바사 〜 the end of triangle」\\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
+msgstr "【데일리】왈큐레가 부르는 「사요나라노 츠바사 〜 the end of triangle」\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_b_0034"
-msgstr "【데일리】왈큐레가 부르는 「사요나라노 츠바사 〜 the end of triangle」\\n의 난이도 NORMAL 이상을 1회 클리어한다"
+msgstr "【데일리】왈큐레가 부르는 「사요나라노 츠바사 〜 the end of triangle」\n의 난이도 NORMAL 이상을 1회 클리어한다"
 
 msgid "mission_desc_event_april_fool_b_0035"
-msgstr "【데일리】왈큐레가 부르는 「사요나라노 츠바사 〜 the end of triangle」\\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
+msgstr "【데일리】왈큐레가 부르는 「사요나라노 츠바사 〜 the end of triangle」\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_c_0001"
-msgstr "마크로스Δ의 곡을\\n5회 클리어"
+msgstr "마크로스Δ의 곡을\n5회 클리어"
 
 msgid "mission_desc_event_april_fool_c_0002"
-msgstr "마크로스Δ의 곡을\\n10회 클리어"
+msgstr "마크로스Δ의 곡을\n10회 클리어"
 
 msgid "mission_desc_event_april_fool_c_0003"
-msgstr "마크로스Δ의 곡을\\n15회 클리어"
+msgstr "마크로스Δ의 곡을\n15회 클리어"
 
 msgid "mission_desc_event_april_fool_c_0004"
-msgstr "마크로스Δ의 곡을\\n20회 클리어"
+msgstr "마크로스Δ의 곡을\n20회 클리어"
 
 msgid "mission_desc_event_april_fool_c_0005"
-msgstr "마크로스Δ의 곡을\\n30회 클리어"
+msgstr "마크로스Δ의 곡을\n30회 클리어"
 
 msgid "mission_desc_event_april_fool_d_0001"
 msgstr "만우절 이벤트 곡을 1회 플레이"
@@ -280,46 +280,46 @@ msgid "mission_desc2_event_april_fool_d_0001"
 msgstr "만우절 이벤트 곡을 1회 플레이"
 
 msgid "mission_desc_event_april_fool_d_0002"
-msgstr "생명 속성의 곡을\\n스코어 150만 이상으로 클리어"
+msgstr "생명 속성의 곡을\n스코어 150만 이상으로 클리어"
 
 msgid "mission_desc_event_april_fool_d_0003"
-msgstr "생명 속성의 곡을\\n스코어 200만 이상으로 클리어"
+msgstr "생명 속성의 곡을\n스코어 200만 이상으로 클리어"
 
 msgid "mission_desc_event_april_fool_d_0004"
-msgstr "생명 속성의 곡을\\n스코어 300만 이상으로 클리어"
+msgstr "생명 속성의 곡을\n스코어 300만 이상으로 클리어"
 
 msgid "mission_desc_event_april_fool_d_0005"
-msgstr "생명 속성의 곡을\\n스코어 400만 이상으로 클리어"
+msgstr "생명 속성의 곡을\n스코어 400만 이상으로 클리어"
 
 msgid "mission_desc_event_april_fool_d_0006"
-msgstr "별 속성의 곡을\\n스코어 100만 이상으로 클리어"
+msgstr "별 속성의 곡을\n스코어 100만 이상으로 클리어"
 
 msgid "mission_desc_event_april_fool_d_0007"
-msgstr "별 속성의 곡을\\n스코어 150만 이상으로 클리어"
+msgstr "별 속성의 곡을\n스코어 150만 이상으로 클리어"
 
 msgid "mission_desc_event_april_fool_d_0008"
-msgstr "별 속성의 곡을\\n스코어 200만 이상으로 클리어"
+msgstr "별 속성의 곡을\n스코어 200만 이상으로 클리어"
 
 msgid "mission_desc_event_april_fool_d_0009"
-msgstr "별 속성의 곡을\\n스코어 300만 이상으로 클리어"
+msgstr "별 속성의 곡을\n스코어 300만 이상으로 클리어"
 
 msgid "mission_desc_event_april_fool_d_0010"
-msgstr "별 속성의 곡을\\n스코어 400만 이상으로 클리어"
+msgstr "별 속성의 곡을\n스코어 400만 이상으로 클리어"
 
 msgid "mission_desc_event_april_fool_d_0011"
-msgstr "사랑 속성의 곡을\\n스코어 100만 이상으로 클리어"
+msgstr "사랑 속성의 곡을\n스코어 100만 이상으로 클리어"
 
 msgid "mission_desc_event_april_fool_d_0012"
-msgstr "사랑 속성의 곡을\\n스코어 150만 이상으로 클리어"
+msgstr "사랑 속성의 곡을\n스코어 150만 이상으로 클리어"
 
 msgid "mission_desc_event_april_fool_d_0013"
-msgstr "사랑 속성의 곡을\\n스코어 200만 이상으로 클리어"
+msgstr "사랑 속성의 곡을\n스코어 200만 이상으로 클리어"
 
 msgid "mission_desc_event_april_fool_d_0014"
-msgstr "사랑 속성의 곡을\\n스코어 300만 이상으로 클리어"
+msgstr "사랑 속성의 곡을\n스코어 300만 이상으로 클리어"
 
 msgid "mission_desc_event_april_fool_d_0015"
-msgstr "사랑 속성의 곡을\\n스코어 400만 이상으로 클리어"
+msgstr "사랑 속성의 곡을\n스코어 400만 이상으로 클리어"
 
 msgid "mission_desc_event_april_fool_d_0016"
 msgstr "곡을 풀콤보로 1회 클리어"
@@ -352,151 +352,151 @@ msgid "mission_desc_event_april_fool_d_0025"
 msgstr "곡을 스코어 랭크 SS로 100회 클리어"
 
 msgid "mission_desc_event_april_fool_d_0026"
-msgstr "난이도 HARD 이상의 곡을\\n스코어 랭크 SS로 10회 클리어"
+msgstr "난이도 HARD 이상의 곡을\n스코어 랭크 SS로 10회 클리어"
 
 msgid "mission_desc_event_april_fool_d_0027"
-msgstr "난이도 HARD 이상의 곡을\\n스코어 랭크 SS로 15회 클리어"
+msgstr "난이도 HARD 이상의 곡을\n스코어 랭크 SS로 15회 클리어"
 
 msgid "mission_desc_event_april_fool_d_0028"
-msgstr "난이도 HARD 이상의 곡을\\n스코어 랭크 SS로 20회 클리어"
+msgstr "난이도 HARD 이상의 곡을\n스코어 랭크 SS로 20회 클리어"
 
 msgid "mission_desc_event_april_fool_d_0029"
-msgstr "난이도 HARD 이상의 곡을\\n스코어 랭크 SS로 25회 클리어"
+msgstr "난이도 HARD 이상의 곡을\n스코어 랭크 SS로 25회 클리어"
 
 msgid "mission_desc_event_april_fool_d_0030"
-msgstr "난이도 HARD 이상의 곡을\\n스코어 랭크 SS로 30회 클리어"
+msgstr "난이도 HARD 이상의 곡을\n스코어 랭크 SS로 30회 클리어"
 
 msgid "mission_desc_event_april_fool_d_0031"
-msgstr "난이도 HARD 이상의 곡을\\n스코어 랭크 SS로 40회 클리어"
+msgstr "난이도 HARD 이상의 곡을\n스코어 랭크 SS로 40회 클리어"
 
 msgid "mission_desc_event_april_fool_d_0032"
-msgstr "난이도 VERY HARD 이상의 곡을\\n스코어 랭크 SS로 5회 클리어"
+msgstr "난이도 VERY HARD 이상의 곡을\n스코어 랭크 SS로 5회 클리어"
 
 msgid "mission_desc_event_april_fool_d_0033"
-msgstr "난이도 VERY HARD 이상의 곡을\\n스코어 랭크 SS로 10회 클리어"
+msgstr "난이도 VERY HARD 이상의 곡을\n스코어 랭크 SS로 10회 클리어"
 
 msgid "mission_desc_event_april_fool_d_0034"
-msgstr "난이도 VERY HARD 이상의 곡을\\n스코어 랭크 SS로 20회 클리어"
+msgstr "난이도 VERY HARD 이상의 곡을\n스코어 랭크 SS로 20회 클리어"
 
 msgid "mission_desc_event_april_fool_d_0035"
-msgstr "난이도 EXTREME의 곡을\\n스코어 랭크 SS로 5회 클리어"
+msgstr "난이도 EXTREME의 곡을\n스코어 랭크 SS로 5회 클리어"
 
 msgid "mission_desc_event_april_fool_d_0036"
-msgstr "난이도 EXTREME의 곡을\\n스코어 랭크 SS로 10회 클리어"
+msgstr "난이도 EXTREME의 곡을\n스코어 랭크 SS로 10회 클리어"
 
 msgid "mission_desc_event_april_fool_d_0037"
-msgstr "난이도 EXTREME의 곡을\\n스코어 랭크 SS로 15회 클리어"
+msgstr "난이도 EXTREME의 곡을\n스코어 랭크 SS로 15회 클리어"
 
 msgid "mission_desc_event_april_fool_d_0038"
-msgstr "난이도 EXTREME의 악곡을\\n스코어 랭크 SS로 20회 클리어"
+msgstr "난이도 EXTREME의 악곡을\n스코어 랭크 SS로 20회 클리어"
 
 msgid "mission_desc_event_april_fool_d_0039"
-msgstr "난이도 HARD 이상의 곡을\\n풀콤보로 10회 클리어"
+msgstr "난이도 HARD 이상의 곡을\n풀콤보로 10회 클리어"
 
 msgid "mission_desc_event_april_fool_d_0040"
-msgstr "난이도 HARD 이상의 곡을\\n풀콤보로 15회 클리어"
+msgstr "난이도 HARD 이상의 곡을\n풀콤보로 15회 클리어"
 
 msgid "mission_desc_event_april_fool_d_0041"
-msgstr "난이도 HARD 이상의 곡을\\n풀콤보로 25회 클리어"
+msgstr "난이도 HARD 이상의 곡을\n풀콤보로 25회 클리어"
 
 msgid "mission_desc_event_april_fool_d_0042"
-msgstr "난이도 HARD 이상의 곡을\\n풀콤보로 40회 클리어"
+msgstr "난이도 HARD 이상의 곡을\n풀콤보로 40회 클리어"
 
 msgid "mission_desc_event_april_fool_d_0043"
-msgstr "난이도 VERY HARD 이상의 곡을\\n풀콤보로 10회 클리어"
+msgstr "난이도 VERY HARD 이상의 곡을\n풀콤보로 10회 클리어"
 
 msgid "mission_desc_event_april_fool_d_0044"
-msgstr "난이도 VERY HARD 이상의 곡을\\n풀콤보로 20회 클리어"
+msgstr "난이도 VERY HARD 이상의 곡을\n풀콤보로 20회 클리어"
 
 msgid "mission_desc_event_april_fool_d_0045"
-msgstr "난이도 VERY HARD 이상의 곡을\\n풀콤보로 30회 클리어"
+msgstr "난이도 VERY HARD 이상의 곡을\n풀콤보로 30회 클리어"
 
 msgid "mission_desc_event_april_fool_d_0046"
-msgstr "난이도 EXTREME의 곡을\\n풀콤보로 5회 클리어"
+msgstr "난이도 EXTREME의 곡을\n풀콤보로 5회 클리어"
 
 msgid "mission_desc_event_april_fool_d_0047"
-msgstr "난이도 EXTREME의 악곡을\\n풀콤보로 10회 클리어"
+msgstr "난이도 EXTREME의 악곡을\n풀콤보로 10회 클리어"
 
 msgid "mission_desc_event_april_fool_d_0048"
-msgstr "난이도 EXTREME의 악곡을\\n풀콤보로 15회 클리어"
+msgstr "난이도 EXTREME의 악곡을\n풀콤보로 15회 클리어"
 
 msgid "mission_desc_event_april_fool_e_0001"
-msgstr "【데일리】마키나를 센터로 설정하고\\n「여자아이☆girl」 1회 플레이"
+msgstr "【데일리】마키나를 센터로 설정하고\n「여자아이☆girl」 1회 플레이"
 
 msgid "mission_desc_event_april_fool_e_0002"
-msgstr "【데일리】마키나를 센터로 설정하고\\n「여자아이☆girl」 1회 플레이"
+msgstr "【데일리】마키나를 센터로 설정하고\n「여자아이☆girl」 1회 플레이"
 
 msgid "mission_desc_event_april_fool_e_0003"
-msgstr "【데일리】마키나를 센터로 설정하고\\n「여자아이☆girl」 1회 플레이"
+msgstr "【데일리】마키나를 센터로 설정하고\n「여자아이☆girl」 1회 플레이"
 
 msgid "mission_desc_event_april_fool_e_0004"
-msgstr "【데일리】마키나를 센터로 설정하고\\n「여자아이☆girl」 1회 플레이"
+msgstr "【데일리】마키나를 센터로 설정하고\n「여자아이☆girl」 1회 플레이"
 
 msgid "mission_desc_event_april_fool_e_0005"
-msgstr "【데일리】마키나를 센터로 설정하고\\n「여자아이☆girl」 1회 플레이"
+msgstr "【데일리】마키나를 센터로 설정하고\n「여자아이☆girl」 1회 플레이"
 
 msgid "mission_desc_event_april_fool_e_0006"
-msgstr "마키나를 센터로 설정하고\\n악곡 중 하나 5회 플레이"
+msgstr "마키나를 센터로 설정하고\n악곡 중 하나 5회 플레이"
 
 msgid "mission_desc_event_april_fool_e_0007"
-msgstr "【데일리】악곡 중 하나를\\n스코어 랭크 SS로 3회 클리어"
+msgstr "【데일리】악곡 중 하나를\n스코어 랭크 SS로 3회 클리어"
 
 msgid "mission_desc2_event_april_fool_e_0007"
-msgstr "【데일리】악곡 중 하나를\\n스코어 랭크 SS로 3회 클리어"
+msgstr "【데일리】악곡 중 하나를\n스코어 랭크 SS로 3회 클리어"
 
 msgid "mission_desc_event_april_fool_e_0008"
-msgstr "【데일리】악곡 중 하나를\\n스코어 랭크 SS로 3회 클리어"
+msgstr "【데일리】악곡 중 하나를\n스코어 랭크 SS로 3회 클리어"
 
 msgid "mission_desc2_event_april_fool_e_0008"
-msgstr "【데일리】악곡 중 하나를\\n스코어 랭크 SS로 3회 클리어"
+msgstr "【데일리】악곡 중 하나를\n스코어 랭크 SS로 3회 클리어"
 
 msgid "mission_desc_event_april_fool_e_0009"
-msgstr "【데일리】악곡 중 하나를\\n스코어 랭크 SS로 3회 클리어"
+msgstr "【데일리】악곡 중 하나를\n스코어 랭크 SS로 3회 클리어"
 
 msgid "mission_desc2_event_april_fool_e_0009"
-msgstr "【데일리】악곡 중 하나를\\n스코어 랭크 SS로 3회 클리어"
+msgstr "【데일리】악곡 중 하나를\n스코어 랭크 SS로 3회 클리어"
 
 msgid "mission_desc_event_april_fool_e_0010"
-msgstr "【데일리】악곡 중 하나를\\n스코어 랭크 SS로 3회 클리어"
+msgstr "【데일리】악곡 중 하나를\n스코어 랭크 SS로 3회 클리어"
 
 msgid "mission_desc2_event_april_fool_e_0010"
-msgstr "【데일리】악곡 중 하나를\\n스코어 랭크 SS로 3회 클리어"
+msgstr "【데일리】악곡 중 하나를\n스코어 랭크 SS로 3회 클리어"
 
 msgid "mission_desc_event_april_fool_e_0011"
-msgstr "【데일리】악곡 중 하나를\\n스코어 랭크 SS로 3회 클리어"
+msgstr "【데일리】악곡 중 하나를\n스코어 랭크 SS로 3회 클리어"
 
 msgid "mission_desc2_event_april_fool_e_0011"
-msgstr "【데일리】악곡 중 하나를\\n스코어 랭크 SS로 3회 클리어"
+msgstr "【데일리】악곡 중 하나를\n스코어 랭크 SS로 3회 클리어"
 
 msgid "mission_desc_event_april_fool_e_0012"
-msgstr "【데일리】악곡 중 하나를\\n스코어 랭크 SS로 3회 클리어"
+msgstr "【데일리】악곡 중 하나를\n스코어 랭크 SS로 3회 클리어"
 
 msgid "mission_desc2_event_april_fool_e_0012"
-msgstr "【데일리】악곡 중 하나를\\n스코어 랭크 SS로 3회 클리어"
+msgstr "【데일리】악곡 중 하나를\n스코어 랭크 SS로 3회 클리어"
 
 msgid "mission_desc_event_april_fool_e_0013"
-msgstr "【데일리】악곡 중 하나를\\n스코어 랭크 SS로 3회 클리어"
+msgstr "【데일리】악곡 중 하나를\n스코어 랭크 SS로 3회 클리어"
 
 msgid "mission_desc2_event_april_fool_e_0013"
-msgstr "【데일리】악곡 중 하나를\\n스코어 랭크 SS로 3회 클리어"
+msgstr "【데일리】악곡 중 하나를\n스코어 랭크 SS로 3회 클리어"
 
 msgid "mission_desc_event_april_fool_e_0014"
-msgstr "【데일리】악곡 중 하나를\\n스코어 랭크 SS로 3회 클리어"
+msgstr "【데일리】악곡 중 하나를\n스코어 랭크 SS로 3회 클리어"
 
 msgid "mission_desc2_event_april_fool_e_0014"
-msgstr "【데일리】악곡 중 하나를\\n스코어 랭크 SS로 3회 클리어"
+msgstr "【데일리】악곡 중 하나를\n스코어 랭크 SS로 3회 클리어"
 
 msgid "mission_desc_event_april_fool_e_0015"
-msgstr "【데일리】악곡 중 하나를\\n스코어 랭크 SS로 3회 클리어"
+msgstr "【데일리】악곡 중 하나를\n스코어 랭크 SS로 3회 클리어"
 
 msgid "mission_desc2_event_april_fool_e_0015"
-msgstr "【데일리】악곡 중 하나를\\n스코어 랭크 SS로 3회 클리어"
+msgstr "【데일리】악곡 중 하나를\n스코어 랭크 SS로 3회 클리어"
 
 msgid "mission_desc_event_april_fool_e_0016"
-msgstr "【데일리】악곡 중 하나를\\n스코어 랭크 SS로 3회 클리어"
+msgstr "【데일리】악곡 중 하나를\n스코어 랭크 SS로 3회 클리어"
 
 msgid "mission_desc2_event_april_fool_e_0016"
-msgstr "【데일리】악곡 중 하나를\\n스코어 랭크 SS로 3회 클리어"
+msgstr "【데일리】악곡 중 하나를\n스코어 랭크 SS로 3회 클리어"
 
 msgid "mission_desc_event_april_fool_e_0017"
 msgstr "악곡 중 하나를 20회 플레이"
@@ -523,202 +523,202 @@ msgid "mission_desc2_event_april_fool_e_0020"
 msgstr "악곡 중 하나를 150회 클리어"
 
 msgid "mission_desc_event_april_fool_e_0021"
-msgstr "프레이아를 센터로 설정하고\\n악곡 중 하나 10회 플레이"
+msgstr "프레이아를 센터로 설정하고\n악곡 중 하나 10회 플레이"
 
 msgid "mission_desc2_event_april_fool_e_0021"
-msgstr "프레이아를 센터로 설정하고\\n악곡 중 하나 10회 플레이"
+msgstr "프레이아를 센터로 설정하고\n악곡 중 하나 10회 플레이"
 
 msgid "mission_desc_event_april_fool_e_0022"
-msgstr "프레이아를 센터로 설정하고\\n악곡 중 하나 20회 플레이"
+msgstr "프레이아를 센터로 설정하고\n악곡 중 하나 20회 플레이"
 
 msgid "mission_desc2_event_april_fool_e_0022"
-msgstr "프레이아를 센터로 설정하고\\n악곡 중 하나 20회 플레이"
+msgstr "프레이아를 센터로 설정하고\n악곡 중 하나 20회 플레이"
 
 msgid "mission_desc_event_april_fool_e_0023"
-msgstr "프레이아를 센터로 설정하고\\n악곡 중 하나 30회 플레이"
+msgstr "프레이아를 센터로 설정하고\n악곡 중 하나 30회 플레이"
 
 msgid "mission_desc2_event_april_fool_e_0023"
-msgstr "프레이아를 센터로 설정하고\\n악곡 중 하나 30회 플레이"
+msgstr "프레이아를 센터로 설정하고\n악곡 중 하나 30회 플레이"
 
 msgid "mission_desc_event_april_fool_e_0024"
-msgstr "미쿠모를 센터로 설정하고\\n악곡 중 하나 10회 플레이"
+msgstr "미쿠모를 센터로 설정하고\n악곡 중 하나 10회 플레이"
 
 msgid "mission_desc2_event_april_fool_e_0024"
-msgstr "미쿠모를 센터로 설정하고\\n악곡 중 하나 10회 플레이"
+msgstr "미쿠모를 센터로 설정하고\n악곡 중 하나 10회 플레이"
 
 msgid "mission_desc_event_april_fool_e_0025"
-msgstr "미쿠모를 센터로 설정하고\\n악곡 중 하나 20회 플레이"
+msgstr "미쿠모를 센터로 설정하고\n악곡 중 하나 20회 플레이"
 
 msgid "mission_desc2_event_april_fool_e_0025"
-msgstr "미쿠모를 센터로 설정하고\\n악곡 중 하나 20회 플레이"
+msgstr "미쿠모를 센터로 설정하고\n악곡 중 하나 20회 플레이"
 
 msgid "mission_desc_event_april_fool_e_0026"
-msgstr "미쿠모를 센터로 설정하고\\n악곡 중 하나 30회 플레이"
+msgstr "미쿠모를 센터로 설정하고\n악곡 중 하나 30회 플레이"
 
 msgid "mission_desc2_event_april_fool_e_0026"
-msgstr "미쿠모를 센터로 설정하고\\n악곡 중 하나 30회 플레이"
+msgstr "미쿠모를 센터로 설정하고\n악곡 중 하나 30회 플레이"
 
 msgid "mission_desc_event_april_fool_e_0027"
-msgstr "카나메를 센터로 설정하고\\n악곡 중 하나 10회 플레이"
+msgstr "카나메를 센터로 설정하고\n악곡 중 하나 10회 플레이"
 
 msgid "mission_desc2_event_april_fool_e_0027"
-msgstr "카나메를 센터로 설정하고\\n악곡 중 하나 10회 플레이"
+msgstr "카나메를 센터로 설정하고\n악곡 중 하나 10회 플레이"
 
 msgid "mission_desc_event_april_fool_e_0028"
-msgstr "카나메를 센터로 설정하고\\n악곡 중 하나 20회 플레이"
+msgstr "카나메를 센터로 설정하고\n악곡 중 하나 20회 플레이"
 
 msgid "mission_desc2_event_april_fool_e_0028"
-msgstr "카나메를 센터로 설정하고\\n악곡 중 하나 20회 플레이"
+msgstr "카나메를 센터로 설정하고\n악곡 중 하나 20회 플레이"
 
 msgid "mission_desc_event_april_fool_e_0029"
-msgstr "카나메를 센터로 설정하고\\n악곡 중 하나 30회 플레이"
+msgstr "카나메를 센터로 설정하고\n악곡 중 하나 30회 플레이"
 
 msgid "mission_desc2_event_april_fool_e_0029"
-msgstr "카나메를 센터로 설정하고\\n악곡 중 하나 30회 플레이"
+msgstr "카나메를 센터로 설정하고\n악곡 중 하나 30회 플레이"
 
 msgid "mission_desc_event_april_fool_e_0030"
-msgstr "마키나를 센터로 설정하고\\n악곡 중 하나 10회 플레이"
+msgstr "마키나를 센터로 설정하고\n악곡 중 하나 10회 플레이"
 
 msgid "mission_desc2_event_april_fool_e_0030"
-msgstr "마키나를 센터로 설정하고\\n악곡 중 하나 10회 플레이"
+msgstr "마키나를 센터로 설정하고\n악곡 중 하나 10회 플레이"
 
 msgid "mission_desc_event_april_fool_e_0031"
-msgstr "마키나를 센터로 설정하고\\n악곡 중 하나 20회 플레이"
+msgstr "마키나를 센터로 설정하고\n악곡 중 하나 20회 플레이"
 
 msgid "mission_desc2_event_april_fool_e_0031"
-msgstr "마키나를 센터로 설정하고\\n악곡 중 하나 20회 플레이"
+msgstr "마키나를 센터로 설정하고\n악곡 중 하나 20회 플레이"
 
 msgid "mission_desc_event_april_fool_e_0032"
-msgstr "마키나를 센터로 설정하고\\n악곡 중 하나 30회 플레이"
+msgstr "마키나를 센터로 설정하고\n악곡 중 하나 30회 플레이"
 
 msgid "mission_desc2_event_april_fool_e_0032"
-msgstr "마키나를 센터로 설정하고\\n악곡 중 하나 30회 플레이"
+msgstr "마키나를 센터로 설정하고\n악곡 중 하나 30회 플레이"
 
 msgid "mission_desc_event_april_fool_e_0033"
-msgstr "레이나를 센터로 설정하고\\n악곡 중 하나 10회 플레이"
+msgstr "레이나를 센터로 설정하고\n악곡 중 하나 10회 플레이"
 
 msgid "mission_desc2_event_april_fool_e_0033"
-msgstr "레이나를 센터로 설정하고\\n악곡 중 하나 10회 플레이"
+msgstr "레이나를 센터로 설정하고\n악곡 중 하나 10회 플레이"
 
 msgid "mission_desc_event_april_fool_e_0034"
-msgstr "레이나를 센터로 설정하고\\n악곡 중 하나 20회 플레이"
+msgstr "레이나를 센터로 설정하고\n악곡 중 하나 20회 플레이"
 
 msgid "mission_desc2_event_april_fool_e_0034"
-msgstr "레이나를 센터로 설정하고\\n악곡 중 하나 20회 플레이"
+msgstr "레이나를 센터로 설정하고\n악곡 중 하나 20회 플레이"
 
 msgid "mission_desc_event_april_fool_e_0035"
-msgstr "레이나를 센터로 설정하고\\n악곡 중 하나 30회 플레이"
+msgstr "레이나를 센터로 설정하고\n악곡 중 하나 30회 플레이"
 
 msgid "mission_desc2_event_april_fool_e_0035"
-msgstr "레이나를 센터로 설정하고\\n악곡 중 하나 30회 플레이"
+msgstr "레이나를 센터로 설정하고\n악곡 중 하나 30회 플레이"
 
 msgid "mission_desc_event_april_fool_e_0036"
-msgstr "란카를 센터로 설정하고\\n악곡 중 하나 10회 플레이"
+msgstr "란카를 센터로 설정하고\n악곡 중 하나 10회 플레이"
 
 msgid "mission_desc2_event_april_fool_e_0036"
-msgstr "란카를 센터로 설정하고\\n악곡 중 하나 10회 플레이"
+msgstr "란카를 센터로 설정하고\n악곡 중 하나 10회 플레이"
 
 msgid "mission_desc_event_april_fool_e_0037"
-msgstr "란카를 센터로 설정하고\\n악곡 중 하나 20회 플레이"
+msgstr "란카를 센터로 설정하고\n악곡 중 하나 20회 플레이"
 
 msgid "mission_desc2_event_april_fool_e_0037"
-msgstr "란카를 센터로 설정하고\\n악곡 중 하나 20회 플레이"
+msgstr "란카를 센터로 설정하고\n악곡 중 하나 20회 플레이"
 
 msgid "mission_desc_event_april_fool_e_0038"
-msgstr "란카를 센터로 설정하고\\n악곡 중 하나 30회 플레이"
+msgstr "란카를 센터로 설정하고\n악곡 중 하나 30회 플레이"
 
 msgid "mission_desc2_event_april_fool_e_0038"
-msgstr "란카를 센터로 설정하고\\n악곡 중 하나 30회 플레이"
+msgstr "란카를 센터로 설정하고\n악곡 중 하나 30회 플레이"
 
 msgid "mission_desc_event_april_fool_e_0039"
-msgstr "셰릴을 센터로 설정하고\\n악곡 중 하나 10회 플레이"
+msgstr "셰릴을 센터로 설정하고\n악곡 중 하나 10회 플레이"
 
 msgid "mission_desc2_event_april_fool_e_0039"
-msgstr "셰릴을 센터로 설정하고\\n악곡 중 하나 10회 플레이"
+msgstr "셰릴을 센터로 설정하고\n악곡 중 하나 10회 플레이"
 
 msgid "mission_desc_event_april_fool_e_0040"
-msgstr "셰릴을 센터로 설정하고\\n악곡 중 하나 20회 플레이"
+msgstr "셰릴을 센터로 설정하고\n악곡 중 하나 20회 플레이"
 
 msgid "mission_desc2_event_april_fool_e_0040"
-msgstr "셰릴을 센터로 설정하고\\n악곡 중 하나 20회 플레이"
+msgstr "셰릴을 센터로 설정하고\n악곡 중 하나 20회 플레이"
 
 msgid "mission_desc_event_april_fool_e_0041"
-msgstr "셰릴을 센터로 설정하고\\n악곡 중 하나 30회 플레이"
+msgstr "셰릴을 센터로 설정하고\n악곡 중 하나 30회 플레이"
 
 msgid "mission_desc2_event_april_fool_e_0041"
-msgstr "셰릴을 센터로 설정하고\\n악곡 중 하나 30회 플레이"
+msgstr "셰릴을 센터로 설정하고\n악곡 중 하나 30회 플레이"
 
 msgid "mission_desc_event_april_fool_e_0042"
-msgstr "밀레느를 센터로 설정하고\\n악곡 중 하나 10회 플레이"
+msgstr "밀레느를 센터로 설정하고\n악곡 중 하나 10회 플레이"
 
 msgid "mission_desc2_event_april_fool_e_0042"
-msgstr "밀레느를 센터로 설정하고\\n악곡 중 하나 10회 플레이"
+msgstr "밀레느를 센터로 설정하고\n악곡 중 하나 10회 플레이"
 
 msgid "mission_desc_event_april_fool_e_0043"
-msgstr "밀레느를 센터로 설정하고\\n악곡 중 하나 20회 플레이"
+msgstr "밀레느를 센터로 설정하고\n악곡 중 하나 20회 플레이"
 
 msgid "mission_desc2_event_april_fool_e_0043"
-msgstr "밀레느를 센터로 설정하고\\n악곡 중 하나 20회 플레이"
+msgstr "밀레느를 센터로 설정하고\n악곡 중 하나 20회 플레이"
 
 msgid "mission_desc_event_april_fool_e_0044"
-msgstr "밀레느를 센터로 설정하고\\n악곡 중 하나 30회 플레이"
+msgstr "밀레느를 센터로 설정하고\n악곡 중 하나 30회 플레이"
 
 msgid "mission_desc2_event_april_fool_e_0044"
-msgstr "밀레느를 센터로 설정하고\\n악곡 중 하나 30회 플레이"
+msgstr "밀레느를 센터로 설정하고\n악곡 중 하나 30회 플레이"
 
 msgid "mission_desc_event_april_fool_e_0045"
-msgstr "바사라를 센터로 설정하고\\n악곡 중 하나 10회 플레이"
+msgstr "바사라를 센터로 설정하고\n악곡 중 하나 10회 플레이"
 
 msgid "mission_desc2_event_april_fool_e_0045"
-msgstr "바사라를 센터로 설정하고\\n악곡 중 하나 10회 플레이"
+msgstr "바사라를 센터로 설정하고\n악곡 중 하나 10회 플레이"
 
 msgid "mission_desc_event_april_fool_e_0046"
-msgstr "바사라를 센터로 설정하고\\n악곡 중 하나 20회 플레이"
+msgstr "바사라를 센터로 설정하고\n악곡 중 하나 20회 플레이"
 
 msgid "mission_desc2_event_april_fool_e_0046"
-msgstr "바사라를 센터로 설정하고\\n악곡 중 하나 20회 플레이"
+msgstr "바사라를 센터로 설정하고\n악곡 중 하나 20회 플레이"
 
 msgid "mission_desc_event_april_fool_e_0047"
-msgstr "바사라를 센터로 설정하고\\n악곡 중 하나 30회 플레이"
+msgstr "바사라를 센터로 설정하고\n악곡 중 하나 30회 플레이"
 
 msgid "mission_desc2_event_april_fool_e_0047"
-msgstr "바사라를 센터로 설정하고\\n악곡 중 하나 30회 플레이"
+msgstr "바사라를 센터로 설정하고\n악곡 중 하나 30회 플레이"
 
 msgid "mission_desc_event_april_fool_e_0048"
-msgstr "민메이를 센터로 설정하고\\n악곡 중 하나 10회 플레이"
+msgstr "민메이를 센터로 설정하고\n악곡 중 하나 10회 플레이"
 
 msgid "mission_desc2_event_april_fool_e_0048"
-msgstr "민메이를 센터로 설정하고\\n악곡 중 하나 10회 플레이"
+msgstr "민메이를 센터로 설정하고\n악곡 중 하나 10회 플레이"
 
 msgid "mission_desc_event_april_fool_e_0049"
-msgstr "민메이를 센터로 설정하고\\n악곡 중 하나 20회 플레이"
+msgstr "민메이를 센터로 설정하고\n악곡 중 하나 20회 플레이"
 
 msgid "mission_desc2_event_april_fool_e_0049"
-msgstr "민메이를 센터로 설정하고\\n악곡 중 하나 20회 플레이"
+msgstr "민메이를 센터로 설정하고\n악곡 중 하나 20회 플레이"
 
 msgid "mission_desc_event_april_fool_e_0050"
-msgstr "민메이를 센터로 설정하고\\n악곡 중 하나 30회 플레이"
+msgstr "민메이를 센터로 설정하고\n악곡 중 하나 30회 플레이"
 
 msgid "mission_desc2_event_april_fool_e_0050"
-msgstr "민메이를 센터로 설정하고\\n악곡 중 하나 30회 플레이"
+msgstr "민메이를 센터로 설정하고\n악곡 중 하나 30회 플레이"
 
 msgid "mission_desc_event_april_fool_f_0001"
-msgstr "【데일리】란카를 센터로 설정하고\\n「란카와 Brand New Peach」 1회 플레이"
+msgstr "【데일리】란카를 센터로 설정하고\n「란카와 Brand New Peach」 1회 플레이"
 
 msgid "mission_desc_event_april_fool_f_0002"
-msgstr "【데일리】란카를 센터로 설정하고\\n「란카와 Brand New Peach」 1회 플레이"
+msgstr "【데일리】란카를 센터로 설정하고\n「란카와 Brand New Peach」 1회 플레이"
 
 msgid "mission_desc_event_april_fool_f_0003"
-msgstr "【데일리】란카를 센터로 설정하고\\n「란카와 Brand New Peach」 1회 플레이"
+msgstr "【데일리】란카를 센터로 설정하고\n「란카와 Brand New Peach」 1회 플레이"
 
 msgid "mission_desc_event_april_fool_f_0004"
-msgstr "【데일리】란카를 센터로 설정하고\\n「란카와 Brand New Peach」 1회 플레이"
+msgstr "【데일리】란카를 센터로 설정하고\n「란카와 Brand New Peach」 1회 플레이"
 
 msgid "mission_desc_event_april_fool_f_0005"
-msgstr "【데일리】란카를 센터로 설정하고\\n「란카와 Brand New Peach」 1회 플레이"
+msgstr "【데일리】란카를 센터로 설정하고\n「란카와 Brand New Peach」 1회 플레이"
 
 msgid "mission_desc_event_april_fool_f_0006"
-msgstr "란카를 센터로 설정하고\\n악곡 중 하나 5회 플레이"
+msgstr "란카를 센터로 설정하고\n악곡 중 하나 5회 플레이"
 
 msgid "mission_desc_event_april_fool_f_0007"
 msgstr "【데일리】발키리 오퍼레이션 1회 클리어"
@@ -784,274 +784,274 @@ msgid "mission_desc_event_april_fool_f_0027"
 msgstr "초가희 모드에 돌입하여 악곡 100회 클리어"
 
 msgid "mission_desc_event_april_fool_f_0028"
-msgstr "초시공요새 마크로스의 난이도\\nHARD 이상 악곡 5회 클리어"
+msgstr "초시공요새 마크로스의 난이도\nHARD 이상 악곡 5회 클리어"
 
 msgid "mission_desc_event_april_fool_f_0029"
-msgstr "초시공요새 마크로스의 난이도\\nHARD 이상 악곡 10회 클리어"
+msgstr "초시공요새 마크로스의 난이도\nHARD 이상 악곡 10회 클리어"
 
 msgid "mission_desc_event_april_fool_f_0030"
-msgstr "초시공요새 마크로스의 난이도\\nHARD 이상 악곡 20회 클리어"
+msgstr "초시공요새 마크로스의 난이도\nHARD 이상 악곡 20회 클리어"
 
 msgid "mission_desc_event_april_fool_f_0031"
-msgstr "초시공요새 마크로스의 난이도\\nHARD 이상 악곡 30회 클리어"
+msgstr "초시공요새 마크로스의 난이도\nHARD 이상 악곡 30회 클리어"
 
 msgid "mission_desc_event_april_fool_f_0032"
-msgstr "마크로스7의 난이도\\nHARD 이상 악곡 5회 클리어"
+msgstr "마크로스7의 난이도\nHARD 이상 악곡 5회 클리어"
 
 msgid "mission_desc_event_april_fool_f_0033"
-msgstr "마크로스7의 난이도\\nHARD 이상 악곡 10회 클리어"
+msgstr "마크로스7의 난이도\nHARD 이상 악곡 10회 클리어"
 
 msgid "mission_desc_event_april_fool_f_0034"
-msgstr "마크로스7의 난이도\\nHARD 이상 악곡 20회 클리어"
+msgstr "마크로스7의 난이도\nHARD 이상 악곡 20회 클리어"
 
 msgid "mission_desc_event_april_fool_f_0035"
-msgstr "마크로스7의 난이도\\nHARD 이상 악곡 30회 클리어"
+msgstr "마크로스7의 난이도\nHARD 이상 악곡 30회 클리어"
 
 msgid "mission_desc_event_april_fool_f_0036"
-msgstr "마크로스F의 난이도\\nHARD 이상 악곡 5회 클리어"
+msgstr "마크로스F의 난이도\nHARD 이상 악곡 5회 클리어"
 
 msgid "mission_desc_event_april_fool_f_0037"
-msgstr "마크로스F의 난이도\\nHARD 이상 악곡 10회 클리어"
+msgstr "마크로스F의 난이도\nHARD 이상 악곡 10회 클리어"
 
 msgid "mission_desc_event_april_fool_f_0038"
-msgstr "마크로스F의 난이도\\nHARD 이상 악곡 20회 클리어"
+msgstr "마크로스F의 난이도\nHARD 이상 악곡 20회 클리어"
 
 msgid "mission_desc_event_april_fool_f_0039"
-msgstr "마크로스F의 난이도\\nHARD 이상 악곡 30회 클리어"
+msgstr "마크로스F의 난이도\nHARD 이상 악곡 30회 클리어"
 
 msgid "mission_desc_event_april_fool_f_0040"
-msgstr "마크로스Δ의 난이도\\nHARD 이상 악곡 5회 클리어"
+msgstr "마크로스Δ의 난이도\nHARD 이상 악곡 5회 클리어"
 
 msgid "mission_desc_event_april_fool_f_0041"
-msgstr "마크로스Δ의 난이도\\nHARD 이상 악곡 10회 클리어"
+msgstr "마크로스Δ의 난이도\nHARD 이상 악곡 10회 클리어"
 
 msgid "mission_desc_event_april_fool_f_0042"
-msgstr "마크로스Δ의 난이도\\nHARD 이상 악곡 20회 클리어"
+msgstr "마크로스Δ의 난이도\nHARD 이상 악곡 20회 클리어"
 
 msgid "mission_desc_event_april_fool_f_0043"
-msgstr "마크로스Δ의 난이도\\nHARD 이상 악곡 30회 클리어"
+msgstr "마크로스Δ의 난이도\nHARD 이상 악곡 30회 클리어"
 
 msgid "mission_desc_event_april_fool_g_0001"
-msgstr "아무 악곡의\\n난이도 NORMAL 이상을 풀콤보로 5회 클리어"
+msgstr "아무 악곡의\n난이도 NORMAL 이상을 풀콤보로 5회 클리어"
 
 msgid "mission_desc2_event_april_fool_g_0001"
-msgstr "어느 악곡이든 NORMAL\\n이상을 풀콤보로 5회 클리어"
+msgstr "어느 악곡이든 NORMAL\n이상을 풀콤보로 5회 클리어"
 
 msgid "mission_desc_event_april_fool_g_0002"
-msgstr "아무 악곡의\\n난이도 HARD 이상을 풀콤보로 5회 클리어"
+msgstr "아무 악곡의\n난이도 HARD 이상을 풀콤보로 5회 클리어"
 
 msgid "mission_desc2_event_april_fool_g_0002"
-msgstr "어느 악곡이든 HARD\\n이상을 풀콤보로 5회 클리어"
+msgstr "어느 악곡이든 HARD\n이상을 풀콤보로 5회 클리어"
 
 msgid "mission_desc_event_april_fool_g_0003"
-msgstr "아무 악곡의\\n난이도 VERY HARD 이상을 풀콤보로 5회 클리어"
+msgstr "아무 악곡의\n난이도 VERY HARD 이상을 풀콤보로 5회 클리어"
 
 msgid "mission_desc2_event_april_fool_g_0003"
-msgstr "어느 악곡이든 VERY HARD\\n이상을 풀콤보로 5회 클리어"
+msgstr "어느 악곡이든 VERY HARD\n이상을 풀콤보로 5회 클리어"
 
 msgid "mission_desc_event_april_fool_g_0004"
-msgstr "아무 악곡의\\n난이도 EXTREME을 풀콤보로 5회 클리어"
+msgstr "아무 악곡의\n난이도 EXTREME을 풀콤보로 5회 클리어"
 
 msgid "mission_desc2_event_april_fool_g_0004"
-msgstr "어느 악곡이든 EXTREME을\\n풀콤보로 5회 클리어"
+msgstr "어느 악곡이든 EXTREME을\n풀콤보로 5회 클리어"
 
 msgid "mission_desc_event_april_fool_g_0005"
-msgstr "【데일리】「SEVENTH MOON」\\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
+msgstr "【데일리】「SEVENTH MOON」\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_april_fool_g_0005"
-msgstr "「SEVENTH MOON」\\n의 NORMAL 이상을 풀콤보로 클리어"
+msgstr "「SEVENTH MOON」\n의 NORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_g_0006"
-msgstr "【데일리】「SEVENTH MOON」\\n의 난이도 HARD 이상을 풀콤보로 클리어"
+msgstr "【데일리】「SEVENTH MOON」\n의 난이도 HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_april_fool_g_0006"
-msgstr "「SEVENTH MOON」\\n의 HARD 이상을 풀콤보로 클리어"
+msgstr "「SEVENTH MOON」\n의 HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_g_0007"
-msgstr "【데일리】「SEVENTH MOON」\\n의 난이도 VERY HARD 이상을 풀콤보로 클리어"
+msgstr "【데일리】「SEVENTH MOON」\n의 난이도 VERY HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_april_fool_g_0007"
-msgstr "「SEVENTH MOON」\\n의 VERY HARD 이상을 풀콤보로 클리어"
+msgstr "「SEVENTH MOON」\n의 VERY HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_g_0008"
-msgstr "【데일리】「SEVENTH MOON」\\n의 난이도 EXTREME을 풀콤보로 클리어"
+msgstr "【데일리】「SEVENTH MOON」\n의 난이도 EXTREME을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_april_fool_g_0008"
-msgstr "「SEVENTH MOON」\\n의 EXTREME을 풀콤보로 클리어"
+msgstr "「SEVENTH MOON」\n의 EXTREME을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_g_0009"
-msgstr "【데일리】「돌격 러브하트 [Duet Version]」\\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
+msgstr "【데일리】「돌격 러브하트 [Duet Version]」\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_april_fool_g_0009"
-msgstr "「돌격 러브하트 [Duet Version]」\\n의 NORMAL 이상을 풀콤보로 클리어"
+msgstr "「돌격 러브하트 [Duet Version]」\n의 NORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_g_0010"
-msgstr "【데일리】「돌격 러브하트 [Duet Version]」\\n의 난이도 HARD 이상을 풀콤보로 클리어"
+msgstr "【데일리】「돌격 러브하트 [Duet Version]」\n의 난이도 HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_april_fool_g_0010"
-msgstr "「돌격 러브하트 [Duet Version]」\\n의 HARD 이상을 풀콤보로 클리어"
+msgstr "「돌격 러브하트 [Duet Version]」\n의 HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_g_0011"
-msgstr "【데일리】「돌격 러브하트 [Duet Version]」\\n의 난이도 VERY HARD 이상을 풀콤보로 클리어"
+msgstr "【데일리】「돌격 러브하트 [Duet Version]」\n의 난이도 VERY HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_april_fool_g_0011"
-msgstr "「돌격 러브하트 [Duet Version]」\\n의 VERY HARD 이상을 풀콤보로 클리어"
+msgstr "「돌격 러브하트 [Duet Version]」\n의 VERY HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_g_0012"
-msgstr "【데일리】「돌격 러브하트 [Duet Version]」\\n의 난이도 EXTREME을 풀콤보로 클리어"
+msgstr "【데일리】「돌격 러브하트 [Duet Version]」\n의 난이도 EXTREME을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_april_fool_g_0012"
-msgstr "「돌격 러브하트 [Duet Version]」\\n의 EXTREME을 풀콤보로 클리어"
+msgstr "「돌격 러브하트 [Duet Version]」\n의 EXTREME을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_g_0013"
-msgstr "【데일리】「TRY AGAIN」\\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
+msgstr "【데일리】「TRY AGAIN」\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_april_fool_g_0013"
-msgstr "「TRY AGAIN」\\n의 NORMAL 이상을 풀콤보로 클리어"
+msgstr "「TRY AGAIN」\n의 NORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_g_0014"
-msgstr "【데일리】「TRY AGAIN」\\n의 난이도 HARD 이상을 풀콤보로 클리어"
+msgstr "【데일리】「TRY AGAIN」\n의 난이도 HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_april_fool_g_0014"
-msgstr "「TRY AGAIN」\\n의 HARD 이상을 풀콤보로 클리어"
+msgstr "「TRY AGAIN」\n의 HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_g_0015"
-msgstr "【데일리】「TRY AGAIN」\\n의 난이도 VERY HARD 이상을 풀콤보로 클리어"
+msgstr "【데일리】「TRY AGAIN」\n의 난이도 VERY HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_april_fool_g_0015"
-msgstr "「TRY AGAIN」\\n의 VERY HARD 이상을 풀콤보로 클리어"
+msgstr "「TRY AGAIN」\n의 VERY HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_g_0016"
-msgstr "【데일리】「TRY AGAIN」\\n의 난이도 EXTREME을 풀콤보로 클리어"
+msgstr "【데일리】「TRY AGAIN」\n의 난이도 EXTREME을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_april_fool_g_0016"
-msgstr "「TRY AGAIN」\\n의 EXTREME을 풀콤보로 클리어"
+msgstr "「TRY AGAIN」\n의 EXTREME을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_g_0017"
-msgstr "【데일리】「DYNAMITE EXPLOSION」\\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
+msgstr "【데일리】「DYNAMITE EXPLOSION」\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_april_fool_g_0017"
-msgstr "「DYNAMITE EXPLOSION」\\n의 NORMAL 이상을 풀콤보로 클리어"
+msgstr "「DYNAMITE EXPLOSION」\n의 NORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_g_0018"
-msgstr "【데일리】「DYNAMITE EXPLOSION」\\n의 난이도 HARD 이상을 풀콤보로 클리어"
+msgstr "【데일리】「DYNAMITE EXPLOSION」\n의 난이도 HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_april_fool_g_0018"
-msgstr "「DYNAMITE EXPLOSION」\\n의 HARD 이상을 풀콤보로 클리어"
+msgstr "「DYNAMITE EXPLOSION」\n의 HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_g_0019"
-msgstr "【데일리】「DYNAMITE EXPLOSION」\\n의 난이도 VERY HARD 이상을 풀콤보로 클리어"
+msgstr "【데일리】「DYNAMITE EXPLOSION」\n의 난이도 VERY HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_april_fool_g_0019"
-msgstr "「DYNAMITE EXPLOSION」\\n의 VERY HARD 이상을 풀콤보로 클리어"
+msgstr "「DYNAMITE EXPLOSION」\n의 VERY HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_g_0020"
-msgstr "【데일리】「DYNAMITE EXPLOSION」\\n의 난이도 EXTREME을 풀콤보로 클리어"
+msgstr "【데일리】「DYNAMITE EXPLOSION」\n의 난이도 EXTREME을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_april_fool_g_0020"
-msgstr "「DYNAMITE EXPLOSION」\\n의 EXTREME을 풀콤보로 클리어"
+msgstr "「DYNAMITE EXPLOSION」\n의 EXTREME을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_g_0021"
-msgstr "【데일리】「버진 스토리」\\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
+msgstr "【데일리】「버진 스토리」\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_april_fool_g_0021"
-msgstr "「버진 스토리」\\n의 NORMAL 이상을 풀콤보로 클리어"
+msgstr "「버진 스토리」\n의 NORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_g_0022"
-msgstr "【데일리】「버진 스토리」\\n의 난이도 HARD 이상을 풀콤보로 클리어"
+msgstr "【데일리】「버진 스토리」\n의 난이도 HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_april_fool_g_0022"
-msgstr "「버진 스토리」\\n의 HARD 이상을 풀콤보로 클리어"
+msgstr "「버진 스토리」\n의 HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_g_0023"
-msgstr "【데일리】「버진 스토리」\\n의 난이도 VERY HARD 이상을 풀콤보로 클리어"
+msgstr "【데일리】「버진 스토리」\n의 난이도 VERY HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_april_fool_g_0023"
-msgstr "「버진 스토리」\\n의 VERY HARD 이상을 풀콤보로 클리어"
+msgstr "「버진 스토리」\n의 VERY HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_g_0024"
-msgstr "【데일리】「버진 스토리」\\n의 난이도 EXTREME을 풀콤보로 클리어"
+msgstr "【데일리】「버진 스토리」\n의 난이도 EXTREME을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_april_fool_g_0024"
-msgstr "「버진 스토리」\\n의 EXTREME을 풀콤보로 클리어"
+msgstr "「버진 스토리」\n의 EXTREME을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_g_0025"
-msgstr "난이도 VERY HARD 이상의 곡을\\n풀콤보로 1회 클리어"
+msgstr "난이도 VERY HARD 이상의 곡을\n풀콤보로 1회 클리어"
 
 msgid "mission_desc_event_april_fool_g_0026"
-msgstr "난이도 VERY HARD 이상의 곡을\\n풀콤보로 3회 클리어"
+msgstr "난이도 VERY HARD 이상의 곡을\n풀콤보로 3회 클리어"
 
 msgid "mission_desc_event_april_fool_g_0027"
-msgstr "난이도 VERY HARD 이상의 곡을\\n풀콤보로 5회 클리어"
+msgstr "난이도 VERY HARD 이상의 곡을\n풀콤보로 5회 클리어"
 
 msgid "mission_desc_event_april_fool_g_0028"
-msgstr "난이도 VERY HARD 이상의 곡을\\n풀콤보로 10회 클리어"
+msgstr "난이도 VERY HARD 이상의 곡을\n풀콤보로 10회 클리어"
 
 msgid "mission_desc_event_april_fool_g_0029"
-msgstr "난이도 VERY HARD 이상의 곡을\\n풀콤보로 20회 클리어"
+msgstr "난이도 VERY HARD 이상의 곡을\n풀콤보로 20회 클리어"
 
 msgid "mission_desc_event_april_fool_g_0030"
-msgstr "난이도 VERY HARD 이상의 곡을\\n스코어 랭크 SS로 6회 클리어"
+msgstr "난이도 VERY HARD 이상의 곡을\n스코어 랭크 SS로 6회 클리어"
 
 msgid "mission_desc_event_april_fool_g_0031"
-msgstr "난이도 VERY HARD 이상의 곡을\\n스코어 랭크 SS로 10회 클리어"
+msgstr "난이도 VERY HARD 이상의 곡을\n스코어 랭크 SS로 10회 클리어"
 
 msgid "mission_desc_event_april_fool_g_0032"
-msgstr "난이도 VERY HARD 이상의 곡을\\n스코어 랭크 SS로 20회 클리어"
+msgstr "난이도 VERY HARD 이상의 곡을\n스코어 랭크 SS로 20회 클리어"
 
 msgid "mission_desc_event_april_fool_g_0033"
-msgstr "난이도 EXTREME의 곡을\\n스코어 랭크 SS로 6회 클리어"
+msgstr "난이도 EXTREME의 곡을\n스코어 랭크 SS로 6회 클리어"
 
 msgid "mission_desc_event_april_fool_g_0034"
-msgstr "난이도 EXTREME의 곡을\\n스코어 랭크 SS로 10회 클리어"
+msgstr "난이도 EXTREME의 곡을\n스코어 랭크 SS로 10회 클리어"
 
 msgid "mission_desc_event_april_fool_g_0035"
-msgstr "난이도 EXTREME의 악곡을\\n스코어 랭크 SS로 20회 클리어"
+msgstr "난이도 EXTREME의 악곡을\n스코어 랭크 SS로 20회 클리어"
 
 msgid "mission_desc_event_april_fool_g_0036"
-msgstr "난이도 EXTREME의 악곡을\\n스코어 랭크 SS로 30회 클리어"
+msgstr "난이도 EXTREME의 악곡을\n스코어 랭크 SS로 30회 클리어"
 
 msgid "mission_desc_event_april_fool_g_0037"
-msgstr "난이도 EXTREME의 곡을\\n스코어 랭크 SS로 40회 클리어"
+msgstr "난이도 EXTREME의 곡을\n스코어 랭크 SS로 40회 클리어"
 
 msgid "mission_desc_event_april_fool_g_0038"
-msgstr "난이도 EXTREME의 악곡을\\n스코어 랭크 SS로 50회 클리어"
+msgstr "난이도 EXTREME의 악곡을\n스코어 랭크 SS로 50회 클리어"
 
 msgid "mission_desc_event_april_fool_g_0039"
-msgstr "난이도 EXTREME의 악곡을\\n스코어 랭크 SS로 60회 클리어"
+msgstr "난이도 EXTREME의 악곡을\n스코어 랭크 SS로 60회 클리어"
 
 msgid "mission_desc_event_april_fool_g_0040"
-msgstr "난이도 EXTREME의 악곡을\\n풀콤보로 10회 클리어"
+msgstr "난이도 EXTREME의 악곡을\n풀콤보로 10회 클리어"
 
 msgid "mission_desc_event_april_fool_g_0041"
-msgstr "난이도 EXTREME의 곡을\\n풀콤보로 20회 클리어"
+msgstr "난이도 EXTREME의 곡을\n풀콤보로 20회 클리어"
 
 msgid "mission_desc_event_april_fool_g_0042"
-msgstr "별 속성의 곡을\\n스코어 100만 이상으로 클리어"
+msgstr "별 속성의 곡을\n스코어 100만 이상으로 클리어"
 
 msgid "mission_desc_event_april_fool_g_0043"
-msgstr "별 속성의 곡을\\n스코어 150만 이상으로 클리어"
+msgstr "별 속성의 곡을\n스코어 150만 이상으로 클리어"
 
 msgid "mission_desc_event_april_fool_g_0044"
-msgstr "별 속성의 곡을\\n스코어 300만 이상으로 클리어"
+msgstr "별 속성의 곡을\n스코어 300만 이상으로 클리어"
 
 msgid "mission_desc_event_april_fool_g_0045"
-msgstr "사랑 속성의 곡을\\n스코어 100만 이상으로 클리어"
+msgstr "사랑 속성의 곡을\n스코어 100만 이상으로 클리어"
 
 msgid "mission_desc_event_april_fool_g_0046"
-msgstr "사랑 속성의 곡을\\n스코어 150만 이상으로 클리어"
+msgstr "사랑 속성의 곡을\n스코어 150만 이상으로 클리어"
 
 msgid "mission_desc_event_april_fool_g_0047"
-msgstr "사랑 속성의 곡을\\n스코어 300만 이상으로 클리어"
+msgstr "사랑 속성의 곡을\n스코어 300만 이상으로 클리어"
 
 msgid "mission_desc_event_april_fool_g_0048"
-msgstr "생명 속성의 곡을\\n스코어 100만 이상으로 클리어"
+msgstr "생명 속성의 곡을\n스코어 100만 이상으로 클리어"
 
 msgid "mission_desc_event_april_fool_g_0049"
-msgstr "생명 속성의 곡을\\n스코어 150만 이상으로 클리어"
+msgstr "생명 속성의 곡을\n스코어 150만 이상으로 클리어"
 
 msgid "mission_desc_event_april_fool_g_0050"
-msgstr "생명 속성의 곡을\\n스코어 300만 이상으로 클리어"
+msgstr "생명 속성의 곡을\n스코어 300만 이상으로 클리어"
 
 msgid "mission_desc_event_april_fool_h_0001"
 msgstr "만우절 이벤트를 1회 클리어"
@@ -1060,142 +1060,142 @@ msgid "mission_desc2_event_april_fool_h_0001"
 msgstr "만우절 이벤트를 1회 클리어"
 
 msgid "mission_desc_event_april_fool_h_0002"
-msgstr "아무 악곡의\\n난이도 HARD 이상을 풀콤보로 5회 클리어"
+msgstr "아무 악곡의\n난이도 HARD 이상을 풀콤보로 5회 클리어"
 
 msgid "mission_desc2_event_april_fool_h_0002"
-msgstr "어느 악곡이든 HARD\\n이상을 풀콤보로 5회 클리어"
+msgstr "어느 악곡이든 HARD\n이상을 풀콤보로 5회 클리어"
 
 msgid "mission_desc_event_april_fool_h_0003"
-msgstr "아무 악곡의\\n난이도 VERY HARD 이상을 풀콤보로 5회 클리어"
+msgstr "아무 악곡의\n난이도 VERY HARD 이상을 풀콤보로 5회 클리어"
 
 msgid "mission_desc2_event_april_fool_h_0003"
-msgstr "어느 악곡이든 VERY HARD\\n이상을 풀콤보로 5회 클리어"
+msgstr "어느 악곡이든 VERY HARD\n이상을 풀콤보로 5회 클리어"
 
 msgid "mission_desc_event_april_fool_h_0004"
-msgstr "아무 악곡의\\n난이도 EXTREME을 풀콤보로 5회 클리어"
+msgstr "아무 악곡의\n난이도 EXTREME을 풀콤보로 5회 클리어"
 
 msgid "mission_desc2_event_april_fool_h_0004"
-msgstr "어느 악곡이든 EXTREME을\\n풀콤보로 5회 클리어"
+msgstr "어느 악곡이든 EXTREME을\n풀콤보로 5회 클리어"
 
 msgid "mission_desc_event_april_fool_h_0005"
-msgstr "【데일리】「왈큐레가 멈추지 않아」\\n난이도 NORMAL 이상을 풀콤보로 클리어"
+msgstr "【데일리】「왈큐레가 멈추지 않아」\n난이도 NORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_april_fool_h_0005"
-msgstr "【데일리】「왈큐레가 멈추지 않아」\\nNORMAL 이상을 풀콤보로 클리어"
+msgstr "【데일리】「왈큐레가 멈추지 않아」\nNORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_h_0006"
-msgstr "【데일리】「왈큐레가 멈추지 않아」\\n난이도 HARD 이상을 풀콤보로 클리어"
+msgstr "【데일리】「왈큐레가 멈추지 않아」\n난이도 HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_april_fool_h_0006"
-msgstr "【데일리】「왈큐레가 멈추지 않아」\\nHARD 이상을 풀콤보로 클리어"
+msgstr "【데일리】「왈큐레가 멈추지 않아」\nHARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_h_0007"
-msgstr "【데일리】「왈큐레가 멈추지 않아」\\n난이도 VERY HARD 이상을 풀콤보로 클리어"
+msgstr "【데일리】「왈큐레가 멈추지 않아」\n난이도 VERY HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_april_fool_h_0007"
-msgstr "【데일리】「왈큐레가 멈추지 않아」\\nVERY HARD 이상을 풀콤보로 클리어"
+msgstr "【데일리】「왈큐레가 멈추지 않아」\nVERY HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_h_0008"
-msgstr "【데일리】「왈큐레가 멈추지 않아」\\n난이도 EXTREME을 풀콤보로 클리어"
+msgstr "【데일리】「왈큐레가 멈추지 않아」\n난이도 EXTREME을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_april_fool_h_0008"
-msgstr "【데일리】「왈큐레가 멈추지 않아」\\nEXTREME을 풀콤보로 클리어"
+msgstr "【데일리】「왈큐레가 멈추지 않아」\nEXTREME을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_h_0009"
-msgstr "【데일리】「룬이 반짝하고 빛나면」\\n난이도 NORMAL 이상을 풀콤보로 클리어"
+msgstr "【데일리】「룬이 반짝하고 빛나면」\n난이도 NORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_april_fool_h_0009"
-msgstr "【데일리】「룬이 반짝하고 빛나면」\\nNORMAL 이상을 풀콤보로 클리어"
+msgstr "【데일리】「룬이 반짝하고 빛나면」\nNORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_h_0010"
-msgstr "【데일리】「룬이 반짝하고 빛나면」\\n난이도 HARD 이상을 풀콤보로 클리어"
+msgstr "【데일리】「룬이 반짝하고 빛나면」\n난이도 HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_april_fool_h_0010"
-msgstr "【데일리】「룬이 반짝하고 빛나면」\\nHARD 이상을 풀콤보로 클리어"
+msgstr "【데일리】「룬이 반짝하고 빛나면」\nHARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_h_0011"
-msgstr "【데일리】「룬이 반짝하고 빛나면」\\n난이도 VERY HARD 이상을 풀콤보로 클리어"
+msgstr "【데일리】「룬이 반짝하고 빛나면」\n난이도 VERY HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_april_fool_h_0011"
-msgstr "【데일리】「룬이 반짝하고 빛나면」\\nVERY HARD 이상을 풀콤보로 클리어"
+msgstr "【데일리】「룬이 반짝하고 빛나면」\nVERY HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_h_0012"
-msgstr "【데일리】「룬이 반짝하고 빛나면」\\n난이도 EXTREME을 풀콤보로 클리어"
+msgstr "【데일리】「룬이 반짝하고 빛나면」\n난이도 EXTREME을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_april_fool_h_0012"
-msgstr "【데일리】「룬이 반짝하고 빛나면」\\nEXTREME을 풀콤보로 클리어"
+msgstr "【데일리】「룬이 반짝하고 빛나면」\nEXTREME을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_h_0013"
-msgstr "【데일리】「Silent Hacker」\\n난이도 NORMAL 이상을 풀콤보로 클리어"
+msgstr "【데일리】「Silent Hacker」\n난이도 NORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_april_fool_h_0013"
-msgstr "【데일리】「Silent Hacker」\\nNORMAL 이상을 풀콤보로 클리어"
+msgstr "【데일리】「Silent Hacker」\nNORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_h_0014"
-msgstr "【데일리】「Silent Hacker」\\n난이도 HARD 이상을 풀콤보로 클리어"
+msgstr "【데일리】「Silent Hacker」\n난이도 HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_april_fool_h_0014"
-msgstr "【데일리】「Silent Hacker」\\nHARD 이상을 풀콤보로 클리어"
+msgstr "【데일리】「Silent Hacker」\nHARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_h_0015"
-msgstr "【데일리】「Silent Hacker」\\n난이도 VERY HARD 이상을 풀콤보로 클리어"
+msgstr "【데일리】「Silent Hacker」\n난이도 VERY HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_april_fool_h_0015"
-msgstr "【데일리】「Silent Hacker」\\nVERY HARD 이상을 풀콤보로 클리어"
+msgstr "【데일리】「Silent Hacker」\nVERY HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_h_0016"
-msgstr "【데일리】「Silent Hacker」\\n난이도 EXTREME을 풀콤보로 클리어"
+msgstr "【데일리】「Silent Hacker」\n난이도 EXTREME을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_april_fool_h_0016"
-msgstr "【데일리】「Silent Hacker」\\nEXTREME을 풀콤보로 클리어"
+msgstr "【데일리】「Silent Hacker」\nEXTREME을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_h_0017"
-msgstr "【데일리】「단 한 번의 사랑이라면」\\n난이도 NORMAL 이상을 풀콤보로 클리어"
+msgstr "【데일리】「단 한 번의 사랑이라면」\n난이도 NORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_april_fool_h_0017"
-msgstr "【데일리】「단 한 번의 사랑이라면」\\nNORMAL 이상을 풀콤보로 클리어"
+msgstr "【데일리】「단 한 번의 사랑이라면」\nNORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_h_0018"
-msgstr "【데일리】「단 한 번의 사랑이라면」\\n난이도 HARD 이상을 풀콤보로 클리어"
+msgstr "【데일리】「단 한 번의 사랑이라면」\n난이도 HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_april_fool_h_0018"
-msgstr "【데일리】「단 한 번의 사랑이라면」\\nHARD 이상을 풀콤보로 클리어"
+msgstr "【데일리】「단 한 번의 사랑이라면」\nHARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_h_0019"
-msgstr "【데일리】「단 한 번의 사랑이라면」\\n난이도 VERY HARD 이상을 풀콤보로 클리어"
+msgstr "【데일리】「단 한 번의 사랑이라면」\n난이도 VERY HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_april_fool_h_0019"
-msgstr "【데일리】「단 한 번의 사랑이라면」\\nVERY HARD 이상을 풀콤보로 클리어"
+msgstr "【데일리】「단 한 번의 사랑이라면」\nVERY HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_h_0020"
-msgstr "【데일리】「단 한 번의 사랑이라면」\\n난이도 EXTREME을 풀콤보로 클리어"
+msgstr "【데일리】「단 한 번의 사랑이라면」\n난이도 EXTREME을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_april_fool_h_0020"
-msgstr "【데일리】「단 한 번의 사랑이라면」\\nEXTREME을 풀콤보로 클리어"
+msgstr "【데일리】「단 한 번의 사랑이라면」\nEXTREME을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_h_0021"
-msgstr "【데일리】「룬에 꽃피는 사랑도 있다」\\n난이도 NORMAL 이상을 풀콤보로 클리어"
+msgstr "【데일리】「룬에 꽃피는 사랑도 있다」\n난이도 NORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_april_fool_h_0021"
-msgstr "【데일리】「룬에 꽃피는 사랑도 있다」\\nNORMAL 이상을 풀콤보로 클리어"
+msgstr "【데일리】「룬에 꽃피는 사랑도 있다」\nNORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_h_0022"
-msgstr "【데일리】「룬에 꽃피는 사랑도 있다」\\n난이도 HARD 이상을 풀콤보로 클리어"
+msgstr "【데일리】「룬에 꽃피는 사랑도 있다」\n난이도 HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_april_fool_h_0022"
-msgstr "【데일리】「룬에 꽃피는 사랑도 있다」\\nHARD 이상을 풀콤보로 클리어"
+msgstr "【데일리】「룬에 꽃피는 사랑도 있다」\nHARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_h_0023"
-msgstr "【데일리】「룬에 꽃피는 사랑도 있다」\\n난이도 VERY HARD 이상을 풀콤보로 클리어"
+msgstr "【데일리】「룬에 꽃피는 사랑도 있다」\n난이도 VERY HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_april_fool_h_0023"
-msgstr "【데일리】「룬에 꽃피는 사랑도 있다」\\nVERY HARD 이상을 풀콤보로 클리어"
+msgstr "【데일리】「룬에 꽃피는 사랑도 있다」\nVERY HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_h_0024"
-msgstr "【데일리】「룬에 꽃피는 사랑도 있다」\\n난이도 EXTREME을 풀콤보로 클리어"
+msgstr "【데일리】「룬에 꽃피는 사랑도 있다」\n난이도 EXTREME을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_april_fool_h_0024"
-msgstr "【데일리】「룬에 꽃피는 사랑도 있다」\\nEXTREME을 풀콤보로 클리어"
+msgstr "【데일리】「룬에 꽃피는 사랑도 있다」\nEXTREME을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_i_0001"
 msgstr "악곡을 스코어 100만 이상으로 클리어"
@@ -1339,37 +1339,37 @@ msgid "mission_desc_event_april_fool_i_0047"
 msgstr "악곡을 스코어 1500만 이상으로 클리어"
 
 msgid "mission_desc_event_battle_a_0001"
-msgstr "【데일리】라이벌과 대결하여\\n악곡 클리어"
+msgstr "【데일리】라이벌과 대결하여\n악곡 클리어"
 
 msgid "mission_desc_event_battle_a_0002"
-msgstr "【데일리】라이벌과 대결하여\\n악곡 클리어"
+msgstr "【데일리】라이벌과 대결하여\n악곡 클리어"
 
 msgid "mission_desc_event_battle_a_0003"
-msgstr "【데일리】라이벌과 대결하여\\n악곡 클리어"
+msgstr "【데일리】라이벌과 대결하여\n악곡 클리어"
 
 msgid "mission_desc_event_battle_a_0004"
-msgstr "【데일리】라이벌과 대결하여\\n악곡 클리어"
+msgstr "【데일리】라이벌과 대결하여\n악곡 클리어"
 
 msgid "mission_desc_event_battle_a_0005"
-msgstr "【데일리】라이벌과 대결하여\\n악곡 클리어"
+msgstr "【데일리】라이벌과 대결하여\n악곡 클리어"
 
 msgid "mission_desc_event_battle_a_0006"
-msgstr "【데일리】라이벌과 대결하여\\n악곡 클리어"
+msgstr "【데일리】라이벌과 대결하여\n악곡 클리어"
 
 msgid "mission_desc_event_battle_a_0007"
-msgstr "【데일리】라이벌과 대결하여\\n악곡 클리어"
+msgstr "【데일리】라이벌과 대결하여\n악곡 클리어"
 
 msgid "mission_desc_event_battle_a_0008"
-msgstr "【데일리】라이벌과 대결하여\\n악곡 클리어"
+msgstr "【데일리】라이벌과 대결하여\n악곡 클리어"
 
 msgid "mission_desc_event_battle_a_0009"
-msgstr "【데일리】라이벌과 대결하여\\n악곡 클리어"
+msgstr "【데일리】라이벌과 대결하여\n악곡 클리어"
 
 msgid "mission_desc_event_battle_a_0010"
-msgstr "이벤트 악곡 「오벨리스크」\\n5회 클리어"
+msgstr "이벤트 악곡 「오벨리스크」\n5회 클리어"
 
 msgid "mission_desc_event_battle_a_0011"
-msgstr "이벤트 악곡 「오벨리스크」\\n10회 클리어"
+msgstr "이벤트 악곡 「오벨리스크」\n10회 클리어"
 
 msgid "mission_desc_event_battle_a_0012"
 msgstr "S 라이벌과 대결하여 3번 승리"
@@ -1378,43 +1378,43 @@ msgid "mission_desc_event_battle_a_0013"
 msgstr "S 라이벌과 대결하여 10번 승리"
 
 msgid "mission_desc_event_battle_a_0014"
-msgstr "이벤트 악곡 「Absolute 5」\\n5회 클리어"
+msgstr "이벤트 악곡 「Absolute 5」\n5회 클리어"
 
 msgid "mission_desc_event_battle_a_0015"
-msgstr "이벤트 악곡 「HOLY LONELY LIGHT [Duet Version]」\\n5회 클리어"
+msgstr "이벤트 악곡 「HOLY LONELY LIGHT [Duet Version]」\n5회 클리어"
 
 msgid "mission_desc_event_battle_a_0016"
-msgstr "이벤트 악곡「오벨리스크」\\n스코어 50만 이상으로 클리어"
+msgstr "이벤트 악곡「오벨리스크」\n스코어 50만 이상으로 클리어"
 
 msgid "mission_desc_event_battle_a_0017"
-msgstr "이벤트 악곡「오벨리스크」\\n스코어 60만 이상으로 클리어"
+msgstr "이벤트 악곡「오벨리스크」\n스코어 60만 이상으로 클리어"
 
 msgid "mission_desc_event_battle_a_0018"
-msgstr "이벤트 악곡「오벨리스크」\\n스코어 70만 이상으로 클리어"
+msgstr "이벤트 악곡「오벨리스크」\n스코어 70만 이상으로 클리어"
 
 msgid "mission_desc_event_battle_a_0019"
-msgstr "이벤트 악곡「오벨리스크」\\n스코어 85만 이상으로 클리어"
+msgstr "이벤트 악곡「오벨리스크」\n스코어 85만 이상으로 클리어"
 
 msgid "mission_desc_event_battle_a_0020"
-msgstr "이벤트 악곡「오벨리스크」\\n스코어 100만 이상으로 클리어"
+msgstr "이벤트 악곡「오벨리스크」\n스코어 100만 이상으로 클리어"
 
 msgid "mission_desc_event_battle_a_0021"
-msgstr "이벤트 악곡「오벨리스크」\\n스코어 120만 이상으로 클리어"
+msgstr "이벤트 악곡「오벨리스크」\n스코어 120만 이상으로 클리어"
 
 msgid "mission_desc_event_battle_a_0022"
-msgstr "이벤트 악곡 「오벨리스크」\\n난이도 EASY 이상 풀콤보로 클리어"
+msgstr "이벤트 악곡 「오벨리스크」\n난이도 EASY 이상 풀콤보로 클리어"
 
 msgid "mission_desc_event_battle_a_0023"
-msgstr "이벤트 악곡 「오벨리스크」\\n난이도 NORMAL 이상 풀콤보로 클리어"
+msgstr "이벤트 악곡 「오벨리스크」\n난이도 NORMAL 이상 풀콤보로 클리어"
 
 msgid "mission_desc_event_battle_a_0024"
-msgstr "이벤트 악곡 「오벨리스크」\\n난이도 HARD 이상 풀콤보로 클리어"
+msgstr "이벤트 악곡 「오벨리스크」\n난이도 HARD 이상 풀콤보로 클리어"
 
 msgid "mission_desc_event_battle_a_0025"
-msgstr "이벤트 악곡 「오벨리스크」\\n난이도 VERY HARD 이상 풀콤보로 클리어"
+msgstr "이벤트 악곡 「오벨리스크」\n난이도 VERY HARD 이상 풀콤보로 클리어"
 
 msgid "mission_desc_event_battle_a_0026"
-msgstr "이벤트 악곡 「오벨리스크」\\n난이도 EXTREME 풀콤보로 클리어"
+msgstr "이벤트 악곡 「오벨리스크」\n난이도 EXTREME 풀콤보로 클리어"
 
 msgid "mission_desc_event_battle_a_0027"
 msgstr "라이벌과 대결하여 악곡 10회 클리어"
@@ -1459,37 +1459,37 @@ msgid "mission_desc_event_battle_a_0040"
 msgstr "【데일리】EX 라이벌에게 승리"
 
 msgid "mission_desc_event_battle_a_0041"
-msgstr "이벤트 「초시공 파이널 Live ~Act.3~」\\n미션 20개 클리어"
+msgstr "이벤트 「초시공 파이널 Live ~Act.3~」\n미션 20개 클리어"
 
 msgid "event_banner_event_battle_a_0001"
 msgstr "이벤트에 참여하여 에피소드 플레이트 교환권을 GET!"
 
 msgid "mission_desc_event_battle_b_0001"
-msgstr "【데일리】라이벌과 대결하여\\n악곡 클리어"
+msgstr "【데일리】라이벌과 대결하여\n악곡 클리어"
 
 msgid "mission_desc_event_battle_b_0002"
-msgstr "【데일리】라이벌과 대결하여\\n악곡 클리어"
+msgstr "【데일리】라이벌과 대결하여\n악곡 클리어"
 
 msgid "mission_desc_event_battle_b_0003"
-msgstr "【데일리】라이벌과 대결하여\\n악곡 클리어"
+msgstr "【데일리】라이벌과 대결하여\n악곡 클리어"
 
 msgid "mission_desc_event_battle_b_0004"
-msgstr "【데일리】라이벌과 대결하여\\n악곡 클리어"
+msgstr "【데일리】라이벌과 대결하여\n악곡 클리어"
 
 msgid "mission_desc_event_battle_b_0005"
-msgstr "【데일리】라이벌과 대결하여\\n악곡 클리어"
+msgstr "【데일리】라이벌과 대결하여\n악곡 클리어"
 
 msgid "mission_desc_event_battle_b_0006"
-msgstr "【데일리】라이벌과 대결하여\\n악곡 클리어"
+msgstr "【데일리】라이벌과 대결하여\n악곡 클리어"
 
 msgid "mission_desc_event_battle_b_0007"
-msgstr "【데일리】라이벌과 대결하여\\n악곡 클리어"
+msgstr "【데일리】라이벌과 대결하여\n악곡 클리어"
 
 msgid "mission_desc_event_battle_b_0008"
-msgstr "【데일리】라이벌과 대결하여\\n악곡 클리어"
+msgstr "【데일리】라이벌과 대결하여\n악곡 클리어"
 
 msgid "mission_desc_event_battle_b_0009"
-msgstr "【데일리】라이벌과 대결하여\\n악곡 클리어"
+msgstr "【데일리】라이벌과 대결하여\n악곡 클리어"
 
 msgid "mission_desc_event_battle_b_0010"
 msgstr "【데일리】EX 라이벌에게 승리"
@@ -1519,10 +1519,10 @@ msgid "mission_desc_event_battle_b_0018"
 msgstr "【데일리】EX 라이벌에게 승리"
 
 msgid "mission_desc_event_battle_b_0019"
-msgstr "이벤트 악곡 「만날 수 없을 때」\\n5회 클리어"
+msgstr "이벤트 악곡 「만날 수 없을 때」\n5회 클리어"
 
 msgid "mission_desc_event_battle_b_0020"
-msgstr "이벤트 악곡 「만날 수 없을 때」\\n10회 클리어"
+msgstr "이벤트 악곡 「만날 수 없을 때」\n10회 클리어"
 
 msgid "mission_desc_event_battle_b_0021"
 msgstr "S 라이벌과 대결하여 3번 승리"
@@ -1531,43 +1531,43 @@ msgid "mission_desc_event_battle_b_0022"
 msgstr "S 라이벌과 대결하여 10번 승리"
 
 msgid "mission_desc_event_battle_b_0023"
-msgstr "이벤트 악곡 「오벨리스크」\\n5회 클리어"
+msgstr "이벤트 악곡 「오벨리스크」\n5회 클리어"
 
 msgid "mission_desc_event_battle_b_0024"
-msgstr "이벤트 악곡 「인피니티」\\n5회 클리어"
+msgstr "이벤트 악곡 「인피니티」\n5회 클리어"
 
 msgid "mission_desc_event_battle_b_0025"
-msgstr "이벤트 악곡 「만날 수 없을 때」\\n스코어 50만 이상으로 클리어"
+msgstr "이벤트 악곡 「만날 수 없을 때」\n스코어 50만 이상으로 클리어"
 
 msgid "mission_desc_event_battle_b_0026"
-msgstr "이벤트 악곡 「만날 수 없을 때」\\n스코어 60만점 이상으로 클리어"
+msgstr "이벤트 악곡 「만날 수 없을 때」\n스코어 60만점 이상으로 클리어"
 
 msgid "mission_desc_event_battle_b_0027"
-msgstr "이벤트 악곡 「만날 수 없을 때」\\n스코어 70만점 이상으로 클리어"
+msgstr "이벤트 악곡 「만날 수 없을 때」\n스코어 70만점 이상으로 클리어"
 
 msgid "mission_desc_event_battle_b_0028"
-msgstr "이벤트 악곡 「만날 수 없을 때」\\n스코어 85만점 이상으로 클리어"
+msgstr "이벤트 악곡 「만날 수 없을 때」\n스코어 85만점 이상으로 클리어"
 
 msgid "mission_desc_event_battle_b_0029"
-msgstr "이벤트 악곡 「만날 수 없을 때」\\n스코어 100만점 이상으로 클리어"
+msgstr "이벤트 악곡 「만날 수 없을 때」\n스코어 100만점 이상으로 클리어"
 
 msgid "mission_desc_event_battle_b_0030"
-msgstr "이벤트 악곡 「만날 수 없을 때」\\n스코어 120만점 이상으로 클리어"
+msgstr "이벤트 악곡 「만날 수 없을 때」\n스코어 120만점 이상으로 클리어"
 
 msgid "mission_desc_event_battle_b_0031"
-msgstr "이벤트 악곡 「만날 수 없을 때」\\n난이도 EASY 이상 풀콤보로 클리어"
+msgstr "이벤트 악곡 「만날 수 없을 때」\n난이도 EASY 이상 풀콤보로 클리어"
 
 msgid "mission_desc_event_battle_b_0032"
-msgstr "이벤트 악곡 「만날 수 없을 때」\\n난이도 NORMAL 이상 풀콤보로 클리어"
+msgstr "이벤트 악곡 「만날 수 없을 때」\n난이도 NORMAL 이상 풀콤보로 클리어"
 
 msgid "mission_desc_event_battle_b_0033"
-msgstr "이벤트 악곡 「만날 수 없을 때」\\n난이도 HARD 이상 풀콤보로 클리어"
+msgstr "이벤트 악곡 「만날 수 없을 때」\n난이도 HARD 이상 풀콤보로 클리어"
 
 msgid "mission_desc_event_battle_b_0034"
-msgstr "이벤트 악곡 「만날 수 없을 때」\\n난이도 VERY HARD 이상 풀콤보로 클리어"
+msgstr "이벤트 악곡 「만날 수 없을 때」\n난이도 VERY HARD 이상 풀콤보로 클리어"
 
 msgid "mission_desc_event_battle_b_0035"
-msgstr "이벤트 악곡 「만날 수 없을 때」\\n난이도 EXTREME 풀콤보로 클리어"
+msgstr "이벤트 악곡 「만날 수 없을 때」\n난이도 EXTREME 풀콤보로 클리어"
 
 msgid "mission_desc_event_battle_b_0036"
 msgstr "라이벌과 대결하여 악곡 10회 클리어"
@@ -1585,43 +1585,43 @@ msgid "mission_desc_event_battle_b_0040"
 msgstr "라이벌과 대결하여 악곡 30회 클리어"
 
 msgid "mission_desc_event_battle_b_0041"
-msgstr "이벤트 「만날 수 없을 때의 Valentine」\\n미션 20개 클리어"
+msgstr "이벤트 「만날 수 없을 때의 Valentine」\n미션 20개 클리어"
 
 msgid "event_banner_event_battle_b_0001"
 msgstr "이벤트에 참가해서 데카르 가챠를 10회 뽑자!"
 
 msgid "mission_desc_event_battle_c_0001"
-msgstr "【데일리】라이벌과 대결하여\\n악곡 클리어"
+msgstr "【데일리】라이벌과 대결하여\n악곡 클리어"
 
 msgid "mission_desc_event_battle_c_0002"
-msgstr "【데일리】라이벌과 대결하여\\n악곡 클리어"
+msgstr "【데일리】라이벌과 대결하여\n악곡 클리어"
 
 msgid "mission_desc_event_battle_c_0003"
-msgstr "【데일리】라이벌과 대결하여\\n악곡 클리어"
+msgstr "【데일리】라이벌과 대결하여\n악곡 클리어"
 
 msgid "mission_desc_event_battle_c_0004"
-msgstr "【데일리】라이벌과 대결하여\\n악곡 클리어"
+msgstr "【데일리】라이벌과 대결하여\n악곡 클리어"
 
 msgid "mission_desc_event_battle_c_0005"
-msgstr "【데일리】라이벌과 대결하여\\n악곡 클리어"
+msgstr "【데일리】라이벌과 대결하여\n악곡 클리어"
 
 msgid "mission_desc_event_battle_c_0006"
-msgstr "【데일리】라이벌과 대결하여\\n악곡 클리어"
+msgstr "【데일리】라이벌과 대결하여\n악곡 클리어"
 
 msgid "mission_desc_event_battle_c_0007"
-msgstr "【데일리】라이벌과 대결하여\\n악곡 클리어"
+msgstr "【데일리】라이벌과 대결하여\n악곡 클리어"
 
 msgid "mission_desc_event_battle_c_0008"
-msgstr "【데일리】라이벌과 대결하여\\n악곡 클리어"
+msgstr "【데일리】라이벌과 대결하여\n악곡 클리어"
 
 msgid "mission_desc_event_battle_c_0009"
-msgstr "【데일리】라이벌과 대결하여\\n악곡 클리어"
+msgstr "【데일리】라이벌과 대결하여\n악곡 클리어"
 
 msgid "mission_desc_event_battle_c_0010"
-msgstr "이벤트 악곡 「NEVER SAY DIE」\\n5회 클리어"
+msgstr "이벤트 악곡 「NEVER SAY DIE」\n5회 클리어"
 
 msgid "mission_desc_event_battle_c_0011"
-msgstr "이벤트 악곡 「NEVER SAY DIE」\\n10회 클리어"
+msgstr "이벤트 악곡 「NEVER SAY DIE」\n10회 클리어"
 
 msgid "mission_desc_event_battle_c_0012"
 msgstr "S 라이벌과 대결하여 3번 승리"
@@ -1630,43 +1630,43 @@ msgid "mission_desc_event_battle_c_0013"
 msgstr "S 라이벌과 대결하여 10번 승리"
 
 msgid "mission_desc_event_battle_c_0014"
-msgstr "이벤트 악곡 「SEVENTH MOON」\\n5회 클리어"
+msgstr "이벤트 악곡 「SEVENTH MOON」\n5회 클리어"
 
 msgid "mission_desc_event_battle_c_0015"
-msgstr "이벤트 악곡 「…하지만 베이비!!」\\n5회 클리어"
+msgstr "이벤트 악곡 「…하지만 베이비!!」\n5회 클리어"
 
 msgid "mission_desc_event_battle_c_0016"
-msgstr "이벤트 악곡 「NEVER SAY DIE」\\n스코어 50만 이상으로 클리어"
+msgstr "이벤트 악곡 「NEVER SAY DIE」\n스코어 50만 이상으로 클리어"
 
 msgid "mission_desc_event_battle_c_0017"
-msgstr "이벤트 악곡 「NEVER SAY DIE」\\n스코어 60만 이상으로 클리어"
+msgstr "이벤트 악곡 「NEVER SAY DIE」\n스코어 60만 이상으로 클리어"
 
 msgid "mission_desc_event_battle_c_0018"
-msgstr "이벤트 악곡 「NEVER SAY DIE」\\n스코어 70만 이상으로 클리어"
+msgstr "이벤트 악곡 「NEVER SAY DIE」\n스코어 70만 이상으로 클리어"
 
 msgid "mission_desc_event_battle_c_0019"
-msgstr "이벤트 악곡 「NEVER SAY DIE」\\n스코어 85만 이상으로 클리어"
+msgstr "이벤트 악곡 「NEVER SAY DIE」\n스코어 85만 이상으로 클리어"
 
 msgid "mission_desc_event_battle_c_0020"
-msgstr "이벤트 악곡 「NEVER SAY DIE」\\n스코어 100만 이상으로 클리어"
+msgstr "이벤트 악곡 「NEVER SAY DIE」\n스코어 100만 이상으로 클리어"
 
 msgid "mission_desc_event_battle_c_0021"
-msgstr "이벤트 악곡 「NEVER SAY DIE」\\n스코어 120만 이상으로 클리어"
+msgstr "이벤트 악곡 「NEVER SAY DIE」\n스코어 120만 이상으로 클리어"
 
 msgid "mission_desc_event_battle_c_0022"
-msgstr "이벤트 악곡 「NEVER SAY DIE」\\n난이도 EASY 이상 풀콤보로 클리어"
+msgstr "이벤트 악곡 「NEVER SAY DIE」\n난이도 EASY 이상 풀콤보로 클리어"
 
 msgid "mission_desc_event_battle_c_0023"
-msgstr "이벤트 악곡 「NEVER SAY DIE」\\n난이도 NORMAL 이상 풀콤보로 클리어"
+msgstr "이벤트 악곡 「NEVER SAY DIE」\n난이도 NORMAL 이상 풀콤보로 클리어"
 
 msgid "mission_desc_event_battle_c_0024"
-msgstr "이벤트 악곡 「NEVER SAY DIE」\\n난이도 HARD 이상 풀콤보로 클리어"
+msgstr "이벤트 악곡 「NEVER SAY DIE」\n난이도 HARD 이상 풀콤보로 클리어"
 
 msgid "mission_desc_event_battle_c_0025"
-msgstr "이벤트 악곡 「NEVER SAY DIE」\\n난이도 VERY HARD 이상 풀콤보로 클리어"
+msgstr "이벤트 악곡 「NEVER SAY DIE」\n난이도 VERY HARD 이상 풀콤보로 클리어"
 
 msgid "mission_desc_event_battle_c_0026"
-msgstr "이벤트 악곡 「NEVER SAY DIE」\\n난이도 EXTREME 풀콤보로 클리어"
+msgstr "이벤트 악곡 「NEVER SAY DIE」\n난이도 EXTREME 풀콤보로 클리어"
 
 msgid "mission_desc_event_battle_c_0027"
 msgstr "라이벌과 대결하여 악곡 10회 클리어"
@@ -1711,37 +1711,37 @@ msgid "mission_desc_event_battle_c_0040"
 msgstr "【데일리】EX 라이벌에게 승리"
 
 msgid "mission_desc_event_battle_c_0041"
-msgstr "이벤트 「불어오는 바람 ~NEVER SAY DIE~」\\n미션 20개 클리어"
+msgstr "이벤트 「불어오는 바람 ~NEVER SAY DIE~」\n미션 20개 클리어"
 
 msgid "event_banner_event_battle_c_0001"
 msgstr "이벤트에 참가해서 데카르 가챠를 10회 뽑자!"
 
 msgid "mission_desc_event_collection_a_0001"
-msgstr "【데일리】초시공 LIVE 티켓을 사용하여\\n이벤트 악곡 클리어"
+msgstr "【데일리】초시공 LIVE 티켓을 사용하여\n이벤트 악곡 클리어"
 
 msgid "mission_desc_event_collection_a_0002"
-msgstr "【데일리】초시공 LIVE 티켓을 사용하여\\n이벤트 악곡 클리어"
+msgstr "【데일리】초시공 LIVE 티켓을 사용하여\n이벤트 악곡 클리어"
 
 msgid "mission_desc_event_collection_a_0003"
-msgstr "【데일리】초시공 LIVE 티켓을 사용하여\\n이벤트 악곡 클리어"
+msgstr "【데일리】초시공 LIVE 티켓을 사용하여\n이벤트 악곡 클리어"
 
 msgid "mission_desc_event_collection_a_0004"
-msgstr "【데일리】초시공 LIVE 티켓을 사용하여\\n이벤트 악곡 클리어"
+msgstr "【데일리】초시공 LIVE 티켓을 사용하여\n이벤트 악곡 클리어"
 
 msgid "mission_desc_event_collection_a_0005"
-msgstr "【데일리】초시공 LIVE 티켓을 사용하여\\n이벤트 악곡 클리어"
+msgstr "【데일리】초시공 LIVE 티켓을 사용하여\n이벤트 악곡 클리어"
 
 msgid "mission_desc_event_collection_a_0006"
-msgstr "【데일리】초시공 LIVE 티켓을 사용하여\\n이벤트 악곡 클리어"
+msgstr "【데일리】초시공 LIVE 티켓을 사용하여\n이벤트 악곡 클리어"
 
 msgid "mission_desc_event_collection_a_0007"
-msgstr "【데일리】초시공 LIVE 티켓을 사용하여\\n이벤트 악곡 클리어"
+msgstr "【데일리】초시공 LIVE 티켓을 사용하여\n이벤트 악곡 클리어"
 
 msgid "mission_desc_event_collection_a_0008"
-msgstr "【데일리】초시공 LIVE 티켓을 사용하여\\n이벤트 악곡 클리어"
+msgstr "【데일리】초시공 LIVE 티켓을 사용하여\n이벤트 악곡 클리어"
 
 msgid "mission_desc_event_collection_a_0009"
-msgstr "【데일리】초시공 LIVE 티켓을 사용하여\\n이벤트 악곡 클리어"
+msgstr "【데일리】초시공 LIVE 티켓을 사용하여\n이벤트 악곡 클리어"
 
 msgid "mission_desc_event_collection_a_0010"
 msgstr "이벤트 악곡 총 10회 클리어"
@@ -1759,85 +1759,85 @@ msgid "mission_desc_event_collection_a_0014"
 msgstr "이벤트 악곡 총 30회 클리어"
 
 msgid "mission_desc_event_collection_a_0015"
-msgstr "이벤트 악곡「마크로스」\\n스코어 랭크 S 이상으로 5회 클리어"
+msgstr "이벤트 악곡「마크로스」\n스코어 랭크 S 이상으로 5회 클리어"
 
 msgid "mission_desc2_event_collection_a_0015"
-msgstr "「마크로스」\\n스코어 랭크 S 이상으로 5회 클리어"
+msgstr "「마크로스」\n스코어 랭크 S 이상으로 5회 클리어"
 
 msgid "mission_desc_event_collection_a_0016"
-msgstr "이벤트 악곡「마크로스」\\n스코어 랭크 SS로 10회 클리어"
+msgstr "이벤트 악곡「마크로스」\n스코어 랭크 SS로 10회 클리어"
 
 msgid "mission_desc2_event_collection_a_0016"
-msgstr "「마크로스」\\n스코어 랭크 SS로 10회 클리어"
+msgstr "「마크로스」\n스코어 랭크 SS로 10회 클리어"
 
 msgid "mission_desc_event_collection_a_0017"
-msgstr "이벤트 곡 「절대영도θ노바틱」\\n을 스코어 랭크 S 이상으로 5회 클리어"
+msgstr "이벤트 곡 「절대영도θ노바틱」\n을 스코어 랭크 S 이상으로 5회 클리어"
 
 msgid "mission_desc_event_collection_a_0018"
-msgstr "이벤트 곡 「절대영도θ노바틱」\\n을 스코어 랭크 SS로 10회 클리어"
+msgstr "이벤트 곡 「절대영도θ노바틱」\n을 스코어 랭크 SS로 10회 클리어"
 
 msgid "mission_desc_event_collection_a_0019"
-msgstr "이벤트 곡 「트라이앵글러（fight on stage）」\\n를 스코어 랭크 S 이상으로 5회 클리어"
+msgstr "이벤트 곡 「트라이앵글러（fight on stage）」\n를 스코어 랭크 S 이상으로 5회 클리어"
 
 msgid "mission_desc_event_collection_a_0020"
-msgstr "이벤트 곡 「트라이앵글러（fight on stage）」\\n를 스코어 랭크 SS로 10회 클리어"
+msgstr "이벤트 곡 「트라이앵글러（fight on stage）」\n를 스코어 랭크 SS로 10회 클리어"
 
 msgid "mission_desc_event_collection_a_0021"
-msgstr "이벤트 곡 「SEVENTH MOON」\\n을 스코어 랭크 S 이상으로 5회 클리어"
+msgstr "이벤트 곡 「SEVENTH MOON」\n을 스코어 랭크 S 이상으로 5회 클리어"
 
 msgid "mission_desc_event_collection_a_0022"
-msgstr "이벤트 곡 「SEVENTH MOON」\\n을 스코어 랭크 SS로 10회 클리어"
+msgstr "이벤트 곡 「SEVENTH MOON」\n을 스코어 랭크 SS로 10회 클리어"
 
 msgid "mission_desc_event_collection_a_0023"
-msgstr "이벤트 곡 「마크로스」\\n를 스코어 70만 이상으로 클리어"
+msgstr "이벤트 곡 「마크로스」\n를 스코어 70만 이상으로 클리어"
 
 msgid "mission_desc2_event_collection_a_0023"
-msgstr "「마크로스」\\n를 스코어 70만 이상으로 클리어"
+msgstr "「마크로스」\n를 스코어 70만 이상으로 클리어"
 
 msgid "mission_desc_event_collection_a_0024"
-msgstr "이벤트 곡 「마크로스」\\n를 스코어 85만 이상으로 클리어"
+msgstr "이벤트 곡 「마크로스」\n를 스코어 85만 이상으로 클리어"
 
 msgid "mission_desc2_event_collection_a_0024"
-msgstr "「마크로스」\\n를 스코어 85만 이상으로 클리어"
+msgstr "「마크로스」\n를 스코어 85만 이상으로 클리어"
 
 msgid "mission_desc_event_collection_a_0025"
-msgstr "이벤트 곡 「마크로스」\\n를 스코어 100만 이상으로 클리어"
+msgstr "이벤트 곡 「마크로스」\n를 스코어 100만 이상으로 클리어"
 
 msgid "mission_desc2_event_collection_a_0025"
-msgstr "「마크로스」\\n를 스코어 100만 이상으로 클리어"
+msgstr "「마크로스」\n를 스코어 100만 이상으로 클리어"
 
 msgid "mission_desc_event_collection_a_0026"
-msgstr "이벤트 곡 「마크로스」\\n를 스코어 115만 이상으로 클리어"
+msgstr "이벤트 곡 「마크로스」\n를 스코어 115만 이상으로 클리어"
 
 msgid "mission_desc2_event_collection_a_0026"
-msgstr "「마크로스」\\n를 스코어 115만 이상으로 클리어"
+msgstr "「마크로스」\n를 스코어 115만 이상으로 클리어"
 
 msgid "mission_desc_event_collection_a_0027"
-msgstr "이벤트 곡 「마크로스」\\n를 스코어 130만 이상으로 클리어"
+msgstr "이벤트 곡 「마크로스」\n를 스코어 130만 이상으로 클리어"
 
 msgid "mission_desc2_event_collection_a_0027"
-msgstr "「마크로스」\\n를 스코어 130만 이상으로 클리어"
+msgstr "「마크로스」\n를 스코어 130만 이상으로 클리어"
 
 msgid "mission_desc_event_collection_a_0028"
-msgstr "이벤트 곡 「마크로스」\\n를 스코어 140만 이상으로 클리어"
+msgstr "이벤트 곡 「마크로스」\n를 스코어 140만 이상으로 클리어"
 
 msgid "mission_desc2_event_collection_a_0028"
-msgstr "「마크로스」\\n를 스코어 140만 이상으로 클리어"
+msgstr "「마크로스」\n를 스코어 140만 이상으로 클리어"
 
 msgid "mission_desc_event_collection_a_0029"
-msgstr "이벤트 악곡「마크로스」\\n난이도 EASY 이상을 풀콤보로 클리어"
+msgstr "이벤트 악곡「마크로스」\n난이도 EASY 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_collection_a_0030"
-msgstr "이벤트 악곡「마크로스」\\n난이도 NORMAL 이상을 풀콤보로 클리어"
+msgstr "이벤트 악곡「마크로스」\n난이도 NORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_collection_a_0031"
-msgstr "이벤트 악곡「마크로스」\\n난이도 HARD 이상을 풀콤보로 클리어"
+msgstr "이벤트 악곡「마크로스」\n난이도 HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_collection_a_0032"
-msgstr "이벤트 곡 「마크로스」\\n의 난이도 VERY HARD 이상을 풀콤보로 클리어"
+msgstr "이벤트 곡 「마크로스」\n의 난이도 VERY HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_collection_a_0033"
-msgstr "이벤트 곡 「마크로스」\\n의 난이도 EXTREME을 풀콤보로 클리어"
+msgstr "이벤트 곡 「마크로스」\n의 난이도 EXTREME을 풀콤보로 클리어"
 
 msgid "mission_desc_event_collection_a_0034"
 msgstr "【데일리】악곡 3회 클리어"
@@ -1867,37 +1867,37 @@ msgid "mission_desc_event_collection_a_0042"
 msgstr "【데일리】악곡 3회 클리어"
 
 msgid "mission_desc_event_collection_a_0043"
-msgstr "이벤트「초시공 파이널 Live ～Act.1～」\\n미션 20개 클리어"
+msgstr "이벤트「초시공 파이널 Live ～Act.1～」\n미션 20개 클리어"
 
 msgid "event_banner_event_collection_a_0001"
 msgstr "이벤트에 참여하여 에피소드 플레이트 교환권을 GET!"
 
 msgid "mission_desc_event_collection_b_0001"
-msgstr "【데일리】초시공 LIVE 티켓을 사용하여\\n이벤트 악곡 클리어"
+msgstr "【데일리】초시공 LIVE 티켓을 사용하여\n이벤트 악곡 클리어"
 
 msgid "mission_desc_event_collection_b_0002"
-msgstr "【데일리】초시공 LIVE 티켓을 사용하여\\n이벤트 악곡 클리어"
+msgstr "【데일리】초시공 LIVE 티켓을 사용하여\n이벤트 악곡 클리어"
 
 msgid "mission_desc_event_collection_b_0003"
-msgstr "【데일리】초시공 LIVE 티켓을 사용하여\\n이벤트 악곡 클리어"
+msgstr "【데일리】초시공 LIVE 티켓을 사용하여\n이벤트 악곡 클리어"
 
 msgid "mission_desc_event_collection_b_0004"
-msgstr "【데일리】초시공 LIVE 티켓을 사용하여\\n이벤트 악곡 클리어"
+msgstr "【데일리】초시공 LIVE 티켓을 사용하여\n이벤트 악곡 클리어"
 
 msgid "mission_desc_event_collection_b_0005"
-msgstr "【데일리】초시공 LIVE 티켓을 사용하여\\n이벤트 악곡 클리어"
+msgstr "【데일리】초시공 LIVE 티켓을 사용하여\n이벤트 악곡 클리어"
 
 msgid "mission_desc_event_collection_b_0006"
-msgstr "【데일리】초시공 LIVE 티켓을 사용하여\\n이벤트 악곡 클리어"
+msgstr "【데일리】초시공 LIVE 티켓을 사용하여\n이벤트 악곡 클리어"
 
 msgid "mission_desc_event_collection_b_0007"
-msgstr "【데일리】초시공 LIVE 티켓을 사용하여\\n이벤트 악곡 클리어"
+msgstr "【데일리】초시공 LIVE 티켓을 사용하여\n이벤트 악곡 클리어"
 
 msgid "mission_desc_event_collection_b_0008"
-msgstr "【데일리】초시공 LIVE 티켓을 사용하여\\n이벤트 악곡 클리어"
+msgstr "【데일리】초시공 LIVE 티켓을 사용하여\n이벤트 악곡 클리어"
 
 msgid "mission_desc_event_collection_b_0009"
-msgstr "【데일리】초시공 LIVE 티켓을 사용하여\\n이벤트 악곡 클리어"
+msgstr "【데일리】초시공 LIVE 티켓을 사용하여\n이벤트 악곡 클리어"
 
 msgid "mission_desc_event_collection_b_0010"
 msgstr "이벤트 악곡 총 10회 클리어"
@@ -1915,55 +1915,55 @@ msgid "mission_desc_event_collection_b_0014"
 msgstr "이벤트 악곡 총 30회 클리어"
 
 msgid "mission_desc_event_collection_b_0015"
-msgstr "이벤트 악곡 「사랑의 마법」\\n스코어 랭크 S 이상으로 5회 클리어"
+msgstr "이벤트 악곡 「사랑의 마법」\n스코어 랭크 S 이상으로 5회 클리어"
 
 msgid "mission_desc_event_collection_b_0016"
-msgstr "이벤트 악곡 「사랑의 마법」\\n스코어 랭크 SS로 10회 클리어"
+msgstr "이벤트 악곡 「사랑의 마법」\n스코어 랭크 SS로 10회 클리어"
 
 msgid "mission_desc_event_collection_b_0017"
-msgstr "이벤트 악곡 「LIGHT THE LIGHT」\\n스코어 랭크 S 이상으로 5회 클리어"
+msgstr "이벤트 악곡 「LIGHT THE LIGHT」\n스코어 랭크 S 이상으로 5회 클리어"
 
 msgid "mission_desc_event_collection_b_0018"
-msgstr "이벤트 악곡 「LIGHT THE LIGHT」\\n스코어 랭크 SS로 10회 클리어"
+msgstr "이벤트 악곡 「LIGHT THE LIGHT」\n스코어 랭크 SS로 10회 클리어"
 
 msgid "mission_desc_event_collection_b_0019"
-msgstr "이벤트 곡 「HEART & SOUL」\\n을 스코어 랭크 S 이상으로 5회 클리어"
+msgstr "이벤트 곡 「HEART & SOUL」\n을 스코어 랭크 S 이상으로 5회 클리어"
 
 msgid "mission_desc_event_collection_b_0020"
-msgstr "이벤트 곡 「HEART & SOUL」\\n을 스코어 랭크 SS로 10회 클리어"
+msgstr "이벤트 곡 「HEART & SOUL」\n을 스코어 랭크 SS로 10회 클리어"
 
 msgid "mission_desc_event_collection_b_0021"
-msgstr "이벤트 곡 「사랑의 마법」\\n을 스코어 70만 이상으로 클리어"
+msgstr "이벤트 곡 「사랑의 마법」\n을 스코어 70만 이상으로 클리어"
 
 msgid "mission_desc_event_collection_b_0022"
-msgstr "이벤트 곡 「사랑의 마법」\\n을 스코어 85만 이상으로 클리어"
+msgstr "이벤트 곡 「사랑의 마법」\n을 스코어 85만 이상으로 클리어"
 
 msgid "mission_desc_event_collection_b_0023"
-msgstr "이벤트 곡 「사랑의 마법」\\n을 스코어 100만 이상으로 클리어"
+msgstr "이벤트 곡 「사랑의 마법」\n을 스코어 100만 이상으로 클리어"
 
 msgid "mission_desc_event_collection_b_0024"
-msgstr "이벤트 곡 「사랑의 마법」\\n을 스코어 115만 이상으로 클리어"
+msgstr "이벤트 곡 「사랑의 마법」\n을 스코어 115만 이상으로 클리어"
 
 msgid "mission_desc_event_collection_b_0025"
-msgstr "이벤트 곡 「사랑의 마법」\\n을 스코어 130만 이상으로 클리어"
+msgstr "이벤트 곡 「사랑의 마법」\n을 스코어 130만 이상으로 클리어"
 
 msgid "mission_desc_event_collection_b_0026"
-msgstr "이벤트 곡 「사랑의 마법」\\n을 스코어 140만 이상으로 클리어"
+msgstr "이벤트 곡 「사랑의 마법」\n을 스코어 140만 이상으로 클리어"
 
 msgid "mission_desc_event_collection_b_0027"
-msgstr "이벤트 곡 「사랑의 마법」\\n의 난이도 EASY 이상을 풀콤보로 클리어"
+msgstr "이벤트 곡 「사랑의 마법」\n의 난이도 EASY 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_collection_b_0028"
-msgstr "이벤트 곡 「사랑의 마법」\\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
+msgstr "이벤트 곡 「사랑의 마법」\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_collection_b_0029"
-msgstr "이벤트 곡 「사랑의 마법」\\n의 난이도 HARD 이상을 풀콤보로 클리어"
+msgstr "이벤트 곡 「사랑의 마법」\n의 난이도 HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_collection_b_0030"
-msgstr "이벤트 악곡 「사랑의 마법」\\n난이도 VERY HARD 이상을 풀콤보로 클리어"
+msgstr "이벤트 악곡 「사랑의 마법」\n난이도 VERY HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_collection_b_0031"
-msgstr "이벤트 악곡 「사랑의 마법」\\n난이도 EXTREME을 풀콤보로 클리어"
+msgstr "이벤트 악곡 「사랑의 마법」\n난이도 EXTREME을 풀콤보로 클리어"
 
 msgid "mission_desc_event_collection_b_0032"
 msgstr "【데일리】악곡 3회 클리어"
@@ -1993,37 +1993,37 @@ msgid "mission_desc_event_collection_b_0040"
 msgstr "【데일리】악곡 3회 클리어"
 
 msgid "mission_desc_event_collection_b_0041"
-msgstr "이벤트 「두 사람의 사랑의 마법」\\n미션 20개 클리어"
+msgstr "이벤트 「두 사람의 사랑의 마법」\n미션 20개 클리어"
 
 msgid "event_banner_event_collection_b_0001"
 msgstr "이벤트에 참가해서 데카르 가챠를 10회 뽑자!"
 
 msgid "mission_desc_event_collection_c_0001"
-msgstr "【데일리】초시공 LIVE 티켓을 사용하여\\n이벤트 악곡 클리어"
+msgstr "【데일리】초시공 LIVE 티켓을 사용하여\n이벤트 악곡 클리어"
 
 msgid "mission_desc_event_collection_c_0002"
-msgstr "【데일리】초시공 LIVE 티켓을 사용하여\\n이벤트 악곡 클리어"
+msgstr "【데일리】초시공 LIVE 티켓을 사용하여\n이벤트 악곡 클리어"
 
 msgid "mission_desc_event_collection_c_0003"
-msgstr "【데일리】초시공 LIVE 티켓을 사용하여\\n이벤트 악곡 클리어"
+msgstr "【데일리】초시공 LIVE 티켓을 사용하여\n이벤트 악곡 클리어"
 
 msgid "mission_desc_event_collection_c_0004"
-msgstr "【데일리】초시공 LIVE 티켓을 사용하여\\n이벤트 악곡 클리어"
+msgstr "【데일리】초시공 LIVE 티켓을 사용하여\n이벤트 악곡 클리어"
 
 msgid "mission_desc_event_collection_c_0005"
-msgstr "【데일리】초시공 LIVE 티켓을 사용하여\\n이벤트 악곡 클리어"
+msgstr "【데일리】초시공 LIVE 티켓을 사용하여\n이벤트 악곡 클리어"
 
 msgid "mission_desc_event_collection_c_0006"
-msgstr "【데일리】초시공 LIVE 티켓을 사용하여\\n이벤트 악곡 클리어"
+msgstr "【데일리】초시공 LIVE 티켓을 사용하여\n이벤트 악곡 클리어"
 
 msgid "mission_desc_event_collection_c_0007"
-msgstr "【데일리】초시공 LIVE 티켓을 사용하여\\n이벤트 악곡 클리어"
+msgstr "【데일리】초시공 LIVE 티켓을 사용하여\n이벤트 악곡 클리어"
 
 msgid "mission_desc_event_collection_c_0008"
-msgstr "【데일리】초시공 LIVE 티켓을 사용하여\\n이벤트 악곡 클리어"
+msgstr "【데일리】초시공 LIVE 티켓을 사용하여\n이벤트 악곡 클리어"
 
 msgid "mission_desc_event_collection_c_0009"
-msgstr "【데일리】초시공 LIVE 티켓을 사용하여\\n이벤트 악곡 클리어"
+msgstr "【데일리】초시공 LIVE 티켓을 사용하여\n이벤트 악곡 클리어"
 
 msgid "mission_desc_event_collection_c_0010"
 msgstr "【데일리】악곡 3회 클리어"
@@ -2068,136 +2068,136 @@ msgid "mission_desc_event_collection_c_0023"
 msgstr "이벤트 악곡 총 30회 클리어"
 
 msgid "mission_desc_event_collection_c_0024"
-msgstr "이벤트 곡 「사랑! 할레이션 THE WAR」\\n를 스코어 랭크 S 이상으로 5회 클리어"
+msgstr "이벤트 곡 「사랑! 할레이션 THE WAR」\n를 스코어 랭크 S 이상으로 5회 클리어"
 
 msgid "mission_desc_event_collection_c_0025"
-msgstr "이벤트 곡 「사랑! 할레이션 THE WAR」\\n를 스코어 랭크 SS로 10회 클리어"
+msgstr "이벤트 곡 「사랑! 할레이션 THE WAR」\n를 스코어 랭크 SS로 10회 클리어"
 
 msgid "mission_desc_event_collection_c_0026"
-msgstr "이벤트 곡 「불확정성☆COSMIC MOVEMENT」\\n를 스코어 랭크 S 이상으로 5회 클리어"
+msgstr "이벤트 곡 「불확정성☆COSMIC MOVEMENT」\n를 스코어 랭크 S 이상으로 5회 클리어"
 
 msgid "mission_desc_event_collection_c_0027"
-msgstr "이벤트 곡 「불확정성☆COSMIC MOVEMENT」\\n를 스코어 랭크 SS로 10회 클리어"
+msgstr "이벤트 곡 「불확정성☆COSMIC MOVEMENT」\n를 스코어 랭크 SS로 10회 클리어"
 
 msgid "mission_desc_event_collection_c_0028"
-msgstr "이벤트 곡 「위험한 보더라인」\\n을 스코어 랭크 S 이상으로 5회 클리어"
+msgstr "이벤트 곡 「위험한 보더라인」\n을 스코어 랭크 S 이상으로 5회 클리어"
 
 msgid "mission_desc_event_collection_c_0029"
-msgstr "이벤트 곡 「위험한 보더라인」\\n을 스코어 랭크 SS로 10회 클리어"
+msgstr "이벤트 곡 「위험한 보더라인」\n을 스코어 랭크 SS로 10회 클리어"
 
 msgid "mission_desc_event_collection_c_0030"
-msgstr "이벤트 곡 「사랑! 할레이션 THE WAR」\\n를 스코어 70만 이상으로 클리어"
+msgstr "이벤트 곡 「사랑! 할레이션 THE WAR」\n를 스코어 70만 이상으로 클리어"
 
 msgid "mission_desc_event_collection_c_0031"
-msgstr "이벤트 곡 「사랑! 할레이션 THE WAR」\\n를 스코어 85만 이상으로 클리어"
+msgstr "이벤트 곡 「사랑! 할레이션 THE WAR」\n를 스코어 85만 이상으로 클리어"
 
 msgid "mission_desc_event_collection_c_0032"
-msgstr "이벤트 곡 「사랑! 할레이션 THE WAR」\\n를 스코어 100만 이상으로 클리어"
+msgstr "이벤트 곡 「사랑! 할레이션 THE WAR」\n를 스코어 100만 이상으로 클리어"
 
 msgid "mission_desc_event_collection_c_0033"
-msgstr "이벤트 곡 「사랑! 할레이션 THE WAR」\\n를 스코어 115만 이상으로 클리어"
+msgstr "이벤트 곡 「사랑! 할레이션 THE WAR」\n를 스코어 115만 이상으로 클리어"
 
 msgid "mission_desc_event_collection_c_0034"
-msgstr "이벤트 곡 「사랑! 할레이션 THE WAR」\\n를 스코어 130만 이상으로 클리어"
+msgstr "이벤트 곡 「사랑! 할레이션 THE WAR」\n를 스코어 130만 이상으로 클리어"
 
 msgid "mission_desc_event_collection_c_0035"
-msgstr "이벤트 곡 「사랑! 할레이션 THE WAR」\\n를 스코어 140만 이상으로 클리어"
+msgstr "이벤트 곡 「사랑! 할레이션 THE WAR」\n를 스코어 140만 이상으로 클리어"
 
 msgid "mission_desc_event_collection_c_0036"
-msgstr "이벤트 곡 「사랑! 할레이션 THE WAR」\\n의 난이도 EASY 이상을 풀콤보로 클리어"
+msgstr "이벤트 곡 「사랑! 할레이션 THE WAR」\n의 난이도 EASY 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_collection_c_0037"
-msgstr "이벤트 곡 「사랑! 할레이션 THE WAR」\\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
+msgstr "이벤트 곡 「사랑! 할레이션 THE WAR」\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_collection_c_0038"
-msgstr "이벤트 곡 「사랑! 할레이션 THE WAR」\\n의 난이도 HARD 이상을 풀콤보로 클리어"
+msgstr "이벤트 곡 「사랑! 할레이션 THE WAR」\n의 난이도 HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_collection_c_0039"
-msgstr "이벤트 곡 「사랑! 할레이션 THE WAR」\\n의 난이도 VERY HARD 이상을 풀콤보로 클리어"
+msgstr "이벤트 곡 「사랑! 할레이션 THE WAR」\n의 난이도 VERY HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_collection_c_0040"
-msgstr "이벤트 곡 「사랑! 할레이션 THE WAR」\\n의 난이도 EXTREME을 풀콤보로 클리어"
+msgstr "이벤트 곡 「사랑! 할레이션 THE WAR」\n의 난이도 EXTREME을 풀콤보로 클리어"
 
 msgid "mission_desc_event_collection_c_0041"
-msgstr "이벤트 「복각　초시공 비너스 왈큐레」\\n의 미션을 20개 클리어"
+msgstr "이벤트 「복각　초시공 비너스 왈큐레」\n의 미션을 20개 클리어"
 
 msgid "mission_desc_event_collection_c_0042"
-msgstr "【데일리】아무 곡이나\\n스코어 75만 이상으로 클리어"
+msgstr "【데일리】아무 곡이나\n스코어 75만 이상으로 클리어"
 
 msgid "mission_desc_event_collection_c_0043"
-msgstr "【데일리】아무 곡이나\\n스코어 100만 이상으로 클리어"
+msgstr "【데일리】아무 곡이나\n스코어 100만 이상으로 클리어"
 
 msgid "mission_desc_event_collection_c_0044"
-msgstr "【데일리】아무 곡이나\\n스코어 125만 이상으로 클리어"
+msgstr "【데일리】아무 곡이나\n스코어 125만 이상으로 클리어"
 
 msgid "mission_desc_event_collection_c_0045"
-msgstr "【데일리】아무 곡이나\\n스코어 150만 이상으로 클리어"
+msgstr "【데일리】아무 곡이나\n스코어 150만 이상으로 클리어"
 
 msgid "mission_desc_event_collection_c_0046"
-msgstr "【데일리】아무 곡이나\\n스코어 175만 이상으로 클리어"
+msgstr "【데일리】아무 곡이나\n스코어 175만 이상으로 클리어"
 
 msgid "mission_desc_event_collection_c_0047"
-msgstr "【데일리】아무 곡이나\\n스코어 200만 이상으로 클리어"
+msgstr "【데일리】아무 곡이나\n스코어 200만 이상으로 클리어"
 
 msgid "mission_desc_event_collection_c_0048"
-msgstr "【데일리】아무 곡이나\\n스코어 250만 이상으로 클리어"
+msgstr "【데일리】아무 곡이나\n스코어 250만 이상으로 클리어"
 
 msgid "event_banner_event_collection_c_0001"
 msgstr "이벤트에 참가해서 ★5 확정 서비스 티켓을 GET!"
 
 msgid "mission_desc_event_godiva_a_0001"
-msgstr "【데일리】가희 스코어 랭킹에\\n참가해서 곡을 클리어"
+msgstr "【데일리】가희 스코어 랭킹에\n참가해서 곡을 클리어"
 
 msgid "mission_desc_event_godiva_a_0002"
-msgstr "【데일리】가희 스코어 랭킹에\\n참가해서 곡을 클리어"
+msgstr "【데일리】가희 스코어 랭킹에\n참가해서 곡을 클리어"
 
 msgid "mission_desc_event_godiva_a_0003"
-msgstr "【데일리】가희 스코어 랭킹에\\n참가해서 곡을 클리어"
+msgstr "【데일리】가희 스코어 랭킹에\n참가해서 곡을 클리어"
 
 msgid "mission_desc_event_godiva_a_0004"
-msgstr "【데일리】가희 스코어 랭킹에\\n참가해서 곡을 클리어"
+msgstr "【데일리】가희 스코어 랭킹에\n참가해서 곡을 클리어"
 
 msgid "mission_desc_event_godiva_a_0005"
-msgstr "【데일리】가희 스코어 랭킹에\\n참가해서 곡을 클리어"
+msgstr "【데일리】가희 스코어 랭킹에\n참가해서 곡을 클리어"
 
 msgid "mission_desc_event_godiva_a_0006"
-msgstr "【데일리】가희 스코어 랭킹에\\n참가해서 곡을 클리어"
+msgstr "【데일리】가희 스코어 랭킹에\n참가해서 곡을 클리어"
 
 msgid "mission_desc_event_godiva_a_0007"
-msgstr "【데일리】가희 스코어 랭킹에\\n참가해서 곡을 클리어"
+msgstr "【데일리】가희 스코어 랭킹에\n참가해서 곡을 클리어"
 
 msgid "mission_desc_event_godiva_a_0008"
-msgstr "【데일리】가희 스코어 랭킹에\\n참가해서 곡을 클리어"
+msgstr "【데일리】가희 스코어 랭킹에\n참가해서 곡을 클리어"
 
 msgid "mission_desc_event_godiva_a_0009"
-msgstr "【데일리】가희 스코어 랭킹에\\n참가해서 곡을 클리어"
+msgstr "【데일리】가희 스코어 랭킹에\n참가해서 곡을 클리어"
 
 msgid "mission_desc_event_godiva_a_0010"
-msgstr "【데일리】곡을 플레이해서\\n스페셜 라이브를 1회 발생시킨다"
+msgstr "【데일리】곡을 플레이해서\n스페셜 라이브를 1회 발생시킨다"
 
 msgid "mission_desc_event_godiva_a_0011"
-msgstr "【데일리】곡을 플레이해서\\n스페셜 라이브를 1회 발생시킨다"
+msgstr "【데일리】곡을 플레이해서\n스페셜 라이브를 1회 발생시킨다"
 
 msgid "mission_desc_event_godiva_a_0012"
-msgstr "【데일리】곡을 플레이해서\\n스페셜 라이브를 1회 발생시킨다"
+msgstr "【데일리】곡을 플레이해서\n스페셜 라이브를 1회 발생시킨다"
 
 msgid "mission_desc_event_godiva_a_0013"
-msgstr "【데일리】곡을 플레이해서\\n스페셜 라이브를 1회 발생시킨다"
+msgstr "【데일리】곡을 플레이해서\n스페셜 라이브를 1회 발생시킨다"
 
 msgid "mission_desc_event_godiva_a_0014"
-msgstr "【데일리】곡을 플레이해서\\n스페셜 라이브를 1회 발생시킨다"
+msgstr "【데일리】곡을 플레이해서\n스페셜 라이브를 1회 발생시킨다"
 
 msgid "mission_desc_event_godiva_a_0015"
-msgstr "【데일리】곡을 플레이해서\\n스페셜 라이브를 1회 발생시킨다"
+msgstr "【데일리】곡을 플레이해서\n스페셜 라이브를 1회 발생시킨다"
 
 msgid "mission_desc_event_godiva_a_0016"
-msgstr "【데일리】곡을 플레이해서\\n스페셜 라이브를 1회 발생시킨다"
+msgstr "【데일리】곡을 플레이해서\n스페셜 라이브를 1회 발생시킨다"
 
 msgid "mission_desc_event_godiva_a_0017"
-msgstr "【데일리】곡을 플레이해서\\n스페셜 라이브를 1회 발생시킨다"
+msgstr "【데일리】곡을 플레이해서\n스페셜 라이브를 1회 발생시킨다"
 
 msgid "mission_desc_event_godiva_a_0018"
-msgstr "【데일리】곡을 플레이해서\\n스페셜 라이브를 1회 발생시킨다"
+msgstr "【데일리】곡을 플레이해서\n스페셜 라이브를 1회 발생시킨다"
 
 msgid "mission_desc_event_godiva_a_0019"
 msgstr "이벤트 내에서 곡을 5회 클리어"
@@ -2236,70 +2236,70 @@ msgid "mission_desc2_event_godiva_a_0024"
 msgstr "이벤트 내에서 곡을 30회 클리어"
 
 msgid "mission_desc_event_godiva_a_0025"
-msgstr "이벤트 곡 「실버문・레드문【MIRROR ver.】」\\n을 스코어 50만 이상으로 클리어"
+msgstr "이벤트 곡 「실버문・레드문【MIRROR ver.】」\n을 스코어 50만 이상으로 클리어"
 
 msgid "mission_desc2_event_godiva_a_0025"
-msgstr "「실버문・레드문【MIRROR ver.】」\\n을 스코어 50만 이상으로 클리어"
+msgstr "「실버문・레드문【MIRROR ver.】」\n을 스코어 50만 이상으로 클리어"
 
 msgid "mission_desc_event_godiva_a_0026"
-msgstr "이벤트 곡 「실버문・레드문【MIRROR ver.】」\\n을 스코어 60만 이상으로 클리어"
+msgstr "이벤트 곡 「실버문・레드문【MIRROR ver.】」\n을 스코어 60만 이상으로 클리어"
 
 msgid "mission_desc2_event_godiva_a_0026"
-msgstr "「실버문・레드문【MIRROR ver.】」\\n을 스코어 60만 이상으로 클리어"
+msgstr "「실버문・레드문【MIRROR ver.】」\n을 스코어 60만 이상으로 클리어"
 
 msgid "mission_desc_event_godiva_a_0027"
-msgstr "이벤트 곡 「실버문・레드문【MIRROR ver.】」\\n을 스코어 70만 이상으로 클리어"
+msgstr "이벤트 곡 「실버문・레드문【MIRROR ver.】」\n을 스코어 70만 이상으로 클리어"
 
 msgid "mission_desc2_event_godiva_a_0027"
-msgstr "「실버문・레드문【MIRROR ver.】」\\n을 스코어 70만 이상으로 클리어"
+msgstr "「실버문・레드문【MIRROR ver.】」\n을 스코어 70만 이상으로 클리어"
 
 msgid "mission_desc_event_godiva_a_0028"
-msgstr "이벤트 곡 「실버문・레드문【MIRROR ver.】」\\n을 스코어 85만 이상으로 클리어"
+msgstr "이벤트 곡 「실버문・레드문【MIRROR ver.】」\n을 스코어 85만 이상으로 클리어"
 
 msgid "mission_desc2_event_godiva_a_0028"
-msgstr "「실버문・레드문【MIRROR ver.】」\\n을 스코어 85만 이상으로 클리어"
+msgstr "「실버문・레드문【MIRROR ver.】」\n을 스코어 85만 이상으로 클리어"
 
 msgid "mission_desc_event_godiva_a_0029"
-msgstr "이벤트 곡 「실버문・레드문【MIRROR ver.】」\\n을 스코어 100만 이상으로 클리어"
+msgstr "이벤트 곡 「실버문・레드문【MIRROR ver.】」\n을 스코어 100만 이상으로 클리어"
 
 msgid "mission_desc2_event_godiva_a_0029"
-msgstr "「실버문・레드문【MIRROR ver.】」\\n을 스코어 100만 이상으로 클리어"
+msgstr "「실버문・레드문【MIRROR ver.】」\n을 스코어 100만 이상으로 클리어"
 
 msgid "mission_desc_event_godiva_a_0030"
-msgstr "이벤트 곡 「실버문・레드문【MIRROR ver.】」\\n을 스코어 120만 이상으로 클리어"
+msgstr "이벤트 곡 「실버문・레드문【MIRROR ver.】」\n을 스코어 120만 이상으로 클리어"
 
 msgid "mission_desc2_event_godiva_a_0030"
-msgstr "「실버문・레드문【MIRROR ver.】」\\n을 스코어 120만 이상으로 클리어"
+msgstr "「실버문・레드문【MIRROR ver.】」\n을 스코어 120만 이상으로 클리어"
 
 msgid "mission_desc_event_godiva_a_0031"
-msgstr "이벤트 곡 「실버문・레드문【MIRROR ver.】」\\n의 난이도 EASY 이상을 풀콤보로 클리어"
+msgstr "이벤트 곡 「실버문・레드문【MIRROR ver.】」\n의 난이도 EASY 이상을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_godiva_a_0031"
-msgstr "「실버문・레드문【MIRROR ver.】」\\n의 EASY 이상을 풀콤보로 클리어"
+msgstr "「실버문・레드문【MIRROR ver.】」\n의 EASY 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_godiva_a_0032"
-msgstr "이벤트 곡 「실버문・레드문【MIRROR ver.】」\\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
+msgstr "이벤트 곡 「실버문・레드문【MIRROR ver.】」\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_godiva_a_0032"
-msgstr "「실버문・레드문【MIRROR ver.】」\\n의 NORMAL 이상을 풀콤보로 클리어"
+msgstr "「실버문・레드문【MIRROR ver.】」\n의 NORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_godiva_a_0033"
-msgstr "이벤트 곡 「실버문・레드문【MIRROR ver.】」\\n의 난이도 HARD 이상을 풀콤보로 클리어"
+msgstr "이벤트 곡 「실버문・레드문【MIRROR ver.】」\n의 난이도 HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_godiva_a_0033"
-msgstr "「실버문・레드문【MIRROR ver.】」\\n의 HARD 이상을 풀콤보로 클리어"
+msgstr "「실버문・레드문【MIRROR ver.】」\n의 HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_godiva_a_0034"
-msgstr "이벤트 곡 「실버문・레드문【MIRROR ver.】」\\n의 난이도 VERY HARD 이상을 풀콤보로 클리어"
+msgstr "이벤트 곡 「실버문・레드문【MIRROR ver.】」\n의 난이도 VERY HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_godiva_a_0034"
-msgstr "「실버문・레드문【MIRROR ver.】」\\n의 VERY HARD 이상을 풀콤보로 클리어"
+msgstr "「실버문・레드문【MIRROR ver.】」\n의 VERY HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_godiva_a_0035"
-msgstr "이벤트 곡 「실버문・레드문【MIRROR ver.】」\\n의 난이도 EXTREME을 풀콤보로 클리어"
+msgstr "이벤트 곡 「실버문・레드문【MIRROR ver.】」\n의 난이도 EXTREME을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_godiva_a_0035"
-msgstr "「실버문・레드문【MIRROR ver.】」\\n의 EXTREME을 풀콤보로 클리어"
+msgstr "「실버문・레드문【MIRROR ver.】」\n의 EXTREME을 풀콤보로 클리어"
 
 msgid "mission_desc_event_godiva_a_0036"
 msgstr "아무 가희의 소울 어필을 5 올린다"
@@ -2320,64 +2320,64 @@ msgid "mission_desc_event_godiva_a_0041"
 msgstr "아무 가희의 참 어필을 10 올린다"
 
 msgid "mission_desc_event_godiva_a_0042"
-msgstr "이벤트 「실버문・홀리문」\\n의 미션을 15개 클리어"
+msgstr "이벤트 「실버문・홀리문」\n의 미션을 15개 클리어"
 
 msgid "event_banner_event_godiva_a_0001"
 msgstr "이벤트에 참가해서 데카르 가챠를 10회 뽑자!"
 
 msgid "mission_desc_event_godiva_b_0001"
-msgstr "【데일리】가희 스코어 랭킹에\\n참가해서 곡을 클리어"
+msgstr "【데일리】가희 스코어 랭킹에\n참가해서 곡을 클리어"
 
 msgid "mission_desc_event_godiva_b_0002"
-msgstr "【데일리】가희 스코어 랭킹에\\n참가해서 곡을 클리어"
+msgstr "【데일리】가희 스코어 랭킹에\n참가해서 곡을 클리어"
 
 msgid "mission_desc_event_godiva_b_0003"
-msgstr "【데일리】가희 스코어 랭킹에\\n참가해서 곡을 클리어"
+msgstr "【데일리】가희 스코어 랭킹에\n참가해서 곡을 클리어"
 
 msgid "mission_desc_event_godiva_b_0004"
-msgstr "【데일리】가희 스코어 랭킹에\\n참가해서 곡을 클리어"
+msgstr "【데일리】가희 스코어 랭킹에\n참가해서 곡을 클리어"
 
 msgid "mission_desc_event_godiva_b_0005"
-msgstr "【데일리】가희 스코어 랭킹에\\n참가해서 곡을 클리어"
+msgstr "【데일리】가희 스코어 랭킹에\n참가해서 곡을 클리어"
 
 msgid "mission_desc_event_godiva_b_0006"
-msgstr "【데일리】가희 스코어 랭킹에\\n참가해서 곡을 클리어"
+msgstr "【데일리】가희 스코어 랭킹에\n참가해서 곡을 클리어"
 
 msgid "mission_desc_event_godiva_b_0007"
-msgstr "【데일리】가희 스코어 랭킹에\\n참가해서 곡을 클리어"
+msgstr "【데일리】가희 스코어 랭킹에\n참가해서 곡을 클리어"
 
 msgid "mission_desc_event_godiva_b_0008"
-msgstr "【데일리】가희 스코어 랭킹에\\n참가해서 곡을 클리어"
+msgstr "【데일리】가희 스코어 랭킹에\n참가해서 곡을 클리어"
 
 msgid "mission_desc_event_godiva_b_0009"
-msgstr "【데일리】가희 스코어 랭킹에\\n참가해서 곡을 클리어"
+msgstr "【데일리】가희 스코어 랭킹에\n참가해서 곡을 클리어"
 
 msgid "mission_desc_event_godiva_b_0010"
-msgstr "【데일리】곡을 플레이해서\\n스페셜 라이브를 1회 발생시킨다"
+msgstr "【데일리】곡을 플레이해서\n스페셜 라이브를 1회 발생시킨다"
 
 msgid "mission_desc_event_godiva_b_0011"
-msgstr "【데일리】곡을 플레이해서\\n스페셜 라이브를 1회 발생시킨다"
+msgstr "【데일리】곡을 플레이해서\n스페셜 라이브를 1회 발생시킨다"
 
 msgid "mission_desc_event_godiva_b_0012"
-msgstr "【데일리】곡을 플레이해서\\n스페셜 라이브를 1회 발생시킨다"
+msgstr "【데일리】곡을 플레이해서\n스페셜 라이브를 1회 발생시킨다"
 
 msgid "mission_desc_event_godiva_b_0013"
-msgstr "【데일리】곡을 플레이해서\\n스페셜 라이브를 1회 발생시킨다"
+msgstr "【데일리】곡을 플레이해서\n스페셜 라이브를 1회 발생시킨다"
 
 msgid "mission_desc_event_godiva_b_0014"
-msgstr "【데일리】곡을 플레이해서\\n스페셜 라이브를 1회 발생시킨다"
+msgstr "【데일리】곡을 플레이해서\n스페셜 라이브를 1회 발생시킨다"
 
 msgid "mission_desc_event_godiva_b_0015"
-msgstr "【데일리】곡을 플레이해서\\n스페셜 라이브를 1회 발생시킨다"
+msgstr "【데일리】곡을 플레이해서\n스페셜 라이브를 1회 발생시킨다"
 
 msgid "mission_desc_event_godiva_b_0016"
-msgstr "【데일리】곡을 플레이해서\\n스페셜 라이브를 1회 발생시킨다"
+msgstr "【데일리】곡을 플레이해서\n스페셜 라이브를 1회 발생시킨다"
 
 msgid "mission_desc_event_godiva_b_0017"
-msgstr "【데일리】곡을 플레이해서\\n스페셜 라이브를 1회 발생시킨다"
+msgstr "【데일리】곡을 플레이해서\n스페셜 라이브를 1회 발생시킨다"
 
 msgid "mission_desc_event_godiva_b_0018"
-msgstr "【데일리】곡을 플레이해서\\n스페셜 라이브를 1회 발생시킨다"
+msgstr "【데일리】곡을 플레이해서\n스페셜 라이브를 1회 발생시킨다"
 
 msgid "mission_desc_event_godiva_b_0019"
 msgstr "이벤트 내에서 곡을 5회 클리어"
@@ -2398,70 +2398,70 @@ msgid "mission_desc_event_godiva_b_0024"
 msgstr "이벤트 내에서 곡을 30회 클리어"
 
 msgid "mission_desc_event_godiva_b_0025"
-msgstr "이벤트 곡 「괴로움 현재진행형」\\n을 스코어 50만 이상으로 클리어"
+msgstr "이벤트 곡 「괴로움 현재진행형」\n을 스코어 50만 이상으로 클리어"
 
 msgid "mission_desc2_event_godiva_b_0025"
-msgstr "「괴로움 현재진행형」\\n을 스코어 50만 이상으로 클리어"
+msgstr "「괴로움 현재진행형」\n을 스코어 50만 이상으로 클리어"
 
 msgid "mission_desc_event_godiva_b_0026"
-msgstr "이벤트 곡 「괴로움 현재진행형」\\n을 스코어 60만 이상으로 클리어"
+msgstr "이벤트 곡 「괴로움 현재진행형」\n을 스코어 60만 이상으로 클리어"
 
 msgid "mission_desc2_event_godiva_b_0026"
-msgstr "「괴로움 현재진행형」\\n을 스코어 60만 이상으로 클리어"
+msgstr "「괴로움 현재진행형」\n을 스코어 60만 이상으로 클리어"
 
 msgid "mission_desc_event_godiva_b_0027"
-msgstr "이벤트 곡 「괴로움 현재진행형」\\n을 스코어 70만 이상으로 클리어"
+msgstr "이벤트 곡 「괴로움 현재진행형」\n을 스코어 70만 이상으로 클리어"
 
 msgid "mission_desc2_event_godiva_b_0027"
-msgstr "「괴로움 현재진행형」\\n을 스코어 70만 이상으로 클리어"
+msgstr "「괴로움 현재진행형」\n을 스코어 70만 이상으로 클리어"
 
 msgid "mission_desc_event_godiva_b_0028"
-msgstr "이벤트 곡 「괴로움 현재진행형」\\n을 스코어 85만 이상으로 클리어"
+msgstr "이벤트 곡 「괴로움 현재진행형」\n을 스코어 85만 이상으로 클리어"
 
 msgid "mission_desc2_event_godiva_b_0028"
-msgstr "「괴로움 현재진행형」\\n을 스코어 85만 이상으로 클리어"
+msgstr "「괴로움 현재진행형」\n을 스코어 85만 이상으로 클리어"
 
 msgid "mission_desc_event_godiva_b_0029"
-msgstr "이벤트 곡 「괴로움 현재진행형」\\n을 스코어 100만 이상으로 클리어"
+msgstr "이벤트 곡 「괴로움 현재진행형」\n을 스코어 100만 이상으로 클리어"
 
 msgid "mission_desc2_event_godiva_b_0029"
-msgstr "「괴로움 현재진행형」\\n을 스코어 100만 이상으로 클리어"
+msgstr "「괴로움 현재진행형」\n을 스코어 100만 이상으로 클리어"
 
 msgid "mission_desc_event_godiva_b_0030"
-msgstr "이벤트 곡 「괴로움 현재진행형」\\n을 스코어 120만 이상으로 클리어"
+msgstr "이벤트 곡 「괴로움 현재진행형」\n을 스코어 120만 이상으로 클리어"
 
 msgid "mission_desc2_event_godiva_b_0030"
-msgstr "「괴로움 현재진행형」\\n을 스코어 120만 이상으로 클리어"
+msgstr "「괴로움 현재진행형」\n을 스코어 120만 이상으로 클리어"
 
 msgid "mission_desc_event_godiva_b_0031"
-msgstr "이벤트 곡 「괴로움 현재진행형」\\n의 난이도 EASY 이상을 풀콤보로 클리어"
+msgstr "이벤트 곡 「괴로움 현재진행형」\n의 난이도 EASY 이상을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_godiva_b_0031"
-msgstr "「괴로움 현재진행형」\\n의 난이도 EASY 이상을 풀콤보로 클리어"
+msgstr "「괴로움 현재진행형」\n의 난이도 EASY 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_godiva_b_0032"
-msgstr "이벤트 곡 「괴로움 현재진행형」\\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
+msgstr "이벤트 곡 「괴로움 현재진행형」\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_godiva_b_0032"
-msgstr "「괴로움 현재진행형」\\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
+msgstr "「괴로움 현재진행형」\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_godiva_b_0033"
-msgstr "이벤트 곡 「괴로움 현재진행형」\\n의 난이도 HARD 이상을 풀콤보로 클리어"
+msgstr "이벤트 곡 「괴로움 현재진행형」\n의 난이도 HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_godiva_b_0033"
-msgstr "「괴로움 현재진행형」\\n의 난이도 HARD 이상을 풀콤보로 클리어"
+msgstr "「괴로움 현재진행형」\n의 난이도 HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_godiva_b_0034"
-msgstr "이벤트 곡 「괴로움 현재진행형」\\n의 난이도 VERY HARD 이상을 풀콤보로 클리어"
+msgstr "이벤트 곡 「괴로움 현재진행형」\n의 난이도 VERY HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_godiva_b_0034"
-msgstr "「괴로움 현재진행형」\\n의 난이도 VERY HARD 이상을 풀콤보로 클리어"
+msgstr "「괴로움 현재진행형」\n의 난이도 VERY HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_godiva_b_0035"
-msgstr "이벤트 곡 「괴로움 현재진행형」\\n의 난이도 EXTREME을 풀콤보로 클리어"
+msgstr "이벤트 곡 「괴로움 현재진행형」\n의 난이도 EXTREME을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_godiva_b_0035"
-msgstr "「괴로움 현재진행형」\\n의 난이도 EXTREME을 풀콤보로 클리어"
+msgstr "「괴로움 현재진행형」\n의 난이도 EXTREME을 풀콤보로 클리어"
 
 msgid "mission_desc_event_godiva_b_0036"
 msgstr "아무 가희의 소울 어필을 5 올린다"
@@ -2482,130 +2482,130 @@ msgid "mission_desc_event_godiva_b_0041"
 msgstr "아무 가희의 참 어필을 10 올린다"
 
 msgid "mission_desc_event_godiva_b_0042"
-msgstr "이벤트 「순수해져라! ～괴로움 현재진행형～」\\n의 미션을 15개 클리어"
+msgstr "이벤트 「순수해져라! ～괴로움 현재진행형～」\n의 미션을 15개 클리어"
 
 msgid "event_banner_event_godiva_b_0001"
 msgstr "이벤트에 참가해서 데카르 가챠를 10회 뽑자!"
 
 msgid "mission_desc_event_godiva_c_0001"
-msgstr "【데일리】가희 스코어 랭킹에\\n참가해서 곡을 클리어"
+msgstr "【데일리】가희 스코어 랭킹에\n참가해서 곡을 클리어"
 
 msgid "mission_desc2_event_godiva_c_0001"
-msgstr "【데일리】가희 스코어 랭킹에\\n참가해서 곡을 클리어"
+msgstr "【데일리】가희 스코어 랭킹에\n참가해서 곡을 클리어"
 
 msgid "mission_desc_event_godiva_c_0002"
-msgstr "【데일리】가희 스코어 랭킹에\\n참가해서 곡을 클리어"
+msgstr "【데일리】가희 스코어 랭킹에\n참가해서 곡을 클리어"
 
 msgid "mission_desc2_event_godiva_c_0002"
-msgstr "【데일리】가희 스코어 랭킹에\\n참가해서 곡을 클리어"
+msgstr "【데일리】가희 스코어 랭킹에\n참가해서 곡을 클리어"
 
 msgid "mission_desc_event_godiva_c_0003"
-msgstr "【데일리】가희 스코어 랭킹에\\n참가해서 곡을 클리어"
+msgstr "【데일리】가희 스코어 랭킹에\n참가해서 곡을 클리어"
 
 msgid "mission_desc2_event_godiva_c_0003"
-msgstr "【데일리】가희 스코어 랭킹에\\n참가해서 곡을 클리어"
+msgstr "【데일리】가희 스코어 랭킹에\n참가해서 곡을 클리어"
 
 msgid "mission_desc_event_godiva_c_0004"
-msgstr "【데일리】가희 스코어 랭킹에\\n참가해서 곡을 클리어"
+msgstr "【데일리】가희 스코어 랭킹에\n참가해서 곡을 클리어"
 
 msgid "mission_desc2_event_godiva_c_0004"
-msgstr "【데일리】가희 스코어 랭킹에\\n참가해서 곡을 클리어"
+msgstr "【데일리】가희 스코어 랭킹에\n참가해서 곡을 클리어"
 
 msgid "mission_desc_event_godiva_c_0005"
-msgstr "【데일리】가희 스코어 랭킹에\\n참가해서 곡을 클리어"
+msgstr "【데일리】가희 스코어 랭킹에\n참가해서 곡을 클리어"
 
 msgid "mission_desc2_event_godiva_c_0005"
-msgstr "【데일리】가희 스코어 랭킹에\\n참가해서 곡을 클리어"
+msgstr "【데일리】가희 스코어 랭킹에\n참가해서 곡을 클리어"
 
 msgid "mission_desc_event_godiva_c_0006"
-msgstr "【데일리】가희 스코어 랭킹에\\n참가해서 곡을 클리어"
+msgstr "【데일리】가희 스코어 랭킹에\n참가해서 곡을 클리어"
 
 msgid "mission_desc2_event_godiva_c_0006"
-msgstr "【데일리】가희 스코어 랭킹에\\n참가해서 곡을 클리어"
+msgstr "【데일리】가희 스코어 랭킹에\n참가해서 곡을 클리어"
 
 msgid "mission_desc_event_godiva_c_0007"
-msgstr "【데일리】가희 스코어 랭킹에\\n참가해서 곡을 클리어"
+msgstr "【데일리】가희 스코어 랭킹에\n참가해서 곡을 클리어"
 
 msgid "mission_desc2_event_godiva_c_0007"
-msgstr "【데일리】가희 스코어 랭킹에\\n참가해서 곡을 클리어"
+msgstr "【데일리】가희 스코어 랭킹에\n참가해서 곡을 클리어"
 
 msgid "mission_desc_event_godiva_c_0008"
-msgstr "【데일리】가희 스코어 랭킹에\\n참가해서 곡을 클리어"
+msgstr "【데일리】가희 스코어 랭킹에\n참가해서 곡을 클리어"
 
 msgid "mission_desc2_event_godiva_c_0008"
-msgstr "【데일리】가희 스코어 랭킹에\\n참가해서 곡을 클리어"
+msgstr "【데일리】가희 스코어 랭킹에\n참가해서 곡을 클리어"
 
 msgid "mission_desc_event_godiva_c_0009"
-msgstr "【데일리】가희 스코어 랭킹에\\n참가해서 곡을 클리어"
+msgstr "【데일리】가희 스코어 랭킹에\n참가해서 곡을 클리어"
 
 msgid "mission_desc2_event_godiva_c_0009"
-msgstr "【데일리】가희 스코어 랭킹에\\n참가해서 곡을 클리어"
+msgstr "【데일리】가희 스코어 랭킹에\n참가해서 곡을 클리어"
 
 msgid "mission_desc_event_godiva_c_0010"
-msgstr "【데일리】가희 스코어 랭킹에\\n참가해서 곡을 클리어"
+msgstr "【데일리】가희 스코어 랭킹에\n참가해서 곡을 클리어"
 
 msgid "mission_desc2_event_godiva_c_0010"
-msgstr "【데일리】가희 스코어 랭킹에\\n참가해서 곡을 클리어"
+msgstr "【데일리】가희 스코어 랭킹에\n참가해서 곡을 클리어"
 
 msgid "mission_desc_event_godiva_c_0011"
-msgstr "【데일리】가희 스코어 랭킹에\\n참가해서 곡을 클리어"
+msgstr "【데일리】가희 스코어 랭킹에\n참가해서 곡을 클리어"
 
 msgid "mission_desc2_event_godiva_c_0011"
-msgstr "【데일리】가희 스코어 랭킹에\\n참가해서 곡을 클리어"
+msgstr "【데일리】가희 스코어 랭킹에\n참가해서 곡을 클리어"
 
 msgid "mission_desc_event_godiva_c_0012"
-msgstr "【데일리】곡을 플레이해서\\n스페셜 라이브를 1회 발생시킨다"
+msgstr "【데일리】곡을 플레이해서\n스페셜 라이브를 1회 발생시킨다"
 
 msgid "mission_desc2_event_godiva_c_0012"
-msgstr "【데일리】곡을 플레이해서\\n스페셜 라이브를 1회 발생시킨다"
+msgstr "【데일리】곡을 플레이해서\n스페셜 라이브를 1회 발생시킨다"
 
 msgid "mission_desc_event_godiva_c_0013"
-msgstr "【데일리】곡을 플레이해서\\n스페셜 라이브를 1회 발생시킨다"
+msgstr "【데일리】곡을 플레이해서\n스페셜 라이브를 1회 발생시킨다"
 
 msgid "mission_desc2_event_godiva_c_0013"
-msgstr "【데일리】곡을 플레이해서\\n스페셜 라이브를 1회 발생시킨다"
+msgstr "【데일리】곡을 플레이해서\n스페셜 라이브를 1회 발생시킨다"
 
 msgid "mission_desc_event_godiva_c_0014"
-msgstr "【데일리】곡을 플레이해서\\n스페셜 라이브를 1회 발생시킨다"
+msgstr "【데일리】곡을 플레이해서\n스페셜 라이브를 1회 발생시킨다"
 
 msgid "mission_desc2_event_godiva_c_0014"
-msgstr "【데일리】곡을 플레이해서\\n스페셜 라이브를 1회 발생시킨다"
+msgstr "【데일리】곡을 플레이해서\n스페셜 라이브를 1회 발생시킨다"
 
 msgid "mission_desc_event_godiva_c_0015"
-msgstr "【데일리】곡을 플레이해서\\n스페셜 라이브를 1회 발생시킨다"
+msgstr "【데일리】곡을 플레이해서\n스페셜 라이브를 1회 발생시킨다"
 
 msgid "mission_desc2_event_godiva_c_0015"
-msgstr "【데일리】곡을 플레이해서\\n스페셜 라이브를 1회 발생시킨다"
+msgstr "【데일리】곡을 플레이해서\n스페셜 라이브를 1회 발생시킨다"
 
 msgid "mission_desc_event_godiva_c_0016"
-msgstr "【데일리】곡을 플레이해서\\n스페셜 라이브를 1회 발생시킨다"
+msgstr "【데일리】곡을 플레이해서\n스페셜 라이브를 1회 발생시킨다"
 
 msgid "mission_desc2_event_godiva_c_0016"
-msgstr "【데일리】곡을 플레이해서\\n스페셜 라이브를 1회 발생시킨다"
+msgstr "【데일리】곡을 플레이해서\n스페셜 라이브를 1회 발생시킨다"
 
 msgid "mission_desc_event_godiva_c_0017"
-msgstr "【데일리】곡을 플레이해서\\n스페셜 라이브를 1회 발생시킨다"
+msgstr "【데일리】곡을 플레이해서\n스페셜 라이브를 1회 발생시킨다"
 
 msgid "mission_desc2_event_godiva_c_0017"
-msgstr "【데일리】곡을 플레이해서\\n스페셜 라이브를 1회 발생시킨다"
+msgstr "【데일리】곡을 플레이해서\n스페셜 라이브를 1회 발생시킨다"
 
 msgid "mission_desc_event_godiva_c_0018"
-msgstr "【데일리】곡을 플레이해서\\n스페셜 라이브를 1회 발생시킨다"
+msgstr "【데일리】곡을 플레이해서\n스페셜 라이브를 1회 발생시킨다"
 
 msgid "mission_desc2_event_godiva_c_0018"
-msgstr "【데일리】곡을 플레이해서\\n스페셜 라이브를 1회 발생시킨다"
+msgstr "【데일리】곡을 플레이해서\n스페셜 라이브를 1회 발생시킨다"
 
 msgid "mission_desc_event_godiva_c_0019"
-msgstr "【데일리】곡을 플레이해서\\n스페셜 라이브를 1회 발생시킨다"
+msgstr "【데일리】곡을 플레이해서\n스페셜 라이브를 1회 발생시킨다"
 
 msgid "mission_desc2_event_godiva_c_0019"
-msgstr "【데일리】곡을 플레이해서\\n스페셜 라이브를 1회 발생시킨다"
+msgstr "【데일리】곡을 플레이해서\n스페셜 라이브를 1회 발생시킨다"
 
 msgid "mission_desc_event_godiva_c_0020"
-msgstr "【데일리】곡을 플레이해서\\n스페셜 라이브를 1회 발생시킨다"
+msgstr "【데일리】곡을 플레이해서\n스페셜 라이브를 1회 발생시킨다"
 
 msgid "mission_desc2_event_godiva_c_0020"
-msgstr "【데일리】곡을 플레이해서\\n스페셜 라이브를 1회 발생시킨다"
+msgstr "【데일리】곡을 플레이해서\n스페셜 라이브를 1회 발생시킨다"
 
 msgid "mission_desc_event_godiva_c_0021"
 msgstr "이벤트 내에서 곡을 5회 클리어"
@@ -2644,70 +2644,70 @@ msgid "mission_desc2_event_godiva_c_0026"
 msgstr "이벤트 내에서 곡을 30회 클리어"
 
 msgid "mission_desc_event_godiva_c_0027"
-msgstr "이벤트 곡 「FLASH IN THE DARK」\\n를 스코어 50만 이상으로 클리어"
+msgstr "이벤트 곡 「FLASH IN THE DARK」\n를 스코어 50만 이상으로 클리어"
 
 msgid "mission_desc2_event_godiva_c_0027"
-msgstr "「FLASH IN THE DARK」\\n를 스코어 50만 이상으로 클리어"
+msgstr "「FLASH IN THE DARK」\n를 스코어 50만 이상으로 클리어"
 
 msgid "mission_desc_event_godiva_c_0028"
-msgstr "이벤트 곡 「FLASH IN THE DARK」\\n를 스코어 60만 이상으로 클리어"
+msgstr "이벤트 곡 「FLASH IN THE DARK」\n를 스코어 60만 이상으로 클리어"
 
 msgid "mission_desc2_event_godiva_c_0028"
-msgstr "「FLASH IN THE DARK」\\n를 스코어 60만 이상으로 클리어"
+msgstr "「FLASH IN THE DARK」\n를 스코어 60만 이상으로 클리어"
 
 msgid "mission_desc_event_godiva_c_0029"
-msgstr "이벤트 곡 「FLASH IN THE DARK」\\n를 스코어 70만 이상으로 클리어"
+msgstr "이벤트 곡 「FLASH IN THE DARK」\n를 스코어 70만 이상으로 클리어"
 
 msgid "mission_desc2_event_godiva_c_0029"
-msgstr "「FLASH IN THE DARK」\\n를 스코어 70만 이상으로 클리어"
+msgstr "「FLASH IN THE DARK」\n를 스코어 70만 이상으로 클리어"
 
 msgid "mission_desc_event_godiva_c_0030"
-msgstr "이벤트 곡 「FLASH IN THE DARK」\\n를 스코어 85만 이상으로 클리어"
+msgstr "이벤트 곡 「FLASH IN THE DARK」\n를 스코어 85만 이상으로 클리어"
 
 msgid "mission_desc2_event_godiva_c_0030"
-msgstr "「FLASH IN THE DARK」\\n를 스코어 85만 이상으로 클리어"
+msgstr "「FLASH IN THE DARK」\n를 스코어 85만 이상으로 클리어"
 
 msgid "mission_desc_event_godiva_c_0031"
-msgstr "이벤트 곡 「FLASH IN THE DARK」\\n를 스코어 100만 이상으로 클리어"
+msgstr "이벤트 곡 「FLASH IN THE DARK」\n를 스코어 100만 이상으로 클리어"
 
 msgid "mission_desc2_event_godiva_c_0031"
-msgstr "「FLASH IN THE DARK」\\n를 스코어 100만 이상으로 클리어"
+msgstr "「FLASH IN THE DARK」\n를 스코어 100만 이상으로 클리어"
 
 msgid "mission_desc_event_godiva_c_0032"
-msgstr "이벤트 곡 「FLASH IN THE DARK」\\n를 스코어 120만 이상으로 클리어"
+msgstr "이벤트 곡 「FLASH IN THE DARK」\n를 스코어 120만 이상으로 클리어"
 
 msgid "mission_desc2_event_godiva_c_0032"
-msgstr "「FLASH IN THE DARK」\\n를 스코어 120만 이상으로 클리어"
+msgstr "「FLASH IN THE DARK」\n를 스코어 120만 이상으로 클리어"
 
 msgid "mission_desc_event_godiva_c_0033"
-msgstr "이벤트 곡 「FLASH IN THE DARK」\\n의 난이도 EASY 이상을 풀콤보로 클리어"
+msgstr "이벤트 곡 「FLASH IN THE DARK」\n의 난이도 EASY 이상을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_godiva_c_0033"
-msgstr "「FLASH IN THE DARK」\\n의 EASY 이상을 풀콤보로 클리어"
+msgstr "「FLASH IN THE DARK」\n의 EASY 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_godiva_c_0034"
-msgstr "이벤트 곡 「FLASH IN THE DARK」\\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
+msgstr "이벤트 곡 「FLASH IN THE DARK」\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_godiva_c_0034"
-msgstr "「FLASH IN THE DARK」\\n의 NORMAL 이상을 풀콤보로 클리어"
+msgstr "「FLASH IN THE DARK」\n의 NORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_godiva_c_0035"
-msgstr "이벤트 곡 「FLASH IN THE DARK」\\n의 난이도 HARD 이상을 풀콤보로 클리어"
+msgstr "이벤트 곡 「FLASH IN THE DARK」\n의 난이도 HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_godiva_c_0035"
-msgstr "「FLASH IN THE DARK」\\n의 HARD 이상을 풀콤보로 클리어"
+msgstr "「FLASH IN THE DARK」\n의 HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_godiva_c_0036"
-msgstr "이벤트 곡 「FLASH IN THE DARK」\\n의 난이도 VERY HARD 이상을 풀콤보로 클리어"
+msgstr "이벤트 곡 「FLASH IN THE DARK」\n의 난이도 VERY HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_godiva_c_0036"
-msgstr "「FLASH IN THE DARK」\\n의 VERY HARD 이상을 풀콤보로 클리어"
+msgstr "「FLASH IN THE DARK」\n의 VERY HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_godiva_c_0037"
-msgstr "이벤트 곡 「FLASH IN THE DARK」\\n의 난이도 EXTREME을 풀콤보로 클리어"
+msgstr "이벤트 곡 「FLASH IN THE DARK」\n의 난이도 EXTREME을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_godiva_c_0037"
-msgstr "「FLASH IN THE DARK」\\n의 EXTREME을 풀콤보로 클리어"
+msgstr "「FLASH IN THE DARK」\n의 EXTREME을 풀콤보로 클리어"
 
 msgid "mission_desc_event_godiva_c_0038"
 msgstr "아무 가희의 소울 어필을 5 올린다"
@@ -2746,112 +2746,112 @@ msgid "mission_desc2_event_godiva_c_0043"
 msgstr "아무 가희의 참 어필을 10 올린다"
 
 msgid "mission_desc_event_godiva_c_0044"
-msgstr "이벤트 「복각　FLASH IN THE SOUL」\\n의 미션을 15개 클리어"
+msgstr "이벤트 「복각　FLASH IN THE SOUL」\n의 미션을 15개 클리어"
 
 msgid "event_banner_event_godiva_c_0001"
 msgstr "이벤트에 참가해서 ★5 확정 서비스 티켓을 GET!"
 
 msgid "mission_desc_event_mission_a_0001"
-msgstr "【데일리】이벤트 미션에\\n도전하여 악곡 클리어"
+msgstr "【데일리】이벤트 미션에\n도전하여 악곡 클리어"
 
 msgid "mission_desc_event_mission_a_0002"
-msgstr "【데일리】이벤트 미션에\\n도전하여 악곡 클리어"
+msgstr "【데일리】이벤트 미션에\n도전하여 악곡 클리어"
 
 msgid "mission_desc_event_mission_a_0003"
-msgstr "【데일리】이벤트 미션에\\n도전하여 악곡 클리어"
+msgstr "【데일리】이벤트 미션에\n도전하여 악곡 클리어"
 
 msgid "mission_desc_event_mission_a_0004"
-msgstr "【데일리】이벤트 미션에\\n도전하여 악곡 클리어"
+msgstr "【데일리】이벤트 미션에\n도전하여 악곡 클리어"
 
 msgid "mission_desc_event_mission_a_0005"
-msgstr "【데일리】이벤트 미션에\\n도전하여 악곡 클리어"
+msgstr "【데일리】이벤트 미션에\n도전하여 악곡 클리어"
 
 msgid "mission_desc_event_mission_a_0006"
-msgstr "【데일리】이벤트 미션에\\n도전하여 악곡 클리어"
+msgstr "【데일리】이벤트 미션에\n도전하여 악곡 클리어"
 
 msgid "mission_desc_event_mission_a_0007"
-msgstr "【데일리】이벤트 미션에\\n도전하여 악곡 클리어"
+msgstr "【데일리】이벤트 미션에\n도전하여 악곡 클리어"
 
 msgid "mission_desc_event_mission_a_0008"
-msgstr "【데일리】이벤트 미션에\\n도전하여 악곡 클리어"
+msgstr "【데일리】이벤트 미션에\n도전하여 악곡 클리어"
 
 msgid "mission_desc_event_mission_a_0009"
-msgstr "【데일리】이벤트 미션에\\n도전하여 악곡 클리어"
+msgstr "【데일리】이벤트 미션에\n도전하여 악곡 클리어"
 
 msgid "mission_desc_event_mission_a_0010"
-msgstr "【데일리】이벤트 미션에 도전하여\\n악곡 3회 클리어"
+msgstr "【데일리】이벤트 미션에 도전하여\n악곡 3회 클리어"
 
 msgid "mission_desc_event_mission_a_0011"
-msgstr "【데일리】이벤트 미션에 도전하여\\n악곡 3회 클리어"
+msgstr "【데일리】이벤트 미션에 도전하여\n악곡 3회 클리어"
 
 msgid "mission_desc_event_mission_a_0012"
-msgstr "【데일리】이벤트 미션에 도전하여\\n악곡 3회 클리어"
+msgstr "【데일리】이벤트 미션에 도전하여\n악곡 3회 클리어"
 
 msgid "mission_desc_event_mission_a_0013"
-msgstr "【데일리】이벤트 미션에 도전하여\\n악곡 3회 클리어"
+msgstr "【데일리】이벤트 미션에 도전하여\n악곡 3회 클리어"
 
 msgid "mission_desc_event_mission_a_0014"
-msgstr "【데일리】이벤트 미션에 도전하여\\n악곡 3회 클리어"
+msgstr "【데일리】이벤트 미션에 도전하여\n악곡 3회 클리어"
 
 msgid "mission_desc_event_mission_a_0015"
-msgstr "【데일리】이벤트 미션에 도전하여\\n악곡 3회 클리어"
+msgstr "【데일리】이벤트 미션에 도전하여\n악곡 3회 클리어"
 
 msgid "mission_desc_event_mission_a_0016"
-msgstr "【데일리】이벤트 미션에 도전하여\\n악곡 3회 클리어"
+msgstr "【데일리】이벤트 미션에 도전하여\n악곡 3회 클리어"
 
 msgid "mission_desc_event_mission_a_0017"
-msgstr "【데일리】이벤트 미션에 도전하여\\n악곡 3회 클리어"
+msgstr "【데일리】이벤트 미션에 도전하여\n악곡 3회 클리어"
 
 msgid "mission_desc_event_mission_a_0018"
-msgstr "【데일리】이벤트 미션에 도전하여\\n악곡 3회 클리어"
+msgstr "【데일리】이벤트 미션에 도전하여\n악곡 3회 클리어"
 
 msgid "mission_desc_event_mission_a_0019"
-msgstr "「왈큐레는 배신하지 않아」\\n에서 미션에 도전해 곡을 5회 클리어"
+msgstr "「왈큐레는 배신하지 않아」\n에서 미션에 도전해 곡을 5회 클리어"
 
 msgid "mission_desc_event_mission_a_0020"
-msgstr "「왈큐레는 배신하지 않아」\\n에서 미션에 도전해 곡을 10회 클리어"
+msgstr "「왈큐레는 배신하지 않아」\n에서 미션에 도전해 곡을 10회 클리어"
 
 msgid "mission_desc_event_mission_a_0021"
-msgstr "「왈큐레는 배신하지 않아」\\n의 난이도 HARD 이상을 라이프 90％ 이상 남기고 클리어"
+msgstr "「왈큐레는 배신하지 않아」\n의 난이도 HARD 이상을 라이프 90％ 이상 남기고 클리어"
 
 msgid "mission_desc_event_mission_a_0022"
-msgstr "「왈큐레는 배신하지 않아」\\n의 난이도 HARD 이상을 초가희 모드에 진입해 클리어"
+msgstr "「왈큐레는 배신하지 않아」\n의 난이도 HARD 이상을 초가희 모드에 진입해 클리어"
 
 msgid "mission_desc_event_mission_a_0023"
-msgstr "「왈큐레는 배신하지 않아」\\n의 난이도 HARD 이상을 생체 폴드파 120% 이상으로 클리어"
+msgstr "「왈큐레는 배신하지 않아」\n의 난이도 HARD 이상을 생체 폴드파 120% 이상으로 클리어"
 
 msgid "mission_desc_event_mission_a_0024"
-msgstr "「왈큐레는 배신하지 않아」\\n를 스코어 70만 이상으로 클리어"
+msgstr "「왈큐레는 배신하지 않아」\n를 스코어 70만 이상으로 클리어"
 
 msgid "mission_desc_event_mission_a_0025"
-msgstr "「왈큐레는 배신하지 않아」\\n를 스코어 85만 이상으로 클리어"
+msgstr "「왈큐레는 배신하지 않아」\n를 스코어 85만 이상으로 클리어"
 
 msgid "mission_desc_event_mission_a_0026"
-msgstr "「왈큐레는 배신하지 않아」\\n를 스코어 100만 이상으로 클리어"
+msgstr "「왈큐레는 배신하지 않아」\n를 스코어 100만 이상으로 클리어"
 
 msgid "mission_desc_event_mission_a_0027"
-msgstr "「왈큐레는 배신하지 않아」\\n를 스코어 115만 이상으로 클리어"
+msgstr "「왈큐레는 배신하지 않아」\n를 스코어 115만 이상으로 클리어"
 
 msgid "mission_desc_event_mission_a_0028"
-msgstr "「왈큐레는 배신하지 않아」\\n를 스코어 130만 이상으로 클리어"
+msgstr "「왈큐레는 배신하지 않아」\n를 스코어 130만 이상으로 클리어"
 
 msgid "mission_desc_event_mission_a_0029"
-msgstr "「왈큐레는 배신하지 않아」\\n를 스코어 140만 이상으로 클리어"
+msgstr "「왈큐레는 배신하지 않아」\n를 스코어 140만 이상으로 클리어"
 
 msgid "mission_desc_event_mission_a_0030"
-msgstr "「왈큐레는 배신하지 않아」\\n의 난이도 EASY 이상을 풀콤보로 클리어"
+msgstr "「왈큐레는 배신하지 않아」\n의 난이도 EASY 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_mission_a_0031"
-msgstr "「왈큐레는 배신하지 않아」\\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
+msgstr "「왈큐레는 배신하지 않아」\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_mission_a_0032"
-msgstr "「왈큐레는 배신하지 않아」\\n의 난이도 HARD 이상을 풀콤보로 클리어"
+msgstr "「왈큐레는 배신하지 않아」\n의 난이도 HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_mission_a_0033"
-msgstr "「왈큐레는 배신하지 않아」\\n의 난이도 VERY HARD 이상을 풀콤보로 클리어"
+msgstr "「왈큐레는 배신하지 않아」\n의 난이도 VERY HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_mission_a_0034"
-msgstr "「왈큐레는 배신하지 않아」\\n의 난이도 EXTREME을 풀콤보로 클리어"
+msgstr "「왈큐레는 배신하지 않아」\n의 난이도 EXTREME을 풀콤보로 클리어"
 
 msgid "mission_desc_event_mission_a_0035"
 msgstr "이벤트 미션에 도전하여 10회 악곡을 클리어"
@@ -2869,7 +2869,7 @@ msgid "mission_desc_event_mission_a_0039"
 msgstr "이벤트 미션에 도전하여 30회 악곡을 클리어"
 
 msgid "mission_desc_event_mission_a_0040"
-msgstr "이벤트 「복각　여름이다! 수영복이다! 왈우라 페스!」\\n의 미션을 20개 클리어"
+msgstr "이벤트 「복각　여름이다! 수영복이다! 왈우라 페스!」\n의 미션을 20개 클리어"
 
 msgid "event_banner_event_mission_a_0001"
 msgstr "이벤트에 참가해서 데카르 가챠를 10회 뽑자!"
@@ -2884,7 +2884,7 @@ msgid "event_mission_desc_event_mission_a_0003"
 msgstr "초가희 모드로 진입하여 클리어"
 
 msgid "event_mission_desc_event_mission_a_0004"
-msgstr "라이프가 계속 감소하는 동안\\n초가희 모드에 진입해 클리어"
+msgstr "라이프가 계속 감소하는 동안\n초가희 모드에 진입해 클리어"
 
 msgid "event_mission_desc_event_mission_a_0005"
 msgstr "스코어 랭크 A 이상으로 클리어"
@@ -2893,7 +2893,7 @@ msgid "event_mission_desc_event_mission_a_0006"
 msgstr "스코어 랭크 SS로 클리어"
 
 msgid "event_mission_desc_event_mission_a_0007"
-msgstr "라이프가 계속 감소하는 동안\\n스코어 랭크 SS로 클리어"
+msgstr "라이프가 계속 감소하는 동안\n스코어 랭크 SS로 클리어"
 
 msgid "event_mission_desc_event_mission_a_0008"
 msgstr "콤보 랭크 B[bcombo] 이상으로 클리어"
@@ -2905,7 +2905,7 @@ msgid "event_mission_desc_event_mission_a_0010"
 msgstr "콤보 랭크 S[scombo] 이상으로 클리어"
 
 msgid "event_mission_desc_event_mission_a_0011"
-msgstr "라이프가 계속 감소하는 동안\\n콤보 랭크 S[scombo] 이상으로 클리어"
+msgstr "라이프가 계속 감소하는 동안\n콤보 랭크 S[scombo] 이상으로 클리어"
 
 msgid "event_mission_desc_event_mission_a_0012"
 msgstr "라이프 60％ 이상으로 클리어"
@@ -2914,112 +2914,112 @@ msgid "event_mission_desc_event_mission_a_0013"
 msgstr "라이프 80％ 이상으로 클리어"
 
 msgid "event_mission_desc_event_mission_a_0014"
-msgstr "라이프가 계속 감소하는 동안\\n라이프 80％ 이상으로 클리어"
+msgstr "라이프가 계속 감소하는 동안\n라이프 80％ 이상으로 클리어"
 
 msgid "mission_desc_event_mission_b_0001"
-msgstr "【데일리】이벤트 미션에\\n도전하여 악곡 클리어"
+msgstr "【데일리】이벤트 미션에\n도전하여 악곡 클리어"
 
 msgid "mission_desc_event_mission_b_0002"
-msgstr "【데일리】이벤트 미션에\\n도전하여 악곡 클리어"
+msgstr "【데일리】이벤트 미션에\n도전하여 악곡 클리어"
 
 msgid "mission_desc_event_mission_b_0003"
-msgstr "【데일리】이벤트 미션에\\n도전하여 악곡 클리어"
+msgstr "【데일리】이벤트 미션에\n도전하여 악곡 클리어"
 
 msgid "mission_desc_event_mission_b_0004"
-msgstr "【데일리】이벤트 미션에\\n도전하여 악곡 클리어"
+msgstr "【데일리】이벤트 미션에\n도전하여 악곡 클리어"
 
 msgid "mission_desc_event_mission_b_0005"
-msgstr "【데일리】이벤트 미션에\\n도전하여 악곡 클리어"
+msgstr "【데일리】이벤트 미션에\n도전하여 악곡 클리어"
 
 msgid "mission_desc_event_mission_b_0006"
-msgstr "【데일리】이벤트 미션에\\n도전하여 악곡 클리어"
+msgstr "【데일리】이벤트 미션에\n도전하여 악곡 클리어"
 
 msgid "mission_desc_event_mission_b_0007"
-msgstr "【데일리】이벤트 미션에\\n도전하여 악곡 클리어"
+msgstr "【데일리】이벤트 미션에\n도전하여 악곡 클리어"
 
 msgid "mission_desc_event_mission_b_0008"
-msgstr "【데일리】이벤트 미션에\\n도전하여 악곡 클리어"
+msgstr "【데일리】이벤트 미션에\n도전하여 악곡 클리어"
 
 msgid "mission_desc_event_mission_b_0009"
-msgstr "【데일리】이벤트 미션에\\n도전하여 악곡 클리어"
+msgstr "【데일리】이벤트 미션에\n도전하여 악곡 클리어"
 
 msgid "mission_desc_event_mission_b_0010"
-msgstr "【데일리】이벤트 미션에 도전하여\\n악곡 3회 클리어"
+msgstr "【데일리】이벤트 미션에 도전하여\n악곡 3회 클리어"
 
 msgid "mission_desc_event_mission_b_0011"
-msgstr "【데일리】이벤트 미션에 도전하여\\n악곡 3회 클리어"
+msgstr "【데일리】이벤트 미션에 도전하여\n악곡 3회 클리어"
 
 msgid "mission_desc_event_mission_b_0012"
-msgstr "【데일리】이벤트 미션에 도전하여\\n악곡 3회 클리어"
+msgstr "【데일리】이벤트 미션에 도전하여\n악곡 3회 클리어"
 
 msgid "mission_desc_event_mission_b_0013"
-msgstr "【데일리】이벤트 미션에 도전하여\\n악곡 3회 클리어"
+msgstr "【데일리】이벤트 미션에 도전하여\n악곡 3회 클리어"
 
 msgid "mission_desc_event_mission_b_0014"
-msgstr "【데일리】이벤트 미션에 도전하여\\n악곡 3회 클리어"
+msgstr "【데일리】이벤트 미션에 도전하여\n악곡 3회 클리어"
 
 msgid "mission_desc_event_mission_b_0015"
-msgstr "【데일리】이벤트 미션에 도전하여\\n악곡 3회 클리어"
+msgstr "【데일리】이벤트 미션에 도전하여\n악곡 3회 클리어"
 
 msgid "mission_desc_event_mission_b_0016"
-msgstr "【데일리】이벤트 미션에 도전하여\\n악곡 3회 클리어"
+msgstr "【데일리】이벤트 미션에 도전하여\n악곡 3회 클리어"
 
 msgid "mission_desc_event_mission_b_0017"
-msgstr "【데일리】이벤트 미션에 도전하여\\n악곡 3회 클리어"
+msgstr "【데일리】이벤트 미션에 도전하여\n악곡 3회 클리어"
 
 msgid "mission_desc_event_mission_b_0018"
-msgstr "【데일리】이벤트 미션에 도전하여\\n악곡 3회 클리어"
+msgstr "【데일리】이벤트 미션에 도전하여\n악곡 3회 클리어"
 
 msgid "mission_desc_event_mission_b_0019"
-msgstr "「0-G Love」\\n에서 미션에 도전하여 5회 악곡 클리어"
+msgstr "「0-G Love」\n에서 미션에 도전하여 5회 악곡 클리어"
 
 msgid "mission_desc_event_mission_b_0020"
-msgstr "「0-G Love」\\n에서 미션에 도전하여 10회 악곡 클리어"
+msgstr "「0-G Love」\n에서 미션에 도전하여 10회 악곡 클리어"
 
 msgid "mission_desc_event_mission_b_0021"
-msgstr "「0-G Love」\\n난이도 HARD 이상을 라이프 90% 이상 남기고 클리어"
+msgstr "「0-G Love」\n난이도 HARD 이상을 라이프 90% 이상 남기고 클리어"
 
 msgid "mission_desc_event_mission_b_0022"
-msgstr "「0-G Love」\\n난이도 HARD 이상을 초가희 모드로 들어가서 클리어"
+msgstr "「0-G Love」\n난이도 HARD 이상을 초가희 모드로 들어가서 클리어"
 
 msgid "mission_desc_event_mission_b_0023"
-msgstr "「0-G Love」\\n난이도 HARD 이상을 생체 폴드파 120% 이상으로 클리어"
+msgstr "「0-G Love」\n난이도 HARD 이상을 생체 폴드파 120% 이상으로 클리어"
 
 msgid "mission_desc_event_mission_b_0024"
-msgstr "「AXIA ~너무 좋아서 너무 싫어~」\\n에서 미션에 도전하여 5회 악곡 클리어"
+msgstr "「AXIA ~너무 좋아서 너무 싫어~」\n에서 미션에 도전하여 5회 악곡 클리어"
 
 msgid "mission_desc_event_mission_b_0025"
-msgstr "「0-G Love」\\n를 스코어 70만 이상으로 클리어"
+msgstr "「0-G Love」\n를 스코어 70만 이상으로 클리어"
 
 msgid "mission_desc_event_mission_b_0026"
-msgstr "「0-G Love」\\n를 스코어 85만 이상으로 클리어"
+msgstr "「0-G Love」\n를 스코어 85만 이상으로 클리어"
 
 msgid "mission_desc_event_mission_b_0027"
-msgstr "「0-G Love」\\n를 스코어 100만 이상으로 클리어"
+msgstr "「0-G Love」\n를 스코어 100만 이상으로 클리어"
 
 msgid "mission_desc_event_mission_b_0028"
-msgstr "「0-G Love」\\n를 스코어 115만 이상으로 클리어"
+msgstr "「0-G Love」\n를 스코어 115만 이상으로 클리어"
 
 msgid "mission_desc_event_mission_b_0029"
-msgstr "「0-G Love」\\n를 스코어 130만 이상으로 클리어"
+msgstr "「0-G Love」\n를 스코어 130만 이상으로 클리어"
 
 msgid "mission_desc_event_mission_b_0030"
-msgstr "「0-G Love」\\n를 스코어 140만 이상으로 클리어"
+msgstr "「0-G Love」\n를 스코어 140만 이상으로 클리어"
 
 msgid "mission_desc_event_mission_b_0031"
-msgstr "「0-G Love」\\n의 난이도 EASY 이상을 풀콤보로 클리어"
+msgstr "「0-G Love」\n의 난이도 EASY 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_mission_b_0032"
-msgstr "「0-G Love」\\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
+msgstr "「0-G Love」\n의 난이도 NORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_mission_b_0033"
-msgstr "「0-G Love」\\n의 난이도 HARD 이상을 풀콤보로 클리어"
+msgstr "「0-G Love」\n의 난이도 HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_mission_b_0034"
-msgstr "「0-G Love」\\n의 난이도 VERY HARD 이상을 풀콤보로 클리어"
+msgstr "「0-G Love」\n의 난이도 VERY HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_mission_b_0035"
-msgstr "「0-G Love」\\n의 난이도 EXTREME을 풀콤보로 클리어"
+msgstr "「0-G Love」\n의 난이도 EXTREME을 풀콤보로 클리어"
 
 msgid "mission_desc_event_mission_b_0036"
 msgstr "이벤트 미션에 도전하여 10회 악곡을 클리어"
@@ -3037,7 +3037,7 @@ msgid "mission_desc_event_mission_b_0040"
 msgstr "이벤트 미션에 도전하여 30회 악곡을 클리어"
 
 msgid "mission_desc_event_mission_b_0041"
-msgstr "이벤트 「복각　0-G Love」\\n의 미션을 20개 클리어"
+msgstr "이벤트 「복각　0-G Love」\n의 미션을 20개 클리어"
 
 msgid "event_banner_event_mission_b_0001"
 msgstr "이벤트에 참가해서 ★5 확정 서비스 티켓을 GET!"
@@ -3052,7 +3052,7 @@ msgid "event_mission_desc_event_mission_b_0003"
 msgstr "초가희 모드로 진입하여 클리어"
 
 msgid "event_mission_desc_event_mission_b_0004"
-msgstr "라이프가 계속 감소하는 동안\\n초가희 모드에 진입해 클리어"
+msgstr "라이프가 계속 감소하는 동안\n초가희 모드에 진입해 클리어"
 
 msgid "event_mission_desc_event_mission_b_0005"
 msgstr "스코어 랭크 A 이상으로 클리어"
@@ -3061,7 +3061,7 @@ msgid "event_mission_desc_event_mission_b_0006"
 msgstr "스코어 랭크 SS로 클리어"
 
 msgid "event_mission_desc_event_mission_b_0007"
-msgstr "라이프가 계속 감소하는 동안\\n스코어 랭크 SS로 클리어"
+msgstr "라이프가 계속 감소하는 동안\n스코어 랭크 SS로 클리어"
 
 msgid "event_mission_desc_event_mission_b_0008"
 msgstr "콤보 랭크 B[bcombo] 이상으로 클리어"
@@ -3073,7 +3073,7 @@ msgid "event_mission_desc_event_mission_b_0010"
 msgstr "콤보 랭크 S[scombo] 이상으로 클리어"
 
 msgid "event_mission_desc_event_mission_b_0011"
-msgstr "라이프가 계속 감소하는 동안\\n콤보 랭크 S[scombo] 이상으로 클리어"
+msgstr "라이프가 계속 감소하는 동안\n콤보 랭크 S[scombo] 이상으로 클리어"
 
 msgid "event_mission_desc_event_mission_b_0012"
 msgstr "라이프 60％ 이상으로 클리어"
@@ -3082,106 +3082,106 @@ msgid "event_mission_desc_event_mission_b_0013"
 msgstr "라이프 80％ 이상으로 클리어"
 
 msgid "event_mission_desc_event_mission_b_0014"
-msgstr "라이프가 계속 감소하는 동안\\n라이프 80％ 이상으로 클리어"
+msgstr "라이프가 계속 감소하는 동안\n라이프 80％ 이상으로 클리어"
 
 msgid "mission_desc_event_mission_c_0001"
-msgstr "【데일리】이벤트 미션에\\n도전하여 악곡 클리어"
+msgstr "【데일리】이벤트 미션에\n도전하여 악곡 클리어"
 
 msgid "mission_desc_event_mission_c_0002"
-msgstr "【데일리】이벤트 미션에\\n도전하여 악곡 클리어"
+msgstr "【데일리】이벤트 미션에\n도전하여 악곡 클리어"
 
 msgid "mission_desc_event_mission_c_0003"
-msgstr "【데일리】이벤트 미션에\\n도전하여 악곡 클리어"
+msgstr "【데일리】이벤트 미션에\n도전하여 악곡 클리어"
 
 msgid "mission_desc_event_mission_c_0004"
-msgstr "【데일리】이벤트 미션에\\n도전하여 악곡 클리어"
+msgstr "【데일리】이벤트 미션에\n도전하여 악곡 클리어"
 
 msgid "mission_desc_event_mission_c_0005"
-msgstr "【데일리】이벤트 미션에\\n도전하여 악곡 클리어"
+msgstr "【데일리】이벤트 미션에\n도전하여 악곡 클리어"
 
 msgid "mission_desc_event_mission_c_0006"
-msgstr "【데일리】이벤트 미션에\\n도전하여 악곡 클리어"
+msgstr "【데일리】이벤트 미션에\n도전하여 악곡 클리어"
 
 msgid "mission_desc_event_mission_c_0007"
-msgstr "【데일리】이벤트 미션에\\n도전하여 악곡 클리어"
+msgstr "【데일리】이벤트 미션에\n도전하여 악곡 클리어"
 
 msgid "mission_desc_event_mission_c_0008"
-msgstr "【데일리】이벤트 미션에\\n도전하여 악곡 클리어"
+msgstr "【데일리】이벤트 미션에\n도전하여 악곡 클리어"
 
 msgid "mission_desc_event_mission_c_0009"
-msgstr "【데일리】이벤트 미션에 도전하여\\n악곡 3회 클리어"
+msgstr "【데일리】이벤트 미션에 도전하여\n악곡 3회 클리어"
 
 msgid "mission_desc_event_mission_c_0010"
-msgstr "【데일리】이벤트 미션에 도전하여\\n악곡 3회 클리어"
+msgstr "【데일리】이벤트 미션에 도전하여\n악곡 3회 클리어"
 
 msgid "mission_desc_event_mission_c_0011"
-msgstr "【데일리】이벤트 미션에 도전하여\\n악곡 3회 클리어"
+msgstr "【데일리】이벤트 미션에 도전하여\n악곡 3회 클리어"
 
 msgid "mission_desc_event_mission_c_0012"
-msgstr "【데일리】이벤트 미션에 도전하여\\n악곡 3회 클리어"
+msgstr "【데일리】이벤트 미션에 도전하여\n악곡 3회 클리어"
 
 msgid "mission_desc_event_mission_c_0013"
-msgstr "【데일리】이벤트 미션에 도전하여\\n악곡 3회 클리어"
+msgstr "【데일리】이벤트 미션에 도전하여\n악곡 3회 클리어"
 
 msgid "mission_desc_event_mission_c_0014"
-msgstr "【데일리】이벤트 미션에 도전하여\\n악곡 3회 클리어"
+msgstr "【데일리】이벤트 미션에 도전하여\n악곡 3회 클리어"
 
 msgid "mission_desc_event_mission_c_0015"
-msgstr "【데일리】이벤트 미션에 도전하여\\n악곡 3회 클리어"
+msgstr "【데일리】이벤트 미션에 도전하여\n악곡 3회 클리어"
 
 msgid "mission_desc_event_mission_c_0016"
-msgstr "【데일리】이벤트 미션에 도전하여\\n악곡 3회 클리어"
+msgstr "【데일리】이벤트 미션에 도전하여\n악곡 3회 클리어"
 
 msgid "mission_desc_event_mission_c_0017"
-msgstr "「POWER TO THE DREAM」\\n에서 미션에 도전해 곡을 5회 클리어"
+msgstr "「POWER TO THE DREAM」\n에서 미션에 도전해 곡을 5회 클리어"
 
 msgid "mission_desc_event_mission_c_0018"
-msgstr "「POWER TO THE DREAM」\\n에서 미션에 도전해 곡을 10회 클리어"
+msgstr "「POWER TO THE DREAM」\n에서 미션에 도전해 곡을 10회 클리어"
 
 msgid "mission_desc_event_mission_c_0019"
-msgstr "「POWER TO THE DREAM」\\n의 난이도 HARD 이상을 라이프 90％ 이상 남기고 클리어"
+msgstr "「POWER TO THE DREAM」\n의 난이도 HARD 이상을 라이프 90％ 이상 남기고 클리어"
 
 msgid "mission_desc_event_mission_c_0020"
-msgstr "「POWER TO THE DREAM」\\n의 난이도 HARD 이상을 초가희 모드에 진입해 클리어"
+msgstr "「POWER TO THE DREAM」\n의 난이도 HARD 이상을 초가희 모드에 진입해 클리어"
 
 msgid "mission_desc_event_mission_c_0021"
-msgstr "「POWER TO THE DREAM」\\n의 난이도 HARD 이상을 생체 폴드파 120% 이상으로 클리어"
+msgstr "「POWER TO THE DREAM」\n의 난이도 HARD 이상을 생체 폴드파 120% 이상으로 클리어"
 
 msgid "mission_desc_event_mission_c_0022"
-msgstr "「AXIA ~너무 좋아서 너무 싫어~」\\n에서 미션에 도전하여 5회 악곡 클리어"
+msgstr "「AXIA ~너무 좋아서 너무 싫어~」\n에서 미션에 도전하여 5회 악곡 클리어"
 
 msgid "mission_desc_event_mission_c_0023"
-msgstr "「POWER TO THE DREAM」\\n스코어 70만 이상으로 클리어"
+msgstr "「POWER TO THE DREAM」\n스코어 70만 이상으로 클리어"
 
 msgid "mission_desc_event_mission_c_0024"
-msgstr "「POWER TO THE DREAM」\\n스코어 85만 이상으로 클리어"
+msgstr "「POWER TO THE DREAM」\n스코어 85만 이상으로 클리어"
 
 msgid "mission_desc_event_mission_c_0025"
-msgstr "「POWER TO THE DREAM」\\n스코어 100만 이상으로 클리어"
+msgstr "「POWER TO THE DREAM」\n스코어 100만 이상으로 클리어"
 
 msgid "mission_desc_event_mission_c_0026"
-msgstr "「POWER TO THE DREAM」\\n스코어 115만 이상으로 클리어"
+msgstr "「POWER TO THE DREAM」\n스코어 115만 이상으로 클리어"
 
 msgid "mission_desc_event_mission_c_0027"
-msgstr "「POWER TO THE DREAM」\\n스코어 130만 이상으로 클리어"
+msgstr "「POWER TO THE DREAM」\n스코어 130만 이상으로 클리어"
 
 msgid "mission_desc_event_mission_c_0028"
-msgstr "「POWER TO THE DREAM」\\n스코어 140만 이상으로 클리어"
+msgstr "「POWER TO THE DREAM」\n스코어 140만 이상으로 클리어"
 
 msgid "mission_desc_event_mission_c_0029"
-msgstr "「POWER TO THE DREAM」\\n난이도 EASY 이상을 풀콤보로 클리어"
+msgstr "「POWER TO THE DREAM」\n난이도 EASY 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_mission_c_0030"
-msgstr "「POWER TO THE DREAM」\\n난이도 NORMAL 이상을 풀콤보로 클리어"
+msgstr "「POWER TO THE DREAM」\n난이도 NORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_mission_c_0031"
-msgstr "「POWER TO THE DREAM」\\n난이도 HARD 이상을 풀콤보로 클리어"
+msgstr "「POWER TO THE DREAM」\n난이도 HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_mission_c_0032"
-msgstr "「POWER TO THE DREAM」\\n난이도 VERY HARD 이상을 풀콤보로 클리어"
+msgstr "「POWER TO THE DREAM」\n난이도 VERY HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_mission_c_0033"
-msgstr "「POWER TO THE DREAM」\\n난이도 EXTREME을 풀콤보로 클리어"
+msgstr "「POWER TO THE DREAM」\n난이도 EXTREME을 풀콤보로 클리어"
 
 msgid "mission_desc_event_mission_c_0034"
 msgstr "이벤트 미션에 도전하여 10회 악곡을 클리어"
@@ -3199,7 +3199,7 @@ msgid "mission_desc_event_mission_c_0038"
 msgstr "이벤트 미션에 도전하여 30회 악곡을 클리어"
 
 msgid "mission_desc_event_mission_c_0039"
-msgstr "이벤트 「초시공 파이널 Live ～Act.2～」\\n의 미션을 20개 클리어"
+msgstr "이벤트 「초시공 파이널 Live ～Act.2～」\n의 미션을 20개 클리어"
 
 msgid "event_banner_event_mission_c_0001"
 msgstr "이벤트에 참가해서 에피소드 플레이트 교환권을 GET!"
@@ -3214,7 +3214,7 @@ msgid "event_mission_desc_event_mission_c_0003"
 msgstr "초가희 모드로 진입하여 클리어"
 
 msgid "event_mission_desc_event_mission_c_0004"
-msgstr "라이프가 계속 감소하는 동안\\n초가희 모드에 진입해 클리어"
+msgstr "라이프가 계속 감소하는 동안\n초가희 모드에 진입해 클리어"
 
 msgid "event_mission_desc_event_mission_c_0005"
 msgstr "스코어 랭크 A 이상으로 클리어"
@@ -3223,7 +3223,7 @@ msgid "event_mission_desc_event_mission_c_0006"
 msgstr "스코어 랭크 SS로 클리어"
 
 msgid "event_mission_desc_event_mission_c_0007"
-msgstr "라이프가 계속 감소하는 동안\\n스코어 랭크 SS로 클리어"
+msgstr "라이프가 계속 감소하는 동안\n스코어 랭크 SS로 클리어"
 
 msgid "event_mission_desc_event_mission_c_0008"
 msgstr "콤보 랭크 B[bcombo] 이상으로 클리어"
@@ -3235,7 +3235,7 @@ msgid "event_mission_desc_event_mission_c_0010"
 msgstr "콤보 랭크 S[scombo] 이상으로 클리어"
 
 msgid "event_mission_desc_event_mission_c_0011"
-msgstr "라이프가 계속 감소하는 동안\\n콤보 랭크 S[scombo] 이상으로 클리어"
+msgstr "라이프가 계속 감소하는 동안\n콤보 랭크 S[scombo] 이상으로 클리어"
 
 msgid "event_mission_desc_event_mission_c_0012"
 msgstr "라이프 60％ 이상으로 클리어"
@@ -3244,7 +3244,7 @@ msgid "event_mission_desc_event_mission_c_0013"
 msgstr "라이프 80％ 이상으로 클리어"
 
 msgid "event_mission_desc_event_mission_c_0014"
-msgstr "라이프가 계속 감소하는 동안\\n라이프 80％ 이상으로 클리어"
+msgstr "라이프가 계속 감소하는 동안\n라이프 80％ 이상으로 클리어"
 
 msgid "mission_desc_event_raid_a_10001"
 msgstr "초가희 모드로 진입하여 클리어"
@@ -3268,7 +3268,7 @@ msgid "mission_desc_event_raid_a_10007"
 msgstr "악곡 클리어"
 
 msgid "mission_desc_event_raid_a_10008"
-msgstr "폴드파 100% 이상으로\\n클리어"
+msgstr "폴드파 100% 이상으로\n클리어"
 
 msgid "mission_desc_event_raid_a_10009"
 msgstr "가희 모드로 진입하여 클리어"
@@ -3280,7 +3280,7 @@ msgid "mission_desc_event_raid_a_0001"
 msgstr "【데일리】폴드 레이더를 1회 사용한다"
 
 msgid "mission_desc_event_raid_a_0002"
-msgstr "【데일리】폭주 에너미를 1체 무력화하고,\\n보상을 받는다"
+msgstr "【데일리】폭주 에너미를 1체 무력화하고,\n보상을 받는다"
 
 msgid "mission_desc_event_raid_a_0003"
 msgstr "【데일리】마크로스 캐논을 1회 사용한다"
@@ -3289,7 +3289,7 @@ msgid "mission_desc_event_raid_a_0004"
 msgstr "【데일리】폴드 레이더를 1회 사용한다"
 
 msgid "mission_desc_event_raid_a_0005"
-msgstr "【데일리】폭주 에너미를 1체 무력화하고,\\n보상을 받는다"
+msgstr "【데일리】폭주 에너미를 1체 무력화하고,\n보상을 받는다"
 
 msgid "mission_desc_event_raid_a_0006"
 msgstr "【데일리】마크로스 캐논을 1회 사용한다"
@@ -3298,7 +3298,7 @@ msgid "mission_desc_event_raid_a_0007"
 msgstr "【데일리】폴드 레이더를 1회 사용한다"
 
 msgid "mission_desc_event_raid_a_0008"
-msgstr "【데일리】폭주 에너미를 1체 무력화하고,\\n보상을 받는다"
+msgstr "【데일리】폭주 에너미를 1체 무력화하고,\n보상을 받는다"
 
 msgid "mission_desc_event_raid_a_0009"
 msgstr "【데일리】마크로스 캐논을 1회 사용한다"
@@ -3307,7 +3307,7 @@ msgid "mission_desc_event_raid_a_0010"
 msgstr "【데일리】폴드 레이더를 1회 사용한다"
 
 msgid "mission_desc_event_raid_a_0011"
-msgstr "【데일리】폭주 에너미를 1체 무력화하고,\\n보상을 받는다"
+msgstr "【데일리】폭주 에너미를 1체 무력화하고,\n보상을 받는다"
 
 msgid "mission_desc_event_raid_a_0012"
 msgstr "【데일리】마크로스 캐논을 1회 사용한다"
@@ -3358,109 +3358,109 @@ msgid "mission_desc_event_raid_a_0027"
 msgstr "폭주 에너미에게 합계 1000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_a_0027"
-msgstr "폭주 에너미에게\\n합계 1000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 1000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_a_0028"
 msgstr "폭주 에너미에게 합계 5000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_a_0028"
-msgstr "폭주 에너미에게\\n합계 5000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 5000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_a_0029"
 msgstr "폭주 에너미에게 합계 10000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_a_0029"
-msgstr "폭주 에너미에게\\n합계 10000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 10000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_a_0030"
 msgstr "폭주 에너미에게 합계 50000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_a_0030"
-msgstr "폭주 에너미에게\\n합계 50000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 50000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_a_0031"
 msgstr "폭주 에너미에게 합계 100000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_a_0031"
-msgstr "폭주 에너미에게\\n합계 100000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 100000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_a_0032"
 msgstr "폭주 에너미에게 합계 200000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_a_0032"
-msgstr "폭주 에너미에게\\n합계 200000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 200000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_a_0033"
 msgstr "폭주 에너미에게 합계 300000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_a_0033"
-msgstr "폭주 에너미에게\\n합계 300000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 300000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_a_0034"
 msgstr "폭주 에너미에게 합계 400000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_a_0034"
-msgstr "폭주 에너미에게\\n합계 400000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 400000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_a_0035"
 msgstr "폭주 에너미에게 합계 500000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_a_0035"
-msgstr "폭주 에너미에게\\n합계 500000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 500000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_a_0036"
 msgstr "폭주 에너미에게 합계 600000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_a_0036"
-msgstr "폭주 에너미에게\\n합계 600000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 600000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_a_0037"
 msgstr "폭주 에너미에게 합계 700000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_a_0037"
-msgstr "폭주 에너미에게\\n합계 700000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 700000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_a_0038"
 msgstr "폭주 에너미에게 합계 800000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_a_0038"
-msgstr "폭주 에너미에게\\n합계 800000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 800000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_a_0039"
 msgstr "폭주 에너미에게 합계 900000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_a_0039"
-msgstr "폭주 에너미에게\\n합계 900000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 900000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_a_0040"
 msgstr "폭주 에너미에게 합계 1000000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_a_0040"
-msgstr "폭주 에너미에게\\n합계 1000000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 1000000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_a_0041"
 msgstr "폭주 에너미에게 합계 1250000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_a_0041"
-msgstr "폭주 에너미에게\\n합계 1250000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 1250000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_a_0042"
 msgstr "폭주 에너미에게 합계 1500000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_a_0042"
-msgstr "폭주 에너미에게\\n합계 1500000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 1500000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_a_0043"
 msgstr "폭주 에너미에게 합계 1750000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_a_0043"
-msgstr "폭주 에너미에게\\n합계 1750000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 1750000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_a_0044"
 msgstr "폭주 에너미에게 합계 2000000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_a_0044"
-msgstr "폭주 에너미에게\\n합계 2000000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 2000000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_a_0045"
 msgstr "곡을 1회 클리어"
@@ -3520,7 +3520,7 @@ msgid "mission_desc_event_raid_b_10007"
 msgstr "악곡 클리어"
 
 msgid "mission_desc_event_raid_b_10008"
-msgstr "폴드파 100% 이상으로\\n클리어"
+msgstr "폴드파 100% 이상으로\n클리어"
 
 msgid "mission_desc_event_raid_b_10009"
 msgstr "가희 모드로 진입하여 클리어"
@@ -3532,7 +3532,7 @@ msgid "mission_desc_event_raid_b_0001"
 msgstr "【데일리】폴드 레이더를 1회 사용한다"
 
 msgid "mission_desc_event_raid_b_0002"
-msgstr "【데일리】폭주 에너미를 1체 무력화하고,\\n보상을 받는다"
+msgstr "【데일리】폭주 에너미를 1체 무력화하고,\n보상을 받는다"
 
 msgid "mission_desc_event_raid_b_0003"
 msgstr "【데일리】마크로스 캐논을 1회 사용한다"
@@ -3541,7 +3541,7 @@ msgid "mission_desc_event_raid_b_0004"
 msgstr "【데일리】폴드 레이더를 1회 사용한다"
 
 msgid "mission_desc_event_raid_b_0005"
-msgstr "【데일리】폭주 에너미를 1체 무력화하고,\\n보상을 받는다"
+msgstr "【데일리】폭주 에너미를 1체 무력화하고,\n보상을 받는다"
 
 msgid "mission_desc_event_raid_b_0006"
 msgstr "【데일리】마크로스 캐논을 1회 사용한다"
@@ -3550,7 +3550,7 @@ msgid "mission_desc_event_raid_b_0007"
 msgstr "【데일리】폴드 레이더를 1회 사용한다"
 
 msgid "mission_desc_event_raid_b_0008"
-msgstr "【데일리】폭주 에너미를 1체 무력화하고,\\n보상을 받는다"
+msgstr "【데일리】폭주 에너미를 1체 무력화하고,\n보상을 받는다"
 
 msgid "mission_desc_event_raid_b_0009"
 msgstr "【데일리】마크로스 캐논을 1회 사용한다"
@@ -3559,7 +3559,7 @@ msgid "mission_desc_event_raid_b_0010"
 msgstr "【데일리】폴드 레이더를 1회 사용한다"
 
 msgid "mission_desc_event_raid_b_0011"
-msgstr "【데일리】폭주 에너미를 1체 무력화하고,\\n보상을 받는다"
+msgstr "【데일리】폭주 에너미를 1체 무력화하고,\n보상을 받는다"
 
 msgid "mission_desc_event_raid_b_0012"
 msgstr "【데일리】마크로스 캐논을 1회 사용한다"
@@ -3610,109 +3610,109 @@ msgid "mission_desc_event_raid_b_0027"
 msgstr "폭주 에너미에게 합계 1000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_b_0027"
-msgstr "폭주 에너미에게\\n합계 1000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 1000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_b_0028"
 msgstr "폭주 에너미에게 합계 5000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_b_0028"
-msgstr "폭주 에너미에게\\n합계 5000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 5000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_b_0029"
 msgstr "폭주 에너미에게 합계 10000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_b_0029"
-msgstr "폭주 에너미에게\\n합계 10000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 10000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_b_0030"
 msgstr "폭주 에너미에게 합계 50000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_b_0030"
-msgstr "폭주 에너미에게\\n합계 50000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 50000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_b_0031"
 msgstr "폭주 에너미에게 합계 100000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_b_0031"
-msgstr "폭주 에너미에게\\n합계 100000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 100000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_b_0032"
 msgstr "폭주 에너미에게 합계 200000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_b_0032"
-msgstr "폭주 에너미에게\\n합계 200000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 200000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_b_0033"
 msgstr "폭주 에너미에게 합계 300000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_b_0033"
-msgstr "폭주 에너미에게\\n합계 300000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 300000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_b_0034"
 msgstr "폭주 에너미에게 합계 400000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_b_0034"
-msgstr "폭주 에너미에게\\n합계 400000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 400000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_b_0035"
 msgstr "폭주 에너미에게 합계 500000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_b_0035"
-msgstr "폭주 에너미에게\\n합계 500000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 500000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_b_0036"
 msgstr "폭주 에너미에게 합계 600000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_b_0036"
-msgstr "폭주 에너미에게\\n합계 600000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 600000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_b_0037"
 msgstr "폭주 에너미에게 합계 700000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_b_0037"
-msgstr "폭주 에너미에게\\n합계 700000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 700000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_b_0038"
 msgstr "폭주 에너미에게 합계 800000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_b_0038"
-msgstr "폭주 에너미에게\\n합계 800000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 800000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_b_0039"
 msgstr "폭주 에너미에게 합계 900000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_b_0039"
-msgstr "폭주 에너미에게\\n합계 900000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 900000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_b_0040"
 msgstr "폭주 에너미에게 합계 1000000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_b_0040"
-msgstr "폭주 에너미에게\\n합계 1000000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 1000000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_b_0041"
 msgstr "폭주 에너미에게 합계 1250000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_b_0041"
-msgstr "폭주 에너미에게\\n합계 1250000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 1250000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_b_0042"
 msgstr "폭주 에너미에게 합계 1500000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_b_0042"
-msgstr "폭주 에너미에게\\n합계 1500000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 1500000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_b_0043"
 msgstr "폭주 에너미에게 합계 1750000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_b_0043"
-msgstr "폭주 에너미에게\\n합계 1750000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 1750000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_b_0044"
 msgstr "폭주 에너미에게 합계 2000000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_b_0044"
-msgstr "폭주 에너미에게\\n합계 2000000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 2000000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_b_0045"
 msgstr "곡을 1회 클리어"
@@ -3742,16 +3742,16 @@ msgid "mission_desc_event_raid_b_0053"
 msgstr "곡을 50회 클리어"
 
 msgid "mission_desc_event_raid_b_0054"
-msgstr "【데일리】폭주 에너미를 2체 무력화하고,\\n보상을 받는다"
+msgstr "【데일리】폭주 에너미를 2체 무력화하고,\n보상을 받는다"
 
 msgid "mission_desc_event_raid_b_0055"
-msgstr "【데일리】폭주 에너미를 2체 무력화하고,\\n보상을 받는다"
+msgstr "【데일리】폭주 에너미를 2체 무력화하고,\n보상을 받는다"
 
 msgid "mission_desc_event_raid_b_0056"
-msgstr "【데일리】폭주 에너미를 2체 무력화하고,\\n보상을 받는다"
+msgstr "【데일리】폭주 에너미를 2체 무력화하고,\n보상을 받는다"
 
 msgid "mission_desc_event_raid_b_0057"
-msgstr "【데일리】폭주 에너미를 2체 무력화하고,\\n보상을 받는다"
+msgstr "【데일리】폭주 에너미를 2체 무력화하고,\n보상을 받는다"
 
 msgid "event_banner_event_raid_b_0001"
 msgstr "미션으로 가정석 합계 150개 GET!"
@@ -3784,7 +3784,7 @@ msgid "mission_desc_event_raid_c_10007"
 msgstr "악곡 클리어"
 
 msgid "mission_desc_event_raid_c_10008"
-msgstr "폴드파 100% 이상으로\\n클리어"
+msgstr "폴드파 100% 이상으로\n클리어"
 
 msgid "mission_desc_event_raid_c_10009"
 msgstr "가희 모드로 진입하여 클리어"
@@ -3796,7 +3796,7 @@ msgid "mission_desc_event_raid_c_0001"
 msgstr "【데일리】폴드 레이더를 1회 사용한다"
 
 msgid "mission_desc_event_raid_c_0002"
-msgstr "【데일리】폭주 에너미를 1체 무력화하고,\\n보상을 받는다"
+msgstr "【데일리】폭주 에너미를 1체 무력화하고,\n보상을 받는다"
 
 msgid "mission_desc_event_raid_c_0003"
 msgstr "【데일리】마크로스 캐논을 1회 사용한다"
@@ -3805,7 +3805,7 @@ msgid "mission_desc_event_raid_c_0004"
 msgstr "【데일리】폴드 레이더를 1회 사용한다"
 
 msgid "mission_desc_event_raid_c_0005"
-msgstr "【데일리】폭주 에너미를 1체 무력화하고,\\n보상을 받는다"
+msgstr "【데일리】폭주 에너미를 1체 무력화하고,\n보상을 받는다"
 
 msgid "mission_desc_event_raid_c_0006"
 msgstr "【데일리】마크로스 캐논을 1회 사용한다"
@@ -3814,7 +3814,7 @@ msgid "mission_desc_event_raid_c_0007"
 msgstr "【데일리】폴드 레이더를 1회 사용한다"
 
 msgid "mission_desc_event_raid_c_0008"
-msgstr "【데일리】폭주 에너미를 1체 무력화하고,\\n보상을 받는다"
+msgstr "【데일리】폭주 에너미를 1체 무력화하고,\n보상을 받는다"
 
 msgid "mission_desc_event_raid_c_0009"
 msgstr "【데일리】마크로스 캐논을 1회 사용한다"
@@ -3823,7 +3823,7 @@ msgid "mission_desc_event_raid_c_0010"
 msgstr "【데일리】폴드 레이더를 1회 사용한다"
 
 msgid "mission_desc_event_raid_c_0011"
-msgstr "【데일리】폭주 에너미를 1체 무력화하고,\\n보상을 받는다"
+msgstr "【데일리】폭주 에너미를 1체 무력화하고,\n보상을 받는다"
 
 msgid "mission_desc_event_raid_c_0012"
 msgstr "【데일리】마크로스 캐논을 1회 사용한다"
@@ -3874,109 +3874,109 @@ msgid "mission_desc_event_raid_c_0027"
 msgstr "폭주 에너미에게 합계 1000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_c_0027"
-msgstr "폭주 에너미에게\\n합계 1000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 1000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_c_0028"
 msgstr "폭주 에너미에게 합계 5000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_c_0028"
-msgstr "폭주 에너미에게\\n합계 5000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 5000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_c_0029"
 msgstr "폭주 에너미에게 합계 10000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_c_0029"
-msgstr "폭주 에너미에게\\n합계 10000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 10000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_c_0030"
 msgstr "폭주 에너미에게 합계 50000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_c_0030"
-msgstr "폭주 에너미에게\\n합계 50000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 50000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_c_0031"
 msgstr "폭주 에너미에게 합계 100000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_c_0031"
-msgstr "폭주 에너미에게\\n합계 100000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 100000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_c_0032"
 msgstr "폭주 에너미에게 합계 200000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_c_0032"
-msgstr "폭주 에너미에게\\n합계 200000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 200000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_c_0033"
 msgstr "폭주 에너미에게 합계 300000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_c_0033"
-msgstr "폭주 에너미에게\\n합계 300000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 300000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_c_0034"
 msgstr "폭주 에너미에게 합계 400000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_c_0034"
-msgstr "폭주 에너미에게\\n합계 400000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 400000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_c_0035"
 msgstr "폭주 에너미에게 합계 500000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_c_0035"
-msgstr "폭주 에너미에게\\n합계 500000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 500000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_c_0036"
 msgstr "폭주 에너미에게 합계 600000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_c_0036"
-msgstr "폭주 에너미에게\\n합계 600000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 600000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_c_0037"
 msgstr "폭주 에너미에게 합계 700000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_c_0037"
-msgstr "폭주 에너미에게\\n합계 700000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 700000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_c_0038"
 msgstr "폭주 에너미에게 합계 800000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_c_0038"
-msgstr "폭주 에너미에게\\n합계 800000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 800000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_c_0039"
 msgstr "폭주 에너미에게 합계 900000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_c_0039"
-msgstr "폭주 에너미에게\\n합계 900000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 900000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_c_0040"
 msgstr "폭주 에너미에게 합계 1000000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_c_0040"
-msgstr "폭주 에너미에게\\n합계 1000000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 1000000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_c_0041"
 msgstr "폭주 에너미에게 합계 1250000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_c_0041"
-msgstr "폭주 에너미에게\\n합계 1250000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 1250000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_c_0042"
 msgstr "폭주 에너미에게 합계 1500000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_c_0042"
-msgstr "폭주 에너미에게\\n합계 1500000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 1500000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_c_0043"
 msgstr "폭주 에너미에게 합계 1750000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_c_0043"
-msgstr "폭주 에너미에게\\n합계 1750000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 1750000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_c_0044"
 msgstr "폭주 에너미에게 합계 2000000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_c_0044"
-msgstr "폭주 에너미에게\\n합계 2000000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 2000000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_c_0045"
 msgstr "곡을 1회 클리어"
@@ -4036,7 +4036,7 @@ msgid "mission_desc_event_raid_d_10007"
 msgstr "악곡 클리어"
 
 msgid "mission_desc_event_raid_d_10008"
-msgstr "폴드파 100% 이상으로\\n클리어"
+msgstr "폴드파 100% 이상으로\n클리어"
 
 msgid "mission_desc_event_raid_d_10009"
 msgstr "가희 모드로 진입하여 클리어"
@@ -4048,7 +4048,7 @@ msgid "mission_desc_event_raid_d_0001"
 msgstr "【데일리】폴드 레이더를 1회 사용한다"
 
 msgid "mission_desc_event_raid_d_0002"
-msgstr "【데일리】폭주 에너미를 1체 무력화하고,\\n보상을 받는다"
+msgstr "【데일리】폭주 에너미를 1체 무력화하고,\n보상을 받는다"
 
 msgid "mission_desc_event_raid_d_0003"
 msgstr "【데일리】마크로스 캐논을 1회 사용한다"
@@ -4057,7 +4057,7 @@ msgid "mission_desc_event_raid_d_0004"
 msgstr "【데일리】폴드 레이더를 1회 사용한다"
 
 msgid "mission_desc_event_raid_d_0005"
-msgstr "【데일리】폭주 에너미를 1체 무력화하고,\\n보상을 받는다"
+msgstr "【데일리】폭주 에너미를 1체 무력화하고,\n보상을 받는다"
 
 msgid "mission_desc_event_raid_d_0006"
 msgstr "【데일리】마크로스 캐논을 1회 사용한다"
@@ -4066,7 +4066,7 @@ msgid "mission_desc_event_raid_d_0007"
 msgstr "【데일리】폴드 레이더를 1회 사용한다"
 
 msgid "mission_desc_event_raid_d_0008"
-msgstr "【데일리】폭주 에너미를 1체 무력화하고,\\n보상을 받는다"
+msgstr "【데일리】폭주 에너미를 1체 무력화하고,\n보상을 받는다"
 
 msgid "mission_desc_event_raid_d_0009"
 msgstr "【데일리】마크로스 캐논을 1회 사용한다"
@@ -4075,7 +4075,7 @@ msgid "mission_desc_event_raid_d_0010"
 msgstr "【데일리】폴드 레이더를 1회 사용한다"
 
 msgid "mission_desc_event_raid_d_0011"
-msgstr "【데일리】폭주 에너미를 1체 무력화하고,\\n보상을 받는다"
+msgstr "【데일리】폭주 에너미를 1체 무력화하고,\n보상을 받는다"
 
 msgid "mission_desc_event_raid_d_0012"
 msgstr "【데일리】마크로스 캐논을 1회 사용한다"
@@ -4138,109 +4138,109 @@ msgid "mission_desc_event_raid_d_0031"
 msgstr "폭주 에너미에게 합계 1000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_d_0031"
-msgstr "폭주 에너미에게\\n합계 1000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 1000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_d_0032"
 msgstr "폭주 에너미에게 합계 5000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_d_0032"
-msgstr "폭주 에너미에게\\n합계 5000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 5000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_d_0033"
 msgstr "폭주 에너미에게 합계 10000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_d_0033"
-msgstr "폭주 에너미에게\\n합계 10000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 10000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_d_0034"
 msgstr "폭주 에너미에게 합계 50000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_d_0034"
-msgstr "폭주 에너미에게\\n합계 50000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 50000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_d_0035"
 msgstr "폭주 에너미에게 합계 100000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_d_0035"
-msgstr "폭주 에너미에게\\n합계 100000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 100000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_d_0036"
 msgstr "폭주 에너미에게 합계 200000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_d_0036"
-msgstr "폭주 에너미에게\\n합계 200000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 200000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_d_0037"
 msgstr "폭주 에너미에게 합계 300000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_d_0037"
-msgstr "폭주 에너미에게\\n합계 300000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 300000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_d_0038"
 msgstr "폭주 에너미에게 합계 400000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_d_0038"
-msgstr "폭주 에너미에게\\n합계 400000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 400000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_d_0039"
 msgstr "폭주 에너미에게 합계 500000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_d_0039"
-msgstr "폭주 에너미에게\\n합계 500000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 500000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_d_0040"
 msgstr "폭주 에너미에게 합계 600000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_d_0040"
-msgstr "폭주 에너미에게\\n합계 600000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 600000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_d_0041"
 msgstr "폭주 에너미에게 합계 700000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_d_0041"
-msgstr "폭주 에너미에게\\n합계 700000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 700000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_d_0042"
 msgstr "폭주 에너미에게 합계 800000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_d_0042"
-msgstr "폭주 에너미에게\\n합계 800000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 800000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_d_0043"
 msgstr "폭주 에너미에게 합계 900000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_d_0043"
-msgstr "폭주 에너미에게\\n합계 900000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 900000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_d_0044"
 msgstr "폭주 에너미에게 합계 1000000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_d_0044"
-msgstr "폭주 에너미에게\\n합계 1000000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 1000000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_d_0045"
 msgstr "폭주 에너미에게 합계 1250000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_d_0045"
-msgstr "폭주 에너미에게\\n합계 1250000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 1250000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_d_0046"
 msgstr "폭주 에너미에게 합계 1500000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_d_0046"
-msgstr "폭주 에너미에게\\n합계 1500000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 1500000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_d_0047"
 msgstr "폭주 에너미에게 합계 1750000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_d_0047"
-msgstr "폭주 에너미에게\\n합계 1750000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 1750000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_d_0048"
 msgstr "폭주 에너미에게 합계 2000000 임팩트를 준다"
 
 msgid "mission_desc2_event_raid_d_0048"
-msgstr "폭주 에너미에게\\n합계 2000000 임팩트를 준다"
+msgstr "폭주 에너미에게\n합계 2000000 임팩트를 준다"
 
 msgid "mission_desc_event_raid_d_0049"
 msgstr "곡을 1회 클리어"
@@ -4285,28 +4285,28 @@ msgid "event_group_event_raidlobby_a_0002"
 msgstr "아라드 묄더스 부대"
 
 msgid "event_guide_event_raidlobby_a_0001"
-msgstr "함께 협력 미션을 달성하여\\n총력 LIVE를 준비합시다"
+msgstr "함께 협력 미션을 달성하여\n총력 LIVE를 준비합시다"
 
 msgid "event_guide_event_raidlobby_a_0002"
-msgstr "지금까지 누군가와 교류해본 적은\\n없었는데... 좋은 거였네"
+msgstr "지금까지 누군가와 교류해본 적은\n없었는데... 좋은 거였네"
 
 msgid "event_guide_event_raidlobby_a_0003"
-msgstr "마크로스 로비에서\\n팬을 늘리자!"
+msgstr "마크로스 로비에서\n팬을 늘리자!"
 
 msgid "event_guide_event_raidlobby_a_0004"
-msgstr "대원 정보를 확인하자!\\n팬이 되면 방문할 수 있어"
+msgstr "대원 정보를 확인하자!\n팬이 되면 방문할 수 있어"
 
 msgid "event_guide_event_raidlobby_a_0005"
-msgstr "메시지나 스탬프를 보내\\n대원들과 교류해 보자!"
+msgstr "메시지나 스탬프를 보내\n대원들과 교류해 보자!"
 
 msgid "event_guide_event_raidlobby_a_0006"
-msgstr "협동 미션은 매일 변경돼\\n보상을 많이 받자"
+msgstr "협동 미션은 매일 변경돼\n보상을 많이 받자"
 
 msgid "event_guide_event_raidlobby_a_0007"
 msgstr "나도 안 질 거야!"
 
 msgid "event_guide_event_raidlobby_a_0008"
-msgstr "마키나의 미소 러블리\\n스탠딩 모어 러블리…"
+msgstr "마키나의 미소 러블리\n스탠딩 모어 러블리…"
 
 msgid "event_guide_event_raidlobby_a_0009"
 msgstr "너도 같이 노래해줬으면 좋겠어!"
@@ -4315,25 +4315,25 @@ msgid "event_guide_event_raidlobby_a_0010"
 msgstr "드디어 이때가 왔군!"
 
 msgid "event_guide_event_raidlobby_a_0011"
-msgstr "기다리고 있었어!\\n기운 팍팍 힘낼 거야!"
+msgstr "기다리고 있었어!\n기운 팍팍 힘낼 거야!"
 
 msgid "event_guide_event_raidlobby_a_0012"
-msgstr "시작할게. 우리\\n왈큐레의 무대를!"
+msgstr "시작할게. 우리\n왈큐레의 무대를!"
 
 msgid "event_guide_event_raidlobby_a_0013"
-msgstr "마크로스 캐논… 대단해!\\n게이지를 빨리 채워야 해"
+msgstr "마크로스 캐논… 대단해!\n게이지를 빨리 채워야 해"
 
 msgid "event_guide_event_raidlobby_a_0014"
-msgstr "드디어 싸움이 시작된 모양이네\\n가자! 란카!"
+msgstr "드디어 싸움이 시작된 모양이네\n가자! 란카!"
 
 msgid "event_guide_event_raidlobby_a_0015"
 msgstr "나, 열심히 할 거야!"
 
 msgid "event_guide_event_raidlobby_a_0016"
-msgstr "모두가 도와준 덕분에\\n마크로스 캐논을 빨리 쏠 수 있게 되었어"
+msgstr "모두가 도와준 덕분에\n마크로스 캐논을 빨리 쏠 수 있게 되었어"
 
 msgid "event_guide_event_raidlobby_a_0017"
-msgstr "다같이 좋아하는 노래를 부르자!\\n마음껏, 자유롭게!"
+msgstr "다같이 좋아하는 노래를 부르자!\n마음껏, 자유롭게!"
 
 msgid "event_guide_event_raidlobby_a_0018"
 msgstr "신나게 분위기 띄우자!"
@@ -4342,10 +4342,10 @@ msgid "event_guide_event_raidlobby_a_0019"
 msgstr "모두 함께~!"
 
 msgid "event_guide_event_raidlobby_a_0020"
-msgstr "미사일보다 폭발력 있는\\n사운드를 들려주겠어!"
+msgstr "미사일보다 폭발력 있는\n사운드를 들려주겠어!"
 
 msgid "event_guide_event_raidlobby_a_0021"
-msgstr "저, 모두를 만나서\\n진짜 행복해요!!"
+msgstr "저, 모두를 만나서\n진짜 행복해요!!"
 
 msgid "event_guide_event_raidlobby_a_0022"
 msgstr "또 같이 싸우고 싶네~"
@@ -4354,106 +4354,106 @@ msgid "event_guide_event_raidlobby_a_0023"
 msgstr "최고의 라이브가 됐네!"
 
 msgid "event_guide_event_raidlobby_a_0024"
-msgstr "네 노래, 느꼈어!\\n가슴으로 말이야!"
+msgstr "네 노래, 느꼈어!\n가슴으로 말이야!"
 
 msgid "event_guide_event_raidlobby_a_0025"
-msgstr "또 너희와\\n함께 노래하고 싶어!"
+msgstr "또 너희와\n함께 노래하고 싶어!"
 
 msgid "event_guide_event_raidlobby_a_0026"
-msgstr "들렸어!\\n네 노랫소리!"
+msgstr "들렸어!\n네 노랫소리!"
 
 msgid "event_guide_event_raidlobby_a_0027"
-msgstr "폴드 리셉터\\n비활성"
+msgstr "폴드 리셉터\n비활성"
 
 msgid "event_guide_event_raidlobby_a_0028"
-msgstr "고마워!\\n모두 덕분이야!"
+msgstr "고마워!\n모두 덕분이야!"
 
 msgid "event_guide_event_raidlobby_a_0029"
 msgstr "도와줘서 고마워!"
 
 msgid "event_guide_event_raidlobby_a_0030"
-msgstr "저도 태워주시겠어요?\\n당신의 배에"
+msgstr "저도 태워주시겠어요?\n당신의 배에"
 
 msgid "mission_desc_event_raidlobby_a_0001"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n곡을 합계 20회 클리어"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n곡을 합계 20회 클리어"
 
 msgid "mission_desc_event_raidlobby_a_0002"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n풀콤보를 합계 10회 달성"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n풀콤보를 합계 10회 달성"
 
 msgid "mission_desc_event_raidlobby_a_0003"
-msgstr "【데일리】로비의 대원들이\\n발키리 오퍼레이션을 합계 10회 클리어"
+msgstr "【데일리】로비의 대원들이\n발키리 오퍼레이션을 합계 10회 클리어"
 
 msgid "mission_desc_event_raidlobby_a_0004"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n곡을 합계 50회 클리어"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n곡을 합계 50회 클리어"
 
 msgid "mission_desc_event_raidlobby_a_0005"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n풀콤보를 합계 30회 달성"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n풀콤보를 합계 30회 달성"
 
 msgid "mission_desc_event_raidlobby_a_0006"
-msgstr "【데일리】로비의 대원들이\\n발키리 오퍼레이션을 합계 30회 클리어"
+msgstr "【데일리】로비의 대원들이\n발키리 오퍼레이션을 합계 30회 클리어"
 
 msgid "mission_desc_event_raidlobby_a_0007"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n곡을 합계 50회 클리어"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n곡을 합계 50회 클리어"
 
 msgid "mission_desc_event_raidlobby_a_0008"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n풀콤보를 합계 30회 달성"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n풀콤보를 합계 30회 달성"
 
 msgid "mission_desc_event_raidlobby_a_0009"
-msgstr "【데일리】로비의 대원들이\\n발키리 오퍼레이션을 합계 30회 클리어"
+msgstr "【데일리】로비의 대원들이\n발키리 오퍼레이션을 합계 30회 클리어"
 
 msgid "mission_desc_event_raidlobby_a_0010"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n【마크로스Δ】의 곡을 합계 50회 클리어"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n【마크로스Δ】의 곡을 합계 50회 클리어"
 
 msgid "mission_desc_event_raidlobby_a_0011"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n풀콤보를 합계 30회 달성"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n풀콤보를 합계 30회 달성"
 
 msgid "mission_desc_event_raidlobby_a_0012"
-msgstr "【데일리】로비의 대원들이\\n발키리 오퍼레이션을 합계 30회 클리어"
+msgstr "【데일리】로비의 대원들이\n발키리 오퍼레이션을 합계 30회 클리어"
 
 msgid "mission_desc_event_raidlobby_a_0013"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n【마크로스Δ】의 곡을 합계 50회 클리어"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n【마크로스Δ】의 곡을 합계 50회 클리어"
 
 msgid "mission_desc_event_raidlobby_a_0014"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n풀콤보를 합계 30회 달성"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n풀콤보를 합계 30회 달성"
 
 msgid "mission_desc_event_raidlobby_a_0015"
-msgstr "【데일리】로비의 대원들이\\n발키리 오퍼레이션을 합계 30회 클리어"
+msgstr "【데일리】로비의 대원들이\n발키리 오퍼레이션을 합계 30회 클리어"
 
 msgid "mission_desc_event_raidlobby_a_0016"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n【마크로스Δ】의 곡을 합계 50회 클리어"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n【마크로스Δ】의 곡을 합계 50회 클리어"
 
 msgid "mission_desc_event_raidlobby_a_0017"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n풀콤보를 합계 30회 달성"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n풀콤보를 합계 30회 달성"
 
 msgid "mission_desc_event_raidlobby_a_0018"
-msgstr "【데일리】로비의 대원들이\\n발키리 오퍼레이션을 합계 30회 클리어"
+msgstr "【데일리】로비의 대원들이\n발키리 오퍼레이션을 합계 30회 클리어"
 
 msgid "mission_desc_event_raidlobby_a_0019"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n【마크로스Δ】의 곡을 합계 50회 클리어"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n【마크로스Δ】의 곡을 합계 50회 클리어"
 
 msgid "mission_desc_event_raidlobby_a_0020"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n풀콤보를 합계 30회 달성"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n풀콤보를 합계 30회 달성"
 
 msgid "mission_desc_event_raidlobby_a_0021"
-msgstr "【데일리】로비의 대원들이\\n발키리 오퍼레이션을 합계 30회 클리어"
+msgstr "【데일리】로비의 대원들이\n발키리 오퍼레이션을 합계 30회 클리어"
 
 msgid "mission_desc_event_raidlobby_a_0022"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n【마크로스Δ】의 곡을 합계 50회 클리어"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n【마크로스Δ】의 곡을 합계 50회 클리어"
 
 msgid "mission_desc_event_raidlobby_a_0023"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n풀콤보를 합계 30회 달성"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n풀콤보를 합계 30회 달성"
 
 msgid "mission_desc_event_raidlobby_a_0024"
-msgstr "【데일리】로비의 대원들이\\n발키리 오퍼레이션을 합계 30회 클리어"
+msgstr "【데일리】로비의 대원들이\n발키리 오퍼레이션을 합계 30회 클리어"
 
 msgid "event_msg_lobby_event_raidlobby_a_battlelog_text_01"
-msgstr "{0}에게 {1}IMPACT！！\\n무력화에 성공했습니다!"
+msgstr "{0}에게 {1}IMPACT！！\n무력화에 성공했습니다!"
 
 msgid "event_msg_lobby_event_raidlobby_a_battlelog_text_02"
-msgstr "마크로스 캐논 발사!\\n{0}IMPACT！！"
+msgstr "마크로스 캐논 발사!\n{0}IMPACT！！"
 
 msgid "event_msg_lobby_event_raidlobby_a_battlelog_text_03"
-msgstr "{0}의\\n{1}에서 풀콤보를 달성했습니다!"
+msgstr "{0}의\n{1}에서 풀콤보를 달성했습니다!"
 
 msgid "event_msg_lobby_event_raidlobby_a_battlelog_text_04"
 msgstr "무력화에 성공했습니다!"
@@ -4465,28 +4465,28 @@ msgid "event_group_event_raidlobby_b_0002"
 msgstr "맥시밀리언 지너스 부대"
 
 msgid "event_guide_event_raidlobby_b_0001"
-msgstr "함께 협력 미션을 달성하여\\n총력 LIVE를 준비합시다"
+msgstr "함께 협력 미션을 달성하여\n총력 LIVE를 준비합시다"
 
 msgid "event_guide_event_raidlobby_b_0002"
-msgstr "지금까지 누군가와 교류해본 적은\\n없었는데... 좋은 거였네"
+msgstr "지금까지 누군가와 교류해본 적은\n없었는데... 좋은 거였네"
 
 msgid "event_guide_event_raidlobby_b_0003"
-msgstr "마크로스 로비에서\\n팬을 늘리자!"
+msgstr "마크로스 로비에서\n팬을 늘리자!"
 
 msgid "event_guide_event_raidlobby_b_0004"
-msgstr "대원 정보를 확인하자!\\n팬이 되면 방문할 수 있어"
+msgstr "대원 정보를 확인하자!\n팬이 되면 방문할 수 있어"
 
 msgid "event_guide_event_raidlobby_b_0005"
-msgstr "메시지나 스탬프를 보내\\n대원들과 교류해 보자!"
+msgstr "메시지나 스탬프를 보내\n대원들과 교류해 보자!"
 
 msgid "event_guide_event_raidlobby_b_0006"
-msgstr "협동 미션은 매일 변경돼\\n보상을 많이 받자"
+msgstr "협동 미션은 매일 변경돼\n보상을 많이 받자"
 
 msgid "event_guide_event_raidlobby_b_0007"
 msgstr "나도 안 질 거야!"
 
 msgid "event_guide_event_raidlobby_b_0008"
-msgstr "마키나의 미소 러블리\\n스탠딩 모어 러블리…"
+msgstr "마키나의 미소 러블리\n스탠딩 모어 러블리…"
 
 msgid "event_guide_event_raidlobby_b_0009"
 msgstr "너도 같이 노래해줬으면 좋겠어!"
@@ -4495,25 +4495,25 @@ msgid "event_guide_event_raidlobby_b_0010"
 msgstr "드디어 이때가 왔군!"
 
 msgid "event_guide_event_raidlobby_b_0011"
-msgstr "기다리고 있었어!\\n기운 팍팍 힘낼 거야!"
+msgstr "기다리고 있었어!\n기운 팍팍 힘낼 거야!"
 
 msgid "event_guide_event_raidlobby_b_0012"
-msgstr "시작할게. 우리\\n왈큐레의 무대를!"
+msgstr "시작할게. 우리\n왈큐레의 무대를!"
 
 msgid "event_guide_event_raidlobby_b_0013"
-msgstr "마크로스 캐논… 대단해!\\n게이지를 빨리 채워야 해"
+msgstr "마크로스 캐논… 대단해!\n게이지를 빨리 채워야 해"
 
 msgid "event_guide_event_raidlobby_b_0014"
-msgstr "드디어 싸움이 시작된 모양이네\\n가자! 란카!"
+msgstr "드디어 싸움이 시작된 모양이네\n가자! 란카!"
 
 msgid "event_guide_event_raidlobby_b_0015"
 msgstr "나, 열심히 할 거야!"
 
 msgid "event_guide_event_raidlobby_b_0016"
-msgstr "모두가 도와준 덕분에\\n마크로스 캐논을 빨리 쏠 수 있게 되었어"
+msgstr "모두가 도와준 덕분에\n마크로스 캐논을 빨리 쏠 수 있게 되었어"
 
 msgid "event_guide_event_raidlobby_b_0017"
-msgstr "다같이 좋아하는 노래를 부르자!\\n마음껏, 자유롭게!"
+msgstr "다같이 좋아하는 노래를 부르자!\n마음껏, 자유롭게!"
 
 msgid "event_guide_event_raidlobby_b_0018"
 msgstr "신나게 분위기 띄우자!"
@@ -4522,10 +4522,10 @@ msgid "event_guide_event_raidlobby_b_0019"
 msgstr "모두 함께~!"
 
 msgid "event_guide_event_raidlobby_b_0020"
-msgstr "미사일보다 폭발력 있는\\n사운드를 들려주겠어!"
+msgstr "미사일보다 폭발력 있는\n사운드를 들려주겠어!"
 
 msgid "event_guide_event_raidlobby_b_0021"
-msgstr "저, 모두를 만나서\\n진짜 행복해요!!"
+msgstr "저, 모두를 만나서\n진짜 행복해요!!"
 
 msgid "event_guide_event_raidlobby_b_0022"
 msgstr "또 같이 싸우고 싶네~"
@@ -4534,106 +4534,106 @@ msgid "event_guide_event_raidlobby_b_0023"
 msgstr "최고의 라이브가 됐네!"
 
 msgid "event_guide_event_raidlobby_b_0024"
-msgstr "네 노래, 느꼈어!\\n가슴으로 말이야!"
+msgstr "네 노래, 느꼈어!\n가슴으로 말이야!"
 
 msgid "event_guide_event_raidlobby_b_0025"
-msgstr "또 너희와\\n함께 노래하고 싶어!"
+msgstr "또 너희와\n함께 노래하고 싶어!"
 
 msgid "event_guide_event_raidlobby_b_0026"
-msgstr "들렸어!\\n네 노랫소리!"
+msgstr "들렸어!\n네 노랫소리!"
 
 msgid "event_guide_event_raidlobby_b_0027"
-msgstr "폴드 리셉터\\n비활성"
+msgstr "폴드 리셉터\n비활성"
 
 msgid "event_guide_event_raidlobby_b_0028"
-msgstr "고마워!\\n모두 덕분이야!"
+msgstr "고마워!\n모두 덕분이야!"
 
 msgid "event_guide_event_raidlobby_b_0029"
 msgstr "도와줘서 고마워!"
 
 msgid "event_guide_event_raidlobby_b_0030"
-msgstr "저도 태워주시겠어요?\\n당신의 배에"
+msgstr "저도 태워주시겠어요?\n당신의 배에"
 
 msgid "mission_desc_event_raidlobby_b_0001"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n곡을 합계 20회 클리어"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n곡을 합계 20회 클리어"
 
 msgid "mission_desc_event_raidlobby_b_0002"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n풀콤보를 합계 10회 달성"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n풀콤보를 합계 10회 달성"
 
 msgid "mission_desc_event_raidlobby_b_0003"
-msgstr "【데일리】로비의 대원들이\\n발키리 오퍼레이션을 합계 10회 클리어"
+msgstr "【데일리】로비의 대원들이\n발키리 오퍼레이션을 합계 10회 클리어"
 
 msgid "mission_desc_event_raidlobby_b_0004"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n곡을 합계 50회 클리어"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n곡을 합계 50회 클리어"
 
 msgid "mission_desc_event_raidlobby_b_0005"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n풀콤보를 합계 30회 달성"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n풀콤보를 합계 30회 달성"
 
 msgid "mission_desc_event_raidlobby_b_0006"
-msgstr "【데일리】로비의 대원들이\\n발키리 오퍼레이션을 합계 30회 클리어"
+msgstr "【데일리】로비의 대원들이\n발키리 오퍼레이션을 합계 30회 클리어"
 
 msgid "mission_desc_event_raidlobby_b_0007"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n곡을 합계 50회 클리어"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n곡을 합계 50회 클리어"
 
 msgid "mission_desc_event_raidlobby_b_0008"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n풀콤보를 합계 30회 달성"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n풀콤보를 합계 30회 달성"
 
 msgid "mission_desc_event_raidlobby_b_0009"
-msgstr "【데일리】로비의 대원들이\\n발키리 오퍼레이션을 합계 30회 클리어"
+msgstr "【데일리】로비의 대원들이\n발키리 오퍼레이션을 합계 30회 클리어"
 
 msgid "mission_desc_event_raidlobby_b_0010"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n곡을 합계 50회 클리어"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n곡을 합계 50회 클리어"
 
 msgid "mission_desc_event_raidlobby_b_0011"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n풀콤보를 합계 30회 달성"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n풀콤보를 합계 30회 달성"
 
 msgid "mission_desc_event_raidlobby_b_0012"
-msgstr "【데일리】로비의 대원들이\\n발키리 오퍼레이션을 합계 30회 클리어"
+msgstr "【데일리】로비의 대원들이\n발키리 오퍼레이션을 합계 30회 클리어"
 
 msgid "mission_desc_event_raidlobby_b_0013"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n【마크로스Δ】의 곡을 합계 50회 클리어"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n【마크로스Δ】의 곡을 합계 50회 클리어"
 
 msgid "mission_desc_event_raidlobby_b_0014"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n풀콤보를 합계 30회 달성"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n풀콤보를 합계 30회 달성"
 
 msgid "mission_desc_event_raidlobby_b_0015"
-msgstr "【데일리】로비의 대원들이\\n발키리 오퍼레이션을 합계 30회 클리어"
+msgstr "【데일리】로비의 대원들이\n발키리 오퍼레이션을 합계 30회 클리어"
 
 msgid "mission_desc_event_raidlobby_b_0016"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n【마크로스Δ】의 곡을 합계 50회 클리어"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n【마크로스Δ】의 곡을 합계 50회 클리어"
 
 msgid "mission_desc_event_raidlobby_b_0017"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n풀콤보를 합계 30회 달성"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n풀콤보를 합계 30회 달성"
 
 msgid "mission_desc_event_raidlobby_b_0018"
-msgstr "【데일리】로비의 대원들이\\n발키리 오퍼레이션을 합계 30회 클리어"
+msgstr "【데일리】로비의 대원들이\n발키리 오퍼레이션을 합계 30회 클리어"
 
 msgid "mission_desc_event_raidlobby_b_0019"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n【마크로스Δ】의 곡을 합계 50회 클리어"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n【마크로스Δ】의 곡을 합계 50회 클리어"
 
 msgid "mission_desc_event_raidlobby_b_0020"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n풀콤보를 합계 30회 달성"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n풀콤보를 합계 30회 달성"
 
 msgid "mission_desc_event_raidlobby_b_0021"
-msgstr "【데일리】로비의 대원들이\\n발키리 오퍼레이션을 합계 30회 클리어"
+msgstr "【데일리】로비의 대원들이\n발키리 오퍼레이션을 합계 30회 클리어"
 
 msgid "mission_desc_event_raidlobby_b_0022"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n【마크로스Δ】의 곡을 합계 50회 클리어"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n【마크로스Δ】의 곡을 합계 50회 클리어"
 
 msgid "mission_desc_event_raidlobby_b_0023"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n풀콤보를 합계 30회 달성"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n풀콤보를 합계 30회 달성"
 
 msgid "mission_desc_event_raidlobby_b_0024"
-msgstr "【데일리】로비의 대원들이\\n발키리 오퍼레이션을 합계 30회 클리어"
+msgstr "【데일리】로비의 대원들이\n발키리 오퍼레이션을 합계 30회 클리어"
 
 msgid "event_msg_lobby_event_raidlobby_b_battlelog_text_01"
-msgstr "{0}에게 {1}IMPACT！！\\n무력화에 성공했습니다!"
+msgstr "{0}에게 {1}IMPACT！！\n무력화에 성공했습니다!"
 
 msgid "event_msg_lobby_event_raidlobby_b_battlelog_text_02"
-msgstr "마크로스 캐논 발사!\\n{0}IMPACT！！"
+msgstr "마크로스 캐논 발사!\n{0}IMPACT！！"
 
 msgid "event_msg_lobby_event_raidlobby_b_battlelog_text_03"
-msgstr "{0}의\\n{1}에서 풀콤보를 달성했습니다!"
+msgstr "{0}의\n{1}에서 풀콤보를 달성했습니다!"
 
 msgid "event_msg_lobby_event_raidlobby_b_battlelog_text_04"
 msgstr "무력화에 성공했습니다!"
@@ -4645,28 +4645,28 @@ msgid "event_group_event_raidlobby_c_0002"
 msgstr "미하엘 블랑 부대"
 
 msgid "event_guide_event_raidlobby_c_0001"
-msgstr "함께 협력 미션을 달성하여\\n총력 LIVE를 준비합시다"
+msgstr "함께 협력 미션을 달성하여\n총력 LIVE를 준비합시다"
 
 msgid "event_guide_event_raidlobby_c_0002"
-msgstr "지금까지 누군가와 교류해본 적은\\n없었는데... 좋은 거였네"
+msgstr "지금까지 누군가와 교류해본 적은\n없었는데... 좋은 거였네"
 
 msgid "event_guide_event_raidlobby_c_0003"
-msgstr "마크로스 로비에서\\n팬을 늘리자!"
+msgstr "마크로스 로비에서\n팬을 늘리자!"
 
 msgid "event_guide_event_raidlobby_c_0004"
-msgstr "대원 정보를 확인하자!\\n팬이 되면 방문할 수 있어"
+msgstr "대원 정보를 확인하자!\n팬이 되면 방문할 수 있어"
 
 msgid "event_guide_event_raidlobby_c_0005"
-msgstr "메시지나 스탬프를 보내\\n대원들과 교류해 보자!"
+msgstr "메시지나 스탬프를 보내\n대원들과 교류해 보자!"
 
 msgid "event_guide_event_raidlobby_c_0006"
-msgstr "협동 미션은 매일 변경돼\\n보상을 많이 받자"
+msgstr "협동 미션은 매일 변경돼\n보상을 많이 받자"
 
 msgid "event_guide_event_raidlobby_c_0007"
 msgstr "나도 안 질 거야!"
 
 msgid "event_guide_event_raidlobby_c_0008"
-msgstr "마키나의 미소 러블리\\n스탠딩 모어 러블리…"
+msgstr "마키나의 미소 러블리\n스탠딩 모어 러블리…"
 
 msgid "event_guide_event_raidlobby_c_0009"
 msgstr "너도 같이 노래해줬으면 좋겠어!"
@@ -4675,25 +4675,25 @@ msgid "event_guide_event_raidlobby_c_0010"
 msgstr "드디어 이때가 왔군!"
 
 msgid "event_guide_event_raidlobby_c_0011"
-msgstr "기다리고 있었어!\\n기운 팍팍 힘낼 거야!"
+msgstr "기다리고 있었어!\n기운 팍팍 힘낼 거야!"
 
 msgid "event_guide_event_raidlobby_c_0012"
-msgstr "시작할게. 우리\\n왈큐레의 무대를!"
+msgstr "시작할게. 우리\n왈큐레의 무대를!"
 
 msgid "event_guide_event_raidlobby_c_0013"
-msgstr "마크로스 캐논… 대단해!\\n게이지를 빨리 채워야 해"
+msgstr "마크로스 캐논… 대단해!\n게이지를 빨리 채워야 해"
 
 msgid "event_guide_event_raidlobby_c_0014"
-msgstr "드디어 싸움이 시작된 모양이네\\n가자! 란카!"
+msgstr "드디어 싸움이 시작된 모양이네\n가자! 란카!"
 
 msgid "event_guide_event_raidlobby_c_0015"
 msgstr "나, 열심히 할 거야!"
 
 msgid "event_guide_event_raidlobby_c_0016"
-msgstr "모두가 도와준 덕분에\\n마크로스 캐논을 빨리 쏠 수 있게 되었어"
+msgstr "모두가 도와준 덕분에\n마크로스 캐논을 빨리 쏠 수 있게 되었어"
 
 msgid "event_guide_event_raidlobby_c_0017"
-msgstr "다같이 좋아하는 노래를 부르자!\\n마음껏, 자유롭게!"
+msgstr "다같이 좋아하는 노래를 부르자!\n마음껏, 자유롭게!"
 
 msgid "event_guide_event_raidlobby_c_0018"
 msgstr "신나게 분위기 띄우자!"
@@ -4702,10 +4702,10 @@ msgid "event_guide_event_raidlobby_c_0019"
 msgstr "모두 함께~!"
 
 msgid "event_guide_event_raidlobby_c_0020"
-msgstr "미사일보다 폭발력 있는\\n사운드를 들려주겠어!"
+msgstr "미사일보다 폭발력 있는\n사운드를 들려주겠어!"
 
 msgid "event_guide_event_raidlobby_c_0021"
-msgstr "저, 모두를 만나서\\n진짜 행복해요!!"
+msgstr "저, 모두를 만나서\n진짜 행복해요!!"
 
 msgid "event_guide_event_raidlobby_c_0022"
 msgstr "또 같이 싸우고 싶네~"
@@ -4714,106 +4714,106 @@ msgid "event_guide_event_raidlobby_c_0023"
 msgstr "최고의 라이브가 됐네!"
 
 msgid "event_guide_event_raidlobby_c_0024"
-msgstr "네 노래, 느꼈어!\\n가슴으로 말이야!"
+msgstr "네 노래, 느꼈어!\n가슴으로 말이야!"
 
 msgid "event_guide_event_raidlobby_c_0025"
-msgstr "또 너희와\\n함께 노래하고 싶어!"
+msgstr "또 너희와\n함께 노래하고 싶어!"
 
 msgid "event_guide_event_raidlobby_c_0026"
-msgstr "들렸어!\\n네 노랫소리!"
+msgstr "들렸어!\n네 노랫소리!"
 
 msgid "event_guide_event_raidlobby_c_0027"
-msgstr "폴드 리셉터\\n비활성"
+msgstr "폴드 리셉터\n비활성"
 
 msgid "event_guide_event_raidlobby_c_0028"
-msgstr "고마워!\\n모두 덕분이야!"
+msgstr "고마워!\n모두 덕분이야!"
 
 msgid "event_guide_event_raidlobby_c_0029"
 msgstr "도와줘서 고마워!"
 
 msgid "event_guide_event_raidlobby_c_0030"
-msgstr "저도 태워주시겠어요?\\n당신의 배에"
+msgstr "저도 태워주시겠어요?\n당신의 배에"
 
 msgid "mission_desc_event_raidlobby_c_0001"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n곡을 합계 20회 클리어"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n곡을 합계 20회 클리어"
 
 msgid "mission_desc_event_raidlobby_c_0002"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n풀콤보를 합계 10회 달성"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n풀콤보를 합계 10회 달성"
 
 msgid "mission_desc_event_raidlobby_c_0003"
-msgstr "【데일리】로비의 대원들이\\n발키리 오퍼레이션을 합계 10회 클리어"
+msgstr "【데일리】로비의 대원들이\n발키리 오퍼레이션을 합계 10회 클리어"
 
 msgid "mission_desc_event_raidlobby_c_0004"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n곡을 합계 50회 클리어"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n곡을 합계 50회 클리어"
 
 msgid "mission_desc_event_raidlobby_c_0005"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n풀콤보를 합계 30회 달성"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n풀콤보를 합계 30회 달성"
 
 msgid "mission_desc_event_raidlobby_c_0006"
-msgstr "【데일리】로비의 대원들이\\n발키리 오퍼레이션을 합계 30회 클리어"
+msgstr "【데일리】로비의 대원들이\n발키리 오퍼레이션을 합계 30회 클리어"
 
 msgid "mission_desc_event_raidlobby_c_0007"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n곡을 합계 50회 클리어"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n곡을 합계 50회 클리어"
 
 msgid "mission_desc_event_raidlobby_c_0008"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n풀콤보를 합계 30회 달성"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n풀콤보를 합계 30회 달성"
 
 msgid "mission_desc_event_raidlobby_c_0009"
-msgstr "【데일리】로비의 대원들이\\n발키리 오퍼레이션을 합계 30회 클리어"
+msgstr "【데일리】로비의 대원들이\n발키리 오퍼레이션을 합계 30회 클리어"
 
 msgid "mission_desc_event_raidlobby_c_0010"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n곡을 합계 50회 클리어"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n곡을 합계 50회 클리어"
 
 msgid "mission_desc_event_raidlobby_c_0011"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n풀콤보를 합계 30회 달성"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n풀콤보를 합계 30회 달성"
 
 msgid "mission_desc_event_raidlobby_c_0012"
-msgstr "【데일리】로비의 대원들이\\n발키리 오퍼레이션을 합계 30회 클리어"
+msgstr "【데일리】로비의 대원들이\n발키리 오퍼레이션을 합계 30회 클리어"
 
 msgid "mission_desc_event_raidlobby_c_0013"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n【마크로스7】의 곡을 합계 50회 클리어"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n【마크로스7】의 곡을 합계 50회 클리어"
 
 msgid "mission_desc_event_raidlobby_c_0014"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n풀콤보를 합계 30회 달성"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n풀콤보를 합계 30회 달성"
 
 msgid "mission_desc_event_raidlobby_c_0015"
-msgstr "【데일리】로비의 대원들이\\n발키리 오퍼레이션을 합계 30회 클리어"
+msgstr "【데일리】로비의 대원들이\n발키리 오퍼레이션을 합계 30회 클리어"
 
 msgid "mission_desc_event_raidlobby_c_0016"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n【마크로스7】의 곡을 합계 50회 클리어"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n【마크로스7】의 곡을 합계 50회 클리어"
 
 msgid "mission_desc_event_raidlobby_c_0017"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n풀콤보를 합계 30회 달성"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n풀콤보를 합계 30회 달성"
 
 msgid "mission_desc_event_raidlobby_c_0018"
-msgstr "【데일리】로비의 대원들이\\n발키리 오퍼레이션을 합계 30회 클리어"
+msgstr "【데일리】로비의 대원들이\n발키리 오퍼레이션을 합계 30회 클리어"
 
 msgid "mission_desc_event_raidlobby_c_0019"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n【마크로스7】의 곡을 합계 50회 클리어"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n【마크로스7】의 곡을 합계 50회 클리어"
 
 msgid "mission_desc_event_raidlobby_c_0020"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n풀콤보를 합계 30회 달성"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n풀콤보를 합계 30회 달성"
 
 msgid "mission_desc_event_raidlobby_c_0021"
-msgstr "【데일리】로비의 대원들이\\n발키리 오퍼레이션을 합계 30회 클리어"
+msgstr "【데일리】로비의 대원들이\n발키리 오퍼레이션을 합계 30회 클리어"
 
 msgid "mission_desc_event_raidlobby_c_0022"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n【마크로스7】의 곡을 합계 50회 클리어"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n【마크로스7】의 곡을 합계 50회 클리어"
 
 msgid "mission_desc_event_raidlobby_c_0023"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n풀콤보를 합계 30회 달성"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n풀콤보를 합계 30회 달성"
 
 msgid "mission_desc_event_raidlobby_c_0024"
-msgstr "【데일리】로비의 대원들이\\n발키리 오퍼레이션을 합계 30회 클리어"
+msgstr "【데일리】로비의 대원들이\n발키리 오퍼레이션을 합계 30회 클리어"
 
 msgid "event_msg_lobby_event_raidlobby_c_battlelog_text_01"
-msgstr "{0}에게 {1}IMPACT！！\\n무력화에 성공했습니다!"
+msgstr "{0}에게 {1}IMPACT！！\n무력화에 성공했습니다!"
 
 msgid "event_msg_lobby_event_raidlobby_c_battlelog_text_02"
-msgstr "마크로스 캐논 발사!\\n{0}IMPACT！！"
+msgstr "마크로스 캐논 발사!\n{0}IMPACT！！"
 
 msgid "event_msg_lobby_event_raidlobby_c_battlelog_text_03"
-msgstr "{0}의\\n{1}에서 풀콤보를 달성했습니다!"
+msgstr "{0}의\n{1}에서 풀콤보를 달성했습니다!"
 
 msgid "event_msg_lobby_event_raidlobby_c_battlelog_text_04"
 msgstr "무력화에 성공했습니다!"
@@ -4825,28 +4825,28 @@ msgid "event_group_event_raidlobby_d_0002"
 msgstr "미하엘 블랑 부대"
 
 msgid "event_guide_event_raidlobby_d_0001"
-msgstr "함께 협력 미션을 달성하여\\n총력 LIVE를 준비합시다"
+msgstr "함께 협력 미션을 달성하여\n총력 LIVE를 준비합시다"
 
 msgid "event_guide_event_raidlobby_d_0002"
-msgstr "지금까지 누군가와 교류해본 적은\\n없었는데... 좋은 거였네"
+msgstr "지금까지 누군가와 교류해본 적은\n없었는데... 좋은 거였네"
 
 msgid "event_guide_event_raidlobby_d_0003"
-msgstr "마크로스 로비에서\\n팬을 늘리자!"
+msgstr "마크로스 로비에서\n팬을 늘리자!"
 
 msgid "event_guide_event_raidlobby_d_0004"
-msgstr "대원 정보를 확인하자!\\n팬이 되면 방문할 수 있어"
+msgstr "대원 정보를 확인하자!\n팬이 되면 방문할 수 있어"
 
 msgid "event_guide_event_raidlobby_d_0005"
-msgstr "메시지나 스탬프를 보내\\n대원들과 교류해 보자!"
+msgstr "메시지나 스탬프를 보내\n대원들과 교류해 보자!"
 
 msgid "event_guide_event_raidlobby_d_0006"
-msgstr "협동 미션은 매일 변경돼\\n보상을 많이 받자"
+msgstr "협동 미션은 매일 변경돼\n보상을 많이 받자"
 
 msgid "event_guide_event_raidlobby_d_0007"
 msgstr "나도 안 질 거야!"
 
 msgid "event_guide_event_raidlobby_d_0008"
-msgstr "마키나의 미소 러블리\\n스탠딩 모어 러블리…"
+msgstr "마키나의 미소 러블리\n스탠딩 모어 러블리…"
 
 msgid "event_guide_event_raidlobby_d_0009"
 msgstr "너도 같이 노래해줬으면 좋겠어!"
@@ -4855,25 +4855,25 @@ msgid "event_guide_event_raidlobby_d_0010"
 msgstr "드디어 이때가 왔군!"
 
 msgid "event_guide_event_raidlobby_d_0011"
-msgstr "기다리고 있었어!\\n기운 팍팍 힘낼 거야!"
+msgstr "기다리고 있었어!\n기운 팍팍 힘낼 거야!"
 
 msgid "event_guide_event_raidlobby_d_0012"
-msgstr "시작할게. 우리\\n왈큐레의 무대를!"
+msgstr "시작할게. 우리\n왈큐레의 무대를!"
 
 msgid "event_guide_event_raidlobby_d_0013"
-msgstr "마크로스 캐논… 대단해!\\n게이지를 빨리 채워야 해"
+msgstr "마크로스 캐논… 대단해!\n게이지를 빨리 채워야 해"
 
 msgid "event_guide_event_raidlobby_d_0014"
-msgstr "드디어 싸움이 시작된 모양이네\\n가자! 란카!"
+msgstr "드디어 싸움이 시작된 모양이네\n가자! 란카!"
 
 msgid "event_guide_event_raidlobby_d_0015"
 msgstr "나, 열심히 할 거야!"
 
 msgid "event_guide_event_raidlobby_d_0016"
-msgstr "모두가 도와준 덕분에\\n마크로스 캐논을 빨리 쏠 수 있게 되었어"
+msgstr "모두가 도와준 덕분에\n마크로스 캐논을 빨리 쏠 수 있게 되었어"
 
 msgid "event_guide_event_raidlobby_d_0017"
-msgstr "다같이 좋아하는 노래를 부르자!\\n마음껏, 자유롭게!"
+msgstr "다같이 좋아하는 노래를 부르자!\n마음껏, 자유롭게!"
 
 msgid "event_guide_event_raidlobby_d_0018"
 msgstr "신나게 분위기 띄우자!"
@@ -4882,10 +4882,10 @@ msgid "event_guide_event_raidlobby_d_0019"
 msgstr "모두 함께~!"
 
 msgid "event_guide_event_raidlobby_d_0020"
-msgstr "미사일보다 폭발력 있는\\n사운드를 들려주겠어!"
+msgstr "미사일보다 폭발력 있는\n사운드를 들려주겠어!"
 
 msgid "event_guide_event_raidlobby_d_0021"
-msgstr "저, 모두를 만나서\\n진짜 행복해요!!"
+msgstr "저, 모두를 만나서\n진짜 행복해요!!"
 
 msgid "event_guide_event_raidlobby_d_0022"
 msgstr "또 같이 싸우고 싶네~"
@@ -4894,106 +4894,106 @@ msgid "event_guide_event_raidlobby_d_0023"
 msgstr "최고의 라이브가 됐네!"
 
 msgid "event_guide_event_raidlobby_d_0024"
-msgstr "네 노래, 느꼈어!\\n가슴으로 말이야!"
+msgstr "네 노래, 느꼈어!\n가슴으로 말이야!"
 
 msgid "event_guide_event_raidlobby_d_0025"
-msgstr "또 너희와\\n함께 노래하고 싶어!"
+msgstr "또 너희와\n함께 노래하고 싶어!"
 
 msgid "event_guide_event_raidlobby_d_0026"
-msgstr "들렸어!\\n네 노랫소리!"
+msgstr "들렸어!\n네 노랫소리!"
 
 msgid "event_guide_event_raidlobby_d_0027"
-msgstr "폴드 리셉터\\n비활성"
+msgstr "폴드 리셉터\n비활성"
 
 msgid "event_guide_event_raidlobby_d_0028"
-msgstr "고마워!\\n모두 덕분이야!"
+msgstr "고마워!\n모두 덕분이야!"
 
 msgid "event_guide_event_raidlobby_d_0029"
 msgstr "도와줘서 고마워!"
 
 msgid "event_guide_event_raidlobby_d_0030"
-msgstr "저도 태워주시겠어요?\\n당신의 배에"
+msgstr "저도 태워주시겠어요?\n당신의 배에"
 
 msgid "mission_desc_event_raidlobby_d_0001"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n곡을 합계 20회 클리어"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n곡을 합계 20회 클리어"
 
 msgid "mission_desc_event_raidlobby_d_0002"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n풀콤보를 합계 10회 달성"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n풀콤보를 합계 10회 달성"
 
 msgid "mission_desc_event_raidlobby_d_0003"
-msgstr "【데일리】로비의 대원들이\\n발키리 오퍼레이션을 합계 10회 클리어"
+msgstr "【데일리】로비의 대원들이\n발키리 오퍼레이션을 합계 10회 클리어"
 
 msgid "mission_desc_event_raidlobby_d_0004"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n곡을 합계 50회 클리어"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n곡을 합계 50회 클리어"
 
 msgid "mission_desc_event_raidlobby_d_0005"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n풀콤보를 합계 30회 달성"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n풀콤보를 합계 30회 달성"
 
 msgid "mission_desc_event_raidlobby_d_0006"
-msgstr "【데일리】로비의 대원들이\\n발키리 오퍼레이션을 합계 30회 클리어"
+msgstr "【데일리】로비의 대원들이\n발키리 오퍼레이션을 합계 30회 클리어"
 
 msgid "mission_desc_event_raidlobby_d_0007"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n곡을 합계 50회 클리어"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n곡을 합계 50회 클리어"
 
 msgid "mission_desc_event_raidlobby_d_0008"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n풀콤보를 합계 30회 달성"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n풀콤보를 합계 30회 달성"
 
 msgid "mission_desc_event_raidlobby_d_0009"
-msgstr "【데일리】로비의 대원들이\\n발키리 오퍼레이션을 합계 30회 클리어"
+msgstr "【데일리】로비의 대원들이\n발키리 오퍼레이션을 합계 30회 클리어"
 
 msgid "mission_desc_event_raidlobby_d_0010"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n【마크로스F】의 곡을 합계 50회 클리어"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n【마크로스F】의 곡을 합계 50회 클리어"
 
 msgid "mission_desc_event_raidlobby_d_0011"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n풀콤보를 합계 30회 달성"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n풀콤보를 합계 30회 달성"
 
 msgid "mission_desc_event_raidlobby_d_0012"
-msgstr "【데일리】로비의 대원들이\\n발키리 오퍼레이션을 합계 30회 클리어"
+msgstr "【데일리】로비의 대원들이\n발키리 오퍼레이션을 합계 30회 클리어"
 
 msgid "mission_desc_event_raidlobby_d_0013"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n【마크로스F】의 곡을 합계 50회 클리어"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n【마크로스F】의 곡을 합계 50회 클리어"
 
 msgid "mission_desc_event_raidlobby_d_0014"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n풀콤보를 합계 30회 달성"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n풀콤보를 합계 30회 달성"
 
 msgid "mission_desc_event_raidlobby_d_0015"
-msgstr "【데일리】로비의 대원들이\\n발키리 오퍼레이션을 합계 30회 클리어"
+msgstr "【데일리】로비의 대원들이\n발키리 오퍼레이션을 합계 30회 클리어"
 
 msgid "mission_desc_event_raidlobby_d_0016"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n【마크로스F】의 곡을 합계 50회 클리어"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n【마크로스F】의 곡을 합계 50회 클리어"
 
 msgid "mission_desc_event_raidlobby_d_0017"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n풀콤보를 합계 30회 달성"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n풀콤보를 합계 30회 달성"
 
 msgid "mission_desc_event_raidlobby_d_0018"
-msgstr "【데일리】로비의 대원들이\\n발키리 오퍼레이션을 합계 30회 클리어"
+msgstr "【데일리】로비의 대원들이\n발키리 오퍼레이션을 합계 30회 클리어"
 
 msgid "mission_desc_event_raidlobby_d_0019"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n【마크로스F】의 곡을 합계 50회 클리어"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n【마크로스F】의 곡을 합계 50회 클리어"
 
 msgid "mission_desc_event_raidlobby_d_0020"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n풀콤보를 합계 30회 달성"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n풀콤보를 합계 30회 달성"
 
 msgid "mission_desc_event_raidlobby_d_0021"
-msgstr "【데일리】로비의 대원들이\\n발키리 오퍼레이션을 합계 30회 클리어"
+msgstr "【데일리】로비의 대원들이\n발키리 오퍼레이션을 합계 30회 클리어"
 
 msgid "mission_desc_event_raidlobby_d_0022"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n【마크로스F】의 곡을 합계 50회 클리어"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n【마크로스F】의 곡을 합계 50회 클리어"
 
 msgid "mission_desc_event_raidlobby_d_0023"
-msgstr "【데일리】로비의 대원들이 【라이브】에서\\n풀콤보를 합계 30회 달성"
+msgstr "【데일리】로비의 대원들이 【라이브】에서\n풀콤보를 합계 30회 달성"
 
 msgid "mission_desc_event_raidlobby_d_0024"
-msgstr "【데일리】로비의 대원들이\\n발키리 오퍼레이션을 합계 30회 클리어"
+msgstr "【데일리】로비의 대원들이\n발키리 오퍼레이션을 합계 30회 클리어"
 
 msgid "event_msg_lobby_event_raidlobby_d_battlelog_text_01"
-msgstr "{0}에게 {1}IMPACT！！\\n무력화에 성공했습니다!"
+msgstr "{0}에게 {1}IMPACT！！\n무력화에 성공했습니다!"
 
 msgid "event_msg_lobby_event_raidlobby_d_battlelog_text_02"
-msgstr "마크로스 캐논 발사!\\n{0}IMPACT！！"
+msgstr "마크로스 캐논 발사!\n{0}IMPACT！！"
 
 msgid "event_msg_lobby_event_raidlobby_d_battlelog_text_03"
-msgstr "{0}의\\n{1}에서 풀콤보를 달성했습니다!"
+msgstr "{0}의\n{1}에서 풀콤보를 달성했습니다!"
 
 msgid "event_msg_lobby_event_raidlobby_d_battlelog_text_04"
 msgstr "무력화에 성공했습니다!"
@@ -5065,10 +5065,10 @@ msgid "mission_desc_event_sp_a_0022"
 msgstr "【데일리】사랑 속성 악곡 1회 클리어"
 
 msgid "mission_desc_event_sp_a_0023"
-msgstr "【데일리】이벤트「Glow in the dark」에서\\n악곡「Glow in the dark」1회 클리어"
+msgstr "【데일리】이벤트「Glow in the dark」에서\n악곡「Glow in the dark」1회 클리어"
 
 msgid "mission_desc_event_sp_a_0024"
-msgstr "【데일리】이벤트「Glow in the dark」에서\\n악곡 3회 클리어"
+msgstr "【데일리】이벤트「Glow in the dark」에서\n악곡 3회 클리어"
 
 msgid "mission_desc_event_sp_a_0025"
 msgstr "【데일리】별 속성 악곡 1회 클리어"
@@ -5077,10 +5077,10 @@ msgid "mission_desc_event_sp_a_0026"
 msgstr "【데일리】사랑 속성 악곡 1회 클리어"
 
 msgid "mission_desc_event_sp_a_0027"
-msgstr "【데일리】이벤트「Glow in the dark」에서\\n악곡「Glow in the dark」1회 클리어"
+msgstr "【데일리】이벤트「Glow in the dark」에서\n악곡「Glow in the dark」1회 클리어"
 
 msgid "mission_desc_event_sp_a_0028"
-msgstr "【데일리】이벤트「Glow in the dark」에서\\n악곡 3회 클리어"
+msgstr "【데일리】이벤트「Glow in the dark」에서\n악곡 3회 클리어"
 
 msgid "mission_desc_event_sp_a_0029"
 msgstr "【데일리】별 속성 악곡 1회 클리어"
@@ -5089,10 +5089,10 @@ msgid "mission_desc_event_sp_a_0030"
 msgstr "【데일리】사랑 속성 악곡 1회 클리어"
 
 msgid "mission_desc_event_sp_a_0031"
-msgstr "【데일리】이벤트「Glow in the dark」에서\\n악곡「Glow in the dark」1회 클리어"
+msgstr "【데일리】이벤트「Glow in the dark」에서\n악곡「Glow in the dark」1회 클리어"
 
 msgid "mission_desc_event_sp_a_0032"
-msgstr "【데일리】이벤트「Glow in the dark」에서\\n악곡 3회 클리어"
+msgstr "【데일리】이벤트「Glow in the dark」에서\n악곡 3회 클리어"
 
 msgid "mission_desc_event_sp_a_0033"
 msgstr "【데일리】별 속성 악곡 1회 클리어"
@@ -5101,10 +5101,10 @@ msgid "mission_desc_event_sp_a_0034"
 msgstr "【데일리】사랑 속성 악곡 1회 클리어"
 
 msgid "mission_desc_event_sp_a_0035"
-msgstr "【데일리】이벤트「Glow in the dark」에서\\n악곡「Glow in the dark」1회 클리어"
+msgstr "【데일리】이벤트「Glow in the dark」에서\n악곡「Glow in the dark」1회 클리어"
 
 msgid "mission_desc_event_sp_a_0036"
-msgstr "【데일리】이벤트「Glow in the dark」에서\\n악곡 3회 클리어"
+msgstr "【데일리】이벤트「Glow in the dark」에서\n악곡 3회 클리어"
 
 msgid "mission_desc_event_sp_a_0037"
 msgstr "【데일리】별 속성 악곡 1회 클리어"
@@ -5113,10 +5113,10 @@ msgid "mission_desc_event_sp_a_0038"
 msgstr "【데일리】사랑 속성 악곡 1회 클리어"
 
 msgid "mission_desc_event_sp_a_0039"
-msgstr "【데일리】이벤트「Glow in the dark」에서\\n악곡「Glow in the dark」1회 클리어"
+msgstr "【데일리】이벤트「Glow in the dark」에서\n악곡「Glow in the dark」1회 클리어"
 
 msgid "mission_desc_event_sp_a_0040"
-msgstr "【데일리】이벤트「Glow in the dark」에서\\n악곡 3회 클리어"
+msgstr "【데일리】이벤트「Glow in the dark」에서\n악곡 3회 클리어"
 
 msgid "mission_desc_event_sp_a_0041"
 msgstr "【데일리】별 속성 악곡 1회 클리어"
@@ -5125,10 +5125,10 @@ msgid "mission_desc_event_sp_a_0042"
 msgstr "【데일리】사랑 속성 악곡 1회 클리어"
 
 msgid "mission_desc_event_sp_a_0043"
-msgstr "【데일리】이벤트「Glow in the dark」에서\\n악곡「Glow in the dark」1회 클리어"
+msgstr "【데일리】이벤트「Glow in the dark」에서\n악곡「Glow in the dark」1회 클리어"
 
 msgid "mission_desc_event_sp_a_0044"
-msgstr "【데일리】이벤트「Glow in the dark」에서\\n악곡 3회 클리어"
+msgstr "【데일리】이벤트「Glow in the dark」에서\n악곡 3회 클리어"
 
 msgid "mission_desc_event_sp_a_0045"
 msgstr "【데일리】별 속성 악곡 1회 클리어"
@@ -5137,10 +5137,10 @@ msgid "mission_desc_event_sp_a_0046"
 msgstr "【데일리】사랑 속성 악곡 1회 클리어"
 
 msgid "mission_desc_event_sp_a_0047"
-msgstr "【데일리】이벤트「Glow in the dark」에서\\n악곡「Glow in the dark」1회 클리어"
+msgstr "【데일리】이벤트「Glow in the dark」에서\n악곡「Glow in the dark」1회 클리어"
 
 msgid "mission_desc_event_sp_a_0048"
-msgstr "【데일리】이벤트「Glow in the dark」에서\\n악곡 3회 클리어"
+msgstr "【데일리】이벤트「Glow in the dark」에서\n악곡 3회 클리어"
 
 msgid "mission_desc_event_sp_a_0049"
 msgstr "【데일리】별 속성 악곡 1회 클리어"
@@ -5173,10 +5173,10 @@ msgid "mission_desc_event_sp_a_0058"
 msgstr "【데일리】사랑 속성 악곡 1회 클리어"
 
 msgid "mission_desc_event_sp_a_0059"
-msgstr "【데일리】이벤트「【복각】충격 데뷔 스테이지」에서\\n악곡「우리들의 전장」1회 클리어"
+msgstr "【데일리】이벤트「【복각】충격 데뷔 스테이지」에서\n악곡「우리들의 전장」1회 클리어"
 
 msgid "mission_desc_event_sp_a_0060"
-msgstr "【데일리】이벤트「【복각】충격 데뷔 스테이지」에서\\n악곡 3회 클리어"
+msgstr "【데일리】이벤트「【복각】충격 데뷔 스테이지」에서\n악곡 3회 클리어"
 
 msgid "mission_desc_event_sp_a_0061"
 msgstr "【데일리】별 속성 악곡 1회 클리어"
@@ -5185,10 +5185,10 @@ msgid "mission_desc_event_sp_a_0062"
 msgstr "【데일리】사랑 속성 악곡 1회 클리어"
 
 msgid "mission_desc_event_sp_a_0063"
-msgstr "【데일리】이벤트「【복각】충격 데뷔 스테이지」에서\\n악곡「우리들의 전장」1회 클리어"
+msgstr "【데일리】이벤트「【복각】충격 데뷔 스테이지」에서\n악곡「우리들의 전장」1회 클리어"
 
 msgid "mission_desc_event_sp_a_0064"
-msgstr "【데일리】이벤트「【복각】충격 데뷔 스테이지」에서\\n악곡 3회 클리어"
+msgstr "【데일리】이벤트「【복각】충격 데뷔 스테이지」에서\n악곡 3회 클리어"
 
 msgid "mission_desc_event_sp_a_0065"
 msgstr "【데일리】별 속성 악곡 1회 클리어"
@@ -5197,10 +5197,10 @@ msgid "mission_desc_event_sp_a_0066"
 msgstr "【데일리】사랑 속성 악곡 1회 클리어"
 
 msgid "mission_desc_event_sp_a_0067"
-msgstr "【데일리】이벤트「【복각】충격 데뷔 스테이지」에서\\n악곡「우리들의 전장」1회 클리어"
+msgstr "【데일리】이벤트「【복각】충격 데뷔 스테이지」에서\n악곡「우리들의 전장」1회 클리어"
 
 msgid "mission_desc_event_sp_a_0068"
-msgstr "【데일리】이벤트「【복각】충격 데뷔 스테이지」에서\\n악곡 3회 클리어"
+msgstr "【데일리】이벤트「【복각】충격 데뷔 스테이지」에서\n악곡 3회 클리어"
 
 msgid "mission_desc_event_sp_a_0069"
 msgstr "【데일리】별 속성 악곡 1회 클리어"
@@ -5209,10 +5209,10 @@ msgid "mission_desc_event_sp_a_0070"
 msgstr "【데일리】사랑 속성 악곡 1회 클리어"
 
 msgid "mission_desc_event_sp_a_0071"
-msgstr "【데일리】이벤트「【복각】충격 데뷔 스테이지」에서\\n악곡「우리들의 전장」1회 클리어"
+msgstr "【데일리】이벤트「【복각】충격 데뷔 스테이지」에서\n악곡「우리들의 전장」1회 클리어"
 
 msgid "mission_desc_event_sp_a_0072"
-msgstr "【데일리】이벤트「【복각】충격 데뷔 스테이지」에서\\n악곡 3회 클리어"
+msgstr "【데일리】이벤트「【복각】충격 데뷔 스테이지」에서\n악곡 3회 클리어"
 
 msgid "mission_desc_event_sp_a_0073"
 msgstr "【데일리】별 속성 악곡 1회 클리어"
@@ -5221,10 +5221,10 @@ msgid "mission_desc_event_sp_a_0074"
 msgstr "【데일리】사랑 속성 악곡 1회 클리어"
 
 msgid "mission_desc_event_sp_a_0075"
-msgstr "【데일리】이벤트「【복각】충격 데뷔 스테이지」에서\\n악곡「우리들의 전장」1회 클리어"
+msgstr "【데일리】이벤트「【복각】충격 데뷔 스테이지」에서\n악곡「우리들의 전장」1회 클리어"
 
 msgid "mission_desc_event_sp_a_0076"
-msgstr "【데일리】이벤트「【복각】충격 데뷔 스테이지」에서\\n악곡 3회 클리어"
+msgstr "【데일리】이벤트「【복각】충격 데뷔 스테이지」에서\n악곡 3회 클리어"
 
 msgid "mission_desc_event_sp_a_0077"
 msgstr "【데일리】별 속성 악곡 1회 클리어"
@@ -5233,22 +5233,22 @@ msgid "mission_desc_event_sp_a_0078"
 msgstr "【데일리】사랑 속성 악곡 1회 클리어"
 
 msgid "mission_desc_event_sp_a_0079"
-msgstr "【데일리】이벤트「【복각】충격 데뷔 스테이지」에서\\n악곡「우리들의 전장」1회 클리어"
+msgstr "【데일리】이벤트「【복각】충격 데뷔 스테이지」에서\n악곡「우리들의 전장」1회 클리어"
 
 msgid "mission_desc_event_sp_a_0080"
-msgstr "【데일리】이벤트「【복각】충격 데뷔 스테이지」에서\\n악곡 3회 클리어"
+msgstr "【데일리】이벤트「【복각】충격 데뷔 스테이지」에서\n악곡 3회 클리어"
 
 msgid "mission_desc_event_sp_a_0081"
-msgstr "냥냥 서비스 미션 10개 클리어\\n<color=#c8087e>※의상을 이미 획득했기 때문에 보상은 냥쿠지☆ 추첨권으로 변경되었습니다.</color>"
+msgstr "냥냥 서비스 미션 10개 클리어\n<color=#c8087e>※의상을 이미 획득했기 때문에 보상은 냥쿠지☆ 추첨권으로 변경되었습니다.</color>"
 
 msgid "mission_desc2_event_sp_a_0081"
-msgstr "냥냥 서비스 미션\\n10개 클리어"
+msgstr "냥냥 서비스 미션\n10개 클리어"
 
 msgid "mission_desc_event_sp_a_0082"
 msgstr "냥냥 서비스 미션을 10개 클리어"
 
 msgid "mission_desc2_event_sp_a_0082"
-msgstr "냥냥 서비스 미션\\n10개 클리어"
+msgstr "냥냥 서비스 미션\n10개 클리어"
 
 msgid "mission_desc_event_sp_a_0083"
 msgstr "기억의 시공에서 모든 가희의 기억 해방"

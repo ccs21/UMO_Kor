@@ -655,7 +655,7 @@ msgid "StringLiteral_11918"
 msgstr "통신 에러"
 
 msgid "StringLiteral_11920"
-msgstr "\\n\\n에러 코드 : "
+msgstr "\n\n에러 코드 : "
 
 msgid "StringLiteral_11921"
 msgstr "데이터 갱신"
@@ -670,19 +670,19 @@ msgid "StringLiteral_11927"
 msgstr "스토리지 에러"
 
 msgid "StringLiteral_11928"
-msgstr "파일 다운로드에 실패했습니다.\\n스토리지에 여유 공간이 충분하지 않은 경우\\n이 메시지가 표시될 수 있습니다.\\n다시 시도하시겠습니까?"
+msgstr "파일 다운로드에 실패했습니다.\n스토리지에 여유 공간이 충분하지 않은 경우\n이 메시지가 표시될 수 있습니다.\n다시 시도하시겠습니까?"
 
 msgid "StringLiteral_11929"
 msgstr "다운로드 에러"
 
 msgid "StringLiteral_11930"
-msgstr "파일 다운로드에 실패했습니다.\\n인터넷 연결 및 전파 상태를 확인하고,\\n다시 한 번 시도해 보세요."
+msgstr "파일 다운로드에 실패했습니다.\n인터넷 연결 및 전파 상태를 확인하고,\n다시 한 번 시도해 보세요."
 
 msgid "StringLiteral_11955"
-msgstr "통신 시간이 초과되었습니다. 다시 시도하시겠습니까?\\n취소하면 타이틀 화면으로 돌아갑니다."
+msgstr "통신 시간이 초과되었습니다. 다시 시도하시겠습니까?\n취소하면 타이틀 화면으로 돌아갑니다."
 
 msgid "StringLiteral_11956"
-msgstr "통신 시간이 초과되었습니다.\\n타이틀 화면으로 돌아갑니다."
+msgstr "통신 시간이 초과되었습니다.\n타이틀 화면으로 돌아갑니다."
 
 msgid "StringLiteral_11962"
 msgstr "에러"
@@ -691,7 +691,7 @@ msgid "StringLiteral_11972"
 msgstr "내부 에러"
 
 msgid "StringLiteral_11973"
-msgstr "에러가 발생했습니다.\\n타이틀 화면으로 돌아갑니다."
+msgstr "에러가 발생했습니다.\n타이틀 화면으로 돌아갑니다."
 
 msgid "StringLiteral_11992"
 msgstr "배치 인스톨러　설치 모듈 생성 실패"
@@ -784,7 +784,7 @@ msgid "StringLiteral_12459"
 msgstr "통신 시간이 초과되었습니다."
 
 msgid "StringLiteral_12462"
-msgstr "에러가 발생했습니다.\\n\\n(에러 코드 : {0})"
+msgstr "에러가 발생했습니다.\n\n(에러 코드 : {0})"
 
 msgid "StringLiteral_12526"
 msgstr "범용"
@@ -1213,7 +1213,7 @@ msgid "StringLiteral_13316"
 msgstr "디폴트 3D 모드 설정 : "
 
 msgid "StringLiteral_13620"
-msgstr " - 지원되지 않는 모양이 전달되었습니다.\\n   {0}"
+msgstr " - 지원되지 않는 모양이 전달되었습니다.\n   {0}"
 
 msgid "StringLiteral_13959"
 msgstr ""
@@ -1357,7 +1357,7 @@ msgid "StringLiteral_16155"
 msgstr "의상 목록 클릭 : {0} : {1}"
 
 msgid "StringLiteral_16162"
-msgstr "【해방 조건】\\n\\n플레이어 랭크 8 달성."
+msgstr "【해방 조건】\n\n플레이어 랭크 8 달성."
 
 msgid "StringLiteral_16170"
 msgstr "선물 목록 클릭 : {0} : {1}"
@@ -1375,10 +1375,10 @@ msgid "StringLiteral_16418"
 msgstr "자신의 데코룸"
 
 msgid "StringLiteral_16419"
-msgstr "【해방 조건】\\n\\n플레이어 랭크 5 달성."
+msgstr "【해방 조건】\n\n플레이어 랭크 5 달성."
 
 msgid "StringLiteral_16496"
-msgstr "해방하지 않은 캐릭터로는\\n친밀도를 높일 수 없습니다."
+msgstr "해방하지 않은 캐릭터로는\n친밀도를 높일 수 없습니다."
 
 msgid "StringLiteral_16775"
 msgstr "배치 수 {0:D2} / {1:D2}"
@@ -1564,7 +1564,7 @@ msgid "UMO_login_10665_name"
 msgstr "컴백 로그인 보너스 28일간 비로그인"
 
 msgid "UMO_login_10665_desc"
-msgstr "컴백 로그인 보너스 28일간 비로그인\\n"
+msgstr "컴백 로그인 보너스 28일간 비로그인\n"
 
 msgid "UMO_login_10666_name"
 msgstr "컴백 로그인 보너스 28일간 비로그인　가정석"
@@ -1792,7 +1792,7 @@ msgid "UMO_product_429267_desc_name"
 msgstr "★5 확정 서비스 가챠"
 
 msgid "UMO_product_429267_desc_desc"
-msgstr "★5 확정 서비스 가챠 사용 시\\n★5 플레이트 획득 가능\\n※2022/3/31 라인업 갱신"
+msgstr "★5 확정 서비스 가챠 사용 시\n★5 플레이트 획득 가능\n※2022/3/31 라인업 갱신"
 
 msgid "UMO_product_429712_name"
 msgstr "서비스 가챠 317"
@@ -1801,7 +1801,7 @@ msgid "UMO_product_429712_desc_name"
 msgstr "서비스 가챠"
 
 msgid "UMO_product_429712_desc_desc"
-msgstr "\\n아침・낮・저녁\\n1일에 3회 가정석 소모없이 뽑을 수 있는 가챠\\n\\n「이런 서비스 1일에 3회밖에 안 한다니까?」\\n　　　　　　　　　　　　　－셰릴 놈－"
+msgstr "\n아침・낮・저녁\n1일에 3회 가정석 소모없이 뽑을 수 있는 가챠\n\n「이런 서비스 1일에 3회밖에 안 한다니까?」\n　　　　　　　　　　　　　－셰릴 놈－"
 
 msgid "UMO_product_429927_name"
 msgstr "초시공 가챠 45"
@@ -1810,7 +1810,7 @@ msgid "UMO_product_429927_desc_name"
 msgstr "초시공 가챠"
 
 msgid "UMO_product_429927_desc_desc"
-msgstr "초시공 가챠 티켓을 소비하여\\n★1～★6의 플레이트를 획득 가능.\\n※2022/5/1 라인업 갱신"
+msgstr "초시공 가챠 티켓을 소비하여\n★1～★6의 플레이트를 획득 가능.\n※2022/5/1 라인업 갱신"
 
 msgid "UMO_product_429928_name"
 msgstr "픽업 가챠 159"
@@ -1852,7 +1852,7 @@ msgid "UMO_product_430020_desc_free_msg"
 msgstr "10연속 무료"
 
 msgid "UMO_product_430020_desc_free_multi_msg"
-msgstr "1일 1회\\n무료!"
+msgstr "1일 1회\n무료!"
 
 msgid "UMO_product_430020_desc_name"
 msgstr "무료 10연속 가챠"

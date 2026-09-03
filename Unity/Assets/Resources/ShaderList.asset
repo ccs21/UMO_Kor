@@ -166,6 +166,9 @@ MonoBehaviour:
   - fileName: stage_trans_unlit
     internalName: MCRS/Stage/Trans_Unlit
     shader: {fileID: 4800000, guid: 7a0ad94167ba6607eb636104b9e41678, type: 3}
+  - fileName: umo_pc_transparent_colored_blur
+    internalName: UMO/PC/TransparentColoredBlur
+    shader: {fileID: 4800000, guid: 251dd62c95c65954dacd9fe2cbf10025, type: 3}
   - fileName: vernier
     internalName: Shader Forge/vernier
     shader: {fileID: 4800000, guid: b197e0e2a9e77884ca98e2a4d3e91d04, type: 3}
@@ -175,12 +178,6 @@ MonoBehaviour:
   - fileName: xesystransparentcolculloff
     internalName: XeSys/TransparentColCullOff
     shader: {fileID: 4800000, guid: 20ad34aa2ad305d4d997768402f11810, type: 3}
-  - fileName: projectorlight
-    internalName: Projector/Light
-    shader: {fileID: 4800000, guid: c0ace1ca4bc0718448acf798c93d52d9, type: 3}
-  - fileName: projectormultiply
-    internalName: Projector/Multiply
-    shader: {fileID: 4800000, guid: 01a668cc78047034a8a0c5ca2d24c6f7, type: 3}
   - fileName: tmp_bitmap
     internalName: TextMeshPro/Bitmap
     shader: {fileID: 4800000, guid: 128e987d567d4e2c824d754223b3f3b0, type: 3}

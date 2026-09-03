@@ -8,7 +8,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bfd0c4957335c3f4886746df77345caa, type: 3}
+  m_Script: {fileID: 11500000, guid: 096cc5499211482191a6b14a2e9931c6, type: 3}
   m_Name: EmojiOne
   m_EditorClassIdentifier:
   hashCode: -1836805472

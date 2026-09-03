@@ -163,6 +163,9 @@ static class FileSystemProxy
 		{
 			serverFileList = new Dictionary<string, string>();
 			string filePath = UnityEngine.Application.dataPath + "/../../Data/RequestGetFiles.json";
+#if UNITY_STANDALONE
+			filePath = Path.Combine(RuntimeSettings.CurrentSettings.DataDirectory, "RequestGetFiles.json");
+#endif
 #if (UNITY_ANDROID && !UNITY_EDITOR) || DEBUG_ANDROID_FILESYSTEM
 			filePath = Application.persistentDataPath+"/data/RequestGetFiles.json";
 #endif

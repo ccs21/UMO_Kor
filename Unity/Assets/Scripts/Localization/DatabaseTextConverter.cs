@@ -18,8 +18,12 @@ using XeSys.Gfx;
 
 public static class DatabaseTextConverter
 {
-    public static string PoPath = Application.dataPath + "/../../Localization/Database/{name}/po/";
-    public static string LocalDatabasePath = Application.dataPath + "/Resources/Localizations/{name}/";
+    // Do not read Application.dataPath from a static initializer. Unity 2018 may
+    // initialize this class while serializing scenes for a standalone build,
+    // where that API is forbidden. These paths are editor tooling paths, so
+    // calculate them only when the tooling actually uses them.
+    public static string PoPath { get { return Application.dataPath + "/../../Localization/Database/{name}/po/"; } }
+    public static string LocalDatabasePath { get { return Application.dataPath + "/Resources/Localizations/{name}/"; } }
     public static List<string> supportedLanguage = new List<string>() { "fr", "en", "zh_Hans", "ko" };
 
 #if UNITY_EDITOR
@@ -840,11 +844,19 @@ public static class DatabaseTextConverter
 
     private static string Translate(eBank bank, string key, string def)
     {
+#if UNITY_EDITOR
+        // Scene serialization can evaluate static string tables while building.
+        // Do not query any Unity runtime property here: Unity 2018 also forbids
+        // Application.isPlaying in that context. A missing bank already means
+        // there is no translation to return; Play Mode loads the bank normally.
+        if(banks[(int)bank] == null)
+            return def;
+#endif
         if(RuntimeSettings.CurrentSettings.ShowStringUsed && (banks[(int)bank] == null || !RuntimeSettings.CurrentSettings.UseTmpLocalizationFiles))
             return bank.ToString() + "/" + key;
         if(banks[(int)bank] != null)
         {
-            return banks[(int)bank].GetMessageByLabel(key);
+            return PoFile.UnescapeTranslatedText(banks[(int)bank].GetMessageByLabel(key));
         }
         else
         {

@@ -4,58 +4,58 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "tuto_miniadv_0000_0000_msg"
-msgstr "출격 전에 노트 타이밍이\\n어긋나지는 않았는지 확인할게."
+msgstr "출격 전에 노트 타이밍이\n어긋나지는 않았는지 확인할게."
 
 msgid "tuto_miniadv_0000_0001_msg"
-msgstr "들려오는 소리에 맞춰\\n리듬 버튼을 눌러봐."
+msgstr "들려오는 소리에 맞춰\n리듬 버튼을 눌러봐."
 
 msgid "tuto_miniadv_0001_0000_msg"
-msgstr "이제 준비 OK.\\n출격하자!"
+msgstr "이제 준비 OK.\n출격하자!"
 
 msgid "tuto_miniadv_0002_0000_msg"
-msgstr "이번을 위해 매뉴얼을 만들었어.\\n함께 살펴보자."
+msgstr "이번을 위해 매뉴얼을 만들었어.\n함께 살펴보자."
 
 msgid "tuto_miniadv_0002_0001_msg"
-msgstr "역시 카나메 씨!\\n이 매뉴얼만 보면 된다는 거네요!"
+msgstr "역시 카나메 씨!\n이 매뉴얼만 보면 된다는 거네요!"
 
 msgid "tuto_miniadv_0003_0000_msg"
-msgstr "...우리 노래가 효과가 없다고?\\n프레이아, 더 이상은 위험해.\\n일단 돌아와!"
+msgstr "...우리 노래가 효과가 없다고?\n프레이아, 더 이상은 위험해.\n일단 돌아와!"
 
 msgid "tuto_miniadv_0004_0000_msg"
-msgstr "【에피소드 플레이트】는 우리들의 노래로 복원된\\n기억을 개념화하여 전자 정보로 기록한 거야."
+msgstr "【에피소드 플레이트】는 우리들의 노래로 복원된\n기억을 개념화하여 전자 정보로 기록한 거야."
 
 msgid "tuto_miniadv_0005_0000_msg"
-msgstr "【에피소드 플레이트】는 다양한 방법으로\\n획득할 수 있어."
+msgstr "【에피소드 플레이트】는 다양한 방법으로\n획득할 수 있어."
 
 msgid "tuto_miniadv_0005_0001_msg"
 msgstr "이번에는 【가챠】를 뽑아서 획득해 보자!"
 
 msgid "tuto_miniadv_0005_0002_msg"
-msgstr "가챠에 필요한 【가정석】도 준비했어.\\n어떤 플레이트가 나올지 기대되네."
+msgstr "가챠에 필요한 【가정석】도 준비했어.\n어떤 플레이트가 나올지 기대되네."
 
 msgid "tuto_miniadv_0006_0000_msg"
-msgstr "이건...\\n내가 오디션에 합격한 날?"
+msgstr "이건...\n내가 오디션에 합격한 날?"
 
 msgid "tuto_miniadv_0006_0001_msg"
-msgstr "【에피소드 플레이트】에 떠오르는 것은\\n우리와 관련된 기억의 이미지라는 것 같아."
+msgstr "【에피소드 플레이트】에 떠오르는 것은\n우리와 관련된 기억의 이미지라는 것 같아."
 
 msgid "tuto_miniadv_0007_0000_msg"
-msgstr "【에피소드 플레이트】의 힘은 우리같은 가희들이\\n착용해야만 그 힘을 발휘할 수 있어.\\n방법을 설명해 줄게."
+msgstr "【에피소드 플레이트】의 힘은 우리같은 가희들이\n착용해야만 그 힘을 발휘할 수 있어.\n방법을 설명해 줄게."
 
 msgid "tuto_miniadv_0008_0000_msg"
 msgstr "먼저 【유닛 편성】을 선택해 봐."
 
 msgid "tuto_miniadv_0009_0000_msg"
-msgstr "【유닛】은 가희와 에피소드 플레이트의\\n조합으로 이루어져 있어."
+msgstr "【유닛】은 가희와 에피소드 플레이트의\n조합으로 이루어져 있어."
 
 msgid "tuto_miniadv_0009_0001_msg"
-msgstr "자, 입수한 에피소드 플레이트로\\n바로 강화해 보자."
+msgstr "자, 입수한 에피소드 플레이트로\n바로 강화해 보자."
 
 msgid "tuto_miniadv_0010_0000_msg"
-msgstr "에피소드 플레이트로 노래의 힘이 더 강해졌어!\\n지금이라면 보다 강력한 생체 폴드파를\\n발생시킬 수 있을 것 같네."
+msgstr "에피소드 플레이트로 노래의 힘이 더 강해졌어!\n지금이라면 보다 강력한 생체 폴드파를\n발생시킬 수 있을 것 같네."
 
 msgid "tuto_miniadv_0011_0000_msg"
-msgstr "여기에서는 우리 왈큐레를 포함한 모든 은하의 사람들과\\n시공을 초월하여 통신을 할 수 있어."
+msgstr "여기에서는 우리 왈큐레를 포함한 모든 은하의 사람들과\n시공을 초월하여 통신을 할 수 있어."
 
 msgid "tuto_miniadv_0011_0001_msg"
 msgstr "시공을 초월한다?"
@@ -64,7 +64,7 @@ msgid "tuto_miniadv_0011_0002_msg"
 msgstr "그건 직접 눈으로 확인하는 게 더 빠를 것 같네."
 
 msgid "tuto_miniadv_0011_0003_msg"
-msgstr "자, 먼저 방을 선택하자.\\n이번에는 【SNS 연락방】을 선택해봐."
+msgstr "자, 먼저 방을 선택하자.\n이번에는 【SNS 연락방】을 선택해봐."
 
 msgid "tuto_miniadv_0012_0000_msg"
 msgstr "이러면 될까요?"
@@ -73,58 +73,58 @@ msgid "tuto_miniadv_0012_0001_msg"
 msgstr "응, 잘했어."
 
 msgid "tuto_miniadv_0013_0000_msg"
-msgstr "오오, 미쿠모 씨, 마키나 씨랑 레이나 씨!\\n왈큐레 멤버들이 전부 있네!"
+msgstr "오오, 미쿠모 씨, 마키나 씨랑 레이나 씨!\n왈큐레 멤버들이 전부 있네!"
 
 msgid "tuto_miniadv_0013_0001_msg"
-msgstr "다른 멤버들은 먼저 등록했거든.\\n자, 그럼 바로 대화를 시작해보자!"
+msgstr "다른 멤버들은 먼저 등록했거든.\n자, 그럼 바로 대화를 시작해보자!"
 
 msgid "tuto_miniadv_0014_0000_msg"
-msgstr "이 데이터베이스에는 현재 새인간의 위협에\\n맞서고 있는 가희들이 등록되어 있습니다."
+msgstr "이 데이터베이스에는 현재 새인간의 위협에\n맞서고 있는 가희들이 등록되어 있습니다."
 
 msgid "tuto_miniadv_0014_0001_msg"
-msgstr "새인간의 위협에 대항하기 위해서는,\\n가희 여러분이 가진 노래의 힘과 당신의 협력이\\n반드시 필요합니다."
+msgstr "새인간의 위협에 대항하기 위해서는,\n가희 여러분이 가진 노래의 힘과 당신의 협력이\n반드시 필요합니다."
 
 msgid "tuto_miniadv_0014_0002_msg"
 msgstr "먼저 함께 싸울 가희를 선택해 주시겠습니까?"
 
 msgid "tuto_miniadv_0014_0003_msg"
-msgstr "다만 밀레느 씨와 바사라 씨는 시공이\\n안정되지 않았기 때문에\\n아직은 함께 싸울 수 없습니다."
+msgstr "다만 밀레느 씨와 바사라 씨는 시공이\n안정되지 않았기 때문에\n아직은 함께 싸울 수 없습니다."
 
 msgid "tuto_miniadv_0014_0004_msg"
 msgstr "하지만 언젠가는 함께 싸울 수 있을 겁니다."
 
 msgid "tuto_miniadv_0015_0000_msg"
-msgstr "반가워.\\n나는 카나메 버캐니어야."
+msgstr "반가워.\n나는 카나메 버캐니어야."
 
 msgid "tuto_miniadv_0015_0001_msg"
-msgstr "당분간 널 서포트할 거야.\\n잘 부탁해."
+msgstr "당분간 널 서포트할 거야.\n잘 부탁해."
 
 msgid "tuto_miniadv_0015_0002_msg"
-msgstr "당신의 입대 축하 선물이 선물 BOX에 도착한 것 같아!\\n에피소드 플레이트는 내가 맡아두고 있으니까\\n지금 전달해 줄게."
+msgstr "당신의 입대 축하 선물이 선물 BOX에 도착한 것 같아!\n에피소드 플레이트는 내가 맡아두고 있으니까\n지금 전달해 줄게."
 
 msgid "tuto_miniadv_0016_0000_msg"
-msgstr "반가워.\\n나는 카나메 버캐니어야."
+msgstr "반가워.\n나는 카나메 버캐니어야."
 
 msgid "tuto_miniadv_0016_0001_msg"
-msgstr "당분간 널 서포트할 거야.\\n잘 부탁해."
+msgstr "당분간 널 서포트할 거야.\n잘 부탁해."
 
 msgid "tuto_miniadv_0016_0002_msg"
-msgstr "당신의 입대 축하 선물이 선물 BOX에 도착한 것 같아!\\n에피소드 플레이트는 내가 맡아두고 있으니까\\n지금 전달해 줄게."
+msgstr "당신의 입대 축하 선물이 선물 BOX에 도착한 것 같아!\n에피소드 플레이트는 내가 맡아두고 있으니까\n지금 전달해 줄게."
 
 msgid "tuto_miniadv_0017_0000_msg"
-msgstr "프레이아의 무대 의상도 얻을 수 있어.\\n【도전하기】를 선택해 바로 도전해 보자!"
+msgstr "프레이아의 무대 의상도 얻을 수 있어.\n【도전하기】를 선택해 바로 도전해 보자!"
 
 msgid "tuto_miniadv_0018_0000_msg"
-msgstr "모든 미션을 클리어했구나.\\n대단한걸!"
+msgstr "모든 미션을 클리어했구나.\n대단한걸!"
 
 msgid "tuto_miniadv_0018_0001_msg"
-msgstr "이 밖에도 달성하면 보상을 받을 수 있는\\n미션이 많이 있으니 확인해봐."
+msgstr "이 밖에도 달성하면 보상을 받을 수 있는\n미션이 많이 있으니 확인해봐."
 
 msgid "tuto_miniadv_0019_0000_msg"
-msgstr "일단 평소처럼 노래하면 되는 거구나.\\n끝까지 열심히 해볼게!"
+msgstr "일단 평소처럼 노래하면 되는 거구나.\n끝까지 열심히 해볼게!"
 
 msgid "tuto_miniadv_0020_0000_msg"
-msgstr "어때? 버튼을 누른 타이밍과\\n노트가 버튼에 겹치는 타이밍이\\n어긋나지는 않았어?"
+msgstr "어때? 버튼을 누른 타이밍과\n노트가 버튼에 겹치는 타이밍이\n어긋나지는 않았어?"
 
 msgid "tuto_miniadv_0021_0000_msg"
 msgstr " <SelDiva>를 선택하는 거구나?"
@@ -133,61 +133,61 @@ msgid "tuto_miniadv_0022_0000_msg"
 msgstr "여기에는 획득한 에피소드가 표시되어 있어."
 
 msgid "tuto_miniadv_0022_0001_msg"
-msgstr "이번에는 【각오의 오디션】 에피소드를\\n해금해 보자."
+msgstr "이번에는 【각오의 오디션】 에피소드를\n해금해 보자."
 
 msgid "tuto_miniadv_0023_0000_msg"
-msgstr "이건 【각오의 오디션】 에피소드를\\n구성하는 에피소드 플레이트야."
+msgstr "이건 【각오의 오디션】 에피소드를\n구성하는 에피소드 플레이트야."
 
 msgid "tuto_miniadv_0023_0001_msg"
 msgstr "이 중에서 하나의 에피소드 플레이트를 선택해 줘."
 
 msgid "tuto_miniadv_0024_0000_msg"
-msgstr "에피소드 칸을 해방하면\\n에피소드 포인트를 획득할 수 있어."
+msgstr "에피소드 칸을 해방하면\n에피소드 포인트를 획득할 수 있어."
 
 msgid "tuto_miniadv_0024_0001_msg"
-msgstr "에피소드를 완전 해방하면 얻을 수 있는\\n보상이 그려져 있는 게 에피소드 칸이야."
+msgstr "에피소드를 완전 해방하면 얻을 수 있는\n보상이 그려져 있는 게 에피소드 칸이야."
 
 msgid "tuto_miniadv_0024_0002_msg"
-msgstr "이번에는 프레이아의 의상이 표시되어 있는 칸을\\n해방해 보자."
+msgstr "이번에는 프레이아의 의상이 표시되어 있는 칸을\n해방해 보자."
 
 msgid "tuto_miniadv_0025_0000_msg"
-msgstr "오늘부터 우리 동료인 거지!\\n싸우기 전에, 너에 대해 알려주지 않을래?"
+msgstr "오늘부터 우리 동료인 거지!\n싸우기 전에, 너에 대해 알려주지 않을래?"
 
 msgid "tuto_miniadv_0025_0001_msg"
-msgstr "너는 얼마나 좋아하는 걸까?\\n하나를 골라 줄래?"
+msgstr "너는 얼마나 좋아하는 걸까?\n하나를 골라 줄래?"
 
 msgid "tuto_miniadv_0026_0000_msg"
-msgstr "실력은 어느 정도일까?\\n나!?…나, 나는 앞으로 더 잘하게 될 거니까!"
+msgstr "실력은 어느 정도일까?\n나!?…나, 나는 앞으로 더 잘하게 될 거니까!"
 
 msgid "tuto_miniadv_0027_0000_msg"
-msgstr "앞으로 어떤 일이 기다리고 있을지 기대되네!\\n네가 기대하는 건 뭐야?"
+msgstr "앞으로 어떤 일이 기다리고 있을지 기대되네!\n네가 기대하는 건 뭐야?"
 
 msgid "tuto_miniadv_0028_0000_msg"
-msgstr "여러 가지 알려줘서 고마워!\\n앞으로 나도 함께 열심히 할게!"
+msgstr "여러 가지 알려줘서 고마워!\n앞으로 나도 함께 열심히 할게!"
 
 msgid "tuto_miniadv_0029_0000_msg"
-msgstr "수고했어.\\n라이브, 대성공이네!\\n그럼 바로 라이브 진행 방식을 복습해 보자!"
+msgstr "수고했어.\n라이브, 대성공이네!\n그럼 바로 라이브 진행 방식을 복습해 보자!"
 
 msgid "tuto_miniadv_0030_0000_msg"
-msgstr "그럼 먼저 데뷔 미션에\\n도전해 보자."
+msgstr "그럼 먼저 데뷔 미션에\n도전해 보자."
 
 msgid "tuto_miniadv_0030_0001_msg"
-msgstr "데뷔 미션은 【미션】에서\\n도전할 수 있어."
+msgstr "데뷔 미션은 【미션】에서\n도전할 수 있어."
 
 msgid "tuto_miniadv_0031_0000_msg"
-msgstr "라이브를 성공시키기 위해\\n더 강한 플레이트를 장착하자!\\n이번에는 편리한 자동 편성을 사용해 볼까."
+msgstr "라이브를 성공시키기 위해\n더 강한 플레이트를 장착하자!\n이번에는 편리한 자동 편성을 사용해 볼까."
 
 msgid "tuto_miniadv_0032_0000_msg"
-msgstr "이제 라이브 준비는 완벽해.\\n언제든 출격할 수 있겠네!"
+msgstr "이제 라이브 준비는 완벽해.\n언제든 출격할 수 있겠네!"
 
 msgid "tuto_miniadv_0033_0000_msg"
-msgstr "첫 번째 데뷔 미션을 클리어했어!\\n미션 버튼을 통해 달성 보상을 받아보자."
+msgstr "첫 번째 데뷔 미션을 클리어했어!\n미션 버튼을 통해 달성 보상을 받아보자."
 
 msgid "tuto_miniadv_0034_0000_msg"
-msgstr "수령 버튼을 눌러 보상을 받자!\\n미션 달성 배지가 표시되어 있으면 확인해 봐!"
+msgstr "수령 버튼을 눌러 보상을 받자!\n미션 달성 배지가 표시되어 있으면 확인해 봐!"
 
 msgid "tuto_miniadv_0035_0000_msg"
-msgstr "두 번째 데뷔 미션을 클리어했네!\\n자, 달성 보상을 받으러 가자!"
+msgstr "두 번째 데뷔 미션을 클리어했네!\n자, 달성 보상을 받으러 가자!"
 
 msgid "tuto_miniadv_0036_0000_msg"
 msgstr "다음에는 플레이트의 능력을 해방시켜 강하게 만들어 보자!"
@@ -196,61 +196,61 @@ msgid "tuto_miniadv_0037_0000_msg"
 msgstr "새로운 가희를 유닛으로 편성해 보자!"
 
 msgid "tuto_miniadv_0038_0000_msg"
-msgstr "가희를 편성해서 유닛이 강해졌어!\\n새로운 가희는 잊지 말고 편성해 줘."
+msgstr "가희를 편성해서 유닛이 강해졌어!\n새로운 가희는 잊지 말고 편성해 줘."
 
 msgid "tuto_miniadv_0039_0000_msg"
-msgstr "라이브를 시작하기 전에 먼저 어시스트를 해줄\\n플레이어를 선택해야 돼.\\n이번에는 가장 위에 있는 플레이어를 선택해 보자."
+msgstr "라이브를 시작하기 전에 먼저 어시스트를 해줄\n플레이어를 선택해야 돼.\n이번에는 가장 위에 있는 플레이어를 선택해 보자."
 
 msgid "tuto_miniadv_0040_0000_msg"
-msgstr "아라드 대장이 부르고 있었어.\\n같이 가자!"
+msgstr "아라드 대장이 부르고 있었어.\n같이 가자!"
 
 msgid "tuto_miniadv_0041_0000_msg"
-msgstr "벌써부터 의뢰가 들어오고 있네요.\\n오퍼레이션을 주문해 봅시다!"
+msgstr "벌써부터 의뢰가 들어오고 있네요.\n오퍼레이션을 주문해 봅시다!"
 
 msgid "tuto_miniadv_0042_0000_msg"
-msgstr "출격할 소대를 선택할 수 있어.\\n최대 3기로 소대를 구성할 수 있네.\\n이번에는 하야테 군에게 부탁하자."
+msgstr "출격할 소대를 선택할 수 있어.\n최대 3기로 소대를 구성할 수 있네.\n이번에는 하야테 군에게 부탁하자."
 
 msgid "tuto_miniadv_0043_0000_msg"
-msgstr "먼저 발키리를 변형해 보자!\\n작전과 추천 수치를 보고 오퍼레이션에 맞는 형태를\\n선택하면 출격 시간을 단축할 수 있어."
+msgstr "먼저 발키리를 변형해 보자!\n작전과 추천 수치를 보고 오퍼레이션에 맞는 형태를\n선택하면 출격 시간을 단축할 수 있어."
 
 msgid "tuto_miniadv_0044_0000_msg"
-msgstr "새로운 기능이 해금됐어.\\n가희 화면으로 이동해 보자."
+msgstr "새로운 기능이 해금됐어.\n가희 화면으로 이동해 보자."
 
 msgid "tuto_miniadv_0045_0000_msg"
-msgstr "획득한 의상을 마키나가 강화해 주기로 했어.\\n바로 시도해 보자!"
+msgstr "획득한 의상을 마키나가 강화해 주기로 했어.\n바로 시도해 보자!"
 
 msgid "tuto_miniadv_0046_0000_msg"
 msgstr "원하는 의상을 골라 부탁해봐."
 
 msgid "tuto_miniadv_0047_0000_msg"
-msgstr "특별한 에피소드 플레이트를 받을 수 있는\\n빙고 미션이 등장했어!\\n꼭 도전해 봐."
+msgstr "특별한 에피소드 플레이트를 받을 수 있는\n빙고 미션이 등장했어!\n꼭 도전해 봐."
 
 msgid "tuto_miniadv_0048_0000_msg"
-msgstr "새로운 기능이 해금됐어.\\n가희 화면으로 이동해 보자."
+msgstr "새로운 기능이 해금됐어.\n가희 화면으로 이동해 보자."
 
 msgid "tuto_miniadv_0049_0000_msg"
 msgstr "발키리를 강화할 수 있게 됐어."
 
 msgid "tuto_miniadv_0050_0000_msg"
-msgstr "새로운 기능이 해금됐어.\\n마크로스 로비로 이동해 보자."
+msgstr "새로운 기능이 해금됐어.\n마크로스 로비로 이동해 보자."
 
 msgid "tuto_miniadv_0051_0000_msg"
-msgstr "새로운 기능이 해금됐어.\\n데코 룸으로 이동해 보자."
+msgstr "새로운 기능이 해금됐어.\n데코 룸으로 이동해 보자."
 
 msgid "tuto_miniadv_0052_0000_msg"
-msgstr "총력 LIVE가 시작됐어!\\n마크로스 로비에서도 총력 LIVE로 이동할 수 있어."
+msgstr "총력 LIVE가 시작됐어!\n마크로스 로비에서도 총력 LIVE로 이동할 수 있어."
 
 msgid "tuto_miniadv_0053_0000_msg"
-msgstr "총력 LIVE에서는 폭주 에너미를 탐색하는 것부터 시작해.\\n폴드 레이더를 사용해 탐색해 보자."
+msgstr "총력 LIVE에서는 폭주 에너미를 탐색하는 것부터 시작해.\n폴드 레이더를 사용해 탐색해 보자."
 
 msgid "tuto_miniadv_0053_0001_msg"
-msgstr "이번에는 이쪽에서 폴드 레이더를 준비했으니까,\\n먼저 해보자!"
+msgstr "이번에는 이쪽에서 폴드 레이더를 준비했으니까,\n먼저 해보자!"
 
 msgid "tuto_miniadv_0054_0000_msg"
-msgstr "잘 찾아낸 것 같네.\\n참전해서 무력화시키자!"
+msgstr "잘 찾아낸 것 같네.\n참전해서 무력화시키자!"
 
 msgid "tuto_miniadv_0055_0000_msg"
-msgstr "자, 드디어 5인 유닛 라이브가 시작된다!\\n먼저 라이브에 등장하는 가희들을 확인해 보자."
+msgstr "자, 드디어 5인 유닛 라이브가 시작된다!\n먼저 라이브에 등장하는 가희들을 확인해 보자."
 
 msgid "tuto_miniadv_0055_0001_msg"
 msgstr "오른쪽 아래 화살표 버튼을 눌러 줄래?"
@@ -259,4 +259,4 @@ msgid "tuto_miniadv_0056_0000_msg"
 msgstr "이제 라이브에 등장할 가희를 선택할 수 있을 것 같아."
 
 msgid "tuto_miniadv_0056_0001_msg"
-msgstr "양쪽에 배치한 가희는 유닛의\\n스테이터스에 반영되지 않으니 주의해야 해.\\n5명의 가희가 모두 모였다면 라이브를 시작하자!"
+msgstr "양쪽에 배치한 가희는 유닛의\n스테이터스에 반영되지 않으니 주의해야 해.\n5명의 가희가 모두 모였다면 라이브를 시작하자!"

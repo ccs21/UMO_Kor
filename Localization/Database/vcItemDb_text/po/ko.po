@@ -67,37 +67,37 @@ msgid "vcitem_0010_title"
 msgstr "가정석 특가 A 세트 ①"
 
 msgid "vcitem_0010_desc"
-msgstr "가정석 500개로 구성된 실속형 팩입니다.\\n(덤 윈터 스피어 500개)"
+msgstr "가정석 500개로 구성된 실속형 팩입니다.\n(덤 윈터 스피어 500개)"
 
 msgid "vcitem_0011_title"
 msgstr "가정석 특가 B 세트 ①"
 
 msgid "vcitem_0011_desc"
-msgstr "가정석 1000개의 실속형 팩입니다.\\n(덤 윈터 스피어 1000개)"
+msgstr "가정석 1000개의 실속형 팩입니다.\n(덤 윈터 스피어 1000개)"
 
 msgid "vcitem_0012_title"
 msgstr "가정석　특가 A 세트"
 
 msgid "vcitem_0012_desc"
-msgstr "가정석 500개의 실속형 팩입니다.\\n(덤 스프링 스피어 500개)"
+msgstr "가정석 500개의 실속형 팩입니다.\n(덤 스프링 스피어 500개)"
 
 msgid "vcitem_0013_title"
 msgstr "가정석　특가 B 세트"
 
 msgid "vcitem_0013_desc"
-msgstr "노래결정석 1000개가 포함된 알뜰 패키지입니다.\\n(보너스 스프링 스피어 1000개)"
+msgstr "노래결정석 1000개가 포함된 알뜰 패키지입니다.\n(보너스 스프링 스피어 1000개)"
 
 msgid "vcitem_0014_title"
 msgstr "가정석　특가 A 세트"
 
 msgid "vcitem_0014_desc"
-msgstr "노래결정석 500개가 포함된 알뜰 패키지입니다.\\n(보너스 서머 스피어 500개)"
+msgstr "노래결정석 500개가 포함된 알뜰 패키지입니다.\n(보너스 서머 스피어 500개)"
 
 msgid "vcitem_0015_title"
 msgstr "가정석　특가 B 세트"
 
 msgid "vcitem_0015_desc"
-msgstr "노래결정석 1000개가 포함된 알뜰 패키지입니다.\\n(보너스 서머 스피어 1000개)"
+msgstr "노래결정석 1000개가 포함된 알뜰 패키지입니다.\n(보너스 서머 스피어 1000개)"
 
 msgid "vcitem_0016_title"
 msgstr "노래결정석 이치넨메 알뜰 세트 A"
@@ -145,13 +145,13 @@ msgid "vcitem_0023_title"
 msgstr "가정석　특가 A 세트"
 
 msgid "vcitem_0023_desc"
-msgstr "노래결정석 500개가 포함된 알뜰 패키지입니다.\\n(보너스 오텀 스피어 500개)"
+msgstr "노래결정석 500개가 포함된 알뜰 패키지입니다.\n(보너스 오텀 스피어 500개)"
 
 msgid "vcitem_0024_title"
 msgstr "가정석　특가 B 세트"
 
 msgid "vcitem_0024_desc"
-msgstr "노래결정석 1000개가 포함된 알뜰 패키지입니다.\\n(보너스 오텀 스피어 1000개)"
+msgstr "노래결정석 1000개가 포함된 알뜰 패키지입니다.\n(보너스 오텀 스피어 1000개)"
 
 msgid "vcitem_0025_title"
 msgstr "노래결정석 스페셜 세트 (겨울)"
@@ -295,13 +295,13 @@ msgid "vcitem_0048_title"
 msgstr "노래결정석 알뜰 C 세트 ①"
 
 msgid "vcitem_0048_desc"
-msgstr "가정석 2900개의 실속형 팩입니다.\\n(덤 윈터 스피어 2900개)"
+msgstr "가정석 2900개의 실속형 팩입니다.\n(덤 윈터 스피어 2900개)"
 
 msgid "vcitem_0049_title"
 msgstr "가정석 특가 C 세트"
 
 msgid "vcitem_0049_desc"
-msgstr "노래결정석 2900개가 포함된 알뜰 패키지입니다.\\n(보너스 스프링 스피어 2900개)"
+msgstr "노래결정석 2900개가 포함된 알뜰 패키지입니다.\n(보너스 스프링 스피어 2900개)"
 
 msgid "vcitem_0050_title"
 msgstr "노래결정석 냥냥 뽑기 포함 알뜰 세트 A"
@@ -331,7 +331,7 @@ msgid "vcitem_0054_title"
 msgstr "가정석 특가 C 세트"
 
 msgid "vcitem_0054_desc"
-msgstr "노래결정석 2900개가 포함된 알뜰 패키지입니다.\\n(보너스 서머 스피어 2900개)"
+msgstr "노래결정석 2900개가 포함된 알뜰 패키지입니다.\n(보너스 서머 스피어 2900개)"
 
 msgid "vcitem_0055_title"
 msgstr "제1회 가정석 냥쿠지 포함 세트 A"
@@ -445,7 +445,7 @@ msgid "vcitem_0073_title"
 msgstr "가정석 특가 C 세트"
 
 msgid "vcitem_0073_desc"
-msgstr "노래결정석 2900개가 포함된 알뜰 패키지입니다.\\n(보너스 오텀 스피어 2900개)"
+msgstr "노래결정석 2900개가 포함된 알뜰 패키지입니다.\n(보너스 오텀 스피어 2900개)"
 
 msgid "vcitem_0074_title"
 msgstr "노래결정석 신년 SP 세트"
@@ -463,73 +463,73 @@ msgid "vcitem_0076_title"
 msgstr "노래결정석 알뜰 A 세트 ②"
 
 msgid "vcitem_0076_desc"
-msgstr "노래결정석 500개가 포함된 알뜰 패키지입니다.\\n(보너스 윈터 스피어 500개)"
+msgstr "노래결정석 500개가 포함된 알뜰 패키지입니다.\n(보너스 윈터 스피어 500개)"
 
 msgid "vcitem_0077_title"
 msgstr "노래결정석 알뜰 B 세트 ②"
 
 msgid "vcitem_0077_desc"
-msgstr "노래결정석 1000개가 포함된 알뜰 패키지입니다.\\n(보너스 윈터 스피어 1000개)"
+msgstr "노래결정석 1000개가 포함된 알뜰 패키지입니다.\n(보너스 윈터 스피어 1000개)"
 
 msgid "vcitem_0078_title"
 msgstr "노래결정석 알뜰 C 세트 ②"
 
 msgid "vcitem_0078_desc"
-msgstr "가정석 2900개의 실속형 팩입니다.\\n(덤 윈터 스피어 2900개)"
+msgstr "가정석 2900개의 실속형 팩입니다.\n(덤 윈터 스피어 2900개)"
 
 msgid "vcitem_0079_title"
 msgstr "가정석　특가 A 세트"
 
 msgid "vcitem_0079_desc"
-msgstr "노래결정석 500개가 포함된 알뜰 패키지입니다.\\n(보너스 윈터 스피어 500개)"
+msgstr "노래결정석 500개가 포함된 알뜰 패키지입니다.\n(보너스 윈터 스피어 500개)"
 
 msgid "vcitem_0080_title"
 msgstr "가정석　특가 B 세트"
 
 msgid "vcitem_0080_desc"
-msgstr "노래결정석 1000개가 포함된 알뜰 패키지입니다.\\n(보너스 윈터 스피어 1000개)"
+msgstr "노래결정석 1000개가 포함된 알뜰 패키지입니다.\n(보너스 윈터 스피어 1000개)"
 
 msgid "vcitem_0081_title"
 msgstr "가정석 특가 C 세트"
 
 msgid "vcitem_0081_desc"
-msgstr "가정석 2900개의 실속형 팩입니다.\\n(덤 윈터 스피어 2900개)"
+msgstr "가정석 2900개의 실속형 팩입니다.\n(덤 윈터 스피어 2900개)"
 
 msgid "vcitem_0082_title"
 msgstr "노래결정석 알뜰 A 세트 ①"
 
 msgid "vcitem_0082_desc"
-msgstr "가정석 500개의 실속형 팩입니다.\\n(덤 스프링 스피어 500개)"
+msgstr "가정석 500개의 실속형 팩입니다.\n(덤 스프링 스피어 500개)"
 
 msgid "vcitem_0083_title"
 msgstr "노래결정석 알뜰 B 세트 ①"
 
 msgid "vcitem_0083_desc"
-msgstr "노래결정석 1000개가 포함된 알뜰 패키지입니다.\\n(보너스 스프링 스피어 1000개)"
+msgstr "노래결정석 1000개가 포함된 알뜰 패키지입니다.\n(보너스 스프링 스피어 1000개)"
 
 msgid "vcitem_0084_title"
 msgstr "노래결정석 알뜰 C 세트 ①"
 
 msgid "vcitem_0084_desc"
-msgstr "노래결정석 2900개가 포함된 알뜰 패키지입니다.\\n(보너스 스프링 스피어 2900개)"
+msgstr "노래결정석 2900개가 포함된 알뜰 패키지입니다.\n(보너스 스프링 스피어 2900개)"
 
 msgid "vcitem_0085_title"
 msgstr "노래결정석 알뜰 A 세트 ②"
 
 msgid "vcitem_0085_desc"
-msgstr "가정석 500개의 실속형 팩입니다.\\n(덤 스프링 스피어 500개)"
+msgstr "가정석 500개의 실속형 팩입니다.\n(덤 스프링 스피어 500개)"
 
 msgid "vcitem_0086_title"
 msgstr "노래결정석 알뜰 B 세트 ②"
 
 msgid "vcitem_0086_desc"
-msgstr "노래결정석 1000개가 포함된 알뜰 패키지입니다.\\n(보너스 스프링 스피어 1000개)"
+msgstr "노래결정석 1000개가 포함된 알뜰 패키지입니다.\n(보너스 스프링 스피어 1000개)"
 
 msgid "vcitem_0087_title"
 msgstr "노래결정석 알뜰 C 세트 ②"
 
 msgid "vcitem_0087_desc"
-msgstr "노래결정석 2900개가 포함된 알뜰 패키지입니다.\\n(보너스 스프링 스피어 2900개)"
+msgstr "노래결정석 2900개가 포함된 알뜰 패키지입니다.\n(보너스 스프링 스피어 2900개)"
 
 msgid "vcitem_0088_title"
 msgstr "노래결정석 의상 해제 플레이트 교환권 포함 세트"
@@ -541,37 +541,37 @@ msgid "vcitem_0089_title"
 msgstr "노래결정석 알뜰 A 세트 ①"
 
 msgid "vcitem_0089_desc"
-msgstr "노래결정석 500개가 포함된 알뜰 패키지입니다.\\n(보너스 서머 스피어 500개)"
+msgstr "노래결정석 500개가 포함된 알뜰 패키지입니다.\n(보너스 서머 스피어 500개)"
 
 msgid "vcitem_0090_title"
 msgstr "노래결정석 알뜰 B 세트 ①"
 
 msgid "vcitem_0090_desc"
-msgstr "노래결정석 1000개가 포함된 알뜰 패키지입니다.\\n(보너스 서머 스피어 1000개)"
+msgstr "노래결정석 1000개가 포함된 알뜰 패키지입니다.\n(보너스 서머 스피어 1000개)"
 
 msgid "vcitem_0091_title"
 msgstr "노래결정석 알뜰 C 세트 ①"
 
 msgid "vcitem_0091_desc"
-msgstr "노래결정석 2900개가 포함된 알뜰 패키지입니다.\\n(보너스 서머 스피어 2900개)"
+msgstr "노래결정석 2900개가 포함된 알뜰 패키지입니다.\n(보너스 서머 스피어 2900개)"
 
 msgid "vcitem_0092_title"
 msgstr "노래결정석 알뜰 A 세트 ②"
 
 msgid "vcitem_0092_desc"
-msgstr "노래결정석 500개가 포함된 알뜰 패키지입니다.\\n(보너스 서머 스피어 500개)"
+msgstr "노래결정석 500개가 포함된 알뜰 패키지입니다.\n(보너스 서머 스피어 500개)"
 
 msgid "vcitem_0093_title"
 msgstr "노래결정석 알뜰 B 세트 ②"
 
 msgid "vcitem_0093_desc"
-msgstr "노래결정석 1000개가 포함된 알뜰 패키지입니다.\\n(보너스 서머 스피어 1000개)"
+msgstr "노래결정석 1000개가 포함된 알뜰 패키지입니다.\n(보너스 서머 스피어 1000개)"
 
 msgid "vcitem_0094_title"
 msgstr "노래결정석 알뜰 C 세트 ②"
 
 msgid "vcitem_0094_desc"
-msgstr "노래결정석 2900개가 포함된 알뜰 패키지입니다.\\n(보너스 서머 스피어 2900개)"
+msgstr "노래결정석 2900개가 포함된 알뜰 패키지입니다.\n(보너스 서머 스피어 2900개)"
 
 msgid "vcitem_0095_title"
 msgstr "노래결정석 카오스 특별 지원 패스 포함 세트"
@@ -625,127 +625,127 @@ msgid "vcitem_0103_title"
 msgstr "노래결정석 A 세트"
 
 msgid "vcitem_0103_desc"
-msgstr "노래결정석 10개 패키지입니다.\\n(보너스 서머 스피어 10개)"
+msgstr "노래결정석 10개 패키지입니다.\n(보너스 서머 스피어 10개)"
 
 msgid "vcitem_0104_title"
 msgstr "노래결정석 B 세트"
 
 msgid "vcitem_0104_desc"
-msgstr "노래결정석 50개 패키지입니다.\\n(보너스 서머 스피어 50개)"
+msgstr "노래결정석 50개 패키지입니다.\n(보너스 서머 스피어 50개)"
 
 msgid "vcitem_0105_title"
 msgstr "노래결정석 C 세트"
 
 msgid "vcitem_0105_desc"
-msgstr "노래결정석 100개 패키지입니다.\\n(보너스 서머 스피어 100개)"
+msgstr "노래결정석 100개 패키지입니다.\n(보너스 서머 스피어 100개)"
 
 msgid "vcitem_0106_title"
 msgstr "노래결정석 D 세트"
 
 msgid "vcitem_0106_desc"
-msgstr "노래결정석 300개 패키지입니다.\\n(보너스 서머 스피어 300개)"
+msgstr "노래결정석 300개 패키지입니다.\n(보너스 서머 스피어 300개)"
 
 msgid "vcitem_0107_title"
 msgstr "노래결정석 E 세트"
 
 msgid "vcitem_0107_desc"
-msgstr "노래결정석 500개 패키지입니다.\\n(보너스 서머 스피어 500개)"
+msgstr "노래결정석 500개 패키지입니다.\n(보너스 서머 스피어 500개)"
 
 msgid "vcitem_0108_title"
 msgstr "노래결정석 F 세트"
 
 msgid "vcitem_0108_desc"
-msgstr "노래결정석 1000개 패키지입니다.\\n(보너스 서머 스피어 1000개)"
+msgstr "노래결정석 1000개 패키지입니다.\n(보너스 서머 스피어 1000개)"
 
 msgid "vcitem_0109_title"
 msgstr "노래결정석 G 세트"
 
 msgid "vcitem_0109_desc"
-msgstr "노래결정석 1700개 패키지입니다.\\n(보너스 서머 스피어 1700개)"
+msgstr "노래결정석 1700개 패키지입니다.\n(보너스 서머 스피어 1700개)"
 
 msgid "vcitem_0110_title"
 msgstr "노래결정석 A 세트"
 
 msgid "vcitem_0110_desc"
-msgstr "노래결정석 10개 패키지입니다.\\n(보너스 오텀 스피어 10개)"
+msgstr "노래결정석 10개 패키지입니다.\n(보너스 오텀 스피어 10개)"
 
 msgid "vcitem_0111_title"
 msgstr "노래결정석 B 세트"
 
 msgid "vcitem_0111_desc"
-msgstr "노래결정석 50개 패키지입니다.\\n(보너스 오텀 스피어 50개)"
+msgstr "노래결정석 50개 패키지입니다.\n(보너스 오텀 스피어 50개)"
 
 msgid "vcitem_0112_title"
 msgstr "노래결정석 C 세트"
 
 msgid "vcitem_0112_desc"
-msgstr "노래결정석 100개 패키지입니다.\\n(보너스 오텀 스피어 100개)"
+msgstr "노래결정석 100개 패키지입니다.\n(보너스 오텀 스피어 100개)"
 
 msgid "vcitem_0113_title"
 msgstr "노래결정석 D 세트"
 
 msgid "vcitem_0113_desc"
-msgstr "노래결정석 300개 패키지입니다.\\n(보너스 오텀 스피어 300개)"
+msgstr "노래결정석 300개 패키지입니다.\n(보너스 오텀 스피어 300개)"
 
 msgid "vcitem_0114_title"
 msgstr "노래결정석 E 세트"
 
 msgid "vcitem_0114_desc"
-msgstr "노래결정석 500개 패키지입니다.\\n(보너스 오텀 스피어 500개)"
+msgstr "노래결정석 500개 패키지입니다.\n(보너스 오텀 스피어 500개)"
 
 msgid "vcitem_0115_title"
 msgstr "노래결정석 F 세트"
 
 msgid "vcitem_0115_desc"
-msgstr "노래결정석 1000개 패키지입니다.\\n(보너스 오텀 스피어 1000개)"
+msgstr "노래결정석 1000개 패키지입니다.\n(보너스 오텀 스피어 1000개)"
 
 msgid "vcitem_0116_title"
 msgstr "노래결정석 G 세트"
 
 msgid "vcitem_0116_desc"
-msgstr "노래결정석 1700개 패키지입니다.\\n(보너스 오텀 스피어 1700개)"
+msgstr "노래결정석 1700개 패키지입니다.\n(보너스 오텀 스피어 1700개)"
 
 msgid "vcitem_0117_title"
 msgstr "노래결정석 A 세트"
 
 msgid "vcitem_0117_desc"
-msgstr "노래결정석 10개 패키지입니다.\\n(보너스 윈터 스피어 10개)"
+msgstr "노래결정석 10개 패키지입니다.\n(보너스 윈터 스피어 10개)"
 
 msgid "vcitem_0118_title"
 msgstr "노래결정석 B 세트"
 
 msgid "vcitem_0118_desc"
-msgstr "노래결정석 50개 패키지입니다.\\n(보너스 윈터 스피어 50개)"
+msgstr "노래결정석 50개 패키지입니다.\n(보너스 윈터 스피어 50개)"
 
 msgid "vcitem_0119_title"
 msgstr "노래결정석 C 세트"
 
 msgid "vcitem_0119_desc"
-msgstr "노래결정석 100개 패키지입니다.\\n(보너스 윈터 스피어 100개)"
+msgstr "노래결정석 100개 패키지입니다.\n(보너스 윈터 스피어 100개)"
 
 msgid "vcitem_0120_title"
 msgstr "노래결정석 D 세트"
 
 msgid "vcitem_0120_desc"
-msgstr "노래결정석 300개 패키지입니다.\\n(보너스 윈터 스피어 300개)"
+msgstr "노래결정석 300개 패키지입니다.\n(보너스 윈터 스피어 300개)"
 
 msgid "vcitem_0121_title"
 msgstr "노래결정석 E 세트"
 
 msgid "vcitem_0121_desc"
-msgstr "노래결정석 500개 패키지입니다.\\n(보너스 윈터 스피어 500개)"
+msgstr "노래결정석 500개 패키지입니다.\n(보너스 윈터 스피어 500개)"
 
 msgid "vcitem_0122_title"
 msgstr "노래결정석 F 세트"
 
 msgid "vcitem_0122_desc"
-msgstr "노래결정석 1000개 패키지입니다.\\n(보너스 윈터 스피어 1000개)"
+msgstr "노래결정석 1000개 패키지입니다.\n(보너스 윈터 스피어 1000개)"
 
 msgid "vcitem_0123_title"
 msgstr "노래결정석 G 세트"
 
 msgid "vcitem_0123_desc"
-msgstr "노래결정석 1700개 패키지입니다.\\n(보너스 윈터 스피어 1700개)"
+msgstr "노래결정석 1700개 패키지입니다.\n(보너스 윈터 스피어 1700개)"
 
 msgid "vcitem_0124_title"
 msgstr "노래결정석 A 세트"
@@ -793,85 +793,85 @@ msgid "vcitem_0131_title"
 msgstr "노래결정석 A 세트"
 
 msgid "vcitem_0131_desc"
-msgstr "노래결정석 10개 패키지입니다.\\n(보너스 스프링 스피어 10개)"
+msgstr "노래결정석 10개 패키지입니다.\n(보너스 스프링 스피어 10개)"
 
 msgid "vcitem_0132_title"
 msgstr "노래결정석 B 세트"
 
 msgid "vcitem_0132_desc"
-msgstr "노래결정석 50개 패키지입니다.\\n(보너스 스프링 스피어 50개)"
+msgstr "노래결정석 50개 패키지입니다.\n(보너스 스프링 스피어 50개)"
 
 msgid "vcitem_0133_title"
 msgstr "노래결정석 C 세트"
 
 msgid "vcitem_0133_desc"
-msgstr "노래결정석 100개 패키지입니다.\\n(보너스 스프링 스피어 100개)"
+msgstr "노래결정석 100개 패키지입니다.\n(보너스 스프링 스피어 100개)"
 
 msgid "vcitem_0134_title"
 msgstr "노래결정석 D 세트"
 
 msgid "vcitem_0134_desc"
-msgstr "노래결정석 300개 패키지입니다.\\n(보너스 스프링 스피어 300개)"
+msgstr "노래결정석 300개 패키지입니다.\n(보너스 스프링 스피어 300개)"
 
 msgid "vcitem_0135_title"
 msgstr "노래결정석 E 세트"
 
 msgid "vcitem_0135_desc"
-msgstr "노래결정석 500개 패키지입니다.\\n(보너스 스프링 스피어 500개)"
+msgstr "노래결정석 500개 패키지입니다.\n(보너스 스프링 스피어 500개)"
 
 msgid "vcitem_0136_title"
 msgstr "노래결정석 F 세트"
 
 msgid "vcitem_0136_desc"
-msgstr "노래결정석 1000개 패키지입니다.\\n(보너스 스프링 스피어 1000개)"
+msgstr "노래결정석 1000개 패키지입니다.\n(보너스 스프링 스피어 1000개)"
 
 msgid "vcitem_0137_title"
 msgstr "노래결정석 G 세트"
 
 msgid "vcitem_0137_desc"
-msgstr "노래결정석 1700개 패키지입니다.\\n(보너스 스프링 스피어 1700개)"
+msgstr "노래결정석 1700개 패키지입니다.\n(보너스 스프링 스피어 1700개)"
 
 msgid "vcitem_0138_title"
 msgstr "노래결정석 A 세트"
 
 msgid "vcitem_0138_desc"
-msgstr "노래결정석 10개 패키지입니다.\\n(보너스 스프링 스피어 10+5개)"
+msgstr "노래결정석 10개 패키지입니다.\n(보너스 스프링 스피어 10+5개)"
 
 msgid "vcitem_0139_title"
 msgstr "노래결정석 B 세트"
 
 msgid "vcitem_0139_desc"
-msgstr "노래결정석 50개 패키지입니다.\\n(보너스 스프링 스피어 50+25개)"
+msgstr "노래결정석 50개 패키지입니다.\n(보너스 스프링 스피어 50+25개)"
 
 msgid "vcitem_0140_title"
 msgstr "노래결정석 C 세트"
 
 msgid "vcitem_0140_desc"
-msgstr "노래결정석 100개 패키지입니다.\\n(보너스 스프링 스피어 100+50개)"
+msgstr "노래결정석 100개 패키지입니다.\n(보너스 스프링 스피어 100+50개)"
 
 msgid "vcitem_0141_title"
 msgstr "노래결정석 D 세트"
 
 msgid "vcitem_0141_desc"
-msgstr "노래결정석 300개 패키지입니다.\\n(보너스 스프링 스피어 300+150개)"
+msgstr "노래결정석 300개 패키지입니다.\n(보너스 스프링 스피어 300+150개)"
 
 msgid "vcitem_0142_title"
 msgstr "노래결정석 E 세트"
 
 msgid "vcitem_0142_desc"
-msgstr "노래결정석 500개 패키지입니다.\\n(보너스 스프링 스피어 500+250개)"
+msgstr "노래결정석 500개 패키지입니다.\n(보너스 스프링 스피어 500+250개)"
 
 msgid "vcitem_0143_title"
 msgstr "노래결정석 F 세트"
 
 msgid "vcitem_0143_desc"
-msgstr "노래결정석 1000개 패키지입니다.\\n(보너스 스프링 스피어 1000+500개)"
+msgstr "노래결정석 1000개 패키지입니다.\n(보너스 스프링 스피어 1000+500개)"
 
 msgid "vcitem_0144_title"
 msgstr "노래결정석 G 세트"
 
 msgid "vcitem_0144_desc"
-msgstr "노래결정석 1700개 패키지입니다.\\n(보너스 스프링 스피어 1700+850개)"
+msgstr "노래결정석 1700개 패키지입니다.\n(보너스 스프링 스피어 1700+850개)"
 
 msgid "vcitem_0145_title"
 msgstr "노래결정석 A 세트"
@@ -919,91 +919,91 @@ msgid "vcitem_0152_title"
 msgstr "노래결정석 A 세트"
 
 msgid "vcitem_0152_desc"
-msgstr "노래결정석 10개 패키지입니다.\\n(보너스 오텀 스피어 10+5개)"
+msgstr "노래결정석 10개 패키지입니다.\n(보너스 오텀 스피어 10+5개)"
 
 msgid "vcitem_0153_title"
 msgstr "노래결정석 B 세트"
 
 msgid "vcitem_0153_desc"
-msgstr "노래결정석 50개 패키지입니다.\\n(보너스 오텀 스피어 50+25개)"
+msgstr "노래결정석 50개 패키지입니다.\n(보너스 오텀 스피어 50+25개)"
 
 msgid "vcitem_0154_title"
 msgstr "노래결정석 C 세트"
 
 msgid "vcitem_0154_desc"
-msgstr "노래결정석 100개 패키지입니다.\\n(보너스 오텀 스피어 100+50개)"
+msgstr "노래결정석 100개 패키지입니다.\n(보너스 오텀 스피어 100+50개)"
 
 msgid "vcitem_0155_title"
 msgstr "노래결정석 D 세트"
 
 msgid "vcitem_0155_desc"
-msgstr "노래결정석 300개 패키지입니다.\\n(보너스 오텀 스피어 300+150개)"
+msgstr "노래결정석 300개 패키지입니다.\n(보너스 오텀 스피어 300+150개)"
 
 msgid "vcitem_0156_title"
 msgstr "노래결정석 E 세트"
 
 msgid "vcitem_0156_desc"
-msgstr "노래결정석 500개 패키지입니다.\\n(보너스 오텀 스피어 500+250개)"
+msgstr "노래결정석 500개 패키지입니다.\n(보너스 오텀 스피어 500+250개)"
 
 msgid "vcitem_0157_title"
 msgstr "노래결정석 F 세트"
 
 msgid "vcitem_0157_desc"
-msgstr "노래결정석 1000개 패키지입니다.\\n(보너스 오텀 스피어 1000+500개)"
+msgstr "노래결정석 1000개 패키지입니다.\n(보너스 오텀 스피어 1000+500개)"
 
 msgid "vcitem_0158_title"
 msgstr "노래결정석 G 세트"
 
 msgid "vcitem_0158_desc"
-msgstr "노래결정석 1700개 패키지입니다.\\n(보너스 오텀 스피어 1700+850개)"
+msgstr "노래결정석 1700개 패키지입니다.\n(보너스 오텀 스피어 1700+850개)"
 
 msgid "vcitem_0159_title"
 msgstr "노래결정석 A 세트"
 
 msgid "vcitem_0159_desc"
-msgstr "노래결정석 10개 패키지입니다.\\n(보너스 오텀 스피어 10개)"
+msgstr "노래결정석 10개 패키지입니다.\n(보너스 오텀 스피어 10개)"
 
 msgid "vcitem_0160_title"
 msgstr "노래결정석 B 세트"
 
 msgid "vcitem_0160_desc"
-msgstr "노래결정석 50개 패키지입니다.\\n(보너스 오텀 스피어 50개)"
+msgstr "노래결정석 50개 패키지입니다.\n(보너스 오텀 스피어 50개)"
 
 msgid "vcitem_0161_title"
 msgstr "노래결정석 C 세트"
 
 msgid "vcitem_0161_desc"
-msgstr "노래결정석 100개 패키지입니다.\\n(보너스 오텀 스피어 100개)"
+msgstr "노래결정석 100개 패키지입니다.\n(보너스 오텀 스피어 100개)"
 
 msgid "vcitem_0162_title"
 msgstr "노래결정석 D 세트"
 
 msgid "vcitem_0162_desc"
-msgstr "노래결정석 300개 패키지입니다.\\n(보너스 오텀 스피어 300개)"
+msgstr "노래결정석 300개 패키지입니다.\n(보너스 오텀 스피어 300개)"
 
 msgid "vcitem_0163_title"
 msgstr "노래결정석 E 세트"
 
 msgid "vcitem_0163_desc"
-msgstr "노래결정석 500개 패키지입니다.\\n(보너스 오텀 스피어 500개)"
+msgstr "노래결정석 500개 패키지입니다.\n(보너스 오텀 스피어 500개)"
 
 msgid "vcitem_0164_title"
 msgstr "노래결정석 F 세트"
 
 msgid "vcitem_0164_desc"
-msgstr "노래결정석 1000개 패키지입니다.\\n(보너스 오텀 스피어 1000개)"
+msgstr "노래결정석 1000개 패키지입니다.\n(보너스 오텀 스피어 1000개)"
 
 msgid "vcitem_0165_title"
 msgstr "노래결정석 G 세트"
 
 msgid "vcitem_0165_desc"
-msgstr "노래결정석 1750개 패키지입니다.\\n(보너스 오텀 스피어 1750개)"
+msgstr "노래결정석 1750개 패키지입니다.\n(보너스 오텀 스피어 1750개)"
 
 msgid "vcitem_0166_title"
 msgstr "노래결정석 H 세트"
 
 msgid "vcitem_0166_desc"
-msgstr "노래결정석 2300개 패키지입니다.\\n(보너스 오텀 스피어 2300개)"
+msgstr "노래결정석 2300개 패키지입니다.\n(보너스 오텀 스피어 2300개)"
 
 msgid "vcitem_0167_title"
 msgstr "노래결정석 A 세트"
@@ -1057,49 +1057,49 @@ msgid "vcitem_0175_title"
 msgstr "노래결정석 A 세트"
 
 msgid "vcitem_0175_desc"
-msgstr "노래결정석 10개 패키지입니다.\\n(보너스 윈터 스피어 10개)"
+msgstr "노래결정석 10개 패키지입니다.\n(보너스 윈터 스피어 10개)"
 
 msgid "vcitem_0176_title"
 msgstr "노래결정석 B 세트"
 
 msgid "vcitem_0176_desc"
-msgstr "노래결정석 50개 패키지입니다.\\n(보너스 윈터 스피어 50개)"
+msgstr "노래결정석 50개 패키지입니다.\n(보너스 윈터 스피어 50개)"
 
 msgid "vcitem_0177_title"
 msgstr "노래결정석 C 세트"
 
 msgid "vcitem_0177_desc"
-msgstr "노래결정석 100개 패키지입니다.\\n(보너스 윈터 스피어 100개)"
+msgstr "노래결정석 100개 패키지입니다.\n(보너스 윈터 스피어 100개)"
 
 msgid "vcitem_0178_title"
 msgstr "노래결정석 D 세트"
 
 msgid "vcitem_0178_desc"
-msgstr "노래결정석 300개 패키지입니다.\\n(보너스 윈터 스피어 300개)"
+msgstr "노래결정석 300개 패키지입니다.\n(보너스 윈터 스피어 300개)"
 
 msgid "vcitem_0179_title"
 msgstr "노래결정석 E 세트"
 
 msgid "vcitem_0179_desc"
-msgstr "노래결정석 500개 패키지입니다.\\n(보너스 윈터 스피어 500개)"
+msgstr "노래결정석 500개 패키지입니다.\n(보너스 윈터 스피어 500개)"
 
 msgid "vcitem_0180_title"
 msgstr "노래결정석 F 세트"
 
 msgid "vcitem_0180_desc"
-msgstr "노래결정석 1000개 패키지입니다.\\n(보너스 윈터 스피어 1000개)"
+msgstr "노래결정석 1000개 패키지입니다.\n(보너스 윈터 스피어 1000개)"
 
 msgid "vcitem_0181_title"
 msgstr "노래결정석 G 세트"
 
 msgid "vcitem_0181_desc"
-msgstr "노래결정석 1750개 패키지입니다.\\n(보너스 윈터 스피어 1750개)"
+msgstr "노래결정석 1750개 패키지입니다.\n(보너스 윈터 스피어 1750개)"
 
 msgid "vcitem_0182_title"
 msgstr "노래결정석 H 세트"
 
 msgid "vcitem_0182_desc"
-msgstr "노래결정석 2300개 패키지입니다.\\n(보너스 윈터 스피어 2300개)"
+msgstr "노래결정석 2300개 패키지입니다.\n(보너스 윈터 스피어 2300개)"
 
 msgid "vcitem_0183_title"
 msgstr "노래결정석 A 세트"
@@ -1153,97 +1153,97 @@ msgid "vcitem_0191_title"
 msgstr "노래결정석 스피어 증량 세트 A"
 
 msgid "vcitem_0191_desc"
-msgstr "노래결정석 500개 패키지입니다.\\n(보너스 윈터 스피어 500개+1000개)"
+msgstr "노래결정석 500개 패키지입니다.\n(보너스 윈터 스피어 500개+1000개)"
 
 msgid "vcitem_0192_title"
 msgstr "노래결정석 스피어 증량 세트 B"
 
 msgid "vcitem_0192_desc"
-msgstr "노래결정석 1000개 패키지입니다.\\n(보너스 윈터 스피어 1000개+2000개)"
+msgstr "노래결정석 1000개 패키지입니다.\n(보너스 윈터 스피어 1000개+2000개)"
 
 msgid "vcitem_0193_title"
 msgstr "노래결정석 스피어 증량 세트 C"
 
 msgid "vcitem_0193_desc"
-msgstr "노래결정석 1750개 패키지입니다.\\n(보너스 윈터 스피어 1750개+3500개)"
+msgstr "노래결정석 1750개 패키지입니다.\n(보너스 윈터 스피어 1750개+3500개)"
 
 msgid "vcitem_0194_title"
 msgstr "노래결정석 스피어 증량 세트 D"
 
 msgid "vcitem_0194_desc"
-msgstr "노래결정석 2300개 패키지입니다.\\n(보너스 윈터 스피어 2300개+4600개)"
+msgstr "노래결정석 2300개 패키지입니다.\n(보너스 윈터 스피어 2300개+4600개)"
 
 msgid "vcitem_0195_title"
 msgstr "노래결정석 A 세트"
 
 msgid "vcitem_0195_desc"
-msgstr "노래결정석 10개 패키지입니다.\\n(보너스 스프링 스피어 10개)"
+msgstr "노래결정석 10개 패키지입니다.\n(보너스 스프링 스피어 10개)"
 
 msgid "vcitem_0196_title"
 msgstr "노래결정석 B 세트"
 
 msgid "vcitem_0196_desc"
-msgstr "노래결정석 50개 패키지입니다.\\n(보너스 스프링 스피어 50개)"
+msgstr "노래결정석 50개 패키지입니다.\n(보너스 스프링 스피어 50개)"
 
 msgid "vcitem_0197_title"
 msgstr "노래결정석 C 세트"
 
 msgid "vcitem_0197_desc"
-msgstr "노래결정석 100개 패키지입니다.\\n(보너스 스프링 스피어 100개)"
+msgstr "노래결정석 100개 패키지입니다.\n(보너스 스프링 스피어 100개)"
 
 msgid "vcitem_0198_title"
 msgstr "노래결정석 D 세트"
 
 msgid "vcitem_0198_desc"
-msgstr "노래결정석 300개 패키지입니다.\\n(보너스 스프링 스피어 300개)"
+msgstr "노래결정석 300개 패키지입니다.\n(보너스 스프링 스피어 300개)"
 
 msgid "vcitem_0199_title"
 msgstr "노래결정석 E 세트"
 
 msgid "vcitem_0199_desc"
-msgstr "노래결정석 500개 패키지입니다.\\n(보너스 스프링 스피어 500개)"
+msgstr "노래결정석 500개 패키지입니다.\n(보너스 스프링 스피어 500개)"
 
 msgid "vcitem_0200_title"
 msgstr "노래결정석 F 세트"
 
 msgid "vcitem_0200_desc"
-msgstr "노래결정석 1000개 패키지입니다.\\n(보너스 스프링 스피어 1000개)"
+msgstr "노래결정석 1000개 패키지입니다.\n(보너스 스프링 스피어 1000개)"
 
 msgid "vcitem_0201_title"
 msgstr "노래결정석 G 세트"
 
 msgid "vcitem_0201_desc"
-msgstr "노래결정석 1750개 패키지입니다.\\n(보너스 스프링 스피어 1750개)"
+msgstr "노래결정석 1750개 패키지입니다.\n(보너스 스프링 스피어 1750개)"
 
 msgid "vcitem_0202_title"
 msgstr "노래결정석 H 세트"
 
 msgid "vcitem_0202_desc"
-msgstr "노래결정석 2200개 패키지입니다.\\n(보너스 스프링 스피어 2200개)"
+msgstr "노래결정석 2200개 패키지입니다.\n(보너스 스프링 스피어 2200개)"
 
 msgid "vcitem_0203_title"
 msgstr "노래결정석 스피어 증량 세트 A"
 
 msgid "vcitem_0203_desc"
-msgstr "노래결정석 500개 패키지입니다.\\n(보너스 스프링 스피어 500개+1000개)"
+msgstr "노래결정석 500개 패키지입니다.\n(보너스 스프링 스피어 500개+1000개)"
 
 msgid "vcitem_0204_title"
 msgstr "노래결정석 스피어 증량 세트 B"
 
 msgid "vcitem_0204_desc"
-msgstr "노래결정석 1000개 패키지입니다.\\n(보너스 스프링 스피어 1000개+2000개)"
+msgstr "노래결정석 1000개 패키지입니다.\n(보너스 스프링 스피어 1000개+2000개)"
 
 msgid "vcitem_0205_title"
 msgstr "노래결정석 스피어 증량 세트 C"
 
 msgid "vcitem_0205_desc"
-msgstr "노래결정석 1750개 패키지입니다.\\n(보너스 스프링 스피어 1750개+3500개)"
+msgstr "노래결정석 1750개 패키지입니다.\n(보너스 스프링 스피어 1750개+3500개)"
 
 msgid "vcitem_0206_title"
 msgstr "노래결정석 스피어 증량 세트 D"
 
 msgid "vcitem_0206_desc"
-msgstr "노래결정석 2300개 패키지입니다.\\n(보너스 스프링 스피어 2300개+4600개)"
+msgstr "노래결정석 2300개 패키지입니다.\n(보너스 스프링 스피어 2300개+4600개)"
 
 msgid "vcitem_0207_title"
 msgstr "노래결정석 A 세트"
@@ -1297,49 +1297,49 @@ msgid "vcitem_0215_title"
 msgstr "노래결정석 A 세트"
 
 msgid "vcitem_0215_desc"
-msgstr "노래결정석 10개 패키지입니다.\\n(보너스 서머 스피어 10개)"
+msgstr "노래결정석 10개 패키지입니다.\n(보너스 서머 스피어 10개)"
 
 msgid "vcitem_0216_title"
 msgstr "노래결정석 B 세트"
 
 msgid "vcitem_0216_desc"
-msgstr "노래결정석 50개 패키지입니다.\\n(보너스 서머 스피어 50개)"
+msgstr "노래결정석 50개 패키지입니다.\n(보너스 서머 스피어 50개)"
 
 msgid "vcitem_0217_title"
 msgstr "노래결정석 C 세트"
 
 msgid "vcitem_0217_desc"
-msgstr "노래결정석 100개 패키지입니다.\\n(보너스 서머 스피어 100개)"
+msgstr "노래결정석 100개 패키지입니다.\n(보너스 서머 스피어 100개)"
 
 msgid "vcitem_0218_title"
 msgstr "노래결정석 D 세트"
 
 msgid "vcitem_0218_desc"
-msgstr "노래결정석 300개 패키지입니다.\\n(보너스 서머 스피어 300개)"
+msgstr "노래결정석 300개 패키지입니다.\n(보너스 서머 스피어 300개)"
 
 msgid "vcitem_0219_title"
 msgstr "노래결정석 E 세트"
 
 msgid "vcitem_0219_desc"
-msgstr "노래결정석 500개 패키지입니다.\\n(보너스 서머 스피어 500개)"
+msgstr "노래결정석 500개 패키지입니다.\n(보너스 서머 스피어 500개)"
 
 msgid "vcitem_0220_title"
 msgstr "노래결정석 F 세트"
 
 msgid "vcitem_0220_desc"
-msgstr "노래결정석 1000개 패키지입니다.\\n(보너스 서머 스피어 1000개)"
+msgstr "노래결정석 1000개 패키지입니다.\n(보너스 서머 스피어 1000개)"
 
 msgid "vcitem_0221_title"
 msgstr "노래결정석 G 세트"
 
 msgid "vcitem_0221_desc"
-msgstr "노래결정석 1750개 패키지입니다.\\n(보너스 서머 스피어 1750개)"
+msgstr "노래결정석 1750개 패키지입니다.\n(보너스 서머 스피어 1750개)"
 
 msgid "vcitem_0222_title"
 msgstr "노래결정석 H 세트"
 
 msgid "vcitem_0222_desc"
-msgstr "노래결정석 2200개 패키지입니다.\\n(보너스 서머 스피어 2200개)"
+msgstr "노래결정석 2200개 패키지입니다.\n(보너스 서머 스피어 2200개)"
 
 msgid "vcitem_0223_title"
 msgstr "노래결정석 A 세트"
@@ -1441,49 +1441,49 @@ msgid "vcitem_0239_title"
 msgstr "노래결정석 A 세트"
 
 msgid "vcitem_0239_desc"
-msgstr "노래결정석 10개 패키지입니다.\\n(보너스 오텀 스피어 10개)"
+msgstr "노래결정석 10개 패키지입니다.\n(보너스 오텀 스피어 10개)"
 
 msgid "vcitem_0240_title"
 msgstr "노래결정석 B 세트"
 
 msgid "vcitem_0240_desc"
-msgstr "노래결정석 50개 패키지입니다.\\n(보너스 오텀 스피어 50개)"
+msgstr "노래결정석 50개 패키지입니다.\n(보너스 오텀 스피어 50개)"
 
 msgid "vcitem_0241_title"
 msgstr "노래결정석 C 세트"
 
 msgid "vcitem_0241_desc"
-msgstr "노래결정석 100개 패키지입니다.\\n(보너스 오텀 스피어 100개)"
+msgstr "노래결정석 100개 패키지입니다.\n(보너스 오텀 스피어 100개)"
 
 msgid "vcitem_0242_title"
 msgstr "노래결정석 D 세트"
 
 msgid "vcitem_0242_desc"
-msgstr "노래결정석 300개 패키지입니다.\\n(보너스 오텀 스피어 300개)"
+msgstr "노래결정석 300개 패키지입니다.\n(보너스 오텀 스피어 300개)"
 
 msgid "vcitem_0243_title"
 msgstr "노래결정석 E 세트"
 
 msgid "vcitem_0243_desc"
-msgstr "노래결정석 500개 패키지입니다.\\n(보너스 오텀 스피어 500개)"
+msgstr "노래결정석 500개 패키지입니다.\n(보너스 오텀 스피어 500개)"
 
 msgid "vcitem_0244_title"
 msgstr "노래결정석 F 세트"
 
 msgid "vcitem_0244_desc"
-msgstr "노래결정석 1000개 패키지입니다.\\n(보너스 오텀 스피어 1000개)"
+msgstr "노래결정석 1000개 패키지입니다.\n(보너스 오텀 스피어 1000개)"
 
 msgid "vcitem_0245_title"
 msgstr "노래결정석 G 세트"
 
 msgid "vcitem_0245_desc"
-msgstr "노래결정석 1750개 패키지입니다.\\n(보너스 오텀 스피어 1750개)"
+msgstr "노래결정석 1750개 패키지입니다.\n(보너스 오텀 스피어 1750개)"
 
 msgid "vcitem_0246_title"
 msgstr "노래결정석 H 세트"
 
 msgid "vcitem_0246_desc"
-msgstr "노래결정석 2200개 패키지입니다.\\n(보너스 오텀 스피어 2200개)"
+msgstr "노래결정석 2200개 패키지입니다.\n(보너스 오텀 스피어 2200개)"
 
 msgid "vcitem_0247_title"
 msgstr "노래결정석 A 세트"
@@ -1537,67 +1537,67 @@ msgid "vcitem_0255_title"
 msgstr "노래결정석 A 세트"
 
 msgid "vcitem_0255_desc"
-msgstr "노래결정석 10개 패키지입니다.\\n(보너스 윈터 스피어 10개)"
+msgstr "노래결정석 10개 패키지입니다.\n(보너스 윈터 스피어 10개)"
 
 msgid "vcitem_0256_title"
 msgstr "노래결정석 B 세트"
 
 msgid "vcitem_0256_desc"
-msgstr "노래결정석 50개 패키지입니다.\\n(보너스 윈터 스피어 50개)"
+msgstr "노래결정석 50개 패키지입니다.\n(보너스 윈터 스피어 50개)"
 
 msgid "vcitem_0257_title"
 msgstr "노래결정석 C 세트"
 
 msgid "vcitem_0257_desc"
-msgstr "노래결정석 100개 패키지입니다.\\n(보너스 윈터 스피어 100개)"
+msgstr "노래결정석 100개 패키지입니다.\n(보너스 윈터 스피어 100개)"
 
 msgid "vcitem_0258_title"
 msgstr "노래결정석 D 세트"
 
 msgid "vcitem_0258_desc"
-msgstr "노래결정석 300개 패키지입니다.\\n(보너스 윈터 스피어 300개)"
+msgstr "노래결정석 300개 패키지입니다.\n(보너스 윈터 스피어 300개)"
 
 msgid "vcitem_0259_title"
 msgstr "노래결정석 E 세트"
 
 msgid "vcitem_0259_desc"
-msgstr "노래결정석 500개 패키지입니다.\\n(보너스 윈터 스피어 500개)"
+msgstr "노래결정석 500개 패키지입니다.\n(보너스 윈터 스피어 500개)"
 
 msgid "vcitem_0260_title"
 msgstr "노래결정석 F 세트"
 
 msgid "vcitem_0260_desc"
-msgstr "노래결정석 1000개 패키지입니다.\\n(보너스 윈터 스피어 1000개)"
+msgstr "노래결정석 1000개 패키지입니다.\n(보너스 윈터 스피어 1000개)"
 
 msgid "vcitem_0261_title"
 msgstr "노래결정석 G 세트"
 
 msgid "vcitem_0261_desc"
-msgstr "노래결정석 1750개 패키지입니다.\\n(보너스 윈터 스피어 1750개)"
+msgstr "노래결정석 1750개 패키지입니다.\n(보너스 윈터 스피어 1750개)"
 
 msgid "vcitem_0262_title"
 msgstr "노래결정석 H 세트"
 
 msgid "vcitem_0262_desc"
-msgstr "노래결정석 2200개 패키지입니다.\\n(보너스 윈터 스피어 2200개)"
+msgstr "노래결정석 2200개 패키지입니다.\n(보너스 윈터 스피어 2200개)"
 
 msgid "vcitem_0263_title"
 msgstr "노래결정석 스피어 증량 세트 A"
 
 msgid "vcitem_0263_desc"
-msgstr "노래결정석 500개 패키지입니다.\\n(보너스 윈터 스피어 500개+1000개)"
+msgstr "노래결정석 500개 패키지입니다.\n(보너스 윈터 스피어 500개+1000개)"
 
 msgid "vcitem_0264_title"
 msgstr "노래결정석 스피어 증량 세트 B"
 
 msgid "vcitem_0264_desc"
-msgstr "노래결정석 1000개 패키지입니다.\\n(보너스 윈터 스피어 1000개+2000개)"
+msgstr "노래결정석 1000개 패키지입니다.\n(보너스 윈터 스피어 1000개+2000개)"
 
 msgid "vcitem_0265_title"
 msgstr "노래결정석 스피어 증량 세트 C"
 
 msgid "vcitem_0265_desc"
-msgstr "노래결정석 1750개 패키지입니다.\\n(보너스 윈터 스피어 1750개+3500개)"
+msgstr "노래결정석 1750개 패키지입니다.\n(보너스 윈터 스피어 1750개+3500개)"
 
 msgid "vcitem_0266_title"
 msgstr "가챠 티켓"

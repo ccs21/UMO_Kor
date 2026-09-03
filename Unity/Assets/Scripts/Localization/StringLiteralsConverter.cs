@@ -8,7 +8,8 @@ using UnityEngine;
 
 public static class StringLiteralsConverter
 {
-    public static string PoPath = Application.dataPath + "/../../Localization/JpLiteralStrings/po/";
+    // Avoid accessing Application.dataPath during scene-build static initialization.
+    public static string PoPath { get { return Application.dataPath + "/../../Localization/JpLiteralStrings/po/"; } }
 
     [MenuItem("UMO/Localization/Export JpStringLiterals strings")]
     public static void GeneratePoFile()

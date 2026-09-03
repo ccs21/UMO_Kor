@@ -709,7 +709,7 @@ namespace XeApp.Game.RhythmGame
 						RhythmGameConsts.NoteResult res = activeLongList[i].lastRNoteObject.rNote.CalcEvaluation(evaluationOffsetMillisec[activeLongList[i].lastRNoteObject.rNote.noteInfo.trackID]);
 						if (res == RhythmGameConsts.NoteResult.Exempt)
 							res = RhythmGameConsts.NoteResult.Miss;
-						#if !UNITY_EDITOR // UMO : disable flick on long line
+						#if !UNITY_EDITOR && !UNITY_STANDALONE // PC: release at the tail timing, no physical swipe required.
 						if(activeLongList[i].lastRNoteObject.rNote.noteInfo.flick != MusicScoreData.FlickType.None)
 							res = RhythmGameConsts.NoteResult.Miss;
 						#endif
@@ -738,8 +738,10 @@ namespace XeApp.Game.RhythmGame
 						}
 						if (res == RhythmGameConsts.NoteResult.Exempt)
 							res = RhythmGameConsts.NoteResult.Miss;
+#if !UNITY_STANDALONE
 						if (activeSlideList[i].lastRNoteObject.rNote.noteInfo.flick != MusicScoreData.FlickType.None)
 							res = RhythmGameConsts.NoteResult.Miss;
+#endif
 						if (forceMiss)
 							res = RhythmGameConsts.NoteResult.Miss;
 						activeSlideList[i].lastRNoteObject.Judged(res, RhythmGameConsts.NoteJudgeType.EndedTouch);

@@ -182,6 +182,12 @@ namespace XeApp.Game.Menu
 			m_attrSetting.Setup();
 			m_bgMipmapBiasMaterialInstance = new Material(m_bgMipmapBiasMaterialSource);
 			m_bgTransColoredBlurMaterialInstance = new Material(m_bgTransColoredBlurMaterialSource);
+#if UNITY_STANDALONE_WIN && !UNITY_EDITOR
+			// The original resource contains GLES assembly only, not a PC program.
+			Shader blur = Shader.Find("UMO/PC/TransparentColoredBlur");
+			if(blur != null && blur.isSupported)
+				UMOStandaloneMaterialRepair.ReplaceShader(m_bgTransColoredBlurMaterialInstance, blur);
+#endif
 		}
 
 		// // RVA: 0x1436BB4 Offset: 0x1436BB4 VA: 0x1436BB4

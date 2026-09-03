@@ -646,6 +646,12 @@ namespace XeApp.Game.Tutorial
 		private IEnumerator PreLoadLayoutCoroutine(UnityAction finishCb, bool isAppendLayout/* = false*/)
 		{
 			//0xE43F00
+#if UNITY_STANDALONE_WIN
+			// Some resumed tutorial routes load only the message window, then
+			// immediately restrict input to a button. Ensure its visual guidance
+			// exists as well; loading these inactive objects does not advance progress.
+			isAppendLayout = true;
+#endif
 			yield return this.StartCoroutineWatched(LoadBaseLayoutCoroutine());
 			if(isAppendLayout)
 			{
