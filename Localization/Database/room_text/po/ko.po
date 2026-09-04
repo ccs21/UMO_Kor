@@ -30034,22 +30034,22 @@ msgid "message_10010_txt"
 msgstr "내가 그런 일은 절대 하게 두지 않을 테니까"
 
 msgid "message_10011_txt"
-msgstr "시ェ릴시ェ리,\n멋있어(*´∀｀*)"
+msgstr "셰리셰리,\n멋있어(*´∀｀*)"
 
 msgid "message_10012_txt"
 msgstr "반할 것 같아"
 
 msgid "message_10013_txt"
-msgstr "역시 시ェ릴 씨야!!"
+msgstr "역시 셰릴 씨야!!"
 
 msgid "message_10014_txt"
-msgstr "시ェ릴 씨,\n감사합니다!"
+msgstr "셰릴 씨,\n감사합니다!"
 
 msgid "message_10015_txt"
 msgstr "나는 내가 생각한 걸\n말했을 뿐이야"
 
 msgid "message_10016_txt"
-msgstr "그래도 시ェ릴시ェ리 말대로야!\n란란은 모두를 다치게 하지 않아!"
+msgstr "그래도 셰릴시ェ리 말대로야!\n란란은 모두를 다치게 하지 않아!"
 
 msgid "message_10017_txt"
 msgstr "그야 란란이 모두를\n정말 좋아한다는 건 확실히 전해지고\n있으니까( *>ω< *)"
@@ -30157,7 +30157,7 @@ msgid "message_10051_txt"
 msgstr "회의 끝났다ー!"
 
 msgid "message_10052_txt"
-msgstr "시ェ릴, 다시 한번 바사라의 교복 건\n도와줘서 고마워ー!"
+msgstr "셰릴, 다시 한번 바사라의 교복 건\n도와줘서 고마워ー!"
 
 msgid "message_10053_txt"
 msgstr "괜찮아.\n나도 바사라의 귀한 모습을 볼 수 있어서\n꽤 즐거웠는걸"

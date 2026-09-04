@@ -11,6 +11,7 @@ from import_korean_translation import parse_po, write_po, read_csharp_tar, write
 parser = argparse.ArgumentParser()
 parser.add_argument("workbook", type=Path)
 parser.add_argument("--apply", action="store_true")
+parser.add_argument("--report", type=Path, help="Write the comparison report here without overwriting an earlier revision report")
 args = parser.parse_args()
 root = Path(__file__).resolve().parents[2]
 df = pd.read_excel(args.workbook, dtype=str).fillna("")
@@ -45,7 +46,7 @@ for row in df.to_dict("records"):
             banks[name] = decode_bank(archive[name])
         assert key in banks[name], (component, key)
         banks[name][key] = text
-report = root.parent / "outputs/translation-revision2-report.json"
+report = args.report or root.parent / "outputs/translation-revision-report.json"
 report.parent.mkdir(parents=True, exist_ok=True)
 report.write_text(json.dumps({"rows": len(df), "sha256": hashlib.sha256(args.workbook.read_bytes()).hexdigest(), "changes": changes, "placeholder_warnings": warnings}, ensure_ascii=False, indent=2), encoding="utf-8")
 print(json.dumps({"rows": len(df), "changes": len(changes), "components": dict(pd.Series([c['component'] for c in changes]).value_counts().items()), "placeholder_warnings": len(warnings)}, ensure_ascii=True, default=int))

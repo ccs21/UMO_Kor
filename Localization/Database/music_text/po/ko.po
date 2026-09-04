@@ -883,7 +883,7 @@ msgid "musicName_0043_storyDesc"
 msgstr "전투의 영향인지 갑자기 목소리가 나오지 않게 되어,\n전혀 노래할 수 없게 된 바사라.\n\n그런 상황에서 강력한 프로토 데빌룬의 습격이 발생하고,\n선단은 위기에 빠진다. 그런 가운데 필사적으로\n노래하려는 바사라를 위해 밀레느가 분투한다."
 
 msgid "musicName_0043_storyTitle"
-msgstr "「あたしの歌をどうしてもバサラに届けたいの！」"
+msgstr "「내 노래를 어떻게든 바사라에게 전하고 싶어!」"
 
 msgid "musicName_0044_musicname"
 msgstr ""
@@ -2284,10 +2284,10 @@ msgid "musicName_0117_description"
 msgstr "작품: 마크로스7\n\n가수: EMILIA with BASARA NEKKI\n\n작사: K.INOJO\n작곡: 카와노 미유"
 
 msgid "musicName_0118_musicname"
-msgstr "いけないボーダーライン Another ver."
+msgstr "이케나이 보더라인 Another ver."
 
 msgid "musicName_0118_officialName"
-msgstr "いけないボーダーライン"
+msgstr "이케나이 보더라인"
 
 msgid "musicName_0118_vocalName"
 msgstr "왈큐레 (미쿠모ΔJUNNA, 프레이아Δ스즈키 미노리, 카나메Δ야스노 키요노, 레이나Δ토야마 나오, 마키나Δ니시다 노조미)"

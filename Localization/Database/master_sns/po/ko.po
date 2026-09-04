@@ -6805,7 +6805,7 @@ msgid "sns_nm_0980"
 msgstr "내 수영복, 어땠어?"
 
 msgid "sns_nm_0981"
-msgstr "輝, 힘내다"
+msgstr "히, 힘내"
 
 msgid "sns_nm_0982"
 msgstr "바사라가 올 때까지"

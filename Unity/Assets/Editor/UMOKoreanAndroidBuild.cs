@@ -12,8 +12,8 @@ public static class UMOKoreanAndroidBuild
     private const string ParallelTestOutput = "Build/Android/UMO_Kor-parallel-test.apk";
     private const string ParallelTestPackage = "com.ccs21.UMOKorTest";
     public const string ReleasePackage = "com.ccs21.umokor";
-    public const string ReleaseVersion = "1.1.16-ko-beta.2";
-    public const int ReleaseVersionCode = 10002;
+    public const string ReleaseVersion = "1.1.16-ko-beta.3";
+    public const int ReleaseVersionCode = 10003;
     private const string KoreanProductName = "\uC6B0\uD0C0\uB9C8\uD06C\uB85C\uC2A4";
 
     public static void BuildAndroid()
