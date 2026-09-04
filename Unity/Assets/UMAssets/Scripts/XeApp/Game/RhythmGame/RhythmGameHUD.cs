@@ -907,6 +907,9 @@ namespace XeApp.Game.RhythmGame
 		// // RVA: 0xDD07AC Offset: 0xDD07AC VA: 0xDD07AC Slot: 52
 		public void ShowTouchEffect(int trackId, int fingerId)
 		{
+#if UNITY_STANDALONE_WIN && !UNITY_EDITOR
+			UMOPcNoteEffectTrace.Capture(m_touchEffects[trackId], trackId, "push");
+#endif
 			if (m_touchEffects[trackId].FingerId > -1)
 				return;
 			m_touchEffects[trackId].touchEffect.Play(UI_rhythm_Push_IN_HashCode, 0);
@@ -940,6 +943,9 @@ namespace XeApp.Game.RhythmGame
 		// // RVA: 0xDD0BB8 Offset: 0xDD0BB8 VA: 0xDD0BB8 Slot: 55
 		public void ShowLongNotesTouchEffect(int trackId)
 		{
+#if UNITY_STANDALONE_WIN && !UNITY_EDITOR
+			UMOPcNoteEffectTrace.Capture(m_touchEffects[trackId], trackId, "hold");
+#endif
 			m_touchEffects[trackId].touchEffect.Play(UI_rhythm_Long_IN_HashCode, 0);
 			m_touchEffects[trackId].touchEffect.Play(UI_rhythm_Long_Loop_HashCode, 0);
 		}
@@ -1003,6 +1009,9 @@ namespace XeApp.Game.RhythmGame
 		// // RVA: 0xDD120C Offset: 0xDD120C VA: 0xDD120C Slot: 65
 		public void ShowNotesHitEffect(int trackId)
 		{
+#if UNITY_STANDALONE_WIN && !UNITY_EDITOR
+			UMOPcNoteEffectTrace.Capture(m_touchEffects[trackId], trackId, "hit");
+#endif
 			m_touchEffects[trackId].touchEffect.Play(UI_rhythm_Delete_HashCode, 0);
 		}
 

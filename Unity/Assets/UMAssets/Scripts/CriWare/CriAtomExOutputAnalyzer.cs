@@ -55,6 +55,18 @@ namespace CriWare
 		// // RVA: 0x289F498 Offset: 0x289F498 VA: 0x289F498
 		protected void Dispose(bool disposing)
 		{
+#if UNITY_STANDALONE_WIN && !UNITY_EDITOR
+			if (!disposing)
+			{
+				// The Windows analyzer has a sentinel handle, not a native resource.
+				// Finalizers run off the main thread, potentially after Unity teardown.
+				// Do not query the AudioSource or access RuntimeSettings via TodoLogger.
+				handle = IntPtr.Zero;
+				player = null;
+				busName = null;
+				return;
+			}
+#endif
 			CriDisposableObjectManager.Unregister(this);
 			if(handle != IntPtr.Zero)
 			{

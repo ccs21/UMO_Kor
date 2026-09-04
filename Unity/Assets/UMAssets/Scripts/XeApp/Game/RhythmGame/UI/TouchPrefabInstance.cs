@@ -33,10 +33,13 @@ namespace XeApp.Game.RhythmGame.UI
 		//// RVA: 0x15645A8 Offset: 0x15645A8 VA: 0x15645A8
 		public void Instantiate()
 		{
-			GameObject go = Instantiate(touchEffectPrefab);
 #if UNITY_STANDALONE_WIN && !UNITY_EDITOR
-			BundleShaderInfo.Instance.FixMaterialShader(go);
+			// Animator binds material properties during Instantiate. Repair the
+			// shared source first: repairing the first clone afterward leaves its
+			// animated _Alpha bound to the unsupported Android shader (alpha=0).
+			BundleShaderInfo.Instance.FixMaterialShader(touchEffectPrefab);
 #endif
+			GameObject go = Instantiate(touchEffectPrefab);
 			_touchEffect = go.GetComponent<EffectBundleController>();
 			go.transform.SetParent(transform, false);
 
