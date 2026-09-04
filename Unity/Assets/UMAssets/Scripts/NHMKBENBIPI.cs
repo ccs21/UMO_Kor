@@ -31,11 +31,13 @@ public class NHMKBENBIPI_NetDelayBunchInstallManager
 	// RVA: 0x1891400 Offset: 0x1891400 VA: 0x1891400 Slot: 1
 	~NHMKBENBIPI_NetDelayBunchInstallManager()
 	{
+		UMOPcShutdownTrace.Mark("NetDelayBunchInstallManager finalizer ENTER");
 		if(JKJCKIMGJLM != null)
 		{
 			JKJCKIMGJLM.Dispose();
 			JKJCKIMGJLM = null;
 		}
+		UMOPcShutdownTrace.Mark("NetDelayBunchInstallManager finalizer EXIT");
 	}
 
 	// RVA: 0x189147C Offset: 0x189147C VA: 0x189147C

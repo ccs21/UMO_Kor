@@ -174,7 +174,9 @@ namespace CriWare
 		// // RVA: 0x28A0980 Offset: 0x28A0980 VA: 0x28A0980 Slot: 1
 		~CriAtomExOutputAnalyzer()
 		{
+			UMOPcShutdownTrace.Mark("CriAtomExOutputAnalyzer finalizer ENTER");
 			Dispose(false);
+			UMOPcShutdownTrace.Mark("CriAtomExOutputAnalyzer finalizer EXIT");
 		}
 
 		// // RVA: 0x289F33C Offset: 0x289F33C VA: 0x289F33C

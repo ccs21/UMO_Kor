@@ -193,7 +193,9 @@ namespace CriWare
 			// // RVA: 0x29582BC Offset: 0x29582BC VA: 0x29582BC Slot: 1
 			~Player()
 			{
+				UMOPcShutdownTrace.Mark("CriMana.Player finalizer ENTER");
 				Dispose(false);
+				UMOPcShutdownTrace.Mark("CriMana.Player finalizer EXIT");
 			}
 
 			// // RVA: 0x29585C0 Offset: 0x29585C0 VA: 0x29585C0 Slot: 5

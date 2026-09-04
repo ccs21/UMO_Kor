@@ -19,7 +19,9 @@ namespace CriWare.CriMana.Detail
 		// RVA: 0x2951610 Offset: 0x2951610 VA: 0x2951610 Slot: 1
 		~RendererResource()
 		{
+			UMOPcShutdownTrace.Mark("RendererResource finalizer ENTER");
 			Dispose(false);
+			UMOPcShutdownTrace.Mark("RendererResource finalizer EXIT");
 		}
 
 		// RVA: 0x29516EC Offset: 0x29516EC VA: 0x29516EC Slot: 4
@@ -284,7 +286,9 @@ namespace CriWare.CriMana.Detail
 		// // RVA: 0x2956224 Offset: 0x2956224 VA: 0x2956224 Slot: 1
 		~RendererResourceFactory()
 		{
+			UMOPcShutdownTrace.Mark("RendererResourceFactory finalizer ENTER");
 			Dispose(false);
+			UMOPcShutdownTrace.Mark("RendererResourceFactory finalizer EXIT");
 		}
 
 		// // RVA: 0x2955D68 Offset: 0x2955D68 VA: 0x2955D68 Slot: 4

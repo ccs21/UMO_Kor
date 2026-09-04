@@ -2077,7 +2077,7 @@ msgid "UMO_DivaStatus"
 msgstr "가희 스테이터스"
 
 msgid "UMO_CostumeStatus"
-msgstr "의상 강화 스테이터스"
+msgstr "의상강화"
 
 msgid "UMO_SoulTotal"
 msgstr "소울 어필"
