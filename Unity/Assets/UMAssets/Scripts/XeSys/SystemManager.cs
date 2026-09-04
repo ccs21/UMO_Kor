@@ -95,6 +95,12 @@ namespace XeSys
 
 			int sWidth = Screen.width;
 			int sHeight = Screen.height;
+#if UNITY_STANDALONE_WIN && !UNITY_EDITOR
+			UMOPcRuntime.ApplyGraphics();
+			sWidth = UMOPcRuntime.Settings.Width;
+			sHeight = UMOPcRuntime.Settings.Height;
+			Screen.SetResolution(sWidth, sHeight, UMOPcRuntime.Settings.Fullscreen);
+#endif
 #if UNITY_STANDALONE
 			// Unity 2018 can report a transient 1 x 1 surface while its Windows
 			// splash window is being replaced. Do not let that become the game's

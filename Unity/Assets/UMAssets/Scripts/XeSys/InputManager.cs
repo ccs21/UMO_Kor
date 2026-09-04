@@ -410,6 +410,7 @@ namespace XeSys
 
 		void KeyboardAction()
 		{
+#if !UNITY_STANDALONE_WIN || UNITY_EDITOR
 			List<KeyCode> keysTocheck = new List<KeyCode>();
 			keysTocheck.Add(RuntimeSettings.CurrentSettings.Lane1Touch);
 			keysTocheck.Add(RuntimeSettings.CurrentSettings.Lane2Touch);
@@ -418,6 +419,7 @@ namespace XeSys
 			keysTocheck.Add(RuntimeSettings.CurrentSettings.Lane5Touch);
 			keysTocheck.Add(RuntimeSettings.CurrentSettings.Lane6Touch);
 			keysTocheck.Add(RuntimeSettings.CurrentSettings.ActiveSkillTouch);
+#endif
 
 			if(keysInfo.Count == 0)
 			{
@@ -428,11 +430,16 @@ namespace XeSys
 				}
 			}
 
-			for(int i = 0; i < keysTocheck.Count; i++)
+			for(int i = 0; i < (int)KeyTouchInfoRecord.KeyType.Num; i++)
 			{
 				KeyTouchInfoRecord keyTouchInfo = keysInfo[i];
 				TouchPhase phase = TouchPhase.Began;
 				Vector2 position = Vector2.zero;
+#if UNITY_STANDALONE_WIN && !UNITY_EDITOR
+				int pcTransition = UMOPcRuntime.ReadTransition(i, XeApp.Game.Common.RhythmGameConsts.LineNum);
+				if (pcTransition < 0) { keyTouchInfo.UpdateReleased(); continue; }
+				phase = pcTransition == 0 ? TouchPhase.Began : (pcTransition == 1 ? TouchPhase.Ended : TouchPhase.Stationary);
+#else
 				if (Input.GetKeyDown(keysTocheck[i]))
 				{
 					phase = TouchPhase.Began;
@@ -450,6 +457,7 @@ namespace XeSys
 					keyTouchInfo.UpdateReleased();
 					continue;
 				}
+#endif
 				keyTouchInfo.Update(phase, position);
 				UMODebugger.Instance.AddInputInfo(keyTouchInfo, phase);
 			}

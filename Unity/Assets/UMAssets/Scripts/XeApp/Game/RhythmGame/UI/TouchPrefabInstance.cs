@@ -34,6 +34,9 @@ namespace XeApp.Game.RhythmGame.UI
 		public void Instantiate()
 		{
 			GameObject go = Instantiate(touchEffectPrefab);
+#if UNITY_STANDALONE_WIN && !UNITY_EDITOR
+			BundleShaderInfo.Instance.FixMaterialShader(go);
+#endif
 			_touchEffect = go.GetComponent<EffectBundleController>();
 			go.transform.SetParent(transform, false);
 
@@ -43,6 +46,9 @@ namespace XeApp.Game.RhythmGame.UI
 			go.transform.SetParent(transform, false);
 
 			go = Instantiate(skillEffectPrefab);
+#if UNITY_STANDALONE_WIN && !UNITY_EDITOR
+			BundleShaderInfo.Instance.FixMaterialShader(go);
+#endif
 			_skillEffect = go.GetComponent<TouchSkillEffect>();
 			go.transform.SetParent(transform, false);
 

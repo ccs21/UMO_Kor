@@ -10,7 +10,7 @@ msgid "e_nm_0002"
 msgstr ""
 
 msgid "e_nm_0003"
-msgstr "대형 바즈라"
+msgstr "대형 바쥬라"
 
 msgid "e_nm_0004"
 msgstr ""
@@ -25,7 +25,7 @@ msgid "e_nm_0007"
 msgstr ""
 
 msgid "e_nm_0008"
-msgstr "바즈라 퀸"
+msgstr "바쥬라 퀸"
 
 msgid "e_nm_0009"
 msgstr "적009"
@@ -40,7 +40,7 @@ msgid "e_nm_0012"
 msgstr ""
 
 msgid "e_nm_0013"
-msgstr "대형 바즈라"
+msgstr "대형 바쥬라"
 
 msgid "e_nm_0014"
 msgstr ""
@@ -52,7 +52,7 @@ msgid "e_nm_0016"
 msgstr ""
 
 msgid "e_nm_0017"
-msgstr "대형 바즈라"
+msgstr "대형 바쥬라"
 
 msgid "e_nm_0018"
 msgstr ""
@@ -64,7 +64,7 @@ msgid "e_nm_0020"
 msgstr ""
 
 msgid "e_nm_0021"
-msgstr "대형 바즈라"
+msgstr "대형 바쥬라"
 
 msgid "e_nm_0022"
 msgstr ""
@@ -76,7 +76,7 @@ msgid "e_nm_0024"
 msgstr ""
 
 msgid "e_nm_0025"
-msgstr "대형 바즈라"
+msgstr "대형 바쥬라"
 
 msgid "e_nm_0026"
 msgstr ""
@@ -88,7 +88,7 @@ msgid "e_nm_0028"
 msgstr ""
 
 msgid "e_nm_0029"
-msgstr "대형 바즈라"
+msgstr "대형 바쥬라"
 
 msgid "e_nm_0030"
 msgstr ""
@@ -106,7 +106,7 @@ msgid "e_nm_0034"
 msgstr "걸드 고어 보먼"
 
 msgid "e_nm_0035"
-msgstr "대형 바즈라"
+msgstr "대형 바쥬라"
 
 msgid "e_nm_0036"
 msgstr ""
@@ -121,7 +121,7 @@ msgid "e_nm_0039"
 msgstr "밀렵단 모함"
 
 msgid "e_nm_0040"
-msgstr "대형 바즈라"
+msgstr "대형 바쥬라"
 
 msgid "e_nm_0041"
 msgstr "고스트 X-9"
@@ -163,7 +163,7 @@ msgid "e_dsc_0007"
 msgstr "갤럭시 함대의 파일럿, 브레라의 탑승기.\n사이보그 병사 전용기이면서\n출력을 더욱 높일 수 있도록 조정되어 있다."
 
 msgid "e_dsc_0008"
-msgstr "무수한 바즈라를 통솔하는 중심이 되는 개체.\n마크로스급 전함에 버금가는 거대함을 자랑하며,\n그 화력도 다른 바즈라와는 차원이 다르다."
+msgstr "무수한 바쥬라를 통솔하는 중심이 되는 개체.\n마크로스급 전함에 버금가는 거대함을 자랑하며,\n그 화력도 다른 바쥬라와는 차원이 다르다."
 
 msgid "e_dsc_0009"
 msgstr "설명009"

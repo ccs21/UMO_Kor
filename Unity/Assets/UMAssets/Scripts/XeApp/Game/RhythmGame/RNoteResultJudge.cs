@@ -39,6 +39,11 @@ namespace XeApp.Game.RhythmGame
 		// RVA: 0xDBDB6C Offset: 0xDBDB6C VA: 0xDBDB6C
 		public RhythmGameConsts.NoteResult CalcEvaluation(int gapMilliSec, int skillEffect)
 		{
+#if UNITY_STANDALONE_WIN && !UNITY_EDITOR
+			// Shared by hit evaluation and pass/expiry evaluation, so the late
+			// assistance window cannot expire before a valid assisted input.
+			skillEffect += UMOPcRuntime.Settings.AssistMs;
+#endif
 			if (Perfect[0] - skillEffect <= gapMilliSec)
 				if (Perfect[1] + skillEffect >= gapMilliSec)
 					return RhythmGameConsts.NoteResult.Perfect;

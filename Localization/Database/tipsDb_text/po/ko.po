@@ -52,7 +52,7 @@ msgid "tips_0007_msg"
 msgstr "편성해둔 유닛이 맘에 들면\n그 유닛을 저장해둘 수 있어"
 
 msgid "tips_0008_title"
-msgstr "새인간이 뭐야?"
+msgstr "새 인간이 뭐야?"
 
 msgid "tips_0008_msg"
 msgstr "프로토 컬쳐가 남긴 거대 병기야\n기억을 망가뜨리는 무시무시한 존재야"
@@ -223,7 +223,7 @@ msgid "tips_0036_title"
 msgstr "생체 폴드파가 뭐야?"
 
 msgid "tips_0036_msg"
-msgstr "우리의 노래의 힘, 그 자체야\n새인간에 대항할 수 있는 유일한 수단이야"
+msgstr "우리의 노래의 힘, 그 자체야\n새 인간에 대항할 수 있는 유일한 수단이야"
 
 msgid "tips_0037_title"
 msgstr "레어도가 뭐야?"
@@ -436,7 +436,7 @@ msgid "tips_0071_msg"
 msgstr "거대하고 강인한 육체를 가진 거인족인데,\n지금은 지구 인류와 공존하고 있어"
 
 msgid "tips_0072_title"
-msgstr "바즈라가 뭐야?"
+msgstr "바쥬라가 뭐야?"
 
 msgid "tips_0072_msg"
 msgstr "벌레처럼 생긴 우주 생물인데,\n집단으로 공격해 올 때도 있어"

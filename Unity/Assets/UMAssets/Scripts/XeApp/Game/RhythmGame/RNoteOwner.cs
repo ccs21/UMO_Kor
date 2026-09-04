@@ -726,10 +726,19 @@ namespace XeApp.Game.RhythmGame
 			{
 				if(activeSlideList[i].touchFingerId != -1 && activeSlideList[i].touchFingerId == fingerId && !activeSlideList[i].IsPauseKeep)
 				{
+#if UNITY_STANDALONE_WIN && !UNITY_EDITOR
+					if (activeSlideList[i].lastRNoteObject.IsJudged())
+						continue;
+#endif
 					if(activeSlideList[i].gameObject.activeSelf)
 					{
 						RhythmGameConsts.NoteResult res = RhythmGameConsts.NoteResult.Miss;
+#if UNITY_STANDALONE_WIN && !UNITY_EDITOR
+						// Finger ownership follows the complete slide chain; PC releases the starting key.
+						if (true)
+#else
 						if (!checkLine || activeSlideList[i].lastRNoteObject.rNote.noteInfo.trackID == lineNo)
+#endif
 						{
 							if(activeSlideList[i].lastRNoteObject.rNote.noteInfo.longTouch == MusicScoreData.TouchState.End)
 							{
@@ -892,11 +901,20 @@ namespace XeApp.Game.RhythmGame
 			{
 				if(activeSlideList[i].touchFingerId == fingerId)
 				{
+#if UNITY_STANDALONE_WIN && !UNITY_EDITOR
+					if (activeSlideList[i].lastRNoteObject.IsJudged())
+						continue;
+#endif
 					if(activeSlideList[i].gameObject.activeSelf)
 					{
 						if(activeSlideList[i].lastRNoteObject.rNote.noteInfo.longTouch == MusicScoreData.TouchState.Continue)
 						{
+#if UNITY_STANDALONE_WIN && !UNITY_EDITOR
+							// Intermediate lane changes remain visual: the original held finger owns them.
+							if (true)
+#else
 							if(activeSlideList[i].lastRNoteObject.rNote.noteInfo.trackID == lineNo)
+#endif
 							{
 								if(activeSlideList[i].lastRNoteObject.rNote.gapMilliSec > -1)
 								{

@@ -35,6 +35,16 @@ namespace XeApp.Game.Menu
 			name = JKNGJFOBADP.JKOAGEAPJHI(data.JJBGOIMEIPF_ItemId, data.MBJIFDBEDAC_item_count, 20);
 			IsAvailable = isAvailable;
 			msg = data.LJGOOOMOMMA_message;
+			// Legacy rewards contain their original server-language description.
+			// Translate only known display strings, never rewrite stored rewards.
+			if (RuntimeSettings.CurrentSettings.Language == "ko" && msg != null)
+			{
+				switch (msg.TrimEnd())
+				{
+					case "特別ログインボーナスのプレゼントです。": msg = JpStringLiterals.UMO_login_38788_prize1_msg; break;
+					case "ログインボーナスのプレゼントです。": msg = JpStringLiterals.UMO_login_7740_prize2_msg; break;
+				}
+			}
 			if(ReceLis)
 			{
 				DateTime date = Utility.GetLocalDateTime(data.LNDEFMALKAN_received_at);

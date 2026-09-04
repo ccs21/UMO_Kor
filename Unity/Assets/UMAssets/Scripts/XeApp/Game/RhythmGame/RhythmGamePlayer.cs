@@ -2978,6 +2978,13 @@ namespace XeApp.Game.RhythmGame
 				return;
 			if(!uiController.Hud.IsInputAccept())
 				return;
+#if UNITY_STANDALONE_WIN && !UNITY_EDITOR
+			// BeganTouch synchronously invokes JudgedNoteEffect. The generic push
+			// and long-hold loop share an animator; play push first, not after the
+			// successful hold loop. Keep each track's existing finger ownership.
+			if (!isVisiblePauseWindow)
+				uiController.Hud.ShowTouchEffect(lineNo, fingerId);
+#endif
 			if (!rNoteOwner.BeganTouch(lineNo, fingerId) && !isVisiblePauseWindow)
 				PlayNotesSE(NoteSEType.Exempt);
 			if(rNoteOwner.IsLongBeganTouched(lineNo) || rNoteOwner.IsSlideBeganTouched(fingerId))
@@ -2986,7 +2993,9 @@ namespace XeApp.Game.RhythmGame
 			}
 			if (isVisiblePauseWindow)
 				return;
+#if !UNITY_STANDALONE_WIN || UNITY_EDITOR
 			uiController.Hud.ShowTouchEffect(lineNo, fingerId);
+#endif
 		}
 
 		// // RVA: 0x9C651C Offset: 0x9C651C VA: 0x9C651C

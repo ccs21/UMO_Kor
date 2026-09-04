@@ -596,7 +596,11 @@ namespace XeApp.Game
 			UnityEngine.Screen.autorotateToPortraitUpsideDown = false;
 			UnityEngine.Screen.orientation = ScreenOrientation.AutoRotation;
 			UnityEngine.QualitySettings.vSyncCount = 0;
+#if UNITY_STANDALONE_WIN && !UNITY_EDITOR
+			UnityEngine.Application.targetFrameRate = UMOPcRuntime.Settings.MaxFps;
+#else
 			UnityEngine.Application.targetFrameRate = 60;
+#endif
 			GHNFIINGIGM.HKICMNAACDA_a();
 			if(localSave == null)
 			{
@@ -891,6 +895,11 @@ namespace XeApp.Game
 			SystemManager.longScreenReferenceResolution = new Vector2(sX * r2, nativeY * r2);
 			if (SystemManager.isLongScreenDevice)
 				width = nativeX * height / nativeY;
+#if UNITY_STANDALONE_WIN && !UNITY_EDITOR
+			width = UMOPcRuntime.Settings.Width;
+			height = UMOPcRuntime.Settings.Height;
+			SystemManager.longScreenReferenceResolution = new Vector2(width, height);
+#endif
 			ResolutionWidth = SystemManager.NativeScreenSize.x;
 			ResolutionHeight = SystemManager.NativeScreenSize.y;
 			object[] obj = new object[5];
@@ -900,7 +909,9 @@ namespace XeApp.Game
 			obj[3] = height;
 			obj[4] = ") start";
 			Debug.Log(string.Concat(obj));
-#if UNITY_STANDALONE
+#if UNITY_STANDALONE_WIN && !UNITY_EDITOR
+			Screen.SetResolution(Mathf.RoundToInt(width), Mathf.RoundToInt(height), UMOPcRuntime.Settings.Fullscreen);
+#elif UNITY_STANDALONE
 			Screen.SetResolution(Mathf.RoundToInt(width), Mathf.RoundToInt(height), false);
 #else
 			Screen.SetResolution(Mathf.RoundToInt(width), Mathf.RoundToInt(height), true);
@@ -952,7 +963,11 @@ namespace XeApp.Game
 				obj[3] = AppResolutionHeight;
 				obj[4] = ")";
 				Debug.Log(string.Concat(obj));
+#if UNITY_STANDALONE_WIN && !UNITY_EDITOR
+				Screen.SetResolution((int)AppResolutionWidth, (int)AppResolutionHeight, UMOPcRuntime.Settings.Fullscreen);
+#else
 				Screen.SetResolution((int)AppResolutionWidth, (int)AppResolutionHeight, true);
+#endif
 			}
 			UpdateInputArea(false);
 			ResetResetLetterBox();
@@ -974,6 +989,9 @@ namespace XeApp.Game
 		// // RVA: 0x99E7D4 Offset: 0x99E7D4 VA: 0x99E7D4
 		public void SetFPS(int fps)
 		{
+#if UNITY_STANDALONE_WIN && !UNITY_EDITOR
+			fps = fps <= 0 ? UMOPcRuntime.Settings.MaxFps : System.Math.Min(fps, UMOPcRuntime.Settings.MaxFps);
+#endif
 			QualitySettings.vSyncCount = 0;
 			Application.targetFrameRate = fps;
 		}

@@ -3493,10 +3493,10 @@ msgid "event_banner_event_raid_a_0001"
 msgstr "미션으로 가정석 합계 150개 GET!"
 
 msgid "event_bossname_event_raid_a_0010"
-msgstr "새인간"
+msgstr "새 인간"
 
 msgid "event_bossname_event_raid_a_0013"
-msgstr "새인간"
+msgstr "새 인간"
 
 msgid "mission_desc_event_raid_b_10001"
 msgstr "초가희 모드로 진입하여 클리어"
@@ -3760,7 +3760,7 @@ msgid "event_bossname_event_raid_b_0007"
 msgstr "시구르 발렌스（전함 형태）"
 
 msgid "event_bossname_event_raid_b_0013"
-msgstr "새인간"
+msgstr "새 인간"
 
 msgid "mission_desc_event_raid_c_10001"
 msgstr "초가희 모드로 진입하여 클리어"
@@ -4012,7 +4012,7 @@ msgid "event_bossname_event_raid_c_0006"
 msgstr "바르고"
 
 msgid "event_bossname_event_raid_c_0015"
-msgstr "새인간"
+msgstr "새 인간"
 
 msgid "mission_desc_event_raid_d_10001"
 msgstr "초가희 모드로 진입하여 클리어"
@@ -4276,7 +4276,7 @@ msgid "event_bossname_event_raid_d_0001"
 msgstr "비숍급 바쥬라"
 
 msgid "event_bossname_event_raid_d_0014"
-msgstr "새인간"
+msgstr "새 인간"
 
 msgid "event_group_event_raidlobby_a_0001"
 msgstr "하야테 임멜만 부대"

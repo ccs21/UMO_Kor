@@ -190,10 +190,10 @@ msgid "pbox_text_09"
 msgstr "수령 가능한 선물이 없습니다."
 
 msgid "pbox_text_10"
-msgstr ""
+msgstr "획득 일시: {0}/{1}/{2} {3}:{4}"
 
 msgid "pbox_text_11"
-msgstr ""
+msgstr "수령 일시: {0}/{1}/{2} {3}:{4}"
 
 msgid "pbox_text_12"
 msgstr "앞으로 {0}일"

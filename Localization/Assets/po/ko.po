@@ -22,10 +22,10 @@ msgid "cmn_tuto02/cmn_tuto02_fnt_02"
 msgstr "수없이 반복된 성간 전쟁으로 인해,"
 
 msgid "cmn_tuto02/cmn_tuto02_fnt_03"
-msgstr "드디어 초 선사시대 인류 프로토 컬쳐가\n남긴 시스템 「새인간」이 깨어났다."
+msgstr "드디어 초 선사시대 인류 프로토 컬쳐가\n남긴 시스템 「새 인간」이 깨어났다."
 
 msgid "cmn_tuto02/cmn_tuto02_fnt_04"
-msgstr "새인간은 우주를 뒤덮고 있는 모든 문명을\n파괴 대상으로 삼고, 다른 시공에서 공명을 시작한다."
+msgstr "새 인간은 우주를 뒤덮고 있는 모든 문명을\n파괴 대상으로 삼고, 다른 시공에서 공명을 시작한다."
 
 msgid "cmn_tuto02/cmn_tuto02_fnt_07"
 msgstr "기억이 파괴된 사람들은 하나둘씩 사라져갔고,\n문명은 조용히 멸망을 맞이하고 있었다."
@@ -34,7 +34,7 @@ msgid "cmn_tuto02/cmn_tuto02_fnt_09"
 msgstr "노래로 사람의 마음을 움직이는 가희와\n그것을 지키는 사람들이다."
 
 msgid "cmn_tuto02/cmn_tuto02_fnt_11"
-msgstr "서로 다른 시공에 존재하면서도\n새인간의 힘을 매개로 한 초시공 네트워크를 형성."
+msgstr "서로 다른 시공에 존재하면서도\n새 인간의 힘을 매개로 한 초시공 네트워크를 형성."
 
 msgid "cmn_tuto02/cmn_tuto02_fnt_13"
 msgstr "은하의 스테이지에 선 가희들,"

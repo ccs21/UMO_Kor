@@ -5206,7 +5206,7 @@ msgid "sns_nm_0146"
 msgstr "포기하지 않아서 다행이었던 일"
 
 msgid "sns_nm_0147"
-msgstr "발키레에 들어오고 변한 점"
+msgstr "왈큐레에 들어오고 변한 점"
 
 msgid "sns_nm_0148"
 msgstr "발키리를 위해서니까"
@@ -5452,7 +5452,7 @@ msgid "sns_nm_0242"
 msgstr "가르쳐 줘"
 
 msgid "sns_nm_0243"
-msgstr "발키레 의상을 입고 싶어!"
+msgstr "왈큐레 의상을 입고 싶어!"
 
 msgid "sns_nm_0244"
 msgstr "레이나가 본 브레라의 머릿속"
@@ -5488,7 +5488,7 @@ msgid "sns_nm_0254"
 msgstr "비히다 씨에게 묻고 싶은 것"
 
 msgid "sns_nm_0255"
-msgstr "바사라 in 발키레"
+msgstr "바사라 in 왈큐레"
 
 msgid "sns_nm_0256"
 msgstr "미스 마크로스 콘테스트"
@@ -5590,7 +5590,7 @@ msgid "sns_nm_0541"
 msgstr "전부 거기서부터 시작된 거야"
 
 msgid "sns_nm_0542"
-msgstr "발키레는 사이좋아"
+msgstr "왈큐레는 사이좋아"
 
 msgid "sns_nm_0543"
 msgstr "전장에서 울려 퍼진 노랫소리"
@@ -5599,7 +5599,7 @@ msgid "sns_nm_0544"
 msgstr "신기한 일이 있었어"
 
 msgid "sns_nm_0545"
-msgstr "이것이 5명의 발키레"
+msgstr "이것이 5명의 왈큐레"
 
 msgid "sns_nm_0546"
 msgstr "한밤중의 바다에서"
@@ -5974,7 +5974,7 @@ msgid "sns_nm_0702"
 msgstr "가희들이 본 린 민메이"
 
 msgid "sns_nm_0703"
-msgstr "발키레를 향한 장난"
+msgstr "왈큐레를 향한 장난"
 
 msgid "sns_nm_0704"
 msgstr "미라쥬의 절규"
@@ -5989,7 +5989,7 @@ msgid "sns_nm_0707"
 msgstr "도망치지 않는 용기"
 
 msgid "sns_nm_0708"
-msgstr "방과 후 발키레!"
+msgstr "방과 후 왈큐레!"
 
 msgid "sns_nm_0709"
 msgstr "영혼을 보내는 노래"
@@ -6157,7 +6157,7 @@ msgid "sns_nm_0763"
 msgstr "정면 승부"
 
 msgid "sns_nm_0764"
-msgstr "예전과 지금의 발키레"
+msgstr "예전과 지금의 왈큐레"
 
 msgid "sns_nm_0765"
 msgstr "귀여움 한가득"
@@ -6259,7 +6259,7 @@ msgid "sns_nm_0797"
 msgstr "갈매기들의 진실?"
 
 msgid "sns_nm_0798"
-msgstr "6번째 발키레"
+msgstr "6번째 왈큐레"
 
 msgid "sns_nm_0799"
 msgstr "행복한 버스데이"
@@ -6286,7 +6286,7 @@ msgid "sns_nm_0806"
 msgstr "전력을 다했던 그 시절"
 
 msgid "sns_nm_0807"
-msgstr "클레아와 리디, 그날의 발키레"
+msgstr "클레아와 리디, 그날의 왈큐레"
 
 msgid "sns_nm_0808"
 msgstr "최고의 크리스마스 라이브를"
@@ -6364,7 +6364,7 @@ msgid "sns_nm_0832"
 msgstr "라이브 후의 즐거움"
 
 msgid "sns_nm_0833"
-msgstr "발키레 나우!"
+msgstr "왈큐레 나우!"
 
 msgid "sns_nm_0834"
 msgstr "새로운 일면"
@@ -6628,7 +6628,7 @@ msgid "sns_nm_0921"
 msgstr "가무린의 선물"
 
 msgid "sns_nm_0922"
-msgstr "발키레의 발렌타인"
+msgstr "왈큐레의 발렌타인"
 
 msgid "sns_nm_0923"
 msgstr "셰릴과 란카의 발렌타인"
@@ -6850,7 +6850,7 @@ msgid "sns_nm_0995"
 msgstr "마키나의 큰일"
 
 msgid "sns_nm_0996"
-msgstr "다 함께 발키레"
+msgstr "다 함께 왈큐레"
 
 msgid "sns_nm_0997"
 msgstr "초시공 노래 대결!"
@@ -6958,7 +6958,7 @@ msgid "sns_nm_1031"
 msgstr "다시 한번, 그곳에서"
 
 msgid "sns_nm_1032"
-msgstr "발키레는 배신하지 않아"
+msgstr "왈큐레는 배신하지 않아"
 
 msgid "sns_nm_1033"
 msgstr "특별 출연"
@@ -7009,7 +7009,7 @@ msgid "sns_nm_1048"
 msgstr "분위기를 띄우고 싶어!"
 
 msgid "sns_nm_1049"
-msgstr "발키레의 아이디어"
+msgstr "왈큐레의 아이디어"
 
 msgid "sns_nm_1050"
 msgstr "라이브 당일"
@@ -7147,7 +7147,7 @@ msgid "sns_nm_1094"
 msgstr "작전, 개시"
 
 msgid "sns_nm_1095"
-msgstr "5명이서 발키레"
+msgstr "5명이서 왈큐레"
 
 msgid "sns_nm_1096"
 msgstr "함께 생각하자"

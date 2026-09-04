@@ -157,7 +157,11 @@ namespace XeApp.Game.Menu
 		protected virtual void StartQualitySettings()
 		{
 			m_antiAliasing = QualitySettings.antiAliasing;
+#if UNITY_STANDALONE_WIN && !UNITY_EDITOR
+			QualitySettings.antiAliasing = UMOPcRuntime.Settings.LowGraphics ? 0 : 8;
+#else
 			QualitySettings.antiAliasing = 8;
+#endif
 		}
 
 		// // RVA: 0xEDBF08 Offset: 0xEDBF08 VA: 0xEDBF08 Slot: 34

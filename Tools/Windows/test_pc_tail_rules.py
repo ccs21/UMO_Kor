@@ -23,6 +23,8 @@ def preprocess(text, defines):
             stack.append(stack[-1] and bool(eval(expression.strip(), {"__builtins__": {}})))
         elif stripped == "#endif":
             stack.pop()
+        elif stripped == "#else":
+            stack[-1] = stack[-2] and not stack[-1]
         elif stripped.startswith("#"):
             raise AssertionError("Unsupported directive: " + stripped)
         elif stack[-1]:
@@ -51,8 +53,13 @@ def main():
     pattern = r"if\s*\([^\n]*lastRNoteObject\.rNote\.noteInfo\.flick[^\n]*\)\s*res = RhythmGameConsts.NoteResult.Miss;"
     assert len(re.findall(pattern, android)) == 2
     assert len(re.findall(pattern, pc)) == 0
-    assert tokens(re.sub(pattern, "", android)) == tokens(pc), "Unrelated tail logic changed"
-    print("PASS: Android tail method unchanged; PC removes only two forced flick misses; timing/forceMiss retained.")
+    assert "if(true)" in tokens(pc), "PC slide tail must allow starting lane release"
+    assert "lastRNoteObject.IsJudged()" in pc
+    full = (ROOT / RELATIVE).read_text(encoding="utf-8-sig")
+    old = subprocess.check_output(["git", "show", BASELINE + ":" + RELATIVE], cwd=ROOT).decode("utf-8-sig")
+    neutral = lambda s: s.split("public void NeutralTouch(", 1)[1].split("public void CheckInputCallback(", 1)[0]
+    assert tokens(preprocess(neutral(full), {"UNITY_ANDROID"})) == tokens(preprocess(neutral(old), {"UNITY_ANDROID"}))
+    print("PASS: Android tail/hold methods unchanged; PC retains timing/forceMiss and allows cross-lane holds.")
 
 
 if __name__ == "__main__":
