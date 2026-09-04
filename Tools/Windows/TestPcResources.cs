@@ -41,6 +41,16 @@ class TestPcResources
         Assert(File.ReadAllText(Path.Combine(original, "data.json")) == source, "Original changed");
         Assert(File.ReadAllText(Path.Combine(backup, "Profile", "data.json")) == source, "Backup mismatch");
         Assert(File.ReadAllText(Path.Combine(root, "Profiles", id, "data.json")) == updated, "Refill mismatch");
-        Console.WriteLine("PASS: resource caps, unrelated fields, repeat refill, original refusal, test copy, backup. Fixture: " + root);
+        string originalBackup = PcTestResources.Refill(root, "123456789", true);
+        Assert(File.ReadAllText(Path.Combine(original, "data.json")) == updated, "Original opt-in refill failed");
+        Assert(File.ReadAllText(Path.Combine(originalBackup, "Profile", "data.json")) == source, "Original backup mismatch");
+        Assert(File.ReadAllText(Path.Combine(originalBackup, "data-before.json")) == source, "Atomic replacement backup mismatch");
+        Assert(File.ReadAllText(Path.Combine(originalBackup, "123456789_save.bin")) == "local-save-fixture", "Binary backup mismatch");
+        Assert(File.ReadAllText(Path.Combine(root, "SaveData", "123456789_save.bin")) == "local-save-fixture", "Local save changed");
+        string repeatedBackup = PcTestResources.Refill(root, "123456789", true);
+        Assert(repeatedBackup != originalBackup, "Repeated backup overwrote prior backup");
+        Assert(File.ReadAllText(Path.Combine(repeatedBackup, "Profile", "data.json")) == updated, "Repeat backup mismatch");
+        Assert(!File.Exists(Path.Combine(original, PcTestResources.Marker)), "Original converted into test profile");
+        Console.WriteLine("PASS: resource caps, unrelated fields, idempotence, opt-in original refill, unique backups, unchanged local save and profile ID. Fixture: " + root);
     }
 }

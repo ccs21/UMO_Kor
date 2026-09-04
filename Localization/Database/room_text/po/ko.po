@@ -30049,7 +30049,7 @@ msgid "message_10015_txt"
 msgstr "나는 내가 생각한 걸\n말했을 뿐이야"
 
 msgid "message_10016_txt"
-msgstr "그래도 셰릴시ェ리 말대로야!\n란란은 모두를 다치게 하지 않아!"
+msgstr "그래도 셰리셰리 말대로야!\n란란은 모두를 다치게 하지 않아!"
 
 msgid "message_10017_txt"
 msgstr "그야 란란이 모두를\n정말 좋아한다는 건 확실히 전해지고\n있으니까( *>ω< *)"

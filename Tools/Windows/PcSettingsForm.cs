@@ -53,7 +53,7 @@ public sealed class PcSettingsForm : Form
         var defaults = new Button { Text = "기본값 불러오기", Width = 180, Height = 34 };
         defaults.Click += delegate { Populate(new UMOPcSettings()); };
         actions.Controls.Add(save); actions.Controls.Add(defaults); panel.Controls.Add(actions);
-        var resources = new Button { Text = "검수용 테스트 프로필 / 자원 충전", Width = 380, Height = 36 };
+        var resources = new Button { Text = "검수용 자원 충전 (원본 세이브)", Width = 380, Height = 36 };
         resources.Click += delegate { PcTestResources.ShowDialog(this); };
         panel.Controls.Add(resources);
         try { Populate(UMOPcSettings.Load(path)); }

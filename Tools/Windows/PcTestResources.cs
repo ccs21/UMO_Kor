@@ -7,7 +7,7 @@ using System.Linq;
 using System.Web.Script.Serialization;
 using System.Windows.Forms;
 
-// Offline, opt-in test-copy editor. Never changes profile selection or unlock flags.
+// Offline, opt-in resource editor. Never changes profile selection or unlock flags.
 public static class PcTestResources
 {
     public const string Marker = "umo-test-profile.txt";
@@ -103,11 +103,11 @@ public static class PcTestResources
         Directory.Move(pending, dest);
         return id.ToString();
     }
-    public static string Refill(string root, string id)
+    public static string Refill(string root, string id, bool allowOriginal = false)
     {
         EnsureGameClosed();
         string profile = Profile(root, id);
-        if (!File.Exists(Path.Combine(profile, Marker))) throw new InvalidOperationException("테스트 복사본에서만 충전할 수 있습니다. 먼저 테스트 복사를 눌러 주세요.");
+        if (!allowOriginal && !File.Exists(Path.Combine(profile, Marker))) throw new InvalidOperationException("원본 세이브 직접 수정에 동의한 뒤 실행해 주세요.");
         string file = Path.Combine(profile, "data.json");
         string source = File.ReadAllText(file);
         string updated = RefillJson(source);
@@ -126,15 +126,19 @@ public static class PcTestResources
 
     public static void ShowDialog(IWin32Window owner)
     {
-        using (var form = new Form { Text = "검수용 자원 충전 — PC 테스트 복사본 전용", Width = 730, Height = 365, Font = new System.Drawing.Font("Malgun Gothic", 10) })
+        using (var form = new Form { Text = "검수용 자원 충전 — PC 원본 세이브", Width = 730, Height = 430, Font = new System.Drawing.Font("Malgun Gothic", 10) })
         {
             var panel = new FlowLayoutPanel { Dock = DockStyle.Fill, Padding = new Padding(12), FlowDirection = FlowDirection.TopDown, WrapContents = false };
             form.Controls.Add(panel);
-            panel.Controls.Add(new Label { Width = 680, Height = 70, Text = "게임을 종료한 뒤 사용하세요. 원본은 그대로 두고 복사한 프로필만 충전합니다.\n가정석 9,999 / UC 99,999,999 / 강화·발키리 소재 99,999 / 에피소드·의상 소재 9,999\n기존 초과 수량은 유지합니다. 튜토리얼·랭크·의상·플레이트 보유 상태는 해금하지 않습니다." });
+            panel.Controls.Add(new Label { Width = 680, Height = 90, Text = "게임을 종료한 뒤 실제 사용하는 원본 프로필을 선택하세요. 프로필 전환은 필요 없습니다.\n선택한 세이브를 직접 수정하며, 매번 수정 전 상태를 자동 백업합니다.\n가정석 9,999 / UC 99,999,999 / 강화·발키리 소재 99,999 / 에피소드·의상 소재 9,999\n기존 초과 수량은 유지합니다. 튜토리얼·랭크·의상·플레이트 보유 상태는 해금하지 않습니다." });
             var root = new TextBox { Width = 675, Text = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData) + "Low", "UtaMacross", "UtaMacross") };
             panel.Controls.Add(root);
             var choices = new ComboBox { Width = 675, DropDownStyle = ComboBoxStyle.DropDownList };
             panel.Controls.Add(choices);
+            var consent = new CheckBox { Width = 675, Height = 30, Text = "선택한 원본 세이브에 자원 수치를 직접 적용하는 데 동의합니다." };
+            panel.Controls.Add(consent);
+            choices.SelectedIndexChanged += delegate { consent.Checked = false; };
+            root.TextChanged += delegate { choices.Items.Clear(); consent.Checked = false; };
             Action reload = delegate {
                 choices.Items.Clear();
                 string folder = Path.Combine(root.Text, "Profiles");
@@ -142,30 +146,26 @@ public static class PcTestResources
                 foreach (var dir in Directory.GetDirectories(folder).OrderBy(x => x))
                 {
                     int id;
-                    if (int.TryParse(Path.GetFileName(dir), out id) && id < 900000000 && File.Exists(Path.Combine(dir, "data.json")))
+                    if (int.TryParse(Path.GetFileName(dir), out id) && id >= 100000000 && id < 900000000 && File.Exists(Path.Combine(dir, "data.json")))
                         choices.Items.Add(Path.GetFileName(dir) + (File.Exists(Path.Combine(dir, Marker)) ? " [테스트]" : " [원본]"));
                 }
-                if (choices.Items.Count > 0) choices.SelectedIndex = 0;
+                // No automatic selection: never assume the first profile is active.
             };
             var buttons = new FlowLayoutPanel { Width = 680, Height = 43 };
             panel.Controls.Add(buttons);
             var refresh = new Button { Text = "목록 새로고침", Width = 150, Height = 35 };
-            var copy = new Button { Text = "선택 프로필 테스트 복사", Width = 235, Height = 35 };
-            var refill = new Button { Text = "소재·재화 최대 충전", Width = 230, Height = 35 };
-            buttons.Controls.AddRange(new Control[] { refresh, copy, refill });
+            var refill = new Button { Text = "선택 세이브에 최대 충전", Width = 280, Height = 35 };
+            buttons.Controls.AddRange(new Control[] { refresh, refill });
             Action<Action> safely = action => { try { action(); } catch (Exception e) { MessageBox.Show(form, e.Message, "작업 중단", MessageBoxButtons.OK, MessageBoxIcon.Warning); } };
             refresh.Click += delegate { safely(reload); };
-            copy.Click += delegate { safely(delegate {
-                if (choices.SelectedItem == null) return;
-                string id = CreateTestCopy(root.Text, choices.Text.Split(' ')[0]);
-                reload(); choices.SelectedItem = id + " [테스트]";
-                MessageBox.Show(form, "테스트 복사본: " + id + "\n충전 후 게임의 프로필 선택 화면에서 이 번호를 선택하세요. 원본 선택 상태는 변경하지 않았습니다.");
-            }); };
             refill.Click += delegate { safely(delegate {
-                if (choices.SelectedItem == null) return;
-                if (MessageBox.Show(form, choices.Text + "에 자원을 충전할까요? 기존 상태를 먼저 백업합니다.", "자원 충전", MessageBoxButtons.YesNo) != DialogResult.Yes) return;
-                string backup = Refill(root.Text, choices.Text.Split(' ')[0]);
-                MessageBox.Show(form, "충전했습니다. 게임에서 해당 테스트 프로필을 선택하세요.\n백업: " + backup);
+                if (choices.SelectedItem == null) throw new InvalidOperationException("충전할 프로필을 선택해 주세요.");
+                if (!consent.Checked) throw new InvalidOperationException("원본 세이브 직접 수정 동의란을 확인해 주세요.");
+                string id = choices.Text.Split(' ')[0];
+                if (MessageBox.Show(form, choices.Text + "의 자원 수치를 직접 변경할까요?\n대상: " + Path.Combine(Profile(root.Text, id), "data.json") + "\n변경 전 프로필과 로컬 세이브를 백업합니다.", "원본 세이브 변경 확인", MessageBoxButtons.YesNo, MessageBoxIcon.Warning, MessageBoxDefaultButton.Button2) != DialogResult.Yes) return;
+                string backup = Refill(root.Text, id, true);
+                consent.Checked = false;
+                MessageBox.Show(form, "충전했습니다. 같은 원본 프로필로 게임을 다시 실행하세요.\n프로필 번호와 진행 상태는 변경하지 않았습니다.\n백업: " + backup);
             }); };
             panel.Controls.Add(new Label { Width = 675, Height = 55, Text = "경로는 Profiles와 SaveData 폴더가 들어 있는 저장 루트입니다.\n매번 충전 전 PcTestBackups에 백업합니다. 앱/Android 세이브에는 적용하지 마세요." });
             safely(reload);
