@@ -1,6 +1,7 @@
 """Check the APK's embedded Korean TextAsset against the committed language pack."""
 import argparse
 import hashlib
+import re
 from pathlib import Path
 from zipfile import ZipFile
 import UnityPy
@@ -13,7 +14,10 @@ expected = (root / "Unity/Assets/Resources/Localizations/Database/ko.bytes").rea
 matches = []
 with ZipFile(args.apk) as archive:
     for name in archive.namelist():
-        if name.startswith("assets/bin/Data/") and name.endswith(".assets"):
+        # Unity 2018 Android commonly names serialized files by GUID, without
+        # an .assets extension. Also handle packed builds (data.unity3d).
+        leaf = name.rsplit("/", 1)[-1]
+        if name.startswith("assets/bin/Data/") and (name.endswith((".assets", ".unity3d")) or re.fullmatch(r"[0-9a-fA-F]{32}", leaf)):
             env = UnityPy.load(archive.read(name))
             for obj in env.objects:
                 if obj.type.name != "TextAsset":
