@@ -5,8 +5,8 @@
 - 패키지: `com.ccs21.umokor`
 - 표시 이름: 우타마크로스
 - 첫 베타: `1.1.16-ko-beta.1`, versionCode `10001`
-- 현재 베타: `1.1.16-ko-beta.4`, versionCode `10004`
-- Git 태그: `v1.1.16-ko-beta.4`
+- 현재 베타: `1.1.16-ko-beta.5`, versionCode `10005`
+- Git 태그: `v1.1.16-ko-beta.5`
 - 서명 alias: `umo-kor-release`
 
 후속 릴리스에서 앱 ID와 서명 키를 바꾸지 말고 versionCode를 증가시키세요. 이미지 번역 업데이트에 세이브 삭제나 데이터 경로 변경을 섞지 않습니다. 원본 일본어판 및 `com.ccs21.UMOKorTest` 개발판과는 별도 앱입니다. 기존 설치본을 제거하도록 안내하지 마세요.
@@ -37,7 +37,7 @@ Unity Hub에서 프로젝트 `Unity`를 한 번 열어 임포트를 마치고 �
 
 이후에는 **`-InitializeSigning`을 빼고 같은 서명 폴더**로 실행합니다. 이미 키가 있는 경우 초기화는 실패하게 되어 있습니다. 새 PC에서 임의로 새 키를 만들면 기존 사용자는 덮어 업데이트할 수 없습니다.
 
-출력: `Unity/Build/Android/UMO_Kor-1.1.16-ko-beta.4.apk`. 준비 로그는 `Logs/android-prepare.log`, 빌드 로그는 `Logs/android-release.log`입니다. 공개 빌드는 `BuildOptions.None`이며 서명 정보가 없으면 중단됩니다. 개발용 `BuildAndroid`/`BuildParallelTest` 결과를 릴리스에 올리지 마세요.
+출력: `Unity/Build/Android/UMO_Kor-1.1.16-ko-beta.5.apk`. 준비 로그는 `Logs/android-prepare.log`, 빌드 로그는 `Logs/android-release.log`입니다. 공개 빌드는 `BuildOptions.None`이며 서명 정보가 없으면 중단됩니다. 개발용 `BuildAndroid`/`BuildParallelTest` 결과를 릴리스에 올리지 마세요.
 
 ## 서명 키 보관 및 복구
 
@@ -55,7 +55,7 @@ SDK Build Tools의 `apksigner.bat verify --verbose --print-certs <APK>`로 서�
 
 ```powershell
 .\Tools\Build\Verify-AndroidRelease.ps1 `
-  -Apk '.\Unity\Build\Android\UMO_Kor-1.1.16-ko-beta.4.apk' `
+  -Apk '.\Unity\Build\Android\UMO_Kor-1.1.16-ko-beta.5.apk' `
   -BuildTools 'D:\Android\Sdk\build-tools\28.0.3' `
   -Jdk 'C:\Program Files\Unity\Hub\Editor\2018.4.36f1\Editor\Data\PlaybackEngines\AndroidPlayer\OpenJDK'
 ```

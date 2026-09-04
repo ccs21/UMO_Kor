@@ -74,7 +74,9 @@ namespace XeSys
 
 		public Text ReplaceTmpText(TextMeshProUGUI Text)
 		{
-			if(RuntimeSettings.CurrentSettings.Language == "zh_Hans")
+			// The bundled TMP atlas has no Hangul. Reuse the system font used
+			// by translated names/dialogue, on both Android and Windows.
+			if(RuntimeSettings.CurrentSettings.Language == "zh_Hans" || RuntimeSettings.CurrentSettings.Language == "ko")
 			{
 				GameObject go = new GameObject(Text.name);
 				Text t = go.AddComponent<Text>();
