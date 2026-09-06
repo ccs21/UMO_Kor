@@ -9,6 +9,8 @@ UtaMacrossDataArchive*.zip
 /Tools/Data/
 /outputs/
 /BuildTools/
+/ServerData/
+/Archives/
 /Logs/
 *.apk
 *.aab

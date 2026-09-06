@@ -10,5 +10,10 @@ New-Item -ItemType Directory -Path $packageDirectory -Force | Out-Null
 
 Copy-Item -LiteralPath (Join-Path $PSScriptRoot 'PC_BUILD_ASSISTANT.md') -Destination (Join-Path $packageDirectory 'README_KO.md') -Force
 $zip = Join-Path $OutputDirectory 'UMO_PC_Build_Assistant.zip'
-Compress-Archive -Path (Join-Path $packageDirectory '*') -DestinationPath $zip -CompressionLevel Optimal -Force
+$packageFiles = @(
+    (Join-Path $packageDirectory 'UMO_PC_Build_Assistant.exe'),
+    (Join-Path $packageDirectory 'UMO_PC_Build_Assistant.exe.config'),
+    (Join-Path $packageDirectory 'README_KO.md')
+)
+Compress-Archive -LiteralPath $packageFiles -DestinationPath $zip -CompressionLevel Optimal -Force
 Write-Output "Published: $zip"

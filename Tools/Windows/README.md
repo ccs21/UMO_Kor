@@ -1,5 +1,21 @@
 # Windows 에셋 진단
 
+## Android 데이터용 PC 서버
+
+`PcServerAssistantForm.cs`는 Unity나 경로 입력 없이 Android 추가 데이터를 전송하는
+한국어 Windows 서버다. 사용자는 프로그램의 `Archives` 폴더에 원본 데이터 ZIP과
+PC 패치 ZIP을 그대로 넣고 자동 설치 버튼만 누른다. 빌드·테스트·배포 명령은 다음과 같다.
+
+```powershell
+.\Tools\Windows\Test-PcServerAssistant.ps1
+.\Tools\Windows\Publish-PcServerAssistant.ps1
+```
+
+배포물과 Git에는 원본 게임 데이터, 압축 파일, 생성된 `ServerData`를 포함하지 않는다.
+서버는 TCP 8000으로 파일을 스트리밍하고 UDP 8001로 `UMO` 자동 탐색 신호를 보낸다.
+HTTP 경로는 `ServerData` 밖으로 벗어나지 못하게 검사하며 단일 byte range도 지원한다.
+자세한 사용자 안내는 `PC_SERVER.md`를 참고한다.
+
 ## 베타 배포 시점 상태
 
 2026-09-03 전체 아카이브 38,553개 파일 검사·캐시 준비가 `failures=0`으로
