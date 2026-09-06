@@ -5127,8 +5127,8 @@ public class ILDKBCLAFPB
 				if(!IPHAEFKCNMN.CHDGLBBFEKH_IsEqual(GLANNFOPMDO_Save, CGFIFBHIBCF_SavedCache))
 				{
 					UnityEngine.Debug.LogError("Local save was not copied correctly");
-					File.WriteAllText(Application.persistentDataPath + "/Local1.txt", GLANNFOPMDO_Save.EJCOJCGIBNG_ToJson());
-					File.WriteAllText(Application.persistentDataPath + "/Local2.txt", CGFIFBHIBCF_SavedCache.EJCOJCGIBNG_ToJson());
+					File.WriteAllText(UMOPcSavePath.Root + "/Local1.txt", GLANNFOPMDO_Save.EJCOJCGIBNG_ToJson());
+					File.WriteAllText(UMOPcSavePath.Root + "/Local2.txt", CGFIFBHIBCF_SavedCache.EJCOJCGIBNG_ToJson());
 				}
 				IPHAEFKCNMN t = new IPHAEFKCNMN();
 				GLANNFOPMDO_Save.ODDIHGPONFL_Copy(t);
@@ -5136,8 +5136,8 @@ public class ILDKBCLAFPB
 				if(!IPHAEFKCNMN.CHDGLBBFEKH_IsEqual(GLANNFOPMDO_Save, t))
 				{
 					UnityEngine.Debug.LogError("Local save was not save correctly");
-					File.WriteAllText(Application.persistentDataPath + "/Local1.txt", GLANNFOPMDO_Save.EJCOJCGIBNG_ToJson());
-					File.WriteAllText(Application.persistentDataPath + "/Local2.txt", t.EJCOJCGIBNG_ToJson());
+					File.WriteAllText(UMOPcSavePath.Root + "/Local1.txt", GLANNFOPMDO_Save.EJCOJCGIBNG_ToJson());
+					File.WriteAllText(UMOPcSavePath.Root + "/Local2.txt", t.EJCOJCGIBNG_ToJson());
 				}
 			}
 			return true;
@@ -5186,14 +5186,14 @@ public class ILDKBCLAFPB
 	// // RVA: 0x201B284 Offset: 0x201B284 VA: 0x201B284
 	private string KJEOLHCEDJI_GetSaveDirectory()
 	{
-		return Application.persistentDataPath + "/SaveData";
+		return UMOPcSavePath.Root + "/SaveData";
 	}
 
 	// // RVA: 0x201A538 Offset: 0x201A538 VA: 0x201A538
 	private string DMCLJKABBCJ_GetSavePath()
     {
 		int playerId = UMO_PlayerPrefs.GetInt("cpid", 0);
-        return Application.persistentDataPath + "/SaveData/"+playerId+"_save.bin";
+        return UMOPcSavePath.Root + "/SaveData/"+playerId+"_save.bin";
     }
 	
 	// // RVA: 0x201AE10 Offset: 0x201AE10 VA: 0x201AE10

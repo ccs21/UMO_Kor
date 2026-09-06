@@ -14,7 +14,7 @@ public static class UMOPcShutdownTrace
     [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.BeforeSceneLoad)]
     private static void Initialize()
     {
-        path = Path.Combine(Application.persistentDataPath, "pc-shutdown-trace.log");
+        path = Path.Combine(UMOPcSavePath.Root, "pc-shutdown-trace.log");
         Mark("START " + DateTime.UtcNow.ToString("O"));
         Application.quitting += () => Mark("APPLICATION QUITTING");
     }

@@ -28,13 +28,13 @@ public class NDABOOOOENC
 	// // RVA: 0x1ADB7EC Offset: 0x1ADB7EC VA: 0x1ADB7EC
 	private string DMCLJKABBCJ_GetSavePath()
 	{
-		return Application.persistentDataPath + "/SaveData/gpgs.bin";
+		return UMOPcSavePath.Root + "/SaveData/gpgs.bin";
 	}
 
 	// // RVA: 0x1ADB854 Offset: 0x1ADB854 VA: 0x1ADB854
 	private string KJEOLHCEDJI_GetSaveDirectory()
 	{
-		return Application.persistentDataPath + "/SaveData";
+		return UMOPcSavePath.Root + "/SaveData";
 	}
 
 	// // RVA: 0x1ADB8BC Offset: 0x1ADB8BC VA: 0x1ADB8BC

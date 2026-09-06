@@ -235,8 +235,8 @@ public class PIGBKEIAMPE_NetFriendManager
         BFDEHIANFOG = new List<IBIGBMDANNM>(200);
         JFDPPPBMCBK_BlacklistedUsersId = new List<int>(50);
         KAMNNDELNHG = new List<CDDNFEDGCGG>(20);
-        PEHPMOBIOJF_SaveDataPath = Application.persistentDataPath + "/SaveData";
-        CCJEGGGJJPO_FcaFile = Application.persistentDataPath + "/fca";
+        PEHPMOBIOJF_SaveDataPath = UMOPcSavePath.Root + "/SaveData";
+        CCJEGGGJJPO_FcaFile = UMOPcSavePath.Root + "/fca";
     }
 
 	// // RVA: 0x16D4AAC Offset: 0x16D4AAC VA: 0x16D4AAC

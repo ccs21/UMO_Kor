@@ -408,7 +408,7 @@ namespace ExternLib
 
 		public static bool CheckSaveFile(int userId, string fileName, string error_filename, EDOHBJAPLPF_JsonData replaceIfDiff = null)
 		{
-			string path = Application.persistentDataPath + "/Profiles/" + playerAccount.userId.ToString() + "/" +fileName;
+			string path = UMOPcSavePath.Root + "/Profiles/" + playerAccount.userId.ToString() + "/" +fileName;
 			string jsonFile = File.ReadAllText(path);
 
 			// reload and recreate json to remove forced var init in load
@@ -424,7 +424,7 @@ namespace ExternLib
 			SerializeServerSave(newData_, newJson);
 			string newFileName = error_filename;
 			SaveAccountServerData(newJson, userId, newFileName);
-			path = Application.persistentDataPath + "/Profiles/" + playerAccount.userId.ToString() + "/" +newFileName;
+			path = UMOPcSavePath.Root + "/Profiles/" + playerAccount.userId.ToString() + "/" +newFileName;
 			string jsonFile2 = File.ReadAllText(path);
 			if(jsonFile == jsonFile2)
 			{

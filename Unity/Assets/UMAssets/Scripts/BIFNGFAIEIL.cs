@@ -20,7 +20,7 @@ public class BIFNGFAIEIL
 		HHCJCDFCLOB_Instance = this;
 		CIOECGOMILE_NetPlayerDataManager.HHCJCDFCLOB_Instance.BJCPJPLPDIH.Add(LEPNMDBJAIE);
 		CIOECGOMILE_NetPlayerDataManager.HHCJCDFCLOB_Instance.BFHJLPDOEPB.Add(KGMNAMKNADC);
-		BOFPFGNHBAJ_SavePath = Application.persistentDataPath + "/SaveData";
+		BOFPFGNHBAJ_SavePath = UMOPcSavePath.Root + "/SaveData";
 		if (!Directory.Exists(BOFPFGNHBAJ_SavePath))
 			Directory.CreateDirectory(BOFPFGNHBAJ_SavePath);
 		ELLBAAFKDCH_Filename = BOFPFGNHBAJ_SavePath + "/snscache.bin";
@@ -29,7 +29,7 @@ public class BIFNGFAIEIL
 	//// RVA: 0xC801A4 Offset: 0xC801A4 VA: 0xC801A4
 	public static void BLICHJOLKAO_DeleteCache()
 	{
-		string path = Application.persistentDataPath + "/SaveData" + "/snscache.bin";
+		string path = UMOPcSavePath.Root + "/SaveData" + "/snscache.bin";
 		if (File.Exists(path))
 			File.Delete(path);
 	}

@@ -461,7 +461,7 @@ public class PKECIDPBEFL
     {
         BEEINMBNKNM_Encryption.GKBODMNBFJM(0x299ce1af, BitConverter.GetBytes(NKGJPJPHLIF_SakashoManager.HHCJCDFCLOB_Instance.MDAMJIGBOLD_PlayerId));
         StringBuilder str = new StringBuilder();
-        str.Append(Application.persistentDataPath);
+        str.Append(UMOPcSavePath.Root);
         str.AppendFormat("/61/{0:x}", NKGJPJPHLIF_SakashoManager.HHCJCDFCLOB_Instance.MDAMJIGBOLD_PlayerId);
         return str.ToString();
     }
@@ -510,7 +510,7 @@ public class PKECIDPBEFL
 	public static void GDELLNOBNDM_DeleteCache()
 	{
 		StringBuilder str = new StringBuilder();
-		str.Append(Application.persistentDataPath);
+		str.Append(UMOPcSavePath.Root);
 		str.Append("/61");
 		if (Directory.Exists(str.ToString()))
 			Directory.Delete(str.ToString(), true);

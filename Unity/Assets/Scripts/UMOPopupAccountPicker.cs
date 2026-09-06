@@ -37,7 +37,7 @@ public class UMOPopupAccountPicker : UIBehaviour, IPopupContent
         accountIdsList.Add(-3);
         accountNamesList.Add("");
         #endif
-        string path = Application.persistentDataPath + "/Profiles/";
+        string path = UMOPcSavePath.Root + "/Profiles/";
         if(Directory.Exists(path))
         {
             string[] dirs = Directory.GetDirectories(path);
@@ -115,11 +115,11 @@ public class UMOPopupAccountPicker : UIBehaviour, IPopupContent
             {
                 NameEntry.ShowPlayerNameEntry(accountNamesList[idx], (string n) =>
                 {
-                    string path = Application.persistentDataPath + "/Profiles/" + Id;
+                    string path = UMOPcSavePath.Root + "/Profiles/" + Id;
                     int newId = ExternLib.LibSakasho.CreateAccountId(false);
-                    string path2 = Application.persistentDataPath + "/Profiles/" + newId;
+                    string path2 = UMOPcSavePath.Root + "/Profiles/" + newId;
                     Directory.CreateDirectory(path2);
-                    File.Copy(Application.persistentDataPath + "/SaveData/" + Id + "_save.bin", Application.persistentDataPath + "/SaveData/" + newId + "_save.bin");
+                    File.Copy(UMOPcSavePath.Root + "/SaveData/" + Id + "_save.bin", UMOPcSavePath.Root + "/SaveData/" + newId + "_save.bin");
                     EDOHBJAPLPF_JsonData d = ExternLib.LibSakasho.GetAccountServerData(Id);
                     if(d != null)
                     {
@@ -155,9 +155,9 @@ public class UMOPopupAccountPicker : UIBehaviour, IPopupContent
                     int IdPath = Id;
                     if(Id == -2)
                         IdPath = 999999999;
-                    string path = Application.persistentDataPath + "/Profiles/" + IdPath;
+                    string path = UMOPcSavePath.Root + "/Profiles/" + IdPath;
                     Directory.Delete(path, true);
-                    File.Delete(Application.persistentDataPath + "/SaveData/" + IdPath + "_save.bin");
+                    File.Delete(UMOPcSavePath.Root + "/SaveData/" + IdPath + "_save.bin");
                     if(Id > 0)
                     {
                         accountIdsList.RemoveAt(idx);
@@ -177,20 +177,20 @@ public class UMOPopupAccountPicker : UIBehaviour, IPopupContent
     public void OnSaveProfile(int Id)
     {
         #if UNITY_ANDROID
-        string path = Application.persistentDataPath + "/Profiles/" + Id + "/data.json";
+        string path = UMOPcSavePath.Root + "/Profiles/" + Id + "/data.json";
         AndroidUtils.OnShare2(path, "Save Profile", "", "application/octet-stream");
         #else
-        Application.OpenURL(Application.persistentDataPath + "/Profiles/" + Id + "/");
+        Application.OpenURL(UMOPcSavePath.Root + "/Profiles/" + Id + "/");
         #endif
     }
 
     public void OnSaveOption(int Id)
     {
         #if UNITY_ANDROID
-        string path = Application.persistentDataPath + "/SaveData/" + Id + "_save.bin";
+        string path = UMOPcSavePath.Root + "/SaveData/" + Id + "_save.bin";
         AndroidUtils.OnShare2(path, "Save Profile", "", "application/octet-stream");
         #else
-        Application.OpenURL(Application.persistentDataPath + "/SaveData/");
+        Application.OpenURL(UMOPcSavePath.Root + "/SaveData/");
         #endif
     }
 
@@ -436,12 +436,12 @@ public class UMOPopupAccountPicker : UIBehaviour, IPopupContent
                 break;
         }
         int newId = accountId;
-        string path2 = Application.persistentDataPath + "/Profiles/" + accountId;
+        string path2 = UMOPcSavePath.Root + "/Profiles/" + accountId;
         Directory.CreateDirectory(path2);
-        Directory.CreateDirectory(Application.persistentDataPath + "/SaveData/");
-        File.WriteAllBytes(Application.persistentDataPath + "/Profiles/" + accountId + "/data.json", readData);
+        Directory.CreateDirectory(UMOPcSavePath.Root + "/SaveData/");
+        File.WriteAllBytes(UMOPcSavePath.Root + "/Profiles/" + accountId + "/data.json", readData);
         if(readOptionData != null)
-            File.WriteAllBytes(Application.persistentDataPath + "/SaveData/" + accountId + "_save.bin", readOptionData);
+            File.WriteAllBytes(UMOPcSavePath.Root + "/SaveData/" + accountId + "_save.bin", readOptionData);
         EDOHBJAPLPF_JsonData d = ExternLib.LibSakasho.GetAccountServerData(accountId);
         if(d != null)
         {
