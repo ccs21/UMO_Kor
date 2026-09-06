@@ -64,7 +64,15 @@ public class UMOPopupConfig : UIBehaviour, IPopupContent
         {
             RuntimeSettings.CurrentSettings.ForcePerfectNote = b;
         });
-        
+
+        AddToggleButton(ref y, "Live : Disable prism diva unique check", () =>
+        {
+            return RuntimeSettings.CurrentSettings.DisablePrismDivaUniqueCheck;
+        }, (bool b) =>
+        {
+            RuntimeSettings.CurrentSettings.DisablePrismDivaUniqueCheck = b;
+        });
+
         AddToggleButton(ref y, "SLive : Disable note sound", () =>
         {
             return RuntimeSettings.CurrentSettings.DisableNoteSound;
