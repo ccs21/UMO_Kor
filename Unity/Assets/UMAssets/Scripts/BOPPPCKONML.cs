@@ -285,7 +285,7 @@ public class BOPPPCKONML
 	{
 		return string.Concat(new object[4]
 		{
-			Application.persistentDataPath, "/60/", NKGJPJPHLIF_SakashoManager.HHCJCDFCLOB_Instance.MDAMJIGBOLD_PlayerId, ".bin"
+			UMOPcSavePath.Root, "/60/", NKGJPJPHLIF_SakashoManager.HHCJCDFCLOB_Instance.MDAMJIGBOLD_PlayerId, ".bin"
 		});
 	}
 

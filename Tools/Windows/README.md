@@ -12,7 +12,7 @@
 ## 수정 범위
 
 - 게임 콘텐츠: 실행 파일 옆 `Data/android`, `Data/db`.
-- 세이브/프로필: 원본과 동일한 `AppData/LocalLow/UtaMacross/UtaMacross` 유지.
+- 세이브/프로필: 실행 파일 옆 `UserData`. 기존 LocalLow 세이브는 첫 실행 때 자동 복사한다.
 - `UMOStandaloneBundleConverter`는 PC에서 메모리로 읽은 UnityFS 번들만 변환한다.
   원본 아카이브 파일과 Android 빌드의 로드 경로는 변경하지 않는다.
 - UnityFS의 LZ4 압축 스트림에서 `2018.*` 문자열 뒤 바이트를 직접 바꾸면

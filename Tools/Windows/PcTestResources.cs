@@ -131,7 +131,7 @@ public static class PcTestResources
             var panel = new FlowLayoutPanel { Dock = DockStyle.Fill, Padding = new Padding(12), FlowDirection = FlowDirection.TopDown, WrapContents = false };
             form.Controls.Add(panel);
             panel.Controls.Add(new Label { Width = 680, Height = 90, Text = "게임을 종료한 뒤 실제 사용하는 원본 프로필을 선택하세요. 프로필 전환은 필요 없습니다.\n선택한 세이브를 직접 수정하며, 매번 수정 전 상태를 자동 백업합니다.\n가정석 9,999 / UC 99,999,999 / 강화·발키리 소재 99,999 / 에피소드·의상 소재 9,999\n기존 초과 수량은 유지합니다. 튜토리얼·랭크·의상·플레이트 보유 상태는 해금하지 않습니다." });
-            var root = new TextBox { Width = 675, Text = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData) + "Low", "UtaMacross", "UtaMacross") };
+            var root = new TextBox { Width = 675, Text = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "UserData") };
             panel.Controls.Add(root);
             var choices = new ComboBox { Width = 675, DropDownStyle = ComboBoxStyle.DropDownList };
             panel.Controls.Add(choices);

@@ -53,13 +53,13 @@ public class JDDGPJDKHNE
 	// // RVA: 0x1C3095C Offset: 0x1C3095C VA: 0x1C3095C
 	private string MKKOKHPMCHB()
 	{
-		return Application.persistentDataPath + "/40/001";
+		return UMOPcSavePath.Root + "/40/001";
 	}
 
 	// // RVA: 0x1C309C4 Offset: 0x1C309C4 VA: 0x1C309C4
 	private string AOJAEBGJMGJ()
 	{
-		return Application.persistentDataPath + "/40/002";
+		return UMOPcSavePath.Root + "/40/002";
 	}
 
 	// // RVA: 0x1C30A2C Offset: 0x1C30A2C VA: 0x1C30A2C

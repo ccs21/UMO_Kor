@@ -201,9 +201,9 @@ public class UMOPopupConfig : UIBehaviour, IPopupContent
         AddButton(ref y, "Debug : Save previous session log file", "Download", () =>
         {
             #if UNITY_ANDROID
-            AndroidUtils.OnShare2(Application.persistentDataPath + "/Log_prev.txt", "Download log", "", "application/octet-stream");
+            AndroidUtils.OnShare2(UMOPcSavePath.Root + "/Log_prev.txt", "Download log", "", "application/octet-stream");
             #else
-            Application.OpenURL(Application.persistentDataPath);
+            Application.OpenURL(UMOPcSavePath.Root);
             #endif
         });
         AddToggleButton(ref y, "Debug : Dump string used info in log (for translation)", () =>

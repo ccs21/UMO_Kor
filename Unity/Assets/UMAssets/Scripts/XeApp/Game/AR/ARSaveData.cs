@@ -84,7 +84,7 @@ namespace XeApp.Game.AR
 		public bool Load()
 		{
 			Reset();
-			string p = Application.persistentDataPath + "/SaveData/arsd.bin";
+			string p = UMOPcSavePath.Root + "/SaveData/arsd.bin";
 			if(File.Exists(p))
 			{
 				byte[] bs = File.ReadAllBytes(p);
@@ -135,7 +135,7 @@ namespace XeApp.Game.AR
 			{
 				bs[i] ^= 215;
 			}
-			string p = Application.persistentDataPath + "/SaveData/arsd.bin";
+			string p = UMOPcSavePath.Root + "/SaveData/arsd.bin";
 			byte[] buffer = new byte[bs.Length];
 			using(MemoryStream ms = new MemoryStream(buffer))
 			{

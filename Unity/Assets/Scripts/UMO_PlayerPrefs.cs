@@ -6,7 +6,7 @@ public static class UMO_PlayerPrefs
 {
     static Dictionary<string, int> intValues = new Dictionary<string, int>();
     static Dictionary<string, string> stringValues = new Dictionary<string, string>();
-    static string path = Application.persistentDataPath + "/pref.json";
+    static string path = UMOPcSavePath.Root + "/pref.json";
     static bool isLoaded = false;
     static int version = 1;
 

@@ -75,6 +75,24 @@ PC가 없으면 원본 안내의 인터넷 다운로드 방식도 가능합니�
 
 개발자용 절차입니다. 독립 실행 파일을 만들 수 있지만 일부 그래픽 오류가 남아 있습니다. PC 텍스처 변환과 PC 전용 입력 변경은 Android에 적용하지 않습니다.
 
+### 초보자용 PC 빌드 도우미
+
+명령어를 직접 입력하기 어려운 사용자는 `UMO_PC_Build_Assistant.exe`와 함께 제공되는 `.config` 파일을 같은 폴더에 둔 뒤 EXE를 실행합니다. **도우미가 들어 있는 폴더가 기본 작업 폴더**가 되므로, 쓰기 가능한 빈 폴더에서 시작하고 수십 GB 이상의 여유 공간을 확보하세요.
+
+도우미는 다섯 페이지를 순서대로 안내합니다.
+
+1. Git, Python, Unity 2018.4.36f1 및 .NET Framework 컴파일러를 자동 검사합니다. 없는 프로그램은 화면의 다운로드 버튼으로 설치하고 `설치 상태 새로고침`을 누릅니다.
+2. `필요 패키지 설치`를 누르면 전용 Python 환경과 정확한 버전의 변환 패키지를 자동 설치합니다.
+3. `Git 클론 및 PC 빌드`를 누르면 한국어판 `develop` 브랜치를 받고 Unity 빌드와 기본 결과 검사를 수행합니다.
+4. `ZIP 파일 넣을 폴더 열기`를 누르고 `UtaMacrossDataArchive.zip`과 `UtaMacrossDataArchivePCPatch.zip`을 열린 폴더에 복사합니다. 압축을 직접 풀 필요 없이 `새로고침 및 자동 배치`를 누릅니다.
+5. `텍스처 변환 및 최종 검증`을 누릅니다. 완료되면 `게임 폴더 열기 및 키 설정` 버튼이 활성화되고, 이 버튼은 완성된 게임 폴더와 키 설정 프로그램을 함께 엽니다.
+
+각 페이지의 검사가 통과해야 `다음` 버튼이 활성화됩니다. ZIP과 변환 결과는 용량이 크므로 작업 중 도우미를 종료하거나 PC를 절전 상태로 만들지 마세요. [도우미 상세 안내](Tools/Windows/PC_BUILD_ASSISTANT.md)와 아래 개발자용 수동 절차도 함께 유지합니다.
+
+Python 구성 요소 설치, 소스 클론·Unity 빌드, 이미지 변환·검증 중에는 진행률 막대와 현재 단계가 표시됩니다. 변환 단계는 처리 파일 수를 기준으로 실제 진행률을 표시합니다.
+
+Python 설치 시 **Add python.exe to PATH**, `pip`, `py launcher`를 포함하고 64비트 Python 3.10 이상을 사용합니다. Unity는 정확히 **2018.4.36f1**과 Windows Mono 빌드 지원을 설치하고, 한 번 직접 실행해 로그인·라이선스 활성화를 끝낸 뒤 닫습니다. 자세한 설치 화면별 주의사항은 위 상세 안내를 확인하세요.
+
 ### 필요한 프로그램
 
 - Windows 64비트 및 [Git for Windows](https://git-scm.com/download/win).
@@ -136,7 +154,7 @@ Unity/Build/Windows/UMO_Kor/
 4. 마지막 `Done: bundles=... failures=0`을 확인합니다. 실패 목록은 `Data/WindowsCache/last-report.json`에 기록됩니다. 실패 원인을 해결한 뒤 재실행하면 정상 캐시는 재사용됩니다. 변환 검사 통과가 모든 화면의 정상 표시를 보증하지는 않습니다.
 5. `UMO_Kor.exe`를 실행합니다. EXE만 옮기지 말고 DLL과 데이터 폴더를 함께 유지하세요. 경로를 요청하면 `android`와 `db`가 들어 있는 **Data**를 선택합니다.
 
-PC 세이브는 **`%USERPROFILE%/AppData/LocalLow/UtaMacross/UtaMacross`**에 유지됩니다. 실행 파일 옆 Data와 별개이며 업데이트할 때 둘 다 삭제하지 마세요. 기존 PC 프로필을 사용할 수 있으므로 테스트 전에 백업하세요. Android와 PC 사이의 세이브 이전은 이번 베타 지원 범위가 아닙니다.
+PC 세이브는 **게임 실행 파일 옆 `UserData` 폴더**에 저장됩니다. 기존 `%USERPROFILE%/AppData/LocalLow/UtaMacross/UtaMacross` 세이브는 새 PC판을 처음 실행할 때 `UserData`로 자동 복사하며, 이미 새 위치에 있는 파일은 덮어쓰지 않습니다. 게임을 옮길 때는 실행 파일과 `UserData` 폴더를 함께 옮기고, 업데이트할 때 `UserData`를 삭제하지 마세요. Android와 PC 사이의 세이브 이전은 이번 베타 지원 범위가 아닙니다.
 
 [Windows 개발·진단 문서](Tools/Windows/README.md)에서 알려진 문제와 테스트 방법을 확인할 수 있습니다. 게임과 함께 빌드되는 `UMO_PC_Settings.exe`에서 키·게임패드 배치를 변경할 수 있습니다. 자세한 사용법은 [PC 설정 안내](Tools/Windows/PC_SETTINGS.md)를 참고하세요.
 

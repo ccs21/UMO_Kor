@@ -48,7 +48,7 @@ namespace ExternLib
 			data.EJCOJCGIBNG_ToJson(writer);
 			string saveData = writer.ToString();
 
-			string path = Application.persistentDataPath + "/Profiles/" + userId.ToString();
+			string path = UMOPcSavePath.Root + "/Profiles/" + userId.ToString();
 			if (!Directory.Exists(path))
 				Directory.CreateDirectory(path);
 
@@ -71,7 +71,7 @@ namespace ExternLib
 		public static EDOHBJAPLPF_JsonData GetAccountServerData(int playerId)
 		{
 			EDOHBJAPLPF_JsonData data = null;
-			string path = Application.persistentDataPath + "/Profiles/" + playerId.ToString() + "/data.json";
+			string path = UMOPcSavePath.Root + "/Profiles/" + playerId.ToString() + "/data.json";
 
 			if (File.Exists(path))
 			{
@@ -300,7 +300,7 @@ namespace ExternLib
 				do
 				{
 					id = Random.Range(100000000, 599999999);
-				} while (Directory.Exists(Application.persistentDataPath + "/Profiles/" + id.ToString()));
+				} while (Directory.Exists(UMOPcSavePath.Root + "/Profiles/" + id.ToString()));
 			}
 
 			return id;
