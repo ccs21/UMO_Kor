@@ -2,12 +2,17 @@
 using System;
 using System.IO;
 using System.Linq;
+using System.Net;
+using System.Security.Cryptography;
 using UnityEditor;
 using UnityEditor.Build.Reporting;
 using UnityEngine;
 
 public static class UMOKoreanAndroidBuild
 {
+    private const string OfficialLoginBonusUrl = "http://umo.xele.org:8000/offcial-login-bonuses_1_Android.zip";
+    private const string OfficialLoginBonusSha256 = "2888712f6b1774542fa4a1c2d6af425ae3616c6ba2a947f81ed5a48428fba4cc";
+    private const string EmbeddedLoginBonusAsset = "Assets/Resources/EmbeddedDlc/offcial-login-bonuses_1_Android.bytes";
     private const string DefaultOutput = "Build/Android/UMO_Kor-debug.apk";
     private const string ParallelTestOutput = "Build/Android/UMO_Kor-parallel-test.apk";
     private const string ParallelTestPackage = "com.ccs21.UMOKorTest";
@@ -98,6 +103,7 @@ public static class UMOKoreanAndroidBuild
         {
             // A Windows build may have moved the stock TMP resources away.
             UMOKoreanWindowsBuild.RestoreResources();
+            PrepareEmbeddedLoginBonus();
             if (!string.IsNullOrEmpty(temporaryPackage))
                 PlayerSettings.SetApplicationIdentifier(BuildTargetGroup.Android, temporaryPackage);
             if (!string.IsNullOrEmpty(temporaryProductName))
@@ -113,9 +119,43 @@ public static class UMOKoreanAndroidBuild
         }
         finally
         {
+            RemoveEmbeddedLoginBonus();
             PlayerSettings.SetApplicationIdentifier(BuildTargetGroup.Android, originalPackage);
             PlayerSettings.productName = originalProductName;
         }
+    }
+
+    private static void PrepareEmbeddedLoginBonus()
+    {
+        string absolute = Path.GetFullPath(Path.Combine(Application.dataPath, "Resources/EmbeddedDlc/offcial-login-bonuses_1_Android.bytes"));
+        Directory.CreateDirectory(Path.GetDirectoryName(absolute));
+        string temporary = absolute + ".download";
+        if(File.Exists(temporary)) File.Delete(temporary);
+        using(var client = new WebClient())
+            client.DownloadFile(OfficialLoginBonusUrl, temporary);
+        string actual;
+        using(var sha = SHA256.Create())
+        using(var input = File.OpenRead(temporary))
+            actual = BitConverter.ToString(sha.ComputeHash(input)).Replace("-", "").ToLowerInvariant();
+        if(actual != OfficialLoginBonusSha256)
+        {
+            File.Delete(temporary);
+            throw new InvalidDataException("Official login bonus DLC checksum mismatch: " + actual);
+        }
+        if(File.Exists(absolute)) File.Delete(absolute);
+        File.Move(temporary, absolute);
+        AssetDatabase.ImportAsset(EmbeddedLoginBonusAsset, ImportAssetOptions.ForceSynchronousImport);
+        Debug.Log("Embedded official login bonus DLC: " + new FileInfo(absolute).Length + " bytes");
+    }
+
+    private static void RemoveEmbeddedLoginBonus()
+    {
+        AssetDatabase.DeleteAsset(EmbeddedLoginBonusAsset);
+        string directory = "Assets/Resources/EmbeddedDlc";
+        string absolute = Path.GetFullPath(Path.Combine(Application.dataPath, "Resources/EmbeddedDlc"));
+        if(Directory.Exists(absolute) && Directory.GetFiles(absolute).Length == 0 && Directory.GetDirectories(absolute).Length == 0)
+            AssetDatabase.DeleteAsset(directory);
+        AssetDatabase.Refresh();
     }
 
     private static void ConfigureToolchain()

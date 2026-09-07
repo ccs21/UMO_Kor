@@ -12,8 +12,8 @@ from inspect_bundle import decrypt_bundle
 
 def prepare(path, data_root, master):
     relative = path.resolve().relative_to(data_root.resolve())
-    if relative.parts[0] != "android":
-        raise ValueError("Only android bundle content is supported")
+    if relative.parts[0] not in {"android", "dlc"}:
+        raise ValueError("Only android and DLC bundle content is supported")
     # Some ly/sb/*.xab files are raw CRI AFS2 sound banks, not Unity bundles.
     # Never run image conversion or decryption on those audio containers.
     with path.open("rb") as source:
@@ -97,6 +97,9 @@ def main():
         paths.update(p.resolve() for p in resolved.rglob("*.xab"))
     if args.all:
         paths.update(p.resolve() for p in (args.data_root / "android").rglob("*.xab"))
+        dlc_root = args.data_root / "dlc"
+        if dlc_root.is_dir():
+            paths.update(p.resolve() for p in dlc_root.rglob("*.xab"))
     for log in args.runtime_log:
         for match in re.finditer(r"\[UMO PC bundle\] (.+?\.xab) CABs=", log.read_text(encoding="utf-8-sig", errors="replace")):
             paths.add(Path(match.group(1)).resolve())
