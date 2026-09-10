@@ -4,7 +4,7 @@ Android판의 약 14GB 추가 데이터를 같은 공유기 안의 PC에서 전�
 
 ## 사용 방법
 
-1. Releases의 `UMO_Kor_For_Android_20260907.zip`을 쓰기 가능한 새 폴더에 풀고 `UMO_PC_Server.exe`를 실행합니다.
+1. Releases의 `UMO_Kor_For_Android_20260910.zip`을 쓰기 가능한 새 폴더에 풀고 `UMO_PC_Server.exe`를 실행합니다.
 2. `ZIP 파일 넣을 폴더 열기`를 누릅니다.
 3. 열린 `Archives` 폴더에 다음 두 파일을 **압축을 풀지 않고 ZIP 그대로** 넣습니다.
    - `UtaMacrossDataArchive.zip`
