@@ -8,6 +8,7 @@ param(
 )
 $ErrorActionPreference = 'Stop'
 $repo = [IO.Path]::GetFullPath((Join-Path $PSScriptRoot '../..'))
+& (Join-Path $repo 'Tools/Build/Prepare-KoreanImageResources.ps1')
 $signing = [IO.Path]::GetFullPath($SigningDirectory)
 if ($signing.StartsWith($repo + [IO.Path]::DirectorySeparatorChar, [StringComparison]::OrdinalIgnoreCase) -or $signing -eq $repo) {
     throw 'Signing material must be kept OUTSIDE the Git repository.'
