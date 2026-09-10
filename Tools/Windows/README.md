@@ -1,5 +1,57 @@
 # Windows 에셋 진단
 
+## 게임 화면 기준 이미지 덤프와 교체
+
+이 기능은 작업자가 명시적으로 만든 개발용 Windows 빌드에만 들어 있다.
+`Tools/Build/Build-Windows.ps1 -ImageTranslationDevelopment`로 빌드한 뒤,
+일본어 이미지가 보이는 화면에서 `F8`을 누르면 실행 파일 옆에 다음 폴더가 생성된다.
+
+```text
+ImageTranslation/
+├─ Originals/                     중복 없이 저장한 원본 PNG
+├─ Overrides/                     사용자가 수정한 PNG를 넣는 곳
+└─ Screens/날짜_시간_장면이름/
+   ├─ 화면.png                    해당 화면의 참고 스크린샷
+   ├─ 화면에서_사용된_이미지.tsv  화면과 PNG의 대응표
+   └─ 사용법.txt
+```
+
+`화면에서_사용된_이미지.tsv`를 보고 한글화할 파일만 `Originals`에서 `Overrides`로
+복사해 수정한다. 파일명, 가로·세로 크기와 투명 영역은 유지해야 한다. 게임에서
+`F9`를 누르면 `Overrides`의 PNG를 다시 읽어 현재 화면에 즉시 반영하며, 이후에
+새로 열리는 화면에도 자동 적용한다. 같은 화면에서 `F8`을 여러 번 눌러도 기존
+원본과 수정본은 덮어쓰지 않는다.
+
+검수가 끝난 공용 수정본은 `Localization/ImageOverrides/PC`에 보관한다. 일반 Windows
+릴리스와 Android 빌드는 이 검수본만 Unity 리소스로 내장해 자동 적용한다. 외부
+`ImageTranslation` 폴더와 F8/F9 코드는 배포 빌드에서 제외된다. 개인 작업 중인 PNG는
+개발용 게임 폴더의 `Overrides`에서 먼저 시험하고,
+화면 확인을 마친 파일만 공용 폴더로 옮긴다.
+
+화면에 보이는 글자가 항상 이미지인 것은 아니다. TSV에 대응 이미지가 없으면
+번역 테이블이나 폰트로 그리는 문자열일 가능성이 높다. 여러 UI 조각을 담은 아틀라스는
+PNG 전체를 유지한 채 필요한 영역만 수정해야 한다. 덤프/즉시 교체 기능은 개발용
+Windows 빌드에만 포함되며 Android 동작과 세이브 데이터는 변경하지 않는다.
+
+## 일본어 UI 이미지 자동 선별
+
+`extract_all_images.py`로 추출한 전체 Texture2D를 사람이 일일이 찾지 않도록
+`classify_japanese_ui_images.py`가 픽셀 중복을 묶고 일본어 OCR을 수행한다.
+기본 실행은 `ly` 화면 아틀라스와 기존 UI 점수 후보를 검사하며, 3D 무대·연출
+텍스처는 제외한다. `--deep-scan`은 전체 픽셀 휴리스틱까지 수행하므로 훨씬 느리다.
+
+```powershell
+python -m pip install -r Tools/Windows/requirements-ocr.txt
+python Tools/Windows/classify_japanese_ui_images.py `
+  --extraction-root outputs/umo_image_extraction_20260907 `
+  --output outputs/umo_image_ocr_20260907
+```
+
+결과의 `Japanese_High`를 먼저 수정하고 `Japanese_Possible`을 확인한다.
+`Text_Uncertain`은 일본어를 찾지 못한 UI·마스크·배경의 누락 점검용이다.
+JSONL 대응표의 `all_mappings`에는 동일 픽셀을 쓰는 모든 번들·asset·path_id가
+기록되므로 재주입할 때 한 위치만 바꾸고 끝내면 안 된다.
+
 ## Android 데이터용 PC 서버
 
 `PcServerAssistantForm.cs`는 Unity나 경로 입력 없이 Android 추가 데이터를 전송하는
