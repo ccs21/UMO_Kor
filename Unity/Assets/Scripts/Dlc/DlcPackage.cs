@@ -141,17 +141,35 @@ public class DlcPackage : ScriptableObject
 
     public bool IsUMOVersionCompatible()
     {
-        string UMOVersion = Application.version;
-        string[] UMOSplit = UMOVersion.Split(new char[]{'.'});
-        string[] SelfSplit = MinUMOVersion.Split(new char[]{'.'});
+        return IsVersionCompatible(Application.version, MinUMOVersion);
+    }
+
+    public static bool IsVersionCompatible(string currentVersion, string minimumVersion)
+    {
+        int[] current = ParseVersionTriplet(currentVersion);
+        int[] minimum = ParseVersionTriplet(minimumVersion);
+        if(current == null || minimum == null)
+            return false;
         for(int i = 0; i < 3; i++)
         {
-            if(int.Parse(UMOSplit[i]) < int.Parse(SelfSplit[i]))
+            if(current[i] < minimum[i])
                 return false;
-            else if(int.Parse(UMOSplit[i]) > int.Parse(SelfSplit[i]))
+            else if(current[i] > minimum[i])
                 return true;
         }
         return true;
+    }
+
+    private static int[] ParseVersionTriplet(string value)
+    {
+        Match match = Regex.Match(value ?? "", @"^(\d+)\.(\d+)\.(\d+)");
+        if(!match.Success)
+            return null;
+        int[] result = new int[3];
+        for(int i = 0; i < result.Length; i++)
+            if(!int.TryParse(match.Groups[i + 1].Value, out result[i]))
+                return null;
+        return result;
     }
 
     public virtual void UpdateDatabase(string dlcPath)
