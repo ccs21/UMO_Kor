@@ -7,7 +7,18 @@ using System.Collections.Generic;
 public class DlcManager : SingletonMonoBehaviour<DlcManager>
 {
     private List<DlcPackage> Dlcs = new List<DlcPackage>();
-    static public string DlcPath { get => UnityEngine.Application.persistentDataPath + "/data/dlc/"; }
+    static public string DlcPath
+    {
+        get
+        {
+#if UNITY_STANDALONE_WIN && !UNITY_EDITOR
+            if(RuntimeSettings.CurrentSettings != null &&
+                !string.IsNullOrEmpty(RuntimeSettings.CurrentSettings.DataDirectory))
+                return Path.Combine(RuntimeSettings.CurrentSettings.DataDirectory, "dlc");
+#endif
+            return Path.Combine(UnityEngine.Application.persistentDataPath, "data", "dlc");
+        }
+    }
     public int GetNumDLCs()
     {
         return Dlcs.Count;

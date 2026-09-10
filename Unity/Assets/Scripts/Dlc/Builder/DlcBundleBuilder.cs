@@ -133,7 +133,7 @@ public class DlcBundleGroupBuilder : DlcBuilderBase
     public override void UpdateFileList(string dlcPath, DlcContext Context)
     {
         EDOHBJAPLPF_JsonData json_data = null;
-        string absoluteDlcPath = Path.Combine(Application.persistentDataPath, "data", dlcPath);
+        string absoluteDlcPath = Path.Combine(DlcManager.DlcPath, Context.DLC.PackageName);
         string BundlePath = Path.Combine(absoluteDlcPath, "bundles");
         if(!Directory.Exists(BundlePath))
             return;
@@ -160,7 +160,7 @@ public class DlcBundleGroupBuilder : DlcBuilderBase
             for(int i = 0; i < json_data["files"].HNBFOAJIIAL_Count; i++)
             {
                 string bundlePath = (string)json_data["files"][i];
-                string destPath = Path.Combine( Application.persistentDataPath, "data", dlcPath, "bundles", bundlePath);
+                string destPath = Path.Combine(absoluteDlcPath, "bundles", bundlePath);
                 if(File.Exists( destPath ))
                     FileSystemProxy.AddDlcFile(Path.Combine( "/android/", bundlePath), "/"+Path.Combine( dlcPath, "bundles", bundlePath));
             }

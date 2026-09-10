@@ -2,7 +2,7 @@ param(
     [Parameter(Mandatory=$true)][string]$Apk,
     [Parameter(Mandatory=$true)][string]$WindowsGuidePdf,
     [Parameter(Mandatory=$true)][string]$AndroidGuidePng,
-    [string]$DateStamp = '20260907',
+    [string]$DateStamp = '20260910',
     [string]$OutputDirectory
 )
 
@@ -22,12 +22,12 @@ New-Item -ItemType Directory -Path $windowsStage,$androidStage -Force | Out-Null
 try {
     & (Join-Path $repo 'Tools/Windows/Build-PcBuildAssistant.ps1') -OutputDirectory $windowsStage
     Copy-Item -LiteralPath (Join-Path $repo 'Tools/Windows/PC_BUILD_ASSISTANT.md') -Destination (Join-Path $windowsStage 'README_KO.md') -Force
-    Copy-Item -LiteralPath $WindowsGuidePdf -Destination (Join-Path $windowsStage '우타마크로스 오프라인 PC 빌드 도우미 사용방법.pdf') -Force
+    Copy-Item -LiteralPath $WindowsGuidePdf -Destination (Join-Path $windowsStage (Split-Path $WindowsGuidePdf -Leaf)) -Force
 
     & (Join-Path $repo 'Tools/Windows/Build-PcServerAssistant.ps1') -OutputDirectory $androidStage
     Copy-Item -LiteralPath (Join-Path $repo 'Tools/Windows/PC_SERVER.md') -Destination (Join-Path $androidStage 'README_KO.md') -Force
     Copy-Item -LiteralPath $Apk -Destination (Join-Path $androidStage (Split-Path $Apk -Leaf)) -Force
-    Copy-Item -LiteralPath $AndroidGuidePng -Destination (Join-Path $androidStage '다운 받아야 하는 파일은 이 두개 입니다.png') -Force
+    Copy-Item -LiteralPath $AndroidGuidePng -Destination (Join-Path $androidStage (Split-Path $AndroidGuidePng -Leaf)) -Force
 
     $windowsZip = Join-Path $OutputDirectory ("UMO_Kor_For_windows_${DateStamp}.zip")
     $androidZip = Join-Path $OutputDirectory ("UMO_Kor_For_Android_${DateStamp}.zip")

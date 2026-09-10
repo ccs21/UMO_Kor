@@ -7,6 +7,8 @@ using System.IO.Compression;
 using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
+using System.Security.Cryptography;
+using System.Net;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
@@ -17,6 +19,10 @@ public sealed class PcBuildAssistantForm : Form
     private const string GitDownloadUrl = "https://github.com/git-for-windows/git/releases/download/v2.55.0.windows.5/Git-2.55.0.5-64-bit.exe";
     private const string PythonDownloadUrl = "https://www.python.org/ftp/python/3.12.10/python-3.12.10-amd64.exe";
     private const string DataGuideUrl = "https://umo.xele.org/getting-started/installation/install-pc/";
+    private const string OfficialLoginBonusUrl = "http://umo.xele.org:8000/offcial-login-bonuses_1_Android.zip";
+    private const string OfficialLoginBonusFile = "offcial-login-bonuses_1_Android.zip";
+    private const string OfficialLoginBonusPackage = "offcial-login-bonuses";
+    private const string OfficialLoginBonusSha256 = "2888712f6b1774542fa4a1c2d6af425ae3616c6ba2a947f81ed5a48428fba4cc";
     private static readonly string[] Requirements = { "UnityPy==1.25.3", "Pillow==12.3.0", "texture2ddecoder==1.0.6" };
     private static readonly string[] ManifestNames = { "RequestGetDB.json", "RequestGetFiles.json", "RequestMaster.json", "RequestPlayerAccount.json" };
 
@@ -125,7 +131,7 @@ public sealed class PcBuildAssistantForm : Form
 
     private TabPage Page4()
     {
-        FlowLayoutPanel flow; var page = BasePage(3, "두 ZIP을 아래 폴더에 넣고 [새로고침 및 자동 배치]를 누르세요. 원본 ZIP은 삭제하거나 수정하지 않습니다.", out flow);
+        FlowLayoutPanel flow; var page = BasePage(3, "두 ZIP을 아래 폴더에 넣고 [새로고침 및 자동 배치]를 누르세요. 공식 로그인 보너스 DLC도 자동으로 설치합니다.", out flow);
         flow.Controls.Add(PathRow("ZIP 보관 폴더", archiveFolder, delegate { ChooseFolder(archiveFolder, false); }, 710));
         flow.Controls.Add(LinkRow("두 ZIP 파일의 다운로드 안내", DataGuideUrl, "다운로드 안내 열기"));
         flow.Controls.Add(ActionButton("ZIP 파일 넣을 폴더 열기", delegate {
@@ -363,7 +369,9 @@ public sealed class PcBuildAssistantForm : Form
                 CopyCurrentManifests();
                 VerifyDataFiles(false);
             });
-            SetState(3, true, "두 ZIP을 확인하고 게임 Data 폴더에 배치했습니다.");
+            SetWorkingText(3, "공식 로그인 보너스를 자동 설치하고 있습니다.");
+            await InstallOfficialLoginBonus();
+            SetState(3, true, "게임 데이터와 공식 로그인 보너스 DLC를 자동 배치했습니다.");
         }
         catch (Exception e) { SetState(3, false, e.Message); ShowError(e); }
         finally { SetBusy(false); }
@@ -455,7 +463,70 @@ public sealed class PcBuildAssistantForm : Form
         {
             string report = Path.Combine(data, "WindowsCache", "last-report.json"); RequireFile(report);
             int expected = Directory.EnumerateFiles(android, "*.xab", SearchOption.AllDirectories).Count();
+            string dlc = Path.Combine(data, "dlc");
+            if (Directory.Exists(dlc)) expected += Directory.EnumerateFiles(dlc, "*.xab", SearchOption.AllDirectories).Count();
             VerifyTextureReport(report, expected);
+        }
+    }
+
+    private async Task InstallOfficialLoginBonus()
+    {
+        string install = Path.Combine(GameDataRoot(), "dlc", OfficialLoginBonusPackage);
+        string installedInfo = Path.Combine(install, "dlc.json");
+        if (File.Exists(installedInfo) && File.ReadAllText(installedInfo).IndexOf("\"version\":1", StringComparison.Ordinal) >= 0)
+        {
+            AppendLog("공식 로그인 보너스 DLC가 이미 설치되어 있습니다.");
+            return;
+        }
+
+        Directory.CreateDirectory(archiveFolder.Text);
+        string zipPath = Path.Combine(archiveFolder.Text, OfficialLoginBonusFile);
+        if (!File.Exists(zipPath) || !HashMatches(zipPath, OfficialLoginBonusSha256))
+        {
+            if (File.Exists(zipPath)) File.Delete(zipPath);
+            AppendLog("공식 로그인 보너스 DLC 다운로드 중: " + OfficialLoginBonusUrl);
+            using (var client = new WebClient())
+                await client.DownloadFileTaskAsync(new Uri(OfficialLoginBonusUrl), zipPath);
+        }
+        if (!HashMatches(zipPath, OfficialLoginBonusSha256))
+            throw new InvalidDataException("공식 로그인 보너스 DLC 파일 검증에 실패했습니다.");
+
+        string dlcRoot = Path.Combine(GameDataRoot(), "dlc");
+        string temporary = Path.Combine(dlcRoot, "." + OfficialLoginBonusPackage + "-install");
+        string disabled = Path.Combine(dlcRoot, "_" + OfficialLoginBonusPackage);
+        if (Directory.Exists(temporary)) Directory.Delete(temporary, true);
+        Directory.CreateDirectory(temporary);
+        ExtractWholeZipSafely(zipPath, temporary);
+        string info = Path.Combine(temporary, "dlc.json");
+        if (!File.Exists(info) || File.ReadAllText(info).IndexOf("\"package_name\":\"" + OfficialLoginBonusPackage + "\"", StringComparison.Ordinal) < 0)
+            throw new InvalidDataException("공식 로그인 보너스 DLC 구조가 올바르지 않습니다.");
+        if (Directory.Exists(install)) Directory.Delete(install, true);
+        if (Directory.Exists(disabled)) Directory.Delete(disabled, true);
+        Directory.Move(temporary, install);
+        AppendLog("공식 로그인 보너스 DLC 설치 및 활성화 완료");
+    }
+
+    private static bool HashMatches(string path, string expected)
+    {
+        if (!File.Exists(path)) return false;
+        using (var sha = SHA256.Create())
+        using (var input = File.OpenRead(path))
+            return BitConverter.ToString(sha.ComputeHash(input)).Replace("-", "").Equals(expected, StringComparison.OrdinalIgnoreCase);
+    }
+
+    private static void ExtractWholeZipSafely(string zipPath, string destination)
+    {
+        string root = Path.GetFullPath(destination).TrimEnd(Path.DirectorySeparatorChar) + Path.DirectorySeparatorChar;
+        using (ZipArchive zip = ZipFile.OpenRead(zipPath))
+        {
+            foreach (ZipArchiveEntry entry in zip.Entries)
+            {
+                if (String.IsNullOrEmpty(entry.Name)) continue;
+                string target = Path.GetFullPath(Path.Combine(root, entry.FullName.Replace('/', Path.DirectorySeparatorChar)));
+                if (!target.StartsWith(root, StringComparison.OrdinalIgnoreCase)) throw new InvalidDataException("DLC ZIP 경로가 대상 폴더를 벗어납니다.");
+                Directory.CreateDirectory(Path.GetDirectoryName(target));
+                entry.ExtractToFile(target, true);
+            }
         }
     }
 

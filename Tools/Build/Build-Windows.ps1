@@ -1,6 +1,7 @@
 param(
     [string]$Unity = 'C:\Program Files\Unity\Hub\Editor\2018.4.36f1\Editor\Unity.exe',
-    [string]$Output
+    [string]$Output,
+    [switch]$ImageTranslationDevelopment
 )
 $ErrorActionPreference = 'Stop'
 $repo = [IO.Path]::GetFullPath((Join-Path $PSScriptRoot '../..'))
@@ -9,7 +10,9 @@ if (!$Output) { $Output = Join-Path $project 'Build/Windows/UMO_Kor/UMO_Kor.exe'
 $Output = [IO.Path]::GetFullPath($Output)
 $logDir = Join-Path $repo 'Logs'
 New-Item -ItemType Directory -Path $logDir -Force | Out-Null
-foreach ($step in @(@('PrepareResources','windows-prepare.log'), @('BuildRelease','windows-build.log'))) {
+$buildMethod = if ($ImageTranslationDevelopment) { 'BuildDevelopment' } else { 'BuildRelease' }
+& (Join-Path $repo 'Tools/Build/Prepare-KoreanImageResources.ps1')
+foreach ($step in @(@('PrepareResources','windows-prepare.log'), @($buildMethod,'windows-build.log'))) {
     $log = Join-Path $logDir $step[1]
     $process = Start-Process -FilePath $Unity -WindowStyle Hidden -PassThru -ArgumentList @('-batchmode','-quit','-projectPath',('"' + $project + '"'),'-buildTarget','Win64','-executeMethod',('UMOKoreanWindowsBuild.' + $step[0]),'-umoOutput',('"' + $Output + '"'),'-logFile',('"' + $log + '"'))
     $process.WaitForExit()

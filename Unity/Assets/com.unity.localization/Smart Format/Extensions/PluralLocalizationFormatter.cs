@@ -50,12 +50,20 @@ namespace UnityEngine.Localization.SmartFormat.Extensions
             var current = formattingInfo.CurrentValue;
 
             // Ignore formats that start with "?" (this can be used to bypass this extension)
-            if (format == null || format.baseString[format.startIndex] == ':') return false;
+            if (format == null || format.baseString[format.startIndex] == ':')
+            {
+                //UnityEngine.Debug.LogError("Ignored");
+                return false;
+            }
 
             // Extract the plural words from the format string:
             var pluralWords = format.Split('|');
             // This extension requires at least two plural words:
-            if (pluralWords.Count == 1) return false;
+            if (pluralWords.Count == 1)
+            {
+                //UnityEngine.Debug.LogError("No multiple plural setup");
+                return false;
+            }
 
             decimal value;
 
@@ -84,12 +92,19 @@ namespace UnityEngine.Localization.SmartFormat.Extensions
             else if (current is IEnumerable<object> objects)
                 value = objects.Count();
             else
+            {
+                UnityEngine.Debug.LogError("no value "+format+" "+current);
                 return false;
+            }
 
             // Get the plural rule:
             var pluralRule = GetPluralRule(formattingInfo);
 
-            if (pluralRule == null) return false;
+            if (pluralRule == null)
+            {
+                UnityEngine.Debug.LogError("No plural rule found");
+                return false;
+            }
 
             var pluralCount = pluralWords.Count;
             var pluralIndex = pluralRule(value, pluralCount);

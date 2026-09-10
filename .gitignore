@@ -12,6 +12,7 @@ UtaMacrossDataArchive*.zip
 /ServerData/
 /Archives/
 /Logs/
+/Unity/Assets/Resources/KoreanImageOverrides/
 *.apk
 *.aab
 *.jks
