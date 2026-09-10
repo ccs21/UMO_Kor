@@ -78,7 +78,8 @@ namespace XeApp.Core
 						fo.dispose = true;
 						AssetBundle bundle = fo.assetBundle;
 						if(bundle != null)
-						{ 
+						{
+							UMOKoreanImagePatcher.ApplyBundle(assetBundleName, bundle);
 #if UNITY_EDITOR || UNITY_STANDALONE
 							BundleShaderInfo.Instance.RegisterShaderIds(bundle, () => {
 #endif
