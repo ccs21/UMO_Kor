@@ -79,7 +79,7 @@ Git for Windows는 설치 프로그램의 기본 선택을 그대로 사용해�
 
 게임을 다른 곳으로 옮길 때는 `UMO_Kor.exe` 하나만 복사하지 말고 열린 게임 폴더 전체를 함께 이동해야 합니다.
 
-PC판의 프로필과 세이브는 게임 실행 파일 옆의 `UserData` 폴더에 저장됩니다. 기존 `%USERPROFILE%\AppData\LocalLow\UtaMacross\UtaMacross` 세이브가 있으면 게임 첫 실행 때 자동으로 복사합니다. 이미 `UserData`에 있는 파일은 덮어쓰지 않습니다. 게임을 옮기거나 업데이트할 때는 `UserData`를 반드시 함께 보존하세요.
+PC판의 프로필과 세이브는 게임 실행 파일 옆의 `UserData` 폴더에만 저장됩니다. 다른 게임 폴더나 `%USERPROFILE%\AppData\LocalLow\UtaMacross\UtaMacross`의 세이브를 자동으로 가져오지 않습니다. `UserData`를 삭제하면 완전히 새로 시작합니다. 게임을 옮기거나 업데이트할 때 기존 세이브를 유지하려면 `UserData`를 사용자가 직접 함께 복사하세요.
 
 ## 도우미 자체를 소스에서 만들기
 

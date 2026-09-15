@@ -174,7 +174,7 @@ Unity/Build/Windows/UMO_Kor/
 4. 마지막 `Done: bundles=... failures=0`을 확인합니다. 실패 목록은 `Data/WindowsCache/last-report.json`에 기록됩니다. 실패 원인을 해결한 뒤 재실행하면 정상 캐시는 재사용됩니다. 변환 검사 통과가 모든 화면의 정상 표시를 보증하지는 않습니다.
 5. `UMO_Kor.exe`를 실행합니다. EXE만 옮기지 말고 DLL과 데이터 폴더를 함께 유지하세요. 경로를 요청하면 `android`와 `db`가 들어 있는 **Data**를 선택합니다.
 
-PC 세이브는 **게임 실행 파일 옆 `UserData` 폴더**에 저장됩니다. 기존 `%USERPROFILE%/AppData/LocalLow/UtaMacross/UtaMacross` 세이브는 새 PC판을 처음 실행할 때 `UserData`로 자동 복사하며, 이미 새 위치에 있는 파일은 덮어쓰지 않습니다. 게임을 옮길 때는 실행 파일과 `UserData` 폴더를 함께 옮기고, 업데이트할 때 `UserData`를 삭제하지 마세요. Android와 PC 사이의 세이브 이전은 이번 베타 지원 범위가 아닙니다.
+PC 세이브는 **게임 실행 파일 옆 `UserData` 폴더**에만 저장됩니다. 다른 게임 폴더나 `%USERPROFILE%/AppData/LocalLow/UtaMacross/UtaMacross`의 세이브를 자동으로 가져오지 않으며, `UserData`를 삭제하면 새 게임으로 시작합니다. 게임을 옮길 때 기존 세이브를 유지하려면 실행 파일과 `UserData` 폴더를 사용자가 직접 함께 옮기고, 업데이트할 때 `UserData`를 삭제하지 마세요. Android와 PC 사이의 세이브 이전은 이번 베타 지원 범위가 아닙니다.
 
 [Windows 개발·진단 문서](Tools/Windows/README.md)에서 알려진 문제와 테스트 방법을 확인할 수 있습니다. 게임과 함께 빌드되는 `UMO_PC_Settings.exe`에서 키·게임패드 배치를 변경할 수 있습니다. 자세한 사용법은 [PC 설정 안내](Tools/Windows/PC_SETTINGS.md)를 참고하세요.
 
