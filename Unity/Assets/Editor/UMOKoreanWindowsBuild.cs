@@ -8,8 +8,9 @@ using UnityEngine;
 
 public static class UMOKoreanWindowsBuild
 {
-    // Keep the legacy Windows product identifier for compatibility. The player
-    // migrates legacy LocalLow saves into the executable-side UserData folder.
+    // Keep the legacy Windows product identifier for compatibility. Save files
+    // still use only the executable-side UserData folder; the LocalLow directory
+    // implied by this identifier is deliberately ignored.
     // UMOStandaloneWindowsWindow changes only the visible window title.
     private const string DefaultOutput = "Build/Windows/UMO_Kor/UMO_Kor.exe";
     private const string LegacyWindowsProductName = "UtaMacross";
