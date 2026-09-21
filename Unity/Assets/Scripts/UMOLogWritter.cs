@@ -34,14 +34,12 @@ public class UMOLogWritter : MonoBehaviour
         }
         if(filecreated)
         {
-            Application.logMessageReceived += HandleLog;
             Application.logMessageReceivedThreaded += HandleLog;
         }
     }
 
     void OnDisable()
     {
-        Application.logMessageReceived -= HandleLog;
         Application.logMessageReceivedThreaded -= HandleLog;
     }
 

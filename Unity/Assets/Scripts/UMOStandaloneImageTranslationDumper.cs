@@ -44,6 +44,7 @@ public sealed class UMOStandaloneImageTranslationDumper : MonoBehaviour
     private string screensDirectory;
     private string notice;
     private float noticeUntil;
+    private bool dumpInProgress;
 
     [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.AfterSceneLoad)]
     private static void Initialize()
@@ -71,7 +72,12 @@ public sealed class UMOStandaloneImageTranslationDumper : MonoBehaviour
     private void Update()
     {
         if(Input.GetKeyDown(KeyCode.F8))
-            StartCoroutine(DumpCurrentScreen());
+        {
+            if(dumpInProgress)
+                ShowNotice("이미지 덤프가 진행 중입니다. 잠시 기다려 주세요.", 3f);
+            else
+                StartCoroutine(DumpCurrentScreen());
+        }
         if(Input.GetKeyDown(KeyCode.F9))
         {
             ReloadOverrideIndex();
@@ -93,7 +99,25 @@ public sealed class UMOStandaloneImageTranslationDumper : MonoBehaviour
 
     private IEnumerator DumpCurrentScreen()
     {
+        dumpInProgress = true;
         yield return new WaitForEndOfFrame();
+        try
+        {
+            DumpCurrentScreenNow();
+        }
+        catch(Exception error)
+        {
+            ShowNotice("이미지 덤프 실패: 로그를 확인하세요.", 7f);
+            Debug.LogError("[UMO image dump] failed error=" + error);
+        }
+        finally
+        {
+            dumpInProgress = false;
+        }
+    }
+
+    private void DumpCurrentScreenNow()
+    {
         string stamp = DateTime.Now.ToString("yyyyMMdd_HHmmss_fff");
         string sceneName = SafeName(SceneManager.GetActiveScene().name);
         string screenDirectory = Path.Combine(screensDirectory, stamp + "_" + sceneName);
@@ -105,19 +129,54 @@ public sealed class UMOStandaloneImageTranslationDumper : MonoBehaviour
         manifest.AppendLine("file_name\ttexture_name\twidth\theight\tsha256\tuses");
         int saved = 0;
         int failed = 0;
+        int skippedOverrides = 0;
         foreach(var entry in visible.Values)
         {
+            if(applied.Contains(entry.Texture.GetInstanceID()))
+            {
+                skippedOverrides++;
+                continue;
+            }
             TextureRecord record;
             if(!TryGetRecord(entry.Texture, out record))
             {
                 failed++;
                 continue;
             }
-            string originalPath = Path.Combine(originalsDirectory, record.FileName);
-            if(!File.Exists(originalPath))
+            if(overrides.ContainsKey(Path.GetFileNameWithoutExtension(record.FileName)))
             {
-                File.WriteAllBytes(originalPath, record.OriginalPng);
-                saved++;
+                skippedOverrides++;
+                record.OriginalPng = null;
+                continue;
+            }
+            string originalPath = Path.Combine(originalsDirectory, record.FileName);
+            bool needsWrite = !File.Exists(originalPath) || new FileInfo(originalPath).Length == 0;
+            if(needsWrite && (record.OriginalPng == null || record.OriginalPng.Length == 0))
+            {
+                // The prior dump releases PNG bytes to keep memory bounded. If
+                // the user deletes that file in the same session, read it again.
+                records.Remove(entry.Texture.GetInstanceID());
+                if(!TryGetRecord(entry.Texture, out record))
+                {
+                    failed++;
+                    continue;
+                }
+                originalPath = Path.Combine(originalsDirectory, record.FileName);
+                needsWrite = !File.Exists(originalPath) || new FileInfo(originalPath).Length == 0;
+            }
+            if(needsWrite)
+            {
+                try
+                {
+                    File.WriteAllBytes(originalPath, record.OriginalPng);
+                    saved++;
+                }
+                catch(Exception error)
+                {
+                    failed++;
+                    Debug.LogWarning("[UMO image dump] PNG write failed file=" + originalPath + " error=" + error);
+                    continue;
+                }
             }
             // Keep only the small identity record after the PNG has reached disk.
             // Touring many screens must not retain every dumped atlas in memory.
@@ -133,12 +192,15 @@ public sealed class UMOStandaloneImageTranslationDumper : MonoBehaviour
         File.WriteAllText(Path.Combine(screenDirectory, "사용법.txt"),
             "Originals 폴더에서 번역할 PNG만 Overrides 폴더로 복사해 수정하세요.\r\n" +
             "PNG의 파일명과 크기, 투명 영역을 유지한 뒤 게임에서 F9를 누르면 즉시 반영됩니다.\r\n" +
-            "F8을 다시 눌러도 기존 Originals와 Overrides 파일은 덮어쓰지 않습니다.\r\n",
+            "F8을 다시 눌러도 기존 Originals와 Overrides 파일은 덮어쓰지 않습니다.\r\n" +
+            "Originals 파일을 삭제했거나 0바이트면 현재 화면에서 다시 저장합니다.\r\n",
             new UTF8Encoding(true));
-        ShowNotice("현재 화면 이미지 " + visible.Count + "개 확인 / 새 원본 " + saved + "개 저장" +
+        ShowNotice("현재 화면 이미지 " + visible.Count + "개 확인 / 오버라이드 " + skippedOverrides +
+            "개 제외 / 새 원본 " + saved + "개 저장" +
             (failed > 0 ? " / 실패 " + failed + "개" : ""), 7f);
         Debug.Log("[UMO image dump] scene=" + SceneManager.GetActiveScene().name + " visible=" + visible.Count +
-            " saved=" + saved + " failed=" + failed + " output=" + screenDirectory);
+            " skippedOverrides=" + skippedOverrides + " saved=" + saved + " failed=" + failed +
+            " output=" + screenDirectory);
     }
 
     private Dictionary<int, VisibleTexture> CollectVisibleTextures()
@@ -150,7 +212,6 @@ public sealed class UMOStandaloneImageTranslationDumper : MonoBehaviour
                 graphic.canvasRenderer == null || graphic.canvasRenderer.cull || graphic.canvasRenderer.GetAlpha() <= 0.001f)
                 continue;
             string use = "UI:" + HierarchyPath(graphic.transform);
-            AddTexture(result, graphic.mainTexture, use + ":mainTexture");
             AddMaterialTextures(result, graphic.materialForRendering, use);
             var image = graphic as Image;
             if(image != null && image.sprite != null)
