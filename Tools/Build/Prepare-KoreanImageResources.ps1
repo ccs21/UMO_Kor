@@ -19,7 +19,7 @@ if ($Clean) {
 
 if (!(Test-Path -LiteralPath $manifestPath -PathType Leaf)) { throw 'Korean image manifest is missing.' }
 $manifest = Get-Content -Raw -LiteralPath $manifestPath | ConvertFrom-Json
-if (@($manifest.images).Count -ne 43) { throw "Expected 43 Korean images, found $(@($manifest.images).Count)." }
+if (@($manifest.images).Count -ne 52) { throw "Expected 52 Korean images, found $(@($manifest.images).Count)." }
 
 New-Item -ItemType Directory -Path $destination -Force | Out-Null
 $expectedFiles = @('manifest.bytes')

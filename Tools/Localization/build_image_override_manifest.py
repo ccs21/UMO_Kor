@@ -89,8 +89,8 @@ def main():
             },
         })
 
-    if len(entries) != 43:
-        raise SystemExit(f"Expected 43 reviewed images, found {len(entries)}")
+    if len(entries) != 52:
+        raise SystemExit(f"Expected 52 reviewed images, found {len(entries)}")
     if sum(item["builtIn"] for item in entries) != 4:
         raise SystemExit("Expected exactly four built-in resource overrides")
 
