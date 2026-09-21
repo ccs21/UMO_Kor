@@ -67,6 +67,7 @@ public static class UMOKoreanWindowsBuild
         int originalHeight = PlayerSettings.defaultScreenHeight;
         ResolutionDialogSetting originalResolutionDialog = PlayerSettings.displayResolutionDialog;
         bool originalResizableWindow = PlayerSettings.resizableWindow;
+        bool originalUsePlayerLog = PlayerSettings.usePlayerLog;
         Texture2D[] originalIcons = PlayerSettings.GetIconsForTargetGroup(BuildTargetGroup.Standalone);
         try
         {
@@ -75,6 +76,11 @@ public static class UMOKoreanWindowsBuild
             PlayerSettings.defaultScreenHeight = 720;
             PlayerSettings.displayResolutionDialog = ResolutionDialogSetting.Disabled;
             PlayerSettings.resizableWindow = true;
+            // Unity's built-in Windows player log is written below LocalLow
+            // before game code can redirect it. The PC port already records
+            // runtime logs in the executable-side UserData folder through
+            // UMOLogWritter, so disable the duplicate roaming-profile log.
+            PlayerSettings.usePlayerLog = false;
             Texture2D windowsIcon = AssetDatabase.LoadAssetAtPath<Texture2D>(WindowsIconAssetPath);
             if(windowsIcon == null)
                 throw new FileNotFoundException("Windows icon asset was not found", WindowsIconAssetPath);
@@ -112,6 +118,7 @@ public static class UMOKoreanWindowsBuild
             PlayerSettings.defaultScreenHeight = originalHeight;
             PlayerSettings.displayResolutionDialog = originalResolutionDialog;
             PlayerSettings.resizableWindow = originalResizableWindow;
+            PlayerSettings.usePlayerLog = originalUsePlayerLog;
             PlayerSettings.SetIconsForTargetGroup(BuildTargetGroup.Standalone, originalIcons);
         }
     }

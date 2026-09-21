@@ -20,7 +20,9 @@ ImageTranslation/
 복사해 수정한다. 파일명, 가로·세로 크기와 투명 영역은 유지해야 한다. 게임에서
 `F9`를 누르면 `Overrides`의 PNG를 다시 읽어 현재 화면에 즉시 반영하며, 이후에
 새로 열리는 화면에도 자동 적용한다. 같은 화면에서 `F8`을 여러 번 눌러도 기존
-원본과 수정본은 덮어쓰지 않는다.
+원본과 수정본은 덮어쓰지 않는다. 덤프 중 `F8`을 다시 누르면 중복 작업을 시작하지 않는다.
+`Originals`에서 삭제한 파일과 0바이트 파일은 현재 화면에서 다시 감지되면 재추출한다.
+이미 `Overrides`에 들어 있고 현재 화면에 적용된 이미지는 F8 원본 덤프와 TSV 목록에서 제외한다.
 
 검수가 끝난 공용 수정본은 `Localization/ImageOverrides/PC`에 보관한다. 일반 Windows
 릴리스와 Android 빌드는 이 검수본만 Unity 리소스로 내장해 자동 적용한다. 외부
@@ -109,6 +111,9 @@ python Tools/Windows/inspect_bundle.py path/to/bundle.xab
 복호화 후 컨테이너/객체 종류를 출력하는 읽기 전용 검사다.
 
 ## 런타임 그래픽 진단
+
+PC 빌드는 Unity 기본 `LocalLow/.../output_log.txt`를 만들지 않습니다. 일반 실행 로그는
+게임 폴더의 `UserData/Log.txt`에 기록되고, 직전 실행 로그는 `UserData/Log_Prev.txt`로 보관됩니다.
 
 `UMO_Kor.exe -umoGraphicsDiagnostics -logFile <로그 절대경로>`로 실행하면 15초마다
 최대 40회 텍스처 압축 형식, GPU 지원 여부, 머티리얼 셰이더 지원 여부를 기록한다.
