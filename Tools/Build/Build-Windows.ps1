@@ -57,5 +57,6 @@ foreach ($step in @(@('PrepareResources','windows-prepare.log'), @($buildMethod,
 }
 if (!(Select-String -LiteralPath (Join-Path $logDir 'windows-build.log') -SimpleMatch 'UMO Korean Windows build: result=Succeeded, errors=0')) { throw 'Unity did not report a successful build.' }
 Install-OfficialLoginBonus -GameDirectory ([IO.Path]::GetDirectoryName($Output))
+& (Join-Path $repo 'Tools/Build/Install-YamiQrayDlc.ps1') -GameDirectory ([IO.Path]::GetDirectoryName($Output))
 & (Join-Path $repo 'Tools/Windows/Build-PcSettings.ps1') -OutputDirectory ([IO.Path]::GetDirectoryName($Output))
 Write-Output "Build complete: $Output"

@@ -390,7 +390,10 @@ public sealed class PcBuildAssistantForm : Form
             });
             SetWorkingText(3, "공식 로그인 보너스를 자동 설치하고 있습니다.");
             await InstallOfficialLoginBonus();
-            SetState(3, true, "게임 데이터와 공식 로그인 보너스 DLC를 자동 배치했습니다.");
+            string optionalDlcScript = Path.Combine(RepoRoot(), "Tools", "Build", "Install-YamiQrayDlc.ps1");
+            ProcessResult optionalDlc = await Run("powershell.exe", "-NoProfile -ExecutionPolicy Bypass -File " + Q(optionalDlcScript) + " -GameDirectory " + Q(Path.GetDirectoryName(GameDataRoot())), RepoRoot(), true);
+            if (optionalDlc.ExitCode != 0) throw new Exception("야미큐레 DLC 설치에 실패했습니다.");
+            SetState(3, true, "로그인 보너스와 야미큐레 DLC를 설치했습니다. 야미큐레는 DLC 메뉴에서 원하는 항목을 ON으로 켜세요.");
         }
         catch (Exception e) { SetState(3, false, e.Message); ShowError(e); }
         finally { SetBusy(false); }

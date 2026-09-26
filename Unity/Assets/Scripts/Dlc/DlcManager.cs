@@ -115,6 +115,7 @@ public class DlcManager : SingletonMonoBehaviour<DlcManager>
 
     public void LoadDlcFiles()
     {
+        UMOYamiQrayInstaller.Install();
         Dlcs.Clear();
         FileSystemProxy.ClearDlcFiles();
         if(Directory.Exists(DlcPath))
