@@ -77,7 +77,10 @@ def prepare(path, data_root, master, master_sha=None, previous_status=None, prev
     with path.open("rb") as source:
         if source.read(4) == b"AFS2":
             return {"file": relative.as_posix(), "status": "audio-not-needed"}
-    output = data_root / "WindowsCache" / relative
+    cache_relative = relative
+    if relative.parts[0] == "dlc" and relative.parts[1].startswith("_"):
+        cache_relative = Path("dlc", relative.parts[1][1:], *relative.parts[2:])
+    output = data_root / "WindowsCache" / cache_relative
     cache_path = output.with_suffix(output.suffix + ".cache.json")
     legacy_stamp = output.with_suffix(output.suffix + ".sha256")
     if master_sha is None:
