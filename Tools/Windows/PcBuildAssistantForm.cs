@@ -34,7 +34,7 @@ public sealed class PcBuildAssistantForm : Form
     private readonly ProgressBar[] progress = new ProgressBar[5];
     private readonly TextBox log = new TextBox();
     private readonly TextBox workspace = new TextBox(), unityPath = new TextBox(), archiveFolder = new TextBox();
-    private readonly Button installPackages = new Button(), cloneBuild = new Button(), convert = new Button(), settings = new Button();
+    private readonly Button installPackages = new Button(), cloneBuild = new Button(), convert = new Button();
     private readonly bool[] complete = new bool[5];
     private string gitExe, pythonExe;
     private string pythonArgsPrefix = "";
@@ -79,7 +79,10 @@ public sealed class PcBuildAssistantForm : Form
         var footer = new Panel { Dock = DockStyle.Bottom, Height = 76, Padding = new Padding(14, 12, 14, 12), BackColor = Color.WhiteSmoke };
         back.Text = "이전"; back.Size = new Size(150, 46); back.Dock = DockStyle.Left; back.Font = new Font(Font, FontStyle.Bold); back.Click += delegate { if (pages.SelectedIndex > 0) pages.SelectedIndex--; };
         next.Text = "다음"; next.Size = new Size(150, 46); next.Dock = DockStyle.Right; next.Font = new Font(Font, FontStyle.Bold);
-        next.Click += delegate { if (pages.SelectedIndex < 4 && complete[pages.SelectedIndex]) pages.SelectedIndex++; };
+        next.Click += delegate {
+            if (pages.SelectedIndex < 4 && complete[pages.SelectedIndex]) pages.SelectedIndex++;
+            else if (pages.SelectedIndex == 4 && complete[4] && !busy) OpenSettingsAndExit();
+        };
         footer.Controls.Add(back); footer.Controls.Add(next); Controls.Add(footer);
         pages.SendToBack(); header.BringToFront(); footer.BringToFront();
         UpdateNavigation();
@@ -149,7 +152,6 @@ public sealed class PcBuildAssistantForm : Form
         FlowLayoutPanel flow; var page = BasePage(4, "Android용 압축 텍스처를 Windows용 캐시로 변환하고 전체 결과를 검사합니다. 데이터 양에 따라 오래 걸립니다.", out flow);
         flow.Controls.Add(ProgressPanel(4));
         convert.Text = "텍스처 변환 및 최종 검증"; convert.Size = new Size(330, 48); convert.Font = new Font(Font, FontStyle.Bold); convert.Click += async delegate { await ConvertAndVerify(); }; flow.Controls.Add(convert);
-        settings.Text = "게임 폴더 열기 및 키 설정"; settings.Size = new Size(330, 48); settings.Font = new Font(Font, FontStyle.Bold); settings.Enabled = false; settings.Click += delegate { OpenSettingsAndExit(); }; flow.Controls.Add(settings);
         log.Multiline = true; log.ReadOnly = true; log.ScrollBars = ScrollBars.Both; log.WordWrap = false; log.Size = new Size(820, 270); flow.Controls.Add(log);
         return page;
     }
@@ -201,13 +203,19 @@ public sealed class PcBuildAssistantForm : Form
         if (index < 0 || index >= names.Length) return;
         pageTitle.Text = names[index]; pageNumber.Text = (index + 1) + " / 5";
         back.Enabled = index > 0 && !busy;
-        next.Visible = index < 4; next.Enabled = !busy && complete[index];
+        bool finishPage = index == 4;
+        next.Visible = true;
+        next.Text = finishPage ? "완료" : "다음";
+        next.Enabled = !busy && complete[index];
+        next.UseVisualStyleBackColor = false;
+        next.BackColor = finishPage ? (next.Enabled ? Color.FromArgb(31, 86, 132) : Color.Gainsboro) : SystemColors.Control;
+        next.ForeColor = finishPage ? (next.Enabled ? Color.White : Color.DimGray) : SystemColors.ControlText;
     }
 
     private void SetBusy(bool value)
     {
-        busy = value; UseWaitCursor = value; back.Enabled = !value && pages.SelectedIndex > 0;
-        next.Enabled = !value && complete[pages.SelectedIndex]; installPackages.Enabled = !value; cloneBuild.Enabled = !value; convert.Enabled = !value;
+        busy = value; UseWaitCursor = value; installPackages.Enabled = !value; cloneBuild.Enabled = !value; convert.Enabled = !value;
+        UpdateNavigation();
     }
 
     private void SetState(int index, bool ok, string text)
@@ -333,11 +341,22 @@ public sealed class PcBuildAssistantForm : Form
                 ProcessResult pull = await Run(gitExe, "-C " + Q(repo) + " pull --ff-only origin develop", repo, true);
                 if (pull.ExitCode != 0) throw new Exception("업데이트하지 못했습니다. 로컬 변경 사항을 보존했으므로 직접 확인하세요.");
             }
-            SetProgress(2, 35, "2/3 Unity 리소스 준비 및 PC 빌드 중", true);
-            string script = Path.Combine(repo, "Tools", "Build", "Build-Windows.ps1");
-            string args = "-NoProfile -ExecutionPolicy Bypass -File " + Q(script) + " -Unity " + Q(unityPath.Text);
-            ProcessResult build = await Run("powershell.exe", args, repo, true);
-            if (build.ExitCode != 0) throw new Exception("PC 빌드에 실패했습니다. Logs 폴더를 확인하세요.");
+            string buildSignature = await GetBuildInputSignature(repo);
+            if (BuildMatchesSignature(buildSignature))
+            {
+                SetProgress(2, 90, "2/3 기존 PC 빌드 검증 및 재사용", false);
+                AppendLog("게임 빌드 입력과 기존 결과물의 해시가 일치하여 Unity 빌드를 건너뜁니다.");
+            }
+            else
+            {
+                SetProgress(2, 35, "2/3 변경된 소스로 Unity PC 빌드 중", true);
+                string script = Path.Combine(repo, "Tools", "Build", "Build-Windows.ps1");
+                string args = "-NoProfile -ExecutionPolicy Bypass -File " + Q(script) + " -Unity " + Q(unityPath.Text);
+                ProcessResult build = await Run("powershell.exe", args, repo, true);
+                if (build.ExitCode != 0) throw new Exception("PC 빌드에 실패했습니다. Logs 폴더를 확인하세요.");
+                VerifyBuildFiles();
+                WriteBuildSignature(buildSignature);
+            }
             SetProgress(2, 95, "3/3 빌드 결과 파일 검사 중", false);
             VerifyBuildFiles(); SetState(2, true, "Git 클론, PC 빌드와 기본 파일 검증을 통과했습니다.");
             SetProgress(2, 100, "소스 준비, 빌드 및 검사 완료", false);
@@ -379,7 +398,7 @@ public sealed class PcBuildAssistantForm : Form
 
     private async Task ConvertAndVerify()
     {
-        SetBusy(true); settings.Enabled = false; ClearLog(); SetState(4, false, "Windows용 텍스처를 변환하고 있습니다. 창을 닫거나 절전 상태로 만들지 마세요.");
+        SetBusy(true); ClearLog(); SetState(4, false, "Windows용 텍스처를 변환하고 있습니다. 창을 닫거나 절전 상태로 만들지 마세요.");
         try
         {
             SetProgress(4, 0, "1/3 게임 데이터 검사 중", true);
@@ -390,11 +409,11 @@ public sealed class PcBuildAssistantForm : Form
             if (result.ExitCode != 0) throw new Exception("텍스처 변환 중 오류가 발생했습니다. 마지막 로그를 확인하세요.");
             SetProgress(4, 98, "3/3 변환 보고서와 결과 파일 검사 중", false);
             VerifyDataFiles(true);
-            SetState(4, true, "빌드, 데이터, 텍스처 변환 및 최종 검증을 통과했습니다."); settings.Enabled = true;
+            SetState(4, true, "빌드, 데이터, 텍스처 변환 및 최종 검증을 통과했습니다.");
             SetProgress(4, 100, "텍스처 변환 및 최종 검증 완료", false);
         }
         catch (Exception e) { SetProgressFailed(4, e.Message); SetState(4, false, e.Message); ShowError(e); }
-        finally { SetBusy(false); settings.Enabled = complete[4]; }
+        finally { SetBusy(false); }
     }
 
     private void ExtractMapped(string zipPath, string prefix, string destination)
@@ -509,9 +528,63 @@ public sealed class PcBuildAssistantForm : Form
     private static bool HashMatches(string path, string expected)
     {
         if (!File.Exists(path)) return false;
+        return FileSha256(path).Equals(expected, StringComparison.OrdinalIgnoreCase);
+    }
+
+    private async Task<string> GetBuildInputSignature(string repo)
+    {
+        const string inputs = "HEAD:Unity HEAD:Localization HEAD:Data HEAD:Tools/Build " +
+            "HEAD:Tools/Windows/PcSettingsForm.cs HEAD:Tools/Windows/Build-PcSettings.ps1";
+        ProcessResult result = await Run(gitExe, "-C " + Q(repo) + " rev-parse " + inputs, repo, false);
+        if (result.ExitCode != 0 || String.IsNullOrWhiteSpace(result.Output))
+            throw new Exception("PC 빌드 입력 버전을 확인하지 못했습니다.");
+        using (var sha = SHA256.Create())
+            return BitConverter.ToString(sha.ComputeHash(Encoding.UTF8.GetBytes(result.Output.Trim()))).Replace("-", "");
+    }
+
+    private string[] BuildSignatureFiles()
+    {
+        string game = GameRoot();
+        return new[] {
+            Path.Combine(game, "UMO_Kor.exe"),
+            Path.Combine(game, "UMO_PC_Settings.exe"),
+            Path.Combine(game, "UMO_Kor_Data", "Managed", "Assembly-CSharp.dll"),
+            Path.Combine(game, "UMO_Kor_Data", "resources.assets"),
+        };
+    }
+
+    private string BuildSignaturePath() { return Path.Combine(GameRoot(), ".umo-build-signature"); }
+
+    private bool BuildMatchesSignature(string expectedInput)
+    {
+        try
+        {
+            VerifyBuildFiles();
+            string stamp = BuildSignaturePath();
+            if (!File.Exists(stamp)) return false;
+            string[] lines = File.ReadAllLines(stamp);
+            string[] files = BuildSignatureFiles();
+            if (lines.Length != files.Length + 1 || lines[0] != "input=" + expectedInput) return false;
+            for (int i = 0; i < files.Length; i++)
+                if (lines[i + 1] != "file" + i + "=" + FileSha256(files[i])) return false;
+            return true;
+        }
+        catch { return false; }
+    }
+
+    private void WriteBuildSignature(string input)
+    {
+        string[] files = BuildSignatureFiles();
+        var lines = new List<string> { "input=" + input };
+        for (int i = 0; i < files.Length; i++) lines.Add("file" + i + "=" + FileSha256(files[i]));
+        File.WriteAllLines(BuildSignaturePath(), lines, Encoding.ASCII);
+    }
+
+    private static string FileSha256(string path)
+    {
         using (var sha = SHA256.Create())
         using (var input = File.OpenRead(path))
-            return BitConverter.ToString(sha.ComputeHash(input)).Replace("-", "").Equals(expected, StringComparison.OrdinalIgnoreCase);
+            return BitConverter.ToString(sha.ComputeHash(input)).Replace("-", "");
     }
 
     private static void ExtractWholeZipSafely(string zipPath, string destination)

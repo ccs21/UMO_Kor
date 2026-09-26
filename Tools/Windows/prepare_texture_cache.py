@@ -9,8 +9,66 @@ from pathlib import Path
 import UnityPy
 from inspect_bundle import decrypt_bundle
 
+CACHE_FORMAT = "unitypy-rgba32-lz4-v1"
 
-def prepare(path, data_root, master):
+
+def file_sha256(path):
+    digest = hashlib.sha256()
+    with path.open("rb") as source:
+        for block in iter(lambda: source.read(1024 * 1024), b""):
+            digest.update(block)
+    return digest.hexdigest()
+
+
+def write_cache(path, payload):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    temporary = path.with_suffix(path.suffix + ".tmp")
+    temporary.write_text(json.dumps(payload, ensure_ascii=False, sort_keys=True) + "\n", encoding="utf-8")
+    temporary.replace(path)
+
+
+def current_cache(cache_path, output, source, master_sha):
+    if not cache_path.exists():
+        return None
+    try:
+        cache = json.loads(cache_path.read_text(encoding="utf-8"))
+        if (cache.get("format") != CACHE_FORMAT or
+                cache.get("master_sha256") != master_sha):
+            return None
+        source_stat = source.stat()
+        if source_stat.st_size != cache.get("source_bytes"):
+            return None
+        refresh = False
+        if source_stat.st_mtime_ns != cache.get("source_mtime_ns"):
+            if file_sha256(source) != cache.get("source_sha256"):
+                return None
+            cache["source_mtime_ns"] = source_stat.st_mtime_ns
+            refresh = True
+        status = cache.get("result")
+        if status == "not-needed":
+            if output.exists():
+                return None
+            if refresh:
+                write_cache(cache_path, cache)
+            return "not-needed"
+        if status != "converted" or not output.is_file():
+            return None
+        output_stat = output.stat()
+        if output_stat.st_size != cache.get("output_bytes"):
+            return None
+        if output_stat.st_mtime_ns != cache.get("output_mtime_ns"):
+            if file_sha256(output) != cache.get("output_sha256"):
+                return None
+            cache["output_mtime_ns"] = output_stat.st_mtime_ns
+            refresh = True
+        if refresh:
+            write_cache(cache_path, cache)
+        return "converted"
+    except (OSError, ValueError, TypeError):
+        return None
+
+
+def prepare(path, data_root, master, master_sha=None, previous_status=None, previous_report_mtime_ns=0):
     relative = path.resolve().relative_to(data_root.resolve())
     if relative.parts[0] not in {"android", "dlc"}:
         raise ValueError("Only android and DLC bundle content is supported")
@@ -19,11 +77,62 @@ def prepare(path, data_root, master):
     with path.open("rb") as source:
         if source.read(4) == b"AFS2":
             return {"file": relative.as_posix(), "status": "audio-not-needed"}
-    original = decrypt_bundle(path, master)
-    digest = hashlib.sha256(original).hexdigest()
     output = data_root / "WindowsCache" / relative
-    stamp = output.with_suffix(output.suffix + ".sha256")
-    if output.exists() and stamp.exists() and stamp.read_text().strip() == digest:
+    cache_path = output.with_suffix(output.suffix + ".cache.json")
+    legacy_stamp = output.with_suffix(output.suffix + ".sha256")
+    if master_sha is None:
+        master_sha = file_sha256(master)
+    cached_result = current_cache(cache_path, output, path, master_sha)
+    if cached_result is not None:
+        return {"file": relative.as_posix(), "status": "cached"}
+    source_stat = path.stat()
+    source_sha = file_sha256(path)
+    master_mtime_ns = master.stat().st_mtime_ns
+    if (previous_status == "not-needed" and not output.exists() and
+            previous_report_mtime_ns >= max(source_stat.st_mtime_ns, master_mtime_ns)):
+        write_cache(cache_path, {
+            "format": CACHE_FORMAT,
+            "source_sha256": source_sha,
+            "source_bytes": source_stat.st_size,
+            "source_mtime_ns": source_stat.st_mtime_ns,
+            "master_sha256": master_sha,
+            "result": "not-needed",
+        })
+        return {"file": relative.as_posix(), "status": "cached"}
+    if output.exists() and legacy_stamp.exists():
+        legacy_digest = legacy_stamp.read_text().strip()
+        legacy_is_valid = re.fullmatch(r"[0-9a-fA-F]{64}", legacy_digest) is not None
+        legacy_is_current = legacy_stamp.stat().st_mtime_ns >= max(source_stat.st_mtime_ns, master_mtime_ns)
+        if legacy_is_valid and legacy_is_current:
+            output_stat = output.stat()
+            write_cache(cache_path, {
+                "format": CACHE_FORMAT,
+                "source_sha256": source_sha,
+                "source_bytes": source_stat.st_size,
+                "source_mtime_ns": source_stat.st_mtime_ns,
+                "master_sha256": master_sha,
+                "result": "converted",
+                "output_bytes": output_stat.st_size,
+                "output_mtime_ns": output_stat.st_mtime_ns,
+                "output_sha256": file_sha256(output),
+            })
+            legacy_stamp.unlink()
+            return {"file": relative.as_posix(), "status": "cached"}
+    original = decrypt_bundle(path, master)
+    legacy_digest = hashlib.sha256(original).hexdigest()
+    if output.exists() and legacy_stamp.exists() and legacy_stamp.read_text().strip() == legacy_digest:
+        write_cache(cache_path, {
+            "format": CACHE_FORMAT,
+            "source_sha256": source_sha,
+            "source_bytes": source_stat.st_size,
+            "source_mtime_ns": source_stat.st_mtime_ns,
+            "master_sha256": master_sha,
+            "result": "converted",
+            "output_bytes": output.stat().st_size,
+            "output_mtime_ns": output.stat().st_mtime_ns,
+            "output_sha256": file_sha256(output),
+        })
+        legacy_stamp.unlink()
         return {"file": relative.as_posix(), "status": "cached"}
     env = UnityPy.load(original)
     changed = {}
@@ -42,6 +151,18 @@ def prepare(path, data_root, master):
                     continue
             untouched[key] = hashlib.sha256(obj.get_raw_data()).hexdigest()
     if not changed:
+        if output.exists():
+            output.unlink()
+        if legacy_stamp.exists():
+            legacy_stamp.unlink()
+        write_cache(cache_path, {
+            "format": CACHE_FORMAT,
+            "source_sha256": source_sha,
+            "source_bytes": source_stat.st_size,
+            "source_mtime_ns": source_stat.st_mtime_ns,
+            "master_sha256": master_sha,
+            "result": "not-needed",
+        })
         return {"file": relative.as_posix(), "status": "not-needed"}
     rebuilt = env.file.save(packer="lz4")
     verified = UnityPy.load(rebuilt)
@@ -63,14 +184,27 @@ def prepare(path, data_root, master):
     temporary = output.with_suffix(output.suffix + ".tmp")
     temporary.write_bytes(rebuilt)
     temporary.replace(output)
-    stamp.write_text(digest + "\n", encoding="ascii")
+    output_stat = output.stat()
+    write_cache(cache_path, {
+        "format": CACHE_FORMAT,
+        "source_sha256": source_sha,
+        "source_bytes": source_stat.st_size,
+        "source_mtime_ns": source_stat.st_mtime_ns,
+        "master_sha256": master_sha,
+        "result": "converted",
+        "output_bytes": len(rebuilt),
+        "output_mtime_ns": output_stat.st_mtime_ns,
+        "output_sha256": hashlib.sha256(rebuilt).hexdigest(),
+    })
+    if legacy_stamp.exists():
+        legacy_stamp.unlink()
     return {"file": relative.as_posix(), "status": "converted", "textures": [x[0] for x in changed.values()], "bytes": len(rebuilt)}
 
 
 def prepare_job(job):
-    path, data_root, master = job
+    path, data_root, master, master_sha, previous_status, previous_report_mtime_ns = job
     try:
-        return prepare(path, data_root, master)
+        return prepare(path, data_root, master, master_sha, previous_status, previous_report_mtime_ns)
     except Exception as error:
         return {"file": str(path), "status": "error", "error": str(error)}
 
@@ -105,7 +239,26 @@ def main():
             paths.add(Path(match.group(1)).resolve())
     report = []
     failures = 0
-    jobs = [(path, args.data_root, args.master) for path in sorted(paths)]
+    output = args.data_root / "WindowsCache"
+    previous_statuses = {}
+    previous_report_mtime_ns = 0
+    previous_report = output / "last-report.json"
+    if previous_report.is_file():
+        try:
+            previous_rows = json.loads(previous_report.read_text(encoding="utf-8"))
+            if (isinstance(previous_rows, list) and
+                    all(isinstance(row, dict) and row.get("status") != "error" for row in previous_rows)):
+                previous_statuses = {row["file"]: row["status"] for row in previous_rows
+                                     if isinstance(row, dict) and "file" in row and "status" in row}
+                previous_report_mtime_ns = previous_report.stat().st_mtime_ns
+        except (OSError, ValueError, TypeError):
+            pass
+    master_sha = file_sha256(args.master)
+    jobs = []
+    for path in sorted(paths):
+        relative = path.resolve().relative_to(args.data_root.resolve()).as_posix()
+        jobs.append((path, args.data_root, args.master, master_sha,
+                     previous_statuses.get(relative), previous_report_mtime_ns))
     executor = ProcessPoolExecutor(max_workers=args.workers) if args.workers > 1 else None
     try:
         results = executor.map(prepare_job, jobs, chunksize=1) if executor else map(prepare_job, jobs)
@@ -116,7 +269,6 @@ def main():
     finally:
         if executor:
             executor.shutdown(wait=True)
-    output = args.data_root / "WindowsCache"
     output.mkdir(parents=True, exist_ok=True)
     (output / "last-report.json").write_text(json.dumps(report, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"Done: bundles={len(paths)} failures={failures}", flush=True)
