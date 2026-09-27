@@ -27,6 +27,18 @@ class RuntimeSettings : ScriptableObject
 					m_currentSettings = new RuntimeSettings();
 				
 				UMO_PlayerPrefs.CheckLoad();
+#if !UNITY_EDITOR
+				// beta.12's unopened language tab could save an empty (Japanese) value.
+				// Repair once; subsequent explicit selections, including Japanese, survive.
+				if (UMO_PlayerPrefs.GetInt("KoreanLanguageRepair13", 0) == 0)
+				{
+					string previousLanguage = UMO_PlayerPrefs.GetString("Language", "ko");
+					UMO_PlayerPrefs.SetString("LanguageBeforeRepair13", previousLanguage);
+					UMO_PlayerPrefs.SetString("Language", RepairLegacyLanguage(previousLanguage, false));
+					UMO_PlayerPrefs.SetInt("KoreanLanguageRepair13", 1);
+					UMO_PlayerPrefs.Save();
+				}
+#endif
 				m_currentSettings.CanSkipUnplayedSongs = UMO_PlayerPrefs.GetInt("CanSkipSongs", 1) == 1;
 				m_currentSettings.DisableMaxVopFastCompletionLimit = UMO_PlayerPrefs.GetInt("DisableMaxVopFastCompletionLimit", 0) == 1;
 				m_currentSettings.DisableHeadRotation = UMO_PlayerPrefs.GetInt("DisableHeadRotation", 0) == 1;
@@ -45,8 +57,7 @@ class RuntimeSettings : ScriptableObject
 				m_currentSettings.DumpStringUsed = UMO_PlayerPrefs.GetInt("DumpStringUsed", 0) == 1;
 				m_currentSettings.ShowStringUsed = UMO_PlayerPrefs.GetInt("ShowStringUsed", 0) == 1;
 				m_currentSettings.UseTmpLocalizationFiles = UMO_PlayerPrefs.GetInt("UseTmpLocalizationFiles", 0) == 1;
-				// Fresh installs of the Korean edition start in Korean. Existing users
-				// keep their explicit PlayerPrefs value, including an explicit Japanese selection.
+				// After the one-time beta.12 repair, preserve explicit language choices.
 				m_currentSettings.Language = UMO_PlayerPrefs.HasString("Language")
 					? UMO_PlayerPrefs.GetString("Language", "")
 					: "ko";
@@ -73,6 +84,11 @@ class RuntimeSettings : ScriptableObject
 			}
 			return m_currentSettings;
 		}
+	}
+
+	public static string RepairLegacyLanguage(string language, bool alreadyRepaired)
+	{
+		return !alreadyRepaired && (string.IsNullOrEmpty(language) || language == "jp") ? "ko" : language;
 	}
 
 	public void Save()

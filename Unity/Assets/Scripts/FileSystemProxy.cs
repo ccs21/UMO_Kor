@@ -82,6 +82,32 @@ static class FileSystemProxy
 			path = NOCCMAKNLLD.Replace(path, "");
 		}
 		path = path.Replace("[SERVER_DATA_PATH]", Application.persistentDataPath + "/data");
+		// PC loaders can already supply an executable-side Data path (often lowercased),
+		// while download checks use persistentDataPath. Resolve DLC for both forms.
+		if(RuntimeSettings.CurrentSettings != null)
+		{
+			string[] roots = { Application.persistentDataPath + "/data", RuntimeSettings.CurrentSettings.DataDirectory };
+			foreach(string root in roots)
+			{
+				if(string.IsNullOrEmpty(root)) continue;
+				string normalizedRoot = Path.GetFullPath(root).Replace('\\', '/').TrimEnd('/') + "/";
+#if UNITY_STANDALONE_WIN || UNITY_EDITOR_WIN
+				const StringComparison comparison = StringComparison.OrdinalIgnoreCase;
+#else
+				const StringComparison comparison = StringComparison.Ordinal;
+#endif
+				if(!path.StartsWith(normalizedRoot, comparison)) continue;
+				string relative = "/" + path.Substring(normalizedRoot.Length);
+				string dlcRelative;
+				if(dlcFileList.TryGetValue(relative, out dlcRelative))
+				{
+					string dataRoot = string.IsNullOrEmpty(RuntimeSettings.CurrentSettings.DataDirectory)
+						? Application.persistentDataPath + "/data" : RuntimeSettings.CurrentSettings.DataDirectory;
+					string candidate = Path.Combine(dataRoot, dlcRelative.TrimStart('/'));
+					if(File.Exists(candidate)) return candidate;
+				}
+			}
+		}
 		if (File.Exists(path))
 			return path;
 		if (RuntimeSettings.CurrentSettings == null)
@@ -127,7 +153,7 @@ static class FileSystemProxy
 
 	public static bool DlcFileExists(string localPath)
 	{
-		return dlcFileList.ContainsKey(localPath);
+		return dlcFileList.ContainsKey(localPath.Replace('\\', '/'));
 	}
 
 	public static void TryInstallFile(string path, Action<string> onDone)
@@ -559,8 +585,9 @@ static class FileSystemProxy
 
 	public static void AddDlcFile(string BasePath, string DlcPath)
 	{
-		dlcFileList.Remove(BasePath);
-		dlcFileList.Add(BasePath, DlcPath);
+		// Windows-generated files.json uses backslashes; game asset names use '/'.
+		// Normalize both sides so already-installed DLC never falls through to download.
+		dlcFileList[BasePath.Replace('\\', '/')] = DlcPath.Replace('\\', '/');
 	}
 
 	public static void ClearDlcFiles()

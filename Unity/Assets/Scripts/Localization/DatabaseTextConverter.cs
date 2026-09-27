@@ -941,6 +941,13 @@ public static class DatabaseTextConverter
 
     public static string TranslateStringLiterals(string k, string def)
     {
+#if !UNITY_EDITOR
+        // Editor serialization must not call Resources.Load from static string tables.
+        string earlyTranslation;
+        if(banks[(int)eBank.string_literals] == null &&
+            EmbeddedKoreanLocalization.TryTranslateEarlyLiteral(k, out earlyTranslation))
+            return earlyTranslation;
+#endif
         return Translate(eBank.string_literals, k, def);
     }
 
