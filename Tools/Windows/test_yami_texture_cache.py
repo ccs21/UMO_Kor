@@ -22,12 +22,20 @@ def main():
         assert first["status"] == "converted", first
         canonical = root / "WindowsCache/dlc/yamiQray_freyja" / relative
         assert canonical.is_file()
+        stamp = canonical.with_suffix(".xab.sha256")
+        assert stamp.is_file(), "Runtime cache validation stamp is required"
         before = canonical.read_bytes()
         enabled = root / "dlc/yamiQray_freyja"
         disabled.rename(enabled)
         second = prepare(enabled / relative, root, master)
         assert second["status"] == "cached", second
         assert canonical.read_bytes() == before
+        stamp.unlink()
+        repaired = prepare(enabled / relative, root, master)
+        assert repaired["status"] == "cached" and stamp.is_file()
+        bone = Path("bundles/dv/bs/001_080.xab")
+        assert prepare(enabled / bone, root, master)["status"] == "converted"
+        assert (root / "WindowsCache/dlc/yamiQray_freyja" / bone).is_file()
         print("YamiQray cache test passed: OFF conversion reused after ON toggle.")
 
 

@@ -9,6 +9,7 @@ public class BDFPCPHIJCN : LBHFILLFAGA
 	private WWW IEJJKNOEKLM; // 0x4C
 	private int LGADCGFMLLD_step; // 0x50
 	private AssetBundleCreateRequest NMNCMNNPNCI; // 0x54
+	private string resolvedBundlePath;
 
 #if UNITY_EDITOR || UNITY_STANDALONE
 	bool m_DownloadingFile = false;
@@ -33,6 +34,7 @@ public class BDFPCPHIJCN : LBHFILLFAGA
 			m_DownloadingFile = true;
 			FileSystemProxy.TryInstallFile(HHHEFALNMJO_mPath, (string newPath) =>
 			{
+				resolvedBundlePath = newPath;
 				IEJJKNOEKLM = new WWW("file://" + newPath);
 				m_DownloadingFile = false;
 			});
@@ -136,7 +138,7 @@ public class BDFPCPHIJCN : LBHFILLFAGA
 				// Decode the container and patch only the serialized header field.
 				try
 				{
-					byte[] cached = UMOStandaloneTextureCache.Read(HHHEFALNMJO_mPath, RuntimeSettings.CurrentSettings.DataDirectory, data);
+					byte[] cached = UMOStandaloneTextureCache.Read(resolvedBundlePath ?? HHHEFALNMJO_mPath, RuntimeSettings.CurrentSettings.DataDirectory, data);
 					if(!object.ReferenceEquals(cached, data))
 						Debug.Log("[UMO PC texture cache] " + HHHEFALNMJO_mPath);
 					data = cached;

@@ -86,12 +86,18 @@ def prepare(path, data_root, master, master_sha=None, previous_status=None, prev
     if master_sha is None:
         master_sha = file_sha256(master)
     cached_result = current_cache(cache_path, output, path, master_sha)
-    if cached_result is not None:
+    if cached_result == "converted":
+        # The game validates this decrypted-source stamp before using the cache.
+        # Incremental metadata supplements it; it must never replace/delete it.
+        if not legacy_stamp.exists():
+            legacy_stamp.write_text(hashlib.sha256(decrypt_bundle(path, master)).hexdigest(), encoding="ascii")
+        return {"file": relative.as_posix(), "status": "cached"}
+    if cached_result is not None and relative.parts[0] != "dlc":
         return {"file": relative.as_posix(), "status": "cached"}
     source_stat = path.stat()
     source_sha = file_sha256(path)
     master_mtime_ns = master.stat().st_mtime_ns
-    if (previous_status == "not-needed" and not output.exists() and
+    if (relative.parts[0] != "dlc" and previous_status == "not-needed" and not output.exists() and
             previous_report_mtime_ns >= max(source_stat.st_mtime_ns, master_mtime_ns)):
         write_cache(cache_path, {
             "format": CACHE_FORMAT,
@@ -119,7 +125,6 @@ def prepare(path, data_root, master, master_sha=None, previous_status=None, prev
                 "output_mtime_ns": output_stat.st_mtime_ns,
                 "output_sha256": file_sha256(output),
             })
-            legacy_stamp.unlink()
             return {"file": relative.as_posix(), "status": "cached"}
     original = decrypt_bundle(path, master)
     legacy_digest = hashlib.sha256(original).hexdigest()
@@ -135,7 +140,6 @@ def prepare(path, data_root, master, master_sha=None, previous_status=None, prev
             "output_mtime_ns": output.stat().st_mtime_ns,
             "output_sha256": file_sha256(output),
         })
-        legacy_stamp.unlink()
         return {"file": relative.as_posix(), "status": "cached"}
     env = UnityPy.load(original)
     changed = {}
@@ -153,7 +157,9 @@ def prepare(path, data_root, master, master_sha=None, previous_status=None, prev
                     texture.save()
                     continue
             untouched[key] = hashlib.sha256(obj.get_raw_data()).hexdigest()
-    if not changed:
+    # DLC bone/animation bundles can use LZMA even without mobile textures.
+    # Repack these too: the PC runtime converter accepts uncompressed/LZ4 blocks.
+    if not changed and relative.parts[0] != "dlc":
         if output.exists():
             output.unlink()
         if legacy_stamp.exists():
@@ -199,8 +205,7 @@ def prepare(path, data_root, master, master_sha=None, previous_status=None, prev
         "output_mtime_ns": output_stat.st_mtime_ns,
         "output_sha256": hashlib.sha256(rebuilt).hexdigest(),
     })
-    if legacy_stamp.exists():
-        legacy_stamp.unlink()
+    legacy_stamp.write_text(legacy_digest, encoding="ascii")
     return {"file": relative.as_posix(), "status": "converted", "textures": [x[0] for x in changed.values()], "bytes": len(rebuilt)}
 
 
